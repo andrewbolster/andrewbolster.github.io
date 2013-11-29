@@ -1,0 +1,24 @@
+---
+author: admin
+comments: true
+date: 2010-04-28 05:02:30+00:00
+layout: post
+slug: shared-items-28042010
+title: Shared Items - 28/04/2010
+wordpress_id: 397
+categories:
+- Link-Roll
+---
+
+  * [Ludum Dare #17 - Islands](http://thegrieve.co.uk/?p=88)
+  
+
+  * [Who judges your work?](http://feedproxy.google.com/~r/typepad/sethsmainblog/~3/35-zjrTDOuA/who-judges-your-work.html)
+  
+
+  * [Foreign Service Institute's Extensive Language Courses Are Available Free Online [Free]](http://feeds.gawker.com/~r/lifehacker/full/~3/3LV3RvF9IMU/foreign-service-institutes-extensive-language-courses-are-available-free-online)
+  
+
+  * [14 most sexy galleries and slideshows using javascript and CSS](http://www.webdeveloperjuice.com/2010/04/22/14-most-sexy-galleries-and-slideshows-usign-javascript-and-css/)
+  
+

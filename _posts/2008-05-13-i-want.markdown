@@ -1,0 +1,19 @@
+---
+author: admin
+comments: false
+date: 2008-05-13 14:33:00+00:00
+layout: post
+slug: i-want
+title: I want
+wordpress_id: 12
+categories:
+- Commentary
+tags:
+- hardware
+- TED
+---
+
+Jeff Han, a researcher at NYU,  surpassed himself again with the most [georgous multitouch display interface I've ever seen](http://www.ted.com/index.php/talks/view/id/65) (surface/iphone eat your heart out). I always love watching TED talks, and if anyone really wants to see a good reason why Powerpoint should be killed, I'd recomment Hans Roslings talk on global poverty [here](http://www.ted.com/index.php/speakers/view/id/90)
+
+
+Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!

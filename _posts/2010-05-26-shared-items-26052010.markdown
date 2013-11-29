@@ -1,0 +1,18 @@
+---
+author: admin
+comments: true
+date: 2010-05-26 05:02:55+00:00
+layout: post
+slug: shared-items-26052010
+title: Shared Items - 26/05/2010
+wordpress_id: 428
+categories:
+- Link-Roll
+---
+
+  * [IBM cheats on Cell with NVIDIA Tesla for servers](http://feeds.arstechnica.com/~r/arstechnica/index/~3/JjCbJ9PsBsI/ibm-cheats-on-cell-with-nvidia-tesla-for-servers.ars)
+  
+- I'm hoping to incorporate NVIDIA CUDA stuff into my final year project next year, so its good to see that I'm going in the right direction according to industry!
+  * [Why you should never present more than one mockup to a client](http://www.leemunroe.com/one-mockup/)
+  
+

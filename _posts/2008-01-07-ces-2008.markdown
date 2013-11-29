@@ -1,0 +1,62 @@
+---
+author: admin
+comments: false
+date: 2008-01-07 15:29:00+00:00
+layout: post
+slug: ces-2008
+title: CES 2008
+wordpress_id: 7
+categories:
+- Commentary
+tags:
+- google
+---
+
+Ok, its been a bit quiet in the old experimentalism, but im just taking in [Bill Gates' CES keynote](http://wm.istreamplanet.com/customers/ms/01062008_300.asx), and there are a few things i wanted to comment on.
+
+I HAVE NOT SEEN ANYTHING THAT IS NOT ALREADY EXISTING
+
+Calendars with multiple events and shared events : GCal
+
+Calendar integration with events: GCal + Facebook
+
+Video Search: Gootube
+
+Uploading Videos from cellphones: Depends on provider, but combination of twitter and a mobile email
+
+Multiple sign ins:  OpenID, or, if like me you are a google-phile, its already more or less done.
+
+Surface in stores: Bill, only you and a few select others have the "funds" to shop /buy a snowboard from a store that has a surface. Get realistic. Other than that, i think that the Surface is the most optimistic/interesting bit.
+
+Surface in vegas: people are only just inching into using computer based book reading, you think that cardhogs want to give that up? you dont fly to vegas to play virtual poker.
+
+Silverlight: "Everythings fine at the minute so we'll throw another different propriatory standard just to screw with them"
+
+Olympics:Ok, i concede, that is kinda cool... but i wait for the day that the olymics are free and open and fair to all, kinda like the games them self perhaps?
+
+Vista great operating system for gaming? :no comment.......
+
+XBox as media centre: Honestly, best thing to come out of microsoft in years, given the right interoperability (thank you DivX XviD compatability)
+
+Remote DVR: Slingbox?
+
+Zune Social: Ok, nice, but this could be done with a mashup of pandora, facebook/myspace, and any media player with statistics. Not many portable media players take statistics. Also, alot of that "closed loop of discovery" already exists in itunes.
+
+Ford Sync:*refuses to make another windows in car joke* empherical comment, when was the last microsoft product that wasnt released with serious security flaws? "Get that great easy experience" ignoring the bluetooth syncing, voice training, etc etc.
+
+Automatically calling 911: what happens if someone kicks the front of your car, setting off the airbag, and ur in the store?
+
+Mobile search with voice:  Voice recognition has been promised for over 10 years [say no more](http://www.youtube.com/watch?v=2Y_Jp6PxsSQ)
+
+Visual recognition: if this is genuine, this is the dogs bollix, I'd love to know whats running the recognition software and how far away this is. I notice the lovely cable on it which i assumme means that the device requires alot higher bandwidth than bluetooth or short range RF and more processing than can be squeezed into a lab box.
+
+Slash: Everyone loves slash, but shes cute.
+
+I'm all for connectivity and combining devices, but nobody (sane) uses devices from the same manufacturer. I use Windows for my desktop, yes. And Windows Mobile 5 on my pocket pc (altho thats a rant for another day), but i have a sony ericsson symbian phone, Linux based server, i use google for my mail, calendar, and rss feeds, Pidgin / Gaim for my IM, podget for my IPTV, VLC for my iptv also, Picasa for photo managment, winamp for music managment, Opera for web browsing, and so the list goes on.
+
+Is there no company or big name that is gonna stand up and say "We'll support our competitions product in some way", especially when the competition is OSS.
+
+End of Rant
+
+
+Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!

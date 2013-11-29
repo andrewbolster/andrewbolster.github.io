@@ -1,0 +1,51 @@
+---
+author: admin
+comments: true
+date: 2010-04-14 05:22:12+00:00
+layout: post
+slug: shared-items-14042010
+title: Shared Items - 14/04/2010
+wordpress_id: 357
+categories:
+- Link-Roll
+---
+
+  * [Ubuntu Server 9.04 Bacula Bweb GUI](http://www.howtoforge.com/ubuntu-server-9.04-bacula-bweb-gui)
+  
+
+  * [8 useful code snippets to get started with WordPress 3.0](http://www.catswhocode.com/blog/8-useful-code-snippets-to-get-started-with-wordpress-3-0)
+  
+
+  * [ToDoo Tracks Your To-Do List Triumphs and Failures [Downloads]](http://feeds.gawker.com/~r/lifehacker/full/~3/sy1c5GRMQ7U/todoo-tracks-your-to+do-list-triumphs-and-failures)
+  
+
+  * [Two Useful Google Chrome Extensions for SEO Guys](http://feedproxy.google.com/~r/Makeuseof/~3/pRk1ebWuC0U/)
+  
+
+  * [Intel To Ship 48-Core Test Sytems To Researchers](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/RVIT9_ouX_g/Intel-To-Ship-48-Core-Test-Sytems-To-Researchers)
+  
+
+  * [Savevideo.me Downloads Video From YouTube, Dailymotion, Metacafe, and More [Ripping]](http://feeds.gawker.com/~r/lifehacker/full/~3/LMZyxxbEh6s/savevideome-downloads-video-from-youtube-dailymotion-metacafe-and-more)
+  
+
+  * [Tagxedo Generates Stunning Custom Word Clouds [Text]](http://feeds.gawker.com/~r/lifehacker/full/~3/KLyLkInDiwU/tagxedo-generates-stunning-custom-word-clouds)
+  
+
+  * [What’s Brand?](http://designinformer.com/whats-brand/)
+  
+
+  * [Getting Started with Banner Advertisements](http://designinformer.com/getting-started-banner-advertisements/)
+  
+
+  * [How To Stop An Ethical Hacker Breaking Into Your WordPress Site](http://feedproxy.google.com/~r/Nometech/~3/0yl413yLpU0/)
+  
+
+  * [The Basics of Business Card Design](http://designinformer.com/basics-business-card-design/)
+  
+
+  * [The Levy flight](http://feedproxy.google.com/~r/typepad/sethsmainblog/~3/Vg8_2Lsc0Yw/the-levy-flight.html)
+  
+
+  * [Make QR Codes in a Jiffy with Goo.gl [Cameraphones]](http://feeds.gawker.com/~r/lifehacker/full/~3/ZA4KpSjV5TM/make-qr-codes-in-a-jiffy-with-googl)
+  
+

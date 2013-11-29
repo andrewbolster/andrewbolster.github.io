@@ -1,0 +1,27 @@
+---
+author: admin
+comments: true
+date: 2011-06-23 09:03:56+00:00
+layout: post
+slug: stuff-ive-found-interesting-in-the-past-month-23062011
+title: Stuff I've found interesting in the past month - 23/06/2011
+wordpress_id: 624
+categories:
+- Link-Roll
+---
+
+  * [Social Network of Idiots II : Foamy The Squirrel](http://www.youtube.com/watch?v=78JNVMujZVE&feature=autoshare)
+  
+__
+  * [Why Homosexuality Should Be Banned](http://www.youtube.com/watch?v=lSfFa44p96o&feature=autoshare)
+  
+__
+  * [River Shiver - Pomplamoose](http://www.youtube.com/watch?v=uHoXIQX7j1A&feature=autoshare)
+  
+__
+  * [Doctor Who: "Series 1-6" - Mega Marathon Trailer (HD)](http://www.youtube.com/watch?v=NQ3j7x_NCMw&feature=autoshare)
+  
+__
+  * [Bruno Mars - The Lazy Song [Official Alternate Version]](http://www.youtube.com/watch?v=dULOjT9GYdQ&feature=autoshare)
+  
+__

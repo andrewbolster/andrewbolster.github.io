@@ -1,0 +1,42 @@
+---
+author: admin
+comments: true
+date: 2010-02-03 06:12:28+00:00
+layout: post
+slug: shared-items-03022010-2
+title: Shared Items - 03/02/2010
+wordpress_id: 222
+categories:
+- Link-Roll
+---
+
+  * [10 ways to make Internet Explorer act like a modern browser](http://www.catswhocode.com/blog/10-ways-to-make-internet-explorer-act-like-a-modern-browser)
+  
+- Until IE comes into the fold, I guess these methods for Open Web Standard shiving will have to do.
+  * [Getting Freelance Work: The Hacker Technique](http://feedproxy.google.com/~r/FreelanceSwitch/~3/srVkNwkIeOc/)
+  
+- Definatly going to be doing this, even just to keep my Design chops up to scratch
+  * [Puzzle Websites to Sharpen Your Programming Skills](http://sixrevisions.com/resources/10-puzzle-websites-to-sharpen-your-programming-skills/)
+  
+- Great Collection of Sites that inevitably suck all the time out of my week!
+  * [Dual-Boot Windows 7 and Ubuntu in Perfect Harmony [Dual Boot]](http://feeds.gawker.com/~r/lifehacker/full/~3/jh-EAd8oN1o/dual+boot-windows-7-and-ubuntu-in-perfect-harmony)
+  
+- I was just about to settle into writing yet-another-dual-boot-guide, but since this one coveres the topic so well, I thought there was no point continuing!
+  * [inSSIDer: Open Source WiFi Network Scanner!](http://feedproxy.google.com/~r/PenTestIT/~3/T2H6shQ9nIY/)
+  
+- I've used this dozens of times over the past couple of weeks troubleshooting friends and clients wifi issues, and while its not nearly as specific as the Wifi Spy, it does the job of checking checking for co-channel interference and signal effects over time.
+  * [Prioritize Your Social Media Efforts](http://feedproxy.google.com/~r/chrisbrogandotcom/~3/9C8xHQE6pY4/)
+  
+- Great little article on how to effectively use social-media without getting bogged down.
+  * [10 Usability Crimes You Really Shouldn’t Commit](http://line25.com/articles/10-usability-crimes-you-really-shouldnt-commit)
+  
+- Went All the way through this list thinking "Yup, done that before".... All Web Designers should have this stapled to their eyelids!
+  * [5 Free Awesome Graphic Design Tutorial Sites You Should Check Out](http://feedproxy.google.com/~r/Makeuseof/~3/oGp1IOFmIJs/)
+  
+- Great for people who are new to the Graphic Design world (like me)
+  * [Strangers, Critics, Friends or Fans](http://feedproxy.google.com/~r/typepad/sethsmainblog/~3/AAy8EI9rw0A/strangers-critics-friends-or-fans.html)
+  
+- Great article by Seth Godin on differentiating your audience types
+  * [Download Free PowerPoint Advanced PowerPoint Slides to Jazz Up Your  Presentations [Powerpoint]](http://feeds.gawker.com/~r/lifehacker/full/~3/UcdS0_cieyM/download-free-powerpoint-advanced-powerpoint-slides-to-jazz-up-your-presentations)
+  
+- I've been creating most presentations in InDesign, Flash, or Acrobat recently, but these just might draw me back to the fluffy bosom of Redmond's Powerpoint
