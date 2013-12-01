@@ -9,7 +9,7 @@ categories:
 - Commentary
 ---
 
-![RMS](http://www.andrewbolster.info/wp-content/uploads/2012/09/rms-bw-300x216.jpeg)
+![RMS]({{ BASE_PATH}}/uploads/2012/09/rms-bw-300x216.jpeg)
 >Richard Matthew Stallman is a software developer and software freedom activist. Born in 1953, he attended Harvard starting in 1970 and graduated in 1974 with a Bachelor of Arts in physics. From September 1974 to June 1975 he was a graduate student in physics at MIT.
 
 _Disclaimer, I had very little to do with the organisation of this event, I'm just a PR guy in this case_

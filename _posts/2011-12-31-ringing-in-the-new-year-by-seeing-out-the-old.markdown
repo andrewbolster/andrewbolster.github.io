@@ -84,4 +84,4 @@ Going forward, I'm not going to make a load of promises I won't keep. Thanks to 
 
 I plan on only two things;  [KISS](http://en.wikipedia.org/wiki/KISS_principle), and...
 
-[![](http://www.andrewbolster.info/wp-content/uploads/2011/12/tumblr_lvbbgb3iQ41qm70hpo4_400-257x300.jpg)](http://www.andrewbolster.info/wp-content/uploads/2011/12/tumblr_lvbbgb3iQ41qm70hpo4_400.jpg)
+[![]({{ BASE_PATH}}/uploads/2011/12/tumblr_lvbbgb3iQ41qm70hpo4_400-257x300.jpg)]({{ BASE_PATH}}/uploads/2011/12/tumblr_lvbbgb3iQ41qm70hpo4_400.jpg)

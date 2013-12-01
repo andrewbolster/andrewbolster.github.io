@@ -19,7 +19,9 @@ The short answer is that a series of unexpected events mean that it makes sense 
 
 Recently, my PhD supervisor, [Prof Alan Marshall](http://uk.linkedin.com/pub/alan-marshall/5/7a/8a9), was offered a research Chairship at the [University of Liverpool](http://www.liv.ac.uk/electrical-engineering-electronics-and-computer-science/), which he gladly accepted. It's a great move for him (Another [Russell Group](http://en.wikipedia.org/wiki/Russell_Group), one of the original '[redbrick](http://en.wikipedia.org/wiki/Red_brick_university)' universities, etc etc), but that's his life not mine so all it does is provide an option. (Disclosure: I also work with Alan on his spinout Wireless Security company, TOM Ltd)
 
-Most PhD funding in Northern Ireland (at least in the technology/engineering/science sector) is funded through the [Department of Employment and Learning](http://www.qub.ac.uk/home/StudyatQueens/PostgraduateStudents/MoneyMatters/FundingforPostgraduateStudy/) block grant scheme, which in effect hands a large block of cash to the University which the University then spends on research across the university’s departments, meaning that it's the universities money, and if you want to move, well, sucks to be you. Mine isn't like that. [1. Actually it's even weirder; Under the DEL grant scheme, researchers have yearly budgets, and at the end of each year there is a spending spree to make sure that they spend right up to the penny the amount that's budgeted for, otherwise that leftover money goes back to the general fund and is "lost". In my case, I have funding for the entire project, so there is no end-of-year splurge and I can effectively "bank" the year on year underspends]
+Most PhD funding in Northern Ireland (at least in the technology/engineering/science sector) is funded through the [Department of Employment and Learning](http://www.qub.ac.uk/home/StudyatQueens/PostgraduateStudents/MoneyMatters/FundingforPostgraduateStudy/) block grant scheme, which in effect hands a large block of cash to the University which the University then spends on research across the university’s departments, meaning that it's the universities money, and if you want to move, well, sucks to be you. Mine isn't like that[^1]. 
+
+[^1]: Actually it's even weirder; Under the DEL grant scheme, researchers have yearly budgets, and at the end of each year there is a spending spree to make sure that they spend right up to the penny the amount that's budgeted for, otherwise that leftover money goes back to the general fund and is "lost". In my case, I have funding for the entire project, so there is no end-of-year splurge and I can effectively "bank" the year on year underspends
 
 It's funded through a [collaboration](https://www.dstl.gov.uk/ukfrancephdprogramme) between the UK's [DSTL](https://www.dstl.gov.uk/) and the [DGA](http://www.defense.gouv.fr/dga) in France, and is centred on Myself and Prof. Marshall. This means that while my small block of funding goes to the university, when I / Alan move, it can move with us with (hopefully) relative ease.
 
@@ -59,12 +61,7 @@ They say to never look a gift horse in the mouth, and when that gift horse is th
 
 Of course, it's not exclusively 'positive things pulling me away', there are also negative things about Belfast/Northern Ireland that have been pushing me away; this place has slowly been draining me.
 
-> 
-
-> 
 > Disclaimer: The following rant does not represent the opinion, attitude, or position of anyone other than myself, and is not a statement on behalf of QUB, ECIT, Farset Labs, or any other entity.
-> 
-> 
 
 The Northern Ireland Culture, be it in a Professional, Academic, Personal, or Political sense, has stood in the way of what I have been trying to do at QUB, Farset Labs, and beyond at almost every step. The simultaneous assumption of the general populace that everything is publically funded so it must be free/cheap, combined with what I can only describe as a cross between chronic bureaucracy and Helen Keller-levels of short-sightedness from the political, business, and academic communities respectively has made this past few years some of the most soul destroying of my life.
 
@@ -72,7 +69,9 @@ When it is easier to get funding to "_convene a consultative panel to meet to di
 
 With what currently stands as eleven thousand pounds of community funding (the vast majority of which was spent on just keeping the lights on, including the expense of a [spurious](http://farsetlabs.org.uk/blog/farset-labs-legal-encounter/) two thousand pound lawsuit...) Farset Labs has done more to develop the next generation of technical and entrepreneurial leaders per pound spent than any other organisation by several orders of magnitude. Of that I am exceedingly proud.
 
-That's not to say that bureaucracy is the exclusive quality of Northern Ireland; lots of places across the world are forced to deal with this, and some make a concerted effort to curtail it, or work ‘around’ it, or just ignore it (The French seem a perfect example of the latter). But Northern Ireland just doesn't seem to **care**. About anything. Unless it's a fleg. Or a "peace dividend"[3. A Stupid phrase... "I'll do you a deal, stop fighting and you'll be rich", that doesn't sound like progress to me].   Or someone getting on TV in the mainland...
+That's not to say that bureaucracy is the exclusive quality of Northern Ireland; lots of places across the world are forced to deal with this, and some make a concerted effort to curtail it, or work ‘around’ it, or just ignore it (The French seem a perfect example of the latter). But Northern Ireland just doesn't seem to **care**. About anything. Unless it's a fleg. Or a "peace dividend"[^2]
+
+[^2]:A Stupid phrase... "I'll do you a deal, stop fighting and you'll be rich", that doesn't sound like progress to me].   Or someone getting on TV in the mainland...
 
 Northern Ireland needs to get off the [teat](https://www.gov.uk/government/policies/rebalancing-the-northern-ireland-economy) that is the block grant and start practicing the 'innovation' that is talked about so often at [press conferences](http://www.nesta.org.uk/about_us/press_office/assets/features/innovation_key_to_northern_irelands_success_says_nesta) and [photo ops](http://arlenefosterholdingthings.tumblr.com/), but is conspicuously absent in the offices and boardrooms.
 
@@ -102,8 +101,11 @@ I fear that I've done all I can, _as I currently am_, for this place. We have th
 
 _Especially_ if projects fail; The act of trying something different and 'failing' will create an environment of experimentation, and development, that will put us all in a position for shake things up. But I really don't have the energy for that any more.
 
-Maybe I'll get more momentum if I come back. That, quasi-sexy, "Ohhhh, you've been somewhere else! What can I do for you?! Would you like a biscuit?"[2. As opposed to "oh, you worked hard in your community, developed a strong network, and maintained loyalty to your culture? Don't call us, we'll call you..."] can't be underestimated.
+Maybe I'll get more momentum if I come back. That, quasi-sexy, "Ohhhh, you've been somewhere else! What can I do for you?! Would you like a biscuit?"[^3] can't be underestimated.
+
+[^3]: As opposed to "oh, you worked hard in your community, developed a strong network, and maintained loyalty to your culture? Don't call us, we'll call you..."] 
 
 I intend to change the world. I intend to change this province. But first, I have to change myself.
 
 See you on the other side.
+

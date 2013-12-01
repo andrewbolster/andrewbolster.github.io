@@ -20,7 +20,7 @@ tags:
 - xelatex
 ---
 
-[![](http://www.andrewbolster.info/wp-content/uploads/2011/10/oem.png)](http://www.andrewbolster.info/2011/10/unicode-characters-in-mendeley-bibliography-breaking-latex/oem/)I use Mendeley for my reference and citation management.
+[![]({{ BASE_PATH}}/uploads/2011/10/oem.png)](http://www.andrewbolster.info/2011/10/unicode-characters-in-mendeley-bibliography-breaking-latex/oem/)I use Mendeley for my reference and citation management.
 
 I use TexClipse for (most) of my $latex \LaTeX$ editing, ViM otherwise.
 

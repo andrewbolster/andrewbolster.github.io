@@ -20,7 +20,7 @@ tags:
 - Wireless
 ---
 
-[caption id="attachment_515" align="alignleft" width="212" caption="Proposed Hack Aid poster designed by David Kane"][![Proposed Hack Aid poster](http://www.andrewbolster.info/wp-content/uploads/2010/09/Hack-Aid-212x300.jpg)](http://www.andrewbolster.info/2010/09/news-from-the-belfast-hackerspace/hack-aid/)[/caption]
+[caption id="attachment_515" align="alignleft" width="212" caption="Proposed Hack Aid poster designed by David Kane"][![Proposed Hack Aid poster]({{ BASE_PATH}}/uploads/2010/09/Hack-Aid-212x300.jpg)](http://www.andrewbolster.info/2010/09/news-from-the-belfast-hackerspace/hack-aid/)[/caption]
 
 So we're only a [few weeks into developing this idea](http://www.andrewbolster.info/2010/07/belfast_hackerspac/), and first I'm going to give some credit where credit's due; the people that I'm working with this have been brilliant, I want to give special thanks (in no particular order) to [Ryan Grieve](http://www.thegrieve.co.uk) (@thegrieve), David Kane, Ben Harrison, Martin Gilchrist (@Gilchrist_LLP), Jonny Milliken, Dan Reid, and Chris Murray (@kris18890).
 

@@ -9,7 +9,7 @@ categories:
 - Instructional
 ---
 
-[![](http://www.andrewbolster.info/wp-content/uploads/2012/04/avses-tosip-300x238.png)](http://www.andrewbolster.info/wp-content/uploads/2012/04/avses-tosip.png)PCap files are a pain; weird format, difficult to parse viserally even if you have the 'right' tools handy. Wouldn't it be easier to be able to 'see' the network flow, like it is in all the textbooks?
+[![]({{ BASE_PATH}}/uploads/2012/04/avses-tosip-300x238.png)]({{ BASE_PATH}}/uploads/2012/04/avses-tosip.png)PCap files are a pain; weird format, difficult to parse viserally even if you have the 'right' tools handy. Wouldn't it be easier to be able to 'see' the network flow, like it is in all the textbooks?
 
 # Well now you can!
 

@@ -15,7 +15,7 @@ tags:
 - Ubuntu
 ---
 
-[![Citrix Reciever Logo](http://www.andrewbolster.info/wp-content/uploads/2010/07/CRlogo.jpg)](http://www.andrewbolster.info/wp-content/uploads/2010/07/CRlogo.jpg)Ubuntu is one of those polarising technologies; Its really easy to use on a recreational basis, or as part of a institution/business wide rollout, but heartbreakingly awkward to use 'alone' within an entrenched business setting.
+[![Citrix Reciever Logo]({{ BASE_PATH}}/uploads/2010/07/CRlogo.jpg)]({{ BASE_PATH}}/uploads/2010/07/CRlogo.jpg)Ubuntu is one of those polarising technologies; Its really easy to use on a recreational basis, or as part of a institution/business wide rollout, but heartbreakingly awkward to use 'alone' within an entrenched business setting.
 
 One such setting is that of Queen's University; the only form of secure remote access that is made (quietly) availiable is through a [Citrix XenApp gateway](https://offcampus.qub.ac.uk/). Great in theory; everyone can take a slice of a virtualized desktop, do whatever they need to do, and that processing power and memory can be easially reappropriated when they're done. Unfortunately, in an effort to be 'secure', you HAVE to use Windows, and you HAVE to have Internet Explorer installed, and you HAVE to install the propitiatory XenApp client.
 

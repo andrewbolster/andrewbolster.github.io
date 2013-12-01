@@ -76,10 +76,10 @@ localhost:9050
 , Although depending on your system configuration, [this could be a bad idea](https://wiki.torproject.org/noreply/TheOnionRouter/TorFAQ#SOCKSAndDNS) if you're really paranoid.
 
 3) [Test it.](https://check.torproject.org/) Heres how it looks when Tor is not configured properly.
-[![Tor Failure](http://www.andrewbolster.info/wp-content/uploads/2010/04/tor_fail-300x225.png)](http://www.andrewbolster.info/wp-content/uploads/2010/04/tor_fail.png)
+[![Tor Failure]({{ BASE_PATH}}/uploads/2010/04/tor_fail-300x225.png)]({{ BASE_PATH}}/uploads/2010/04/tor_fail.png)
 
 And heres how it is when it works!
 
-[![Tor Success](http://www.andrewbolster.info/wp-content/uploads/2010/04/tor_win-300x225.png)](http://www.andrewbolster.info/wp-content/uploads/2010/04/tor_win.png)
+[![Tor Success]({{ BASE_PATH}}/uploads/2010/04/tor_win-300x225.png)]({{ BASE_PATH}}/uploads/2010/04/tor_win.png)
 
 There are a million and one ways of organising Tor, but Google and find the solution that works for you. For Firefox I recommend [FoxyProxy](http://foxyproxy.mozdev.org/), and [Proxy Switchy](https://chrome.google.com/extensions/detail/caehdcpeofiiigpdhbabniblemipncjj?hl=en-gb) for Chrome

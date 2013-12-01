@@ -86,26 +86,13 @@ Why on earth don't they just listen to the study they've already got and "Focus 
 
 The report goes on to discuss the prioritised areas for funding and support;
 
-	
-  * Transport
-
-	
-  * Advanced Materials
-
-	
-  * Agri-food
-
-	
-  * Life and Health Sciences
-
-	
-  * ICT (vaguest... abbreviation... ever)
-
-	
-  * Telecommunications
-
-	
-  * Sustainable Energy
+*    Transport
+*    Advanced Materials
+*    Agri-food
+*    Life and Health Sciences
+*    ICT (vaguest... abbreviation... ever)
+*    Telecommunications
+*    Sustainable Energy
 
 I felt this was a fairly comprehensive list of areas of existing success within Northern Ireland but it appeared to miss one major existing area of "innovation", and another where I believe there's great scope to commercialise our existing infrastructure. These are "The Creative Industries" and hosting/data centres.
 
@@ -159,7 +146,7 @@ There's another recognition of the 'limited growth in annual student numbers" in
 
 I really want this to mean that government through various channels, are going to work towards the more effective goal of tacking what is widely considered the single biggest problem that Northern Ireland has with "innovation", being "risk aversion", and boiling this in to the education system will undoubtedly have long term benefits for everyone involved, even if it does increase the rate of occasional pain points. Maybe something like this should be printed off as a poster for every classroom in the province. That'd be something.
 
-[![Failure-as-a-path-to-success](http://www.andrewbolster.info/wp-content/uploads/2013/11/Failure-as-a-path-to-success-300x296.jpg)](http://www.andrewbolster.info/wp-content/uploads/2013/11/Failure-as-a-path-to-success.jpg)
+[![Failure-as-a-path-to-success]({{ BASE_PATH}}/uploads/2013/11/Failure-as-a-path-to-success-300x296.jpg)]({{ BASE_PATH}}/uploads/2013/11/Failure-as-a-path-to-success.jpg)
 
 ## Conclusion
 

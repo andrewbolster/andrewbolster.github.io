@@ -44,7 +44,7 @@ Andrew Bolster
 
 Still waiting on even an automated reply so when I got back this evening, I cracked it open and lo' and behold.
 
-[caption id="attachment_168" align="alignright" width="300" caption="Kind enough to tape them down too..."]![Kind enough to tape them down too...](http://www.andrewbolster.info/wp-content/uploads/2009/11/SL730674-300x225.jpg)[/caption]
+[caption id="attachment_168" align="alignright" width="300" caption="Kind enough to tape them down too..."]![Kind enough to tape them down too...]({{ BASE_PATH}}/uploads/2009/11/SL730674-300x225.jpg)[/caption]
 
 So, the fix was simple, there are three connection points on the Intel Wireless Card (4965AG), TR1 R0 and TR2, and only 2 connections (Gray and Black). In case anyone else comes across something like this i put the gray in TR1 and black in R0, although I assume that as long as one of the TR's and one of the R0's is connected you should be grand.
 

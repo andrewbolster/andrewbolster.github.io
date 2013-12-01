@@ -22,7 +22,7 @@ tags:
 - uvf
 ---
 
-[![Easter Rising-era Propaganda Postcard](http://www.andrewbolster.info/wp-content/uploads/2011/08/gal03-181x300.jpg)](http://www.bbc.co.uk/history/british/easterrising/gallery/gallery03.shtml)Northern Ireland, its history, and its current situation, are a guaranteed topic of conversation to any self-identifying Northern Irishman, especially one travelling around Europe. As I am neither a historian, a bigot, or particularly political, I don't know a whole pile of detail, so my explanations become rambling personal perspectives which I generally suspect make things less-clear; otherwise I dumb it down so much that the point is kinda mixed, usually ending something like 'its weird; its British, but we get to be Irish too, except without being quite so broke'. 
+[![Easter Rising-era Propaganda Postcard]({{ BASE_PATH}}/uploads/2011/08/gal03-181x300.jpg)](http://www.bbc.co.uk/history/british/easterrising/gallery/gallery03.shtml)Northern Ireland, its history, and its current situation, are a guaranteed topic of conversation to any self-identifying Northern Irishman, especially one travelling around Europe. As I am neither a historian, a bigot, or particularly political, I don't know a whole pile of detail, so my explanations become rambling personal perspectives which I generally suspect make things less-clear; otherwise I dumb it down so much that the point is kinda mixed, usually ending something like 'its weird; its British, but we get to be Irish too, except without being quite so broke'. 
 
 On the[ site where I do most of my work](http://www.reddit.com), I came across an interesting [thread](http://www.reddit.com/r/explainlikeimfive/comments/j81fo/li5_the_iranorth_ireland/) that explains it better than I ever could.
 

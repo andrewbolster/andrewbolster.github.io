@@ -15,7 +15,7 @@ tags:
 - twitter
 ---
 
-[caption id="attachment_768" align="alignright" width="231" caption="Big Red Button, Does what it says on the tin"][![](http://www.andrewbolster.info/wp-content/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)](http://www.andrewbolster.info/wp-content/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)[/caption]
+[caption id="attachment_768" align="alignright" width="231" caption="Big Red Button, Does what it says on the tin"][![]({{ BASE_PATH}}/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)]({{ BASE_PATH}}/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)[/caption]
 
 After a long time in the oven, [Farset Labs is up and running](http://farsetlabs.org.uk/blog/2012/03/launch-day-hackathon/). Unforanately we don't have any of the crazy equipment yet, since we're broke.
 

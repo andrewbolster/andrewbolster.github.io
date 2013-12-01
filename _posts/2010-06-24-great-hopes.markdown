@@ -15,7 +15,7 @@ tags:
 - social
 ---
 
-![TheNextHope](http://www.andrewbolster.info/wp-content/uploads/2010/06/tnh_temp_logo1.png)
+![TheNextHope]({{ BASE_PATH}}/uploads/2010/06/tnh_temp_logo1.png)
 
 This is it; my first convention! Yes folks, I'm going to be attending (and [volunteering](http://thenexthope.org/category/volunteers/)) at [TheNextHOPE](http://thenexthope.org/) (@thenexthope), 16-18 July.
 

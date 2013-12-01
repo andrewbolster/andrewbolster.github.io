@@ -17,7 +17,7 @@ tags:
 - valve
 ---
 
-[caption id="attachment_826" align="alignleft" width="590"][![](http://www.andrewbolster.info/wp-content/uploads/2012/07/trolln.jpg)](http://www.andrewbolster.info/wp-content/uploads/2012/07/trolln.jpg) I am a pirate.[/caption]
+[caption id="attachment_826" align="alignleft" width="590"][![]({{ BASE_PATH}}/uploads/2012/07/trolln.jpg)]({{ BASE_PATH}}/uploads/2012/07/trolln.jpg) I am a pirate.[/caption]
 
 I voyage across the root-zones  in search for content. Movies available months before local DVD release in a format that my media centre laps up (mostly), I watch once, and don't take up shelf space for years; TV shows via RSS that I watch at my leisure; and, on the rare occasion that I want to 'Game' and not feel like an [idiot](http://i.qkme.me/35ahzb.jpg), I torrent.
 
@@ -25,7 +25,7 @@ Today was such a day; I'd had my old memories of Deus Ex (Otherwise known as '[T
 
 # But Wait! You're a Linux Fiend?!
 
-[caption id="attachment_824" align="alignright" width="280"][![](http://www.andrewbolster.info/wp-content/uploads/2012/07/485141.jpg)](http://www.andrewbolster.info/wp-content/uploads/2012/07/485141.jpg) Yes Gabe, yes we do.[/caption]
+[caption id="attachment_824" align="alignright" width="280"][![]({{ BASE_PATH}}/uploads/2012/07/485141.jpg)]({{ BASE_PATH}}/uploads/2012/07/485141.jpg) Yes Gabe, yes we do.[/caption]
 
 Now, the 'fly' in the ointment; I am a [Ubuntu](http://www.andrewbolster.info/tag/ubuntu/) guy. As such, any time you want to install something 'demanding', you do a quick google to find out if it'll work at all. Came across this [article](http://cybolic.wordpress.com/2012/01/07/howto-deus-ex-human-revolution-in-ubuntulinux/), and specifically, this phrase.
 
@@ -39,7 +39,7 @@ I already bought [CodeWeavers](http://www.codeweavers.com/) for MS Office Suppor
 
 # Steaming forth
 
-[caption id="attachment_825" align="alignright" width="300"][![](http://www.andrewbolster.info/wp-content/uploads/2012/07/steaming-2-300x225.jpg)](http://www.andrewbolster.info/wp-content/uploads/2012/07/steaming-2.jpg) Three guesses what I image-searched for: answers on a self-addressed email to really@andrewbolster.info[/caption]
+[caption id="attachment_825" align="alignright" width="300"][![]({{ BASE_PATH}}/uploads/2012/07/steaming-2-300x225.jpg)]({{ BASE_PATH}}/uploads/2012/07/steaming-2.jpg) Three guesses what I image-searched for: answers on a self-addressed email to really@andrewbolster.info[/caption]
 
 FYI, There's a standing SHA1 issue with 64-bit Wine installs and a standing issue with the p11-kit crypto on 64bit systems. This is fixed (post Steam install) using the `steam --no-isolate` option.
 
