@@ -5,7 +5,6 @@ date: 2007-12-16 23:34:00+00:00
 layout: post
 slug: introduction
 title: Introduction
-wordpress_id: 16
 tags:
 - 64-bit
 - hardware
@@ -30,5 +29,3 @@ One thing I plan on documenting soon is the progression to WinXP64bit, testing i
 Also I'll be documenting some of my work at Queens University Belfast, where I study Electronics & Software Engineering, aswell as posting some things i think are interesting.
 
 Of Course, this is all dependant on my updating this blog........
-
-Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!

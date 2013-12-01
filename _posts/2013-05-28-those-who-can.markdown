@@ -5,7 +5,6 @@ date: 2013-05-28 12:08:23+00:00
 layout: post
 slug: those-who-can
 title: Those who can...
-wordpress_id: 985
 categories:
 - Commentary
 ---
@@ -14,12 +13,10 @@ I was digesting "[The Design of Design](http://www.amazon.co.uk/Design-Essays-Co
 
 Reflecting on this, along with the narrative of DoD, I rested on a platitude that I'd used on many many occasions, mostly as a spear to lob haphazardly at teachers and educators for being 'lesser'.
 
-
 > He who can, does;
 He who cannot, teaches.
 
 _[George Bernard Shaw](http://www.phrases.org.uk/meanings/176500.html)_ - Man and Superman, 1903
-
 
 On reflection this just doesn't cover it.
 
@@ -30,7 +27,6 @@ I've recently been playing with the concepts of [Unit Testing](https://en.wikipe
         self.do();
     else:
         self.teach()
-
 
 Read that again; we are logically requiring teaching to be done by the incapable. From a systems design perspective, it looks like the Shaw missed something (deciding whether he was being sarcastic, cynical, or just pessimistic is a game for better literary minds than me);
 
@@ -50,7 +46,6 @@ If I was to now re-architect that platitude for the greatest technical, social, 
             except Failure as experience:
                 self.reflect(experience)
                 continue
-
 
 This also combines another of the traits exposed not just in DoD but in Paul Graham's "[Hackers and Painters](http://www.amazon.co.uk/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/ref=la_B001ILHE5O_1_2?ie=UTF8&qid=1369736411&sr=1-2)" that I've also been digesting recently; Failure is fine, it is the reflection on failure and the recovery from failure to try again is more important.
 

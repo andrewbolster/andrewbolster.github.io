@@ -5,7 +5,6 @@ date: 2009-02-15 20:05:33+00:00
 layout: post
 slug: hacking-weekend
 title: Hacking Weekend
-wordpress_id: 31
 categories:
 - Commentary
 - Instructional
@@ -28,6 +27,5 @@ Also, if you cant be assed with the whole Backtrack thing. the whole thing can b
 
     
     svn co http://trac.aircrack-ng.org/svn/trunk/ aircrack-ng
-
 
 Its been a long day.

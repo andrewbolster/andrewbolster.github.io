@@ -5,7 +5,6 @@ date: 2009-11-25 14:06:32+00:00
 layout: post
 slug: peter-mandelson-tv-producer-spin-doctor-politician-tosser
 title: Peter Mandelson... TV Producer, Spin-doctor, Politician, Tosser
-wordpress_id: 173
 categories:
 - Commentary
 tags:
@@ -35,8 +34,6 @@ And to finish the whole shambels off, a nice little ditty on compulsory age rati
 
 To quote [Cory Doctorow](http://www.boingboing.net/2009/11/20/britains-new-interne.html)
 
-
 > why is it acceptable for the government to declare that some forms of artwork have to be mandatorily labelled as to their suitability for kids? And why is it only some media? Why not paintings? Why not novels? Why not modern dance or ballet or opera?
-
 
 Stop the world, I want to get off.

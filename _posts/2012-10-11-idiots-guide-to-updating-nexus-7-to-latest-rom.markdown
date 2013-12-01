@@ -5,7 +5,6 @@ date: 2012-10-11 16:24:11+00:00
 layout: post
 slug: idiots-guide-to-updating-nexus-7-to-latest-rom
 title: Idiots Guide to Updating Nexus 7 to Latest ROM
-wordpress_id: 842
 categories:
 - Instructional
 tags:
@@ -29,9 +28,7 @@ Basically, Android was bailing on a particular part of the TTLS Authentication s
 
 First off, I'm frankly amazed at how easy was. Never touched a command line. Only one blip that was due to me not reading instructions. And all in all, the only thing I've lost is my widget positions...
 
-
 # Backup + Unlock Boot Loader + Root
-
 
 These normally 'pain in the ass' sections are all thrown together in this case, because WugFresh has made this quite literally idiot proof.
 
@@ -41,9 +38,7 @@ These normally 'pain in the ass' sections are all thrown together in this case, 
 
 PS Tick the 'custom bootloader' option for the rooting section. Some guides say that you have to use the Clockwork Mod recovery, but this isn't true; the one bundled with the Nexus Root Toolkit is more than sufficient.
 
-
 # Flash
-
 
 Once that's all done (you did back up didn't you?), you'll have a brainless device with the stock rom rooted asking for some information. Chuck it in if you like but it's not really necessary as you're going to wipe it again in a second.
 
@@ -55,12 +50,8 @@ Then drop into the install menu, select the Zip that you downloaded from Grouper
 
 It'll take a few minutes first time, and will ask the usual mess of questions, but that's fine, becausenow you can use your enterprise network to connect!
 
-
-
 At which point, you can go back to the Nexus Root Toolkit and follow the instructions to restore your existing settings and apps, to save your precious Angry Birds score.
 
-
 # Fin
-
 
 That's all she wrote folks, I'll try to update this as it inevitably gets 'out of date'

@@ -5,7 +5,6 @@ date: 2009-12-31 21:38:17+00:00
 layout: post
 slug: new-years-resolutions
 title: New Years Resolutions
-wordpress_id: 181
 categories:
 - Commentary
 tags:
@@ -15,7 +14,6 @@ tags:
 - programming
 - software
 ---
-
 
 	
   * Post *something* at least once a day on either blog or [web-album](http://picasaweb.google.com/andrew.bolster/1ayr?feat=directlink)
@@ -40,6 +38,5 @@ tags:
 
 	
   * [Set a timetable and stick to it](http://calnewport.com/blog/2008/02/15/fixed-schedule-productivity-how-i-accomplish-a-large-amount-of-work-in-a-small-number-of-work-hours/)
-
 
 Well, its a plan at least.

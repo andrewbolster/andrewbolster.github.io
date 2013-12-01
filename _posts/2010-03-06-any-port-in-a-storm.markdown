@@ -5,7 +5,6 @@ date: 2010-03-06 12:19:10+00:00
 layout: post
 slug: any-port-in-a-storm
 title: Any Port in a Storm
-wordpress_id: 253
 categories:
 - Instructional
 tags:
@@ -20,7 +19,7 @@ While working on an IDS Solution for a client, I came across [Untangle](http://w
 
 One thing that is lacking, from my perspective (at least in the 'free' edition) is the firewall interface; Untangle uses an IpTables based firewall, but doesn't replicate the usual INPUT FOWARD OUTPUT rulebase. I think that in 90% of usecases for Untangle, this isnt a problem, but I found it a little bit alien to have portfowarding hidden in the Networking config pane, and firewall separatly.
 
-<!-- more -->Anyway, It's been a few years since I cared that much about firewalls, and came up against a few issues of simply not remembering what ports to open up in which direction; Untangle's firewall ships with a default-pass configuration, which is fairly pointless from a security stance.
+Anyway, It's been a few years since I cared that much about firewalls, and came up against a few issues of simply not remembering what ports to open up in which direction; Untangle's firewall ships with a default-pass configuration, which is fairly pointless from a security stance.
 
 To make matters more confusing, I set up Untangle in a transparent configuration so that I wouldnt have to reconfigure my office IP addresses to a new subnet, and so avoid dealing with the portforwarding twice (external router, and internal firewall).
 
@@ -56,4 +55,4 @@ IMAP4 over SSL (IMAPS) - port 993
 
 Secure POP3 (SSL-POP) - port 995
 
-So each of those rules are, "Allow Internal > External:<ports>", going the other way is a bad idea!!!
+So each of those rules are, "Allow Internal > External:$ports", going the other way is a bad idea!!!

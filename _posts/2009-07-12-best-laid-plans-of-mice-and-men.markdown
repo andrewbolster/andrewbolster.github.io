@@ -5,7 +5,6 @@ date: 2009-07-12 10:53:35+00:00
 layout: post
 slug: best-laid-plans-of-mice-and-men
 title: Best Laid Plans of Mice and Men
-wordpress_id: 147
 categories:
 - Instructional
 tags:
@@ -38,8 +37,6 @@ This is the plan of things i want to set up, and I will be updating this page wi
 
 In no particular order
 
-
-
 	
   1. Shared media storage area for the whole house (probably using my MyBook) that will work with games consoles aswell as laptops/desktops internally and externally.
 
@@ -66,6 +63,5 @@ In no particular order
 
 	
   9. Remote webcam (may turn this into a robotics/machine learning/machine vision project with the old eeepc and have a kinda roomba on steroids)
-
 
 Its a big list and i dont expect to finish half of them, but what gets done will be documented here!

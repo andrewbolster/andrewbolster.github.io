@@ -5,7 +5,6 @@ date: 2010-03-10 09:49:40+00:00
 layout: post
 slug: so-what-can-you-do-with-32-million-passwords
 title: So what can you do with 32 Million Passwords...
-wordpress_id: 256
 categories:
 - Uni
 tags:
@@ -18,16 +17,13 @@ tags:
 
 So I have a piece of coursework for a [CS module](http://www.qub.ac.uk/schools/eeecs/Education/Undergraduates/ModuleSummaries/ModuleInformation/?CrsCode=CSC3048) I'm taking at [Queen's University Belfast](http://www.qub.ac.uk/schools/eeecs/) and one of the focal points of it is the recent [RockYou! SQL-injection breach](http://techcrunch.com/2009/12/14/rockyou-hack-security-myspace-facebook-passwords/) that released 32million passwords into the internet, and I thought I'd have a closer look at that list.
 
-<!-- more -->I 'acquired' the password list from your regular neighbourhood tracker, and thought I could walk through the process of getting a probability-sorted password dictionary.
+I 'acquired' the password list from your regular neighbourhood tracker, and thought I could walk through the process of getting a probability-sorted password dictionary.
 
 (The '-S 2048K' memory restriction on the 'sort' program is to avoid Dreamhost locking out my process for being over-memory)
 
-
 > tar -xvzf UserAccount-passwords.tgz
 
-
 Having a look at the head of the resultant 'UserAccount-passwords.txt' file shows:
-
 
 > 
 
@@ -84,21 +80,15 @@ Having a look at the head of the resultant 'UserAccount-passwords.txt' file show
 > 
 > purblanca
 
-
 32million entries in arbitrary order arn't really that useful, so I sorted them alphabetically first (-d)
-
 
 > sort -d -S 2048K UserAccount-passwords.txt -o UserAccount-passwords.sorted.txt
 
-
 And getting a head again gave a whole pile of blank lines, so to get rid of them use [this handy sed expression](http://www.cyberciti.biz/faq/howto-linux-unix-command-remove-all-blank-lines/)
-
 
 > $ sed '/^$/d' UserAccount-passwords.sorted.txt > UserAccount-passwords.sorted.unblanked.txt
 
-
 So our first ten passwords are now:
-
 
 > $ head UserAccount-passwords.sorted.unblanked.txt
 
@@ -122,19 +112,11 @@ So our first ten passwords are now:
 
 !!!!!
 
-
-
-
 Loooots of duplicates, so we'll get rid of them
-
-
-
 
 > uniq -cd UserAccount-passwords.sorted.unblanked.txt UserAccount-passwords.uniq.txt
 
-
 The -d flag means that we only want to know about entries that appear at least twice, and  the -c means we only want one line for each password and a count for how often it appears (This reduced the number of lines in the list from 32,603,048 non-blank entries to 2,459,759), giving a first ten of:
-
 
 > $head UserAccount-passwords.uniq.txt
 
@@ -158,18 +140,14 @@ The -d flag means that we only want to know about entries that appear at least t
 
 2 !!""Â£Â£
 
-
 Still sorted alphabetically, so sort reverse-numerically to get most popular entries at the top.
-
 
 > 
 
 > 
 > sort -nr -S 2048K UserAccount-passwords.uniq.txt -o UserAccount-passwords.uniq.sorted.txt
 
-
 Giving our top 20 most popular passwords (sorry guys, but this is really depressing)
-
 
 > $ head -20 UserAccount-passwords.uniq.sorted.txt
 
@@ -213,12 +191,6 @@ Giving our top 20 most popular passwords (sorry guys, but this is really depress
 
 13456 qwerty
 
-
-
-
 There really is no hope for us...
-
-
-
 
 More analysis to come when I can be bothered, and potentially some attempts at breaking into a VM with simulated user accounts.

@@ -5,7 +5,6 @@ date: 2008-05-11 01:12:00+00:00
 layout: post
 slug: update
 title: Update
-wordpress_id: 8
 categories:
 - Commentary
 tags:
@@ -40,6 +39,5 @@ No Official Google Earth. (something that could do with better math)
 Actually, i cant think of many mainstream pieces of code that DONT need the 32bit interoperation libraries.
 
 Anyway. I'll update when I'm less ranty
-
 
 Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!

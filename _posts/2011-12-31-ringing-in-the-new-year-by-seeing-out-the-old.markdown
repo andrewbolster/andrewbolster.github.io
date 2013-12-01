@@ -5,7 +5,6 @@ date: 2011-12-31 17:15:38+00:00
 layout: post
 slug: ringing-in-the-new-year-by-seeing-out-the-old
 title: Ringing in the New Year by seeing out the old
-wordpress_id: 726
 categories:
 - Commentary
 tags:
@@ -26,8 +25,6 @@ tags:
 ---
 
 2011 has been a great year for me;
-
-
 
 	
   * Graduated with a 1st MEng in Electronics & Software Engineering @QUB,
@@ -82,7 +79,6 @@ tags:
 
 	
   * Had a pretty awesome time.
-
 
 Going forward, I'm not going to make a load of promises I won't keep. Thanks to all my friends, family, colleagues, competitors, enemies, bureaucrats, pencil-pushers, and random-folk who made my year what it was.
 

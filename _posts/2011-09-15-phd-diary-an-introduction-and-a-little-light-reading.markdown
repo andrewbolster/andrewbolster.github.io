@@ -5,7 +5,6 @@ date: 2011-09-15 14:31:10+00:00
 layout: post
 slug: phd-diary-an-introduction-and-a-little-light-reading
 title: 'PhD Diary: An Introduction and A Little Light Reading'
-wordpress_id: 664
 categories:
 - Uni
 tags:
@@ -15,15 +14,13 @@ tags:
 
 [caption id="" align="alignright" width="600" caption="Sometimes I worry about the accuracy of webcomics..."][![PhD Ponzi Scheme](http://www.phdcomics.com/comics/archive/phd030909s.gif)](http://www.phdcomics.com/comics.php?f=1144)[/caption]
 
-So today is the start of the rest of your life. Seems kind of appropriate today. Had a meeting with my PhD Supervisor to start to develop my project. Of course at this point it would help to explain what the project is, but I can't right now, so shush.<!-- more -->
+So today is the start of the rest of your life. Seems kind of appropriate today. Had a meeting with my PhD Supervisor to start to develop my project. Of course at this point it would help to explain what the project is, but I can't right now, so shush.
 
 What was innocuous about the meeting was the relatively small pile of papers that I was handed; that was until I flicked through and saw that the actual material he wanted researched had been highlighted in the bibloigraphies. In fact, it would have been more efficient to highlight the ones NOT to read.
 
 Ahh well, I bought a Kindle for a reason.
 
 My supervisor passed on an interesting commentary on what a PhD actually is; he said that it comes in three stages (not years, stages). (I may have taken some artistic liberties with the language, but you'll get the point)
-
-
 
 	
   1. Bright Eyed Apprentice and Zen Master; the student has all the energy and relies on the supervisor for guidance and verification
@@ -33,7 +30,6 @@ My supervisor passed on an interesting commentary on what a PhD actually is; he 
 
 	
   3. The Master and the Emeritus; the student is now a domain expert and can more or less 'school' the now obsolete (in this field) supervisor.
-
 
 Considering the personalities of myself and  my supervisor, that second bit could be interesting.
 

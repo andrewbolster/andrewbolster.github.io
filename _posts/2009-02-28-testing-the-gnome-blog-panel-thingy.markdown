@@ -5,7 +5,6 @@ date: 2009-02-28 18:24:32+00:00
 layout: post
 slug: testing-the-gnome-blog-panel-thingy
 title: Testing The Gnome Blog Panel Thingy
-wordpress_id: 36
 categories:
 - Commentary
 tags:

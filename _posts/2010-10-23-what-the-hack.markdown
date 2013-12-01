@@ -5,7 +5,6 @@ date: 2010-10-23 09:16:06+00:00
 layout: post
 slug: what-the-hack
 title: What the Hack?
-wordpress_id: 549
 categories:
 - Commentary
 tags:
@@ -22,7 +21,5 @@ Today, we're going to find out if it actually works; there is nothing planned, n
 Oh, and alot of [kindly donated equipment](http://hackerspaces.org/wiki/HackathonBelfast#Hardware_List) by members.
 
 Once we get set up, we'll be streaming, well, down there...
-
-
 
 Wish us luck if you can't be with us, and check us out if you're free today.

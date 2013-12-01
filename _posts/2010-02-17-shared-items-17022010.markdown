@@ -5,7 +5,6 @@ date: 2010-02-17 06:06:25+00:00
 layout: post
 slug: shared-items-17022010
 title: Shared Items - 17/02/2010
-wordpress_id: 230
 categories:
 - Link-Roll
 ---

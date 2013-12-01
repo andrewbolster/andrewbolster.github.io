@@ -5,7 +5,6 @@ date: 2010-04-28 19:37:30+00:00
 layout: post
 slug: see-programming-abstractions-assignment-1
 title: SEE, Programming Abstractions, Assignment 1
-wordpress_id: 398
 categories:
 - Instructional
 tags:
@@ -21,15 +20,11 @@ tags:
 
 So, in the spirit of openness that SEE tries to foster, I'll be blogging my work through their [CS106B course, Programming Abstractions](http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e), the second of three programming courses. (I passed on [CS106A, Programming Methodology](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111), since I've had enough Java shoved down my throat to last a lifetime...).
 
-<!-- more -->
-
 Now, I'll try not to repeat the lectures, and will focus mostly on the [Assignments](http://see.stanford.edu/see/materials/icspacs106b/assignments.aspx).
 
 Straight into it, [Assignment 1](http://see.stanford.edu/materials/icspacs106b/H08-SectionHandout1.pdf) is split into several Problems, introducing String manipulation, Pointer manipulation, File access, Struct use, Vector templates, and Memory Diagramming.
 
-
 ### Problem 1:Pointers
-
 
 Build two different functions to remove substrings from strings, one that returns a fresh 'new' string, and another that operates directly on an existing string in memory. Simple Enough (Well, there was one [Gotcha!](http://stackoverflow.com/questions/2709199/c-string-manipulation-isnt-making-sense-to-me) that I fell hook line and sinker for)
 
@@ -47,8 +42,6 @@ Build two different functions to remove substrings from strings, one that return
         return returned;
     }
 
-
-
     
     void CensorString2(string& text, string remove){
         size_t found = text.find(remove);
@@ -59,11 +52,7 @@ Build two different functions to remove substrings from strings, one that return
     
     }
 
-
-
-
 ### Problem 2: Struct
-
 
 Build a structure definition to store statistical information about class grades read from a file, where each line is a mark between 0 and 100. Write a function to generate this structure with max/min/average, and return the structure. (I left some extra vestigial information in the structure such as the number of entries and the total total of marks for averaging purposes.
 
@@ -101,11 +90,7 @@ Build a structure definition to store statistical information about class grades
         return stats;
     }
 
-
-
-
 ### Problem 3: Vectors
-
 
 Write a function that takes a filename and prints out a letter frequency table. (dont forget to include [fstream](http://en.wikipedia.org/wiki/Fstream))
 
@@ -136,16 +121,10 @@ Write a function that takes a filename and prints out a letter frequency table. 
         }
     }
 
-
-
-
 ### Problem 4: Memory
-
 
 I hate drawing diagrams, so I'll just hint; two structs 'exist' in the 'main' method stack, julie & tom. There's nothing in the heap, and the 'battle' method stack has one structure and one **reference** to a structure, and has a few internal variables (pos, level, name). The internal structure variables can be worked out easily enough (look out for the nasty character/integer modifications in the names).
 
-
 ### Conclusion
-
 
 I could make a habit out of this! Interesting and useful challenges from a [world class CS department ](http://www-cs.stanford.edu/), all for free and accessible whenever you want / can.

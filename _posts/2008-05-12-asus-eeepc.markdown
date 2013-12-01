@@ -5,7 +5,6 @@ date: 2008-05-12 20:00:00+00:00
 layout: post
 slug: asus-eeepc
 title: Asus EEEpc
-wordpress_id: 11
 categories:
 - Commentary
 tags:
@@ -28,6 +27,5 @@ On a brighter note, i really have to say Clove have been fantastic, i ordered mi
 [www.clove.co.uk](http://www.clove.co.uk/)
 
 DISCLAIMER : no i dont work for them
-
 
 Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!

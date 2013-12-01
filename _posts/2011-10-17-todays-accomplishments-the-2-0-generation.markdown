@@ -5,7 +5,6 @@ date: 2011-10-17 11:42:01+00:00
 layout: post
 slug: todays-accomplishments-the-2-0-generation
 title: 'Today''s Accomplishments: The 2.0 Generation'
-wordpress_id: 690
 categories:
 - Commentary
 tags:
@@ -19,7 +18,6 @@ tags:
 - remote
 - services
 ---
-
 
 	
   * Ordered Groceries ([Tesco Online](http://www.tesco.com/groceries/)),
@@ -36,9 +34,8 @@ tags:
 	
   * Managed some Investments ([Zopa](http://uk.zopa.com/member/bolster))
 
-
 As I was walking back from our kitchen in the office, I realised that that 'lift coffee cup, walk to kitchen, make coffee cup, return to desk' was the most inefficient part of my working day; I can even justify writing this post as vaguely productive as I'm waiting for a download to complete...
-<!-- more -->
+
 Fact is that with services like these, and others like [NiftyNosh](http://www.niftynosh.com/home.aspx), we can accomplish a lot of the day-to-day necessities remotely, for a small surcharge (although often the efficiencies of scale allow these services to be significantly cheaper than their 'High St'  equivalents.
 
 In the midst of the 'Occupy X' movement of today, it is important to realise some of the pros and cons of this 'Brave New World';

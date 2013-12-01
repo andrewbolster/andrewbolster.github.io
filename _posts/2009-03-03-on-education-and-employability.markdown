@@ -5,7 +5,6 @@ date: 2009-03-03 18:46:14+00:00
 layout: post
 slug: on-education-and-employability
 title: On Education and Employability
-wordpress_id: 38
 categories:
 - Commentary
 tags:
@@ -40,7 +39,7 @@ Facts are;  recruiters are busy and have to make snap yes/no decisions, google 
 
 So, two options. Stop facebooking (which facebook makes VERY VERY [difficult](http://www.nytimes.com/2008/02/11/technology/11facebook.html)) or, do your best to put your best foot forward, in an online sense.
 
-This leads me to thought two; **Personal Brands are the newest and most elusive qualifications now.** Blogs, forum posts, et al, all contribute to your online image. I'm not saying be a saint and never do anything bad, I'm just saying **do enough good things that the good things come up first on the rankings. **
+This leads me to thought two; **Personal Brands are the newest and most elusive qualifications now.** Blogs, forum posts, et al, all contribute to your online image. I'm not saying be a saint and never do anything bad, I'm just saying **do enough good things that the good things come up first on the rankings.**
 
 Like this blog for instance! Recruiters don't need to know about your personal life, so either keep it completely professional, or keep the personal stuff to anecdotes.
 
@@ -48,10 +47,10 @@ Finally, point three. While Facebook took students and young people by storm ove
 
 At just over 7 years old, [LinkedIn](http://www.linkedin.com) has been around long enough to be comparable to Facebook, and while MySpace and Bebo and Facebook exploded into the media and the public mindset, Linkedin smoldered and bubbled away is the much slower moving, but much more profitable world of professional headhunting and recruiting.
 
-You dont want to friend your Professors on facebook (and if you do, its not for professional reasons), but with LinkedIn, you can have** a real professional Internet presence** that isn't going to be haunted by pictures of you with a pumpkin; and as you float (or storm, or whatever verb is preferable) through your career, you can collect contacts, and receive recommendations from past employers.
+You dont want to friend your Professors on facebook (and if you do, its not for professional reasons), but with LinkedIn, you can have **a real professional Internet presence** that isn't going to be haunted by pictures of you with a pumpkin; and as you float (or storm, or whatever verb is preferable) through your career, you can collect contacts, and receive recommendations from past employers.
 
 Think of it as a google-indexed, globally visible, context relevant CV and resume, where you can be part of groups that are relevant to your interests and specialities, and if a recruiter is looking for someone like you, they can find you.
 
-To wrap it all up,** with contacts and connections, you can generally hear about vacancies and opportunities as they hit presses, if not before**. Giving you, with your massive collection of small talk and (at least) equally massive technical abilities, a leg up over everyone else who's just as good as you.
+To wrap it all up,**with contacts and connections, you can generally hear about vacancies and opportunities as they hit presses, if not before**. Giving you, with your massive collection of small talk and (at least) equally massive technical abilities, a leg up over everyone else who's just as good as you.
 
 Good Luck

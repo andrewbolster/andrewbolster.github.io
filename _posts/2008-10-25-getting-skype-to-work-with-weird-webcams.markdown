@@ -5,7 +5,6 @@ date: 2008-10-25 21:45:00+00:00
 layout: post
 slug: getting-skype-to-work-with-weird-webcams
 title: Getting Skype to work with weird webcams.
-wordpress_id: 23
 categories:
 - Instructional
 tags:
@@ -24,19 +23,16 @@ So, its easy enough since i came across [this post](http://forum.skype.com/index
 # skype
 **UPDATE:25/4/9**
 
-_After a fresh install  jaunty i discovered i was missing a step_
+After a fresh install  jaunty i discovered i was missing a step
 
-_Need to install lib32v4l-0 and lib32v4l-dev (i think the -dev is unnessary but i install them anyway)
-_
+Need to install lib32v4l-0 and lib32v4l-dev (i think the -dev is unnessary but i install them anyway)
 
-****look in your library directories (/usr/lib/ or /usr/lib32/) for v4l1compat.so,
+look in your library directories (/usr/lib/ or /usr/lib32/) for v4l1compat.so,
 
-eg " find /usr/lib* -name '*v4lcompat.so' "
-
+eg " find /usr/lib\* -name '\*v4lcompat.so' "
+{%highlight bash%}
 # LD_PRELOAD=/path/to/v4l1compat.so skype
+{%endhighlight%}
 this, obv, preloads that library forcing skype to use teh right interface library.
 
 If my explanation is wrong please correct me
-
-
-Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!

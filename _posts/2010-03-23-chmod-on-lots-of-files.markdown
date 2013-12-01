@@ -5,7 +5,6 @@ date: 2010-03-23 22:42:20+00:00
 layout: post
 slug: chmod-on-lots-of-files
 title: Chmod on lots of files
-wordpress_id: 282
 categories:
 - Instructional
 tags:
@@ -23,7 +22,6 @@ I came across a permissions issue where, depending on how the files in question 
 
 So, first attempt was nice and easy.
 
-
 > 
 
 >     
@@ -31,12 +29,9 @@ So, first attempt was nice and easy.
 > 
 > 
 
-
-
 But this was taking a horrific amount of time, so I thought "There must be a better way".
 
 Chown does whatever you tell it to do, whether its needed or not. So why not check that first with 'find'.
-
 
 > 
 
@@ -44,8 +39,6 @@ Chown does whatever you tell it to do, whether its needed or not. So why not che
 >     $find . -user badnastyawkwarduser -exec chown -R smbusr:smbusr {} \;
 > 
 > 
-
-
 
 and it worked brilliantly!
 

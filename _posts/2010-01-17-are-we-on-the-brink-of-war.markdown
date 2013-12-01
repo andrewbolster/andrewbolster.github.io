@@ -5,7 +5,6 @@ date: 2010-01-17 17:04:40+00:00
 layout: post
 slug: are-we-on-the-brink-of-war
 title: Are we on the brink of War?
-wordpress_id: 194
 categories:
 - Commentary
 tags:
@@ -23,8 +22,6 @@ China has caught everyone [off-guard](http://www.cbsnews.com/stories/2009/05/05/
 I think there has been something ignored in this most recent spate of Chinese infiltration, is that if there is a bomb on a plane, or at an airport terminal, it blows up, theres horror, theres death and distruction, but if you're a few miles down the road, your safe, but probably in need of a fresh set of briefs.
 
 This is the list of companies and industries [identified ](http://www.darkreading.com/security/attacks/showArticle.jhtml?articleID=222301032)as potential victims of the Chinese attacks....
-
-
 
 	
   * Google
@@ -47,14 +44,11 @@ This is the list of companies and industries [identified ](http://www.darkreadin
 	
   * RackSpace
 
-
 Just think about that for a second. [Dow Chemical](http://www.dow.com), nice big conglomerate of manufacturing and government supply. Nothing to go wrong there, right?
 
 [Northrup Grumman ](http://www.northropgrumman.com/)
 
-
 > Designer, systems integrator and manufacturer of military aircraft, defense electronics, precision weapons, commercial and military aerostructures.
-
 
 Yeah, nothing to worry about there...
 

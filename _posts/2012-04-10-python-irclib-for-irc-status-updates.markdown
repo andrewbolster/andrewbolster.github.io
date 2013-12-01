@@ -5,7 +5,6 @@ date: 2012-04-10 17:08:44+00:00
 layout: post
 slug: python-irclib-for-irc-status-updates
 title: Python + irclib for IRC Status Updates
-wordpress_id: 767
 categories:
 - Instructional
 tags:
@@ -20,8 +19,6 @@ tags:
 IRC, Python, Ubuntu linux. Simples!
 
 Same as by [Twitter](http://www.andrewbolster.info/2012/04/python-oauth2-for-twitter-status-updates/) post, but for IRC.
-
-<!-- more -->
 
 Biggest problem with this one was working out that the IRC server needs to be kept alive with the `irclib.IRC.process_once()` command. This is wrapped in the while loop that assumes that there is other stuff going on for which you are waiting on a condition to be satisfied, but could easily be ignored if one is just sending out one message. Also, the PRIVMSG command can be used to broadcast to a channel, as is used here, or, as the name suggests, to communicate with a specific user.
 

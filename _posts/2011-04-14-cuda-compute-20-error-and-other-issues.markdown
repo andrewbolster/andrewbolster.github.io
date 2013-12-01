@@ -5,7 +5,6 @@ date: 2011-04-14 11:48:01+00:00
 layout: post
 slug: cuda-compute-20-error-and-other-issues
 title: CUDA Compute 20 Error and other issues
-wordpress_id: 446
 categories:
 - Instructional
 tags:

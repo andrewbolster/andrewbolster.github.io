@@ -5,7 +5,6 @@ date: 2011-10-26 13:45:59+00:00
 layout: post
 slug: unicode-characters-in-mendeley-bibliography-breaking-latex
 title: Unicode Characters in Mendeley Bibliography Breaking Latex?
-wordpress_id: 704
 categories:
 - Instructional
 tags:
@@ -27,7 +26,7 @@ I use TexClipse for (most) of my $latex \LaTeX$ editing, ViM otherwise.
 
 I use Xelatex / pdflatex for project building.
 
-These don't always work so well together. <!-- more -->
+These don't always work so well together. 
 
 One issue I came across was that Mendeley can insert some weird Unicode whitespace characters that 'disappear' in TexClipse / Vim, but break xelatex/pdflatex.
 

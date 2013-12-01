@@ -5,7 +5,6 @@ date: 2010-04-09 14:58:31+00:00
 layout: post
 slug: listing-just-dot-files
 title: Listing just dot-files
-wordpress_id: 340
 categories:
 - Instructional
 tags:
@@ -22,7 +21,7 @@ Its a problem that I've come across, and I'm [not the only one](http://www.unix.
 
 This only works in the current working directory, which is the normal usage.
 
-FYI the reason that this is problematic is that the '.' symbol is a single character wildcard; most people are familiar with the asterisk '*' indicating 'anything, however long', whereas the '.' means 'any single character'.
+FYI the reason that this is problematic is that the '.' symbol is a single character wildcard; most people are familiar with the asterisk '\*' indicating 'anything, however long', whereas the '.' means 'any single character'.
 
 The command works by looking only at the first character of the file ('^', thats called a caret) and then removing the special meaning of '.' by escaping it with the slash.
 

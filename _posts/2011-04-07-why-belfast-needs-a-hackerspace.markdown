@@ -5,7 +5,6 @@ date: 2011-04-07 17:24:08+00:00
 layout: post
 slug: why-belfast-needs-a-hackerspace
 title: Why Belfast Needs a Hackerspace
-wordpress_id: 589
 categories:
 - Commentary
 tags:
@@ -24,7 +23,6 @@ I was sitting in [Sinnamon ](http://lookaly.com/p/sinnamon-coffee-belfast/)on th
  Of course, as with most things to do with hackers, the aim isn't that simple; having spoken to some of those involved, it was abundantly clear that some elements within Wikileaks purely want to screw with governments that (they feel have) wronged them, but others are simply motivated by the cat-and-mouse challenge of acquiring, validating, securing and releasing information in a hostile environment. 
 
  Its this kind of spectrum that makes me wish that I could just fastforward a year or so (or much longer), to a point where Belfast Hackerspace is established, stable, self-funding, and growing. Innovation only comes from discourse, and the best innovations (in my opinion) come from differences. 
-<!-- more -->
 
 Northern Ireland has been so bogged down in its historical arguments, as well as social segregation and stratification, that quite often, the normal social and technical groups are fairly homogenous; QUB guys have an idea working on a shared module, turn it into a product, get QUBIS funding, and make a tidy sum from licencing and patents; UU guys develop a revolutionary web-app in the York St campus cafe, release it, get InvestNI funding for growth, and move out to 'The Valley', but get stuck on the usual web-app-fad lifecycle and, while being comfortable, make a continued living consulting. 
 

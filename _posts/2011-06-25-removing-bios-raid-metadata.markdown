@@ -5,7 +5,6 @@ date: 2011-06-25 11:58:31+00:00
 layout: post
 slug: removing-bios-raid-metadata
 title: Removing BIOS RAID Metadata
-wordpress_id: 627
 categories:
 - Instructional
 ---

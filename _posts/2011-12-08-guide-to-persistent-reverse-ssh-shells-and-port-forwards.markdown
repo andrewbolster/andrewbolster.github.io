@@ -5,7 +5,6 @@ date: 2011-12-08 13:41:41+00:00
 layout: post
 slug: guide-to-persistent-reverse-ssh-shells-and-port-forwards
 title: Guide to Persistent Reverse SSH Shells and Port Forwards
-wordpress_id: 721
 categories:
 - Instructional
 tags:
@@ -21,11 +20,9 @@ tags:
 - unix
 ---
 
-Idiot proof setup for persistent reverse shells / port forwards (same thing) under a Ubuntu VM remote and my Dreamhost server, but should apply to nearly* all *nix's
+Idiot proof setup for persistent reverse shells / port forwards (same thing) under a Ubuntu VM remote and my Dreamhost server, but should apply to nearly\* all \*nix's
 
-<!-- more -->First off, some terms to keep this easy. I want to be able to access my in-office VM, `xavier` from my server `magneto` (not my names, but they conveniently complement). `xavier` is **not** publicly accessible, but `magneto` is. I'll be replacing all of the [FQN's](http://en.wikipedia.org/wiki/Fully_qualified_name) with these terms so expand on your own. In generic terms, `xavier `is the remote machine (i.e the one behind some NAT firewall or such that you want to get access to) and `magneto `is the local machine. Its a bit confusing since all of the work is done on `xavier`, but it makes sense in the long run. Just trust me and get on with it.
-
-
+First off, some terms to keep this easy. I want to be able to access my in-office VM, `xavier` from my server `magneto` (not my names, but they conveniently complement). `xavier` is **not** publicly accessible, but `magneto` is. I'll be replacing all of the [FQN's](http://en.wikipedia.org/wiki/Fully_qualified_name) with these terms so expand on your own. In generic terms, `xavier `is the remote machine (i.e the one behind some NAT firewall or such that you want to get access to) and `magneto `is the local machine. Its a bit confusing since all of the work is done on `xavier`, but it makes sense in the long run. Just trust me and get on with it.
 
 	
   1. Make sure that `xavier `can access `magneto `without a password by testing with ssh from `xavier `to `magneto `i.e. `[bolster@xavier]:~ $ ssh magneto`. (general solution to this **not** working is `[bolster@xavier]:~$ ssh-keygen; ssh-copy-id magneto` but [YMMV](http://www.urbandictionary.com/define.php?term=YMMV))
@@ -48,7 +45,6 @@ Idiot proof setup for persistent reverse shells / port forwards (same thing) und
 	
   7. Done
 
-
 Wasn't that easy?
 
-*Nearly because not all *nix's have` ssh-copy-id`. See this great [post ](http://blogs.translucentcode.org/mick/archives/000230.html)for a work around.
+\*Nearly because not all \*nix's have` ssh-copy-id`. See this great [post ](http://blogs.translucentcode.org/mick/archives/000230.html)for a work around.

@@ -5,7 +5,6 @@ date: 2012-04-10 17:52:11+00:00
 layout: post
 slug: k8055-usb-python-twitter-irc-space-indicator-as-a-os-service
 title: 'K8055 USB + Python + Twitter + IRC: Space Indicator as a OS Service'
-wordpress_id: 753
 categories:
 - Instructional
 tags:
@@ -28,8 +27,6 @@ This was accomplished using the  [Velleman K8055 USB interface board](http://w
 
 Simple enough, but a process fruaght with stupid mistakes, such as:
 
-
-
 	
   * Whoops, have to run as sudo to access the USB device
 
@@ -48,104 +45,56 @@ Simple enough, but a process fruaght with stupid mistakes, such as:
 	
   * Whoops, Ruby isn't any better than python at OAuth2
 
-
-
-
-<!-- more -->
-
-
-
-
 # Prerequisites
-
-
 
     
     sudo apt-get install build-essential libusb-dev python-dev python-setuptools python-irclib
 
-
-
     
     sudo easy_install oauth2
-
-
 
     
     sudo mkdir /opt/bin
 
-
-
-
 # Actual Work
-
-
 
     
     cd /tmp/
 
-
-
     
     wget package from <a href="http://sourceforge.net/projects/python-k8055/">http://sourceforge.net/projects/python-k8055/</a>
-
-
 
     
     tar -xvjf python-k8055-0.2.tar.bz2
 
-
-
     
     cd python-k8055-0.2
-
-
 
     
     sudo python setup.py install
 
-
-
     
     cd /opt/bin/
-
-
 
     
     sudo wget <a href="http://pastebin.com/KqCKhKG6" target="_blank" title="Occupy Farset Python Script">occupy-farset.py</a>
 
-
-
     
     cd /etc/init/
-
-
 
     
     sudo wget <a href="http://pastebin.com/mzRZWP75" target="_blank" title="Occupy Farset Upstart Conf File">occupy-farset.conf</a>
 
-
-
     
     sudo initctl reload-configuration
-
-
 
     
     sudo service occupy-farset start
 
-
-
     
     sudo service occupy-farset status
 
-
-
-
 # Explanation
-
-
-
-
 
 	
   1. Download and install [python wrappers](http://python-k8055.sourceforge.net/) for the [Velleman K8055 USB interface board](http://www.velleman.eu/products/view/?country=be&lang=en&id=351346)
@@ -159,10 +108,5 @@ Simple enough, but a process fruaght with stupid mistakes, such as:
 	
   4. Fire off the service and test that it's still up.
 
-
-
-
 That's all folks!
-
-
 

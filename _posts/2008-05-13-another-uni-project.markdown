@@ -5,7 +5,6 @@ date: 2008-05-13 19:47:00+00:00
 layout: post
 slug: another-uni-project
 title: 'Another Uni Project '
-wordpress_id: 13
 categories:
 - Uni
 tags:
@@ -22,8 +21,6 @@ Erlang B itself only has 2 variables,  System load in Erlangs, and the number of
 
 All three of these variables or none atall can be defined at runtime;
 
-
-
 	
   * The desired blocking probability can be input to stop the calculation at that point. (default 0)
 
@@ -32,7 +29,6 @@ All three of these variables or none atall can be defined at runtime;
 
 	
   * The maximum trunks to be calculated (default 100)
-
 
 The code uses the unistd.h library for argument parsing so is more or less unix only (or cygwin alternativly) and long doubles for more or less everything inside the code.
 

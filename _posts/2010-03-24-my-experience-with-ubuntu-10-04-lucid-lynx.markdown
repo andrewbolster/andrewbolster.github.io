@@ -5,7 +5,6 @@ date: 2010-03-24 16:39:16+00:00
 layout: post
 slug: my-experience-with-ubuntu-10-04-lucid-lynx
 title: My Experience with Ubuntu 10.04, Lucid Lynx
-wordpress_id: 288
 categories:
 - Commentary
 tags:
@@ -28,7 +27,7 @@ tags:
 I'm a big Ubuntu fan; have been since my first Dapper Drake install, but I have never had such weirdness as I've had so far with Lucid.
 I am at a loss to explain or even describe the trouble I've had with this.
 
-<!-- more -->First off, I tried the amd64 alternate daily build; did the usual cd verification et al, got half way through the installation, and the install crapped out due to mixed up dependencies inside the openoffice.org package.
+First off, I tried the amd64 alternate daily build; did the usual cd verification et al, got half way through the installation, and the install crapped out due to mixed up dependencies inside the openoffice.org package.
 
 Thought 'eh, its a daily build, no worries', and picked up the regular beta amd64 alternate disk; install blew through, restarted aaaaaaaand I'm presented with the lovely purple splash screen telling me my disks need to be checked, fair enough, but the lack of any kind of process indication irked me, but it was late in the night so i thought, 'screw it, i'll be done by morning'. Lo' an behold, i awake to exactly the same screen.
 

@@ -5,7 +5,6 @@ date: 2013-07-06 09:56:58+00:00
 layout: post
 slug: ssh-persistence-redux-multiple-sites-and-crontab-laziness
 title: 'SSH Persistence Redux: Multiple sites and Crontab Laziness'
-wordpress_id: 1060
 categories:
 - Instructional
 tags:
@@ -39,7 +38,6 @@ Because I'm lazy, I wrapped autossh into a little lazy script I call `ssh_tunnel
     AUTOSSH_PATH=/usr/bin/ssh
     export AUTOSSH_GATETIME AUTOSSH_DEBUG AUTOSSH_PATH
     autossh -2 -fN -i $ID_FILE -R '*':11122:localhost:22 -R '*':11188:localhost:8888 $*
-
 
 To initiate the connection, (assuming you've already got [passwordless-login](http://www.andrewbolster.info/2011/12/guide-to-persistent-reverse-ssh-shells-and-port-forwards/) sorted to that particular host) it's just a case of `ssh_tunnel username@remote.host`
 

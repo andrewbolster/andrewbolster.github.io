@@ -5,7 +5,6 @@ date: 2008-01-07 15:29:00+00:00
 layout: post
 slug: ces-2008
 title: CES 2008
-wordpress_id: 7
 categories:
 - Commentary
 tags:
@@ -57,6 +56,5 @@ I'm all for connectivity and combining devices, but nobody (sane) uses devices f
 Is there no company or big name that is gonna stand up and say "We'll support our competitions product in some way", especially when the competition is OSS.
 
 End of Rant
-
 
 Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!

@@ -5,7 +5,6 @@ date: 2012-09-10 18:56:21+00:00
 layout: post
 slug: 4g-and-the-northern-ireland-problem
 title: 4G and 'The Northern Ireland Problem'
-wordpress_id: 836
 categories:
 - Commentary
 tags:
@@ -19,7 +18,7 @@ tags:
 - umts
 ---
 
-So Everything Everywhere are [holding a press conference tomorrow](http://www.bbc.co.uk/news/technology-19542467)... Rumours abound about device selections and other bits of juicy gossip (given the state of the [global handset market](http://www.bgr.com/2012/06/25/google-tries-to-block-u-s-shipments-of-apples-iphone-over-3g-patents/)... I'm not surprised), so this seemed like a good opportunity to rant.<!-- more -->
+So Everything Everywhere are [holding a press conference tomorrow](http://www.bbc.co.uk/news/technology-19542467)... Rumours abound about device selections and other bits of juicy gossip (given the state of the [global handset market](http://www.bgr.com/2012/06/25/google-tries-to-block-u-s-shipments-of-apples-iphone-over-3g-patents/)... I'm not surprised), so this seemed like a good opportunity to rant.
 In Late August, OfCom, the UK's communications regulator, gave the go-ahead to bring the planned 4G spectrum allocations forward to this year. In short, 4G is go!
 This was music to the ears of Everything Everywhere, and that's not hyperbole.
 
@@ -74,6 +73,3 @@ Imagine if they had got the rest to work?
 
 Imagine if they got it to work for Everyone, on Everything, Everywhere?
 
-
-**
-**

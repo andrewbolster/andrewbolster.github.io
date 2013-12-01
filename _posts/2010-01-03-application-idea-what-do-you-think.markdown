@@ -5,7 +5,6 @@ date: 2010-01-03 20:18:55+00:00
 layout: post
 slug: application-idea-what-do-you-think
 title: 'Application Idea: What do you think?'
-wordpress_id: 186
 categories:
 - Instructional
 tags:

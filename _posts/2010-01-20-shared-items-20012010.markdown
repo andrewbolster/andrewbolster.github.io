@@ -5,7 +5,6 @@ date: 2010-01-20 06:56:44+00:00
 layout: post
 slug: shared-items-20012010
 title: Shared Items - 20/01/2010
-wordpress_id: 198
 ---
 
   * [Freelance Freedom #139](http://feedproxy.google.com/~r/FreelanceSwitch/~3/GJRvAd6EtGw/)

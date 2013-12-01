@@ -5,7 +5,6 @@ date: 2010-03-26 09:48:35+00:00
 layout: post
 slug: what-to-do-when-ubuntu-device-mapper-seems-to-be-invincible
 title: 'What to do when Ubuntu Device-mapper seems to be invincible! '
-wordpress_id: 293
 categories:
 - Instructional
 tags:
@@ -22,15 +21,11 @@ I've been trying a dozen different configurations of my 2x500GB SATA drives over
 
 Now, however, I've been sitting with a /dev/mapper/nvidia_XXXXXXX1 that seems to be impossible to kill!
 
-<!-- more -->It's the only 'partition' that I see in the Ubuntu install (but I can see the others in parted) but it is only the size of one of the drives, and I know I did not set any RAID levels other than RAID0.
-
-
-
+It's the only 'partition' that I see in the Ubuntu install (but I can see the others in parted) but it is only the size of one of the drives, and I know I did not set any RAID levels other than RAID0.
 
 Thanks to [wazoox](http://perlmonks.org/?node_id=292373) for eliminating a possibility involving LVM issues with lvremove and vgremove, but I found what works for me.
 
 After a bit of experimenting, I tried
-
 
 > 
 
@@ -40,10 +35,7 @@ After a bit of experimenting, I tried
 > 
 > 
 
-
-
 so see what raid sets were set up, then did
-
 
 > 
 
@@ -53,16 +45,11 @@ so see what raid sets were set up, then did
 > 
 > 
 
-
-
 but was presented with
-
 
 > ERROR: Raid set deletion is not supported in "nvidia" format
 
-
 Googled this and found [this forum post](http://ubuntuforums.org/showthread.php?p=8417410) that told me to do this;
-
 
 > 
 
@@ -72,11 +59,6 @@ Googled this and found [this forum post](http://ubuntuforums.org/showthread.php?
 > 
 > 
 
-
-
 And that went through, rebooted, hoped, waited (well, while i was waiting, set the bios back to AHCI), and repartitioned, and all of (this particular issue) was well again. Hope this helps someone else down the line!
-
-
-
 
 (This is a duplicate of my [ServerFault query](http://serverfault.com/questions/125976/ubuntu-device-mapper-seems-to-be-invincible) on this that I answered myself)

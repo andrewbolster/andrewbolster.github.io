@@ -5,7 +5,6 @@ date: 2009-03-29 20:01:02+00:00
 layout: post
 slug: the-omleritto
 title: The Omleritto
-wordpress_id: 55
 categories:
 - Commentary
 - Instructional

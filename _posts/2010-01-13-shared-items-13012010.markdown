@@ -5,7 +5,6 @@ date: 2010-01-13 07:00:17+00:00
 layout: post
 slug: shared-items-13012010
 title: Shared Items - 13/01/2010
-wordpress_id: 191
 ---
 
   * [ChromiumOS Zero Boots Faster, Offers Automatic Updates [Updates]](http://feeds.gawker.com/~r/lifehacker/full/~3/bPfXAV2aV10/chromiumos-zero-boots-faster-offers-automatic-updates)

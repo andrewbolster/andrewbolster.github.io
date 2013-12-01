@@ -5,7 +5,6 @@ date: 2010-04-09 11:11:35+00:00
 layout: post
 slug: the-de-bill-or-how-i-learned-to-stop-worrying-and-love-tor
 title: The DE Bill, or, How I Learned to Stop Worrying and Love Tor
-wordpress_id: 332
 categories:
 - Commentary
 - Instructional
@@ -22,13 +21,11 @@ Folks, we're basically screwed; The Digital Economy Bill recieved Royal Accent o
 
 So after barely three days of parliamentary 'debate' where only 20-ish MP's actually spoke on the subject (but somehow 189 MP's decided it was a good idea anyway), our civil rights have been sacrificed infront of the alter of copyright.
 
-<!-- more -->[Many](http://eu.techcrunch.com/2010/04/08/doublethink-the-digital-economy-bill-against-the-digital-economy/) sites have a much more indepth tretise on the subject than I could do so I'll keep this short.
+[Many](http://eu.techcrunch.com/2010/04/08/doublethink-the-digital-economy-bill-against-the-digital-economy/) sites have a much more indepth tretise on the subject than I could do so I'll keep this short.
 
 Churchill said this about the rise of Socialism in Europe during WWII:
 
-
 > “The stations of uncensored expression are closing down; the lights are going out; but there is still time for those to whom freedom and parliamentary government mean something, to consult together.”
-
 
 Anyway, no point in whining, time to do something about it.
 
@@ -36,18 +33,16 @@ Anyway, no point in whining, time to do something about it.
 
 [Tor aka The Onion Router](http://www.torproject.org/):
 
-
 > Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security known as[ traffic analysis](http://www.torproject.org/overview.html.en).
 Tor protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world
-
 
 Nice and easy, step 1, add the repository to your
 
 /etc/apt/sources.list
 
-`deb     http://deb.torproject.org/torproject.org <DISTRIBUTION> main`
+`deb     http://deb.torproject.org/torproject.org $DISTRIBUTION main`
 
-In my case, <Distribution>  was karmic, for a full list of available distributions, [check here](http://deb.torproject.org/torproject.org/dists/)
+In my case, $Distribution  was karmic, for a full list of available distributions, [check here](http://deb.torproject.org/torproject.org/dists/)
 
 Grab the gpg key and update the apt-cache, and install:
 

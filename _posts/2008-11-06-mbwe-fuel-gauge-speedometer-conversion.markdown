@@ -5,7 +5,6 @@ date: 2008-11-06 19:20:00+00:00
 layout: post
 slug: mbwe-fuel-gauge-speedometer-conversion
 title: MBWE Fuel Gauge -> Speedometer conversion
-wordpress_id: 25
 categories:
 - Instructional
 tags:
@@ -23,7 +22,6 @@ first, stop it displaying the "fuel" Stolen from [http://kyyhkynen.net/stuff/myb
 
 ****
 
-
 > **Disable the service that displays the disk usage** with the leds in the front panel of your MBWE. Admit it, the feature is pretty much useless and because the service has to check the amount of free space on the disk(s), it is causing disk access.
 
 In order to prevent the service from starting during boot, edit /etc/init.d/S15wdc-fuel-gauge. Comment out this line:
@@ -38,9 +36,6 @@ Then stop the service:
 >     # /etc/init.d/S15wdc-fuel-gauge stop
 > 
 > 
-
-
-
 
     
     <span style="font-size:130%;"><span style="font-family:Georgia,serif;">Once all thats done, this is my script (The ultimate in lazy)</span></span>
@@ -63,8 +58,4 @@ Then stop the service:
     
     <span style="font-size:130%;"><span style="font-family: arial;">I have the whole thing running as a cronjob every 5 minutes</span></span>,<span style="font-size:130%;"><span style="font-family: arial;"> <a href="http://unixhelp.ed.ac.uk/CGI/man-cgi?crontab+5">do that urself</a></span></span>
 
-
-
-
-Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!
-  *[MBWE]: Western Digital My Book World Edition
+\*[MBWE]: Western Digital My Book World Edition

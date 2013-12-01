@@ -5,7 +5,6 @@ date: 2010-02-26 16:23:45+00:00
 layout: post
 slug: would-have-been-an-introduction-to-google-adwords
 title: (Would have been) An introduction to Google Adwords
-wordpress_id: 232
 categories:
 - Commentary
 tags:

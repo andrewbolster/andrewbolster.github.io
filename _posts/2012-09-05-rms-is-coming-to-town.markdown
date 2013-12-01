@@ -5,23 +5,22 @@ date: 2012-09-05 11:10:13+00:00
 layout: post
 slug: rms-is-coming-to-town
 title: RMS is coming to town
-wordpress_id: 831
 categories:
 - Commentary
 ---
 
-[caption id="attachment_832" align="alignright" width="300"][![RMS](http://www.andrewbolster.info/wp-content/uploads/2012/09/rms-bw-300x216.jpeg)](http://www.andrewbolster.info/wp-content/uploads/2012/09/rms-bw.jpeg) Richard Matthew Stallman is a software developer and software freedom activist. Born in 1953, he attended Harvard starting in 1970 and graduated in 1974 with a Bachelor of Arts in physics. From September 1974 to June 1975 he was a graduate student in physics at MIT.[/caption]
+![RMS](http://www.andrewbolster.info/wp-content/uploads/2012/09/rms-bw-300x216.jpeg)
+>Richard Matthew Stallman is a software developer and software freedom activist. Born in 1953, he attended Harvard starting in 1970 and graduated in 1974 with a Bachelor of Arts in physics. From September 1974 to June 1975 he was a graduate student in physics at MIT.
 
-_Disclaimer, I had very little to do with the organisation of this event, I'm just a PR guy in this case
+_Disclaimer, I had very little to do with the organisation of this event, I'm just a PR guy in this case_
 
-_The Inimatible, parrot fancing,  founder of the Free Software Foundation, and the originator of the GNU operating system is coming to [Belfast on Monday the 17th September](https://localevents.theiet.org/register.php?event=f9e9af).
+The Inimatible, parrot fancing,  founder of the Free Software Foundation, and the originator of the GNU operating system is coming to [Belfast on Monday the 17th September](https://localevents.theiet.org/register.php?event=f9e9af).
 
 The event is organised by the [IET NI Local Committee](http://mycommunity.theiet.org/communities/home/152), and is being hosted by the [Northern Ireland Science Park](http://www.nisp.co.uk/).
 
 This is a great opportunity for the FOSS and general software community in Belfast to get together for a right royal argument!
 
 From his 'Serious Biography'
-
 
 > Stallman pioneered the concept of [copyleft](http://gnu.org/copyleft), and is the main author of the [GNU General Public License](http://gnu.org/licenses/), the most widely used free software license, which implements copyleft.
 
@@ -105,9 +104,6 @@ Stallman's writings on free software issues can be found in Free Software, Free 
 	
 >   * 2012: Honorary doctorate from the Universidad José Faustino Sanchez Carrió, in Peru.
 > 
-
-
-
 
 Needless to say, this pillar of the international software community, whether you agree with him or not, is definitely not to be missed. All the guys from Farset Labs will be there, fresh from our [Synchronous Hackathon](http://farsetlabs.org.uk/blog/the-return-of-flacknite-the-syncronous-hackathon/) (Kindly Sponsored by [Instil](http://instil.co/))
 

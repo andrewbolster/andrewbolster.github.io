@@ -5,7 +5,6 @@ date: 2007-12-16 23:50:00+00:00
 layout: post
 slug: installation-of-vmware-server-windows
 title: Installation of VMWare Server (Windows)
-wordpress_id: 4
 categories:
 - Instructional
 tags:
@@ -49,6 +48,5 @@ In short, it all works, networking is automatically set up over the bridged conn
 Heres a paradox photo
 
 [![](http://bp3.blogger.com/_ZZeoHBuNcEU/R2XAVoD-kQI/AAAAAAAAA40/N34qTQQkXfY/s200/Untitled-5.jpg)](http://bp3.blogger.com/_ZZeoHBuNcEU/R2XAVoD-kQI/AAAAAAAAA40/N34qTQQkXfY/s1600-h/Untitled-5.jpg)
-
 
 Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!

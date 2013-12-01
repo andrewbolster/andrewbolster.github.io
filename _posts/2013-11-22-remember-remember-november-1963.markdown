@@ -5,7 +5,6 @@ date: 2013-11-22 13:50:22+00:00
 layout: post
 slug: remember-remember-november-1963
 title: Remember Remember ... November 1963?
-wordpress_id: 1093
 categories:
 - Commentary
 tags:
@@ -15,8 +14,6 @@ tags:
 ---
 
 Turns out that November 1963 was a pretty stupendous month all in all, in particular the couple of days (20-24) we're currently wading through.
-
-
 
 	
   * [C.S Lewis](http://en.wikipedia.org/wiki/C._S._Lewis) (Good Belfast Man) who was not only the beloved childrens author, but also an accomplished scholar, and one of the pioneers of the Science Fiction form, popped his clogs due to long term illness on Friday 22nd at around 2pm GMT aged 64
@@ -33,7 +30,6 @@ Turns out that November 1963 was a pretty stupendous month all in all, in partic
 	
   * Later than evening, the first episode of possibly the riskiest series the BBC has commissioned since it's launch, just over 40 years previously, [Doctor Who](http://en.wikipedia.org/wiki/Doctor_Who). And apart from the Paul McGann being the Longest-shortest doctor for a few years in the late 90's, he's stayed on our screens, in one for or another, for the next 50 years.
 
-
 Other events in the month included:
 
 	
@@ -44,7 +40,6 @@ Other events in the month included:
 
 	
   * [UN](http://en.wikipedia.org/wiki/Declaration_on_the_Elimination_of_All_Forms_of_Racial_Discrimination) marks "The Elimination of Racial Discrimination", the first real internationally agreed equality legislation.
-
 
 I guess the point I'm trying to make is that not everything is normally distributed in time. Impacts come in clumps and clusters. Tragedies and Comedies and life changing events can come all at one, and it only takes a few days to fundamentally change the world.
 

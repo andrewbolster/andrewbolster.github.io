@@ -5,7 +5,6 @@ date: 2013-04-26 11:26:17+00:00
 layout: post
 slug: mercurial-to-git-transfer-problems-and-pitfalls
 title: Mercurial to Git transfer; problems, and pitfalls.
-wordpress_id: 887
 categories:
 - Instructional
 tags:
@@ -25,9 +24,7 @@ Went through the process described [here](http://www.wordsinboxes.com/2012/02/mi
 
 Note: BB, Bitbucket, hg and mercurial are all talking about the same thing in different ways; hg is the command, mercurial is the protocol, Bitbucket is the hosting application, and BB is just my laziness. Likewise for GH, Github, git (and git, for completeness)
 
-
 # 1. It's not cleaning, it's mapping
-
 
 TL;DR usernames, emails, etc can be different between BB and GH, so we're going to make a file (`/dev/shm/users.txt`), based on the mercurial commit log, extracting the used usernames, and manually creating the mapping to the Github login.
 
@@ -64,9 +61,7 @@ hg convert --authors /dev/shm/users.txt ~/src/repo /dev/shm/repo-hg-clean
 `
 Boom, clean mercurial repo in /dev/shm/repo-hg-clean to migrate to git
 
-
 # 2. Convert to Git
-
 
 So we've made an intermediate mercurial repo, now to make an intermediate git repo, but FIRST; the tool.
 `
@@ -82,9 +77,7 @@ That was easy... hopefully...
 
 If you come across this error (`Error: Branch [master] modified outside hg-fast-export:`) it means you didn't init into a clean repo. **The destination repo must be clean, we'll merge with any pre-existing repo next!**
 
-
 # 3. "But I already made a repo using the web interface!"
-
 
 I scratched my head at this one for a while (I'm still getting my head around git's version of informative error messages), but the method that works for me where I have an existing repo that is mergable with the contents of the previously mercurial repo.
 `

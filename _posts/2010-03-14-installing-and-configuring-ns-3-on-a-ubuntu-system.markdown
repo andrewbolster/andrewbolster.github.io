@@ -5,7 +5,6 @@ date: 2010-03-14 23:39:09+00:00
 layout: post
 slug: installing-and-configuring-ns-3-on-a-ubuntu-system
 title: Installing and Configuring NS-3 on a Ubuntu System
-wordpress_id: 266
 categories:
 - Instructional
 tags:
@@ -23,18 +22,15 @@ tags:
 
 [NS-3](http://www.nsnam.org/) Appears to have a staggeringly steep learning curve so I hope these posts help out someone else (or me, when i forget all this in a month).
 
-<!-- more -->Running off a virtualised Ubuntu 9.10 system, the prerequisites I installed were all the ones [listed here](http://www.nsnam.org/wiki/index.php/Installation#Ubuntu.2FDebian). (And i removed some out of date packages)
-
+Running off a virtualised Ubuntu 9.10 system, the prerequisites I installed were all the ones [listed here](http://www.nsnam.org/wiki/index.php/Installation#Ubuntu.2FDebian). (And i removed some out of date packages)
 
 > `sudo apt-get install bison bzr dia doxygen flex g++ gcc  gdb graphviz imagemagick libgoocanvas-dev libgtk2.0-0 libgtk2.0-dev libsqlite3-dev libxml2 libxml2-dev mercurial python python-dev python-kiwi python-pygoocanvas python-pygraphviz sqlite sqlite3 tcpdump texi2html texinfo texlive texlive-extra-utils valgrind`
-
 
 That will take a while to install so go get coffee.
 
 Once thats all finished, grab the source using [Mercurial](http://mercurial.selenic.com/) (it was installed in the command above). For tidyness, I do all of this under ~/src (If this was a multi-user system I would suggest working under /usr/src and performing the relevant steps as root or under [sudo](http://xkcd.com/149/))
 
 If you havent used Mercurial before, [check my post on the subject](http://www.andrewbolster.info/2010/03/ercurial-quick-start-cheatsheet/).
-
 
 > 
 
@@ -55,12 +51,9 @@ If you havent used Mercurial before, [check my post on the subject](http://www.a
 > 
 > 
 
-
-
 Thats the easy bit done,  what you've downloaded is basically the instructions for downloading everything else about NS-3, all in python scripts.
 
 For safety I am not using the dev branch; Check the latest version [here](http://code.nsnam.org/)
-
 
 > 
 
@@ -69,12 +62,9 @@ For safety I am not using the dev branch; Check the latest version [here](http:/
 > 
 > 
 
-
-
 And that will output a whole pile of stuff that isnt too salient. Unless you're really bored...
 
 After which there is a python script that looks after the actual build process, so fire it off with a simple;
-
 
 > 
 
@@ -83,12 +73,9 @@ After which there is a python script that looks after the actual build process, 
 > 
 > 
 
-
-
 And, again, lots of waiting (seriously, get coffee, on my VM it took just under 15 minutes) and lots of output.
 
 It is not made clear on the project wiki but this script also fires off the python [WAF ](http://code.google.com/p/waf/) script so its a complete end to end builder. What isn't included in the build script is the (very tidy) automated regression test suite, so just for completeness...
-
 
 > 
 
@@ -100,21 +87,8 @@ It is not made clear on the project wiki but this script also fires off the pyth
 > 
 > 
 
-
-
-
-
 UPDATE : This final stage is no longer needed as the tests were rolled into the ./build.py script after version 3.9
 
-
-
-
-
-
-
 (please, if something goes wrong using these instructions at this stage, please comment or report it directly to [NSNAM.org's bugtracker](http://www.nsnam.org/bugzilla/))
-
-
-
 
 Installer is all done and ns-3.7 is ready to rock an roll! Tutorials coming as soon as I work it out myself!

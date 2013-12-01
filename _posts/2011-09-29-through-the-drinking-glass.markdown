@@ -5,7 +5,6 @@ date: 2011-09-29 19:48:37+00:00
 layout: post
 slug: through-the-drinking-glass
 title: Through The Drinking Glass
-wordpress_id: 677
 categories:
 - Commentary
 tags:
@@ -23,7 +22,7 @@ Requirements:
 1 jug/tankard/chalice/large vessel
 1 top hat (or suitably 'posh' headgear)
 at least 4 people
-<!-- more -->
+
 Card Assignments:
 **A: Drink Me** (Drink your own drink)
 **2: Tweedledee Tweedledum** (Two person waterfall, card drawers choice of partner, second person can only stop drinking after the card drawer)

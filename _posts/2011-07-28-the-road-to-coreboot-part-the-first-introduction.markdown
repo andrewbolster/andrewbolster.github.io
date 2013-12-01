@@ -5,7 +5,6 @@ date: 2011-07-28 10:22:56+00:00
 layout: post
 slug: the-road-to-coreboot-part-the-first-introduction
 title: 'The Road to Coreboot, Part the First: Introduction'
-wordpress_id: 647
 categories:
 - Instructional
 tags:
@@ -29,11 +28,9 @@ So as part of my [IAESTE](http://iaeste.ch) placement with [PC Engines](http://w
 Disclaimer
 
 I am not a hardware guy, and have never done any pre-OS x86 hardware programming. This will bore
-the pants of anyone who is an x86 expert, but hopefully some will find it useful and will contribute to the Coreboot project.<!-- more -->
-
+the pants of anyone who is an x86 expert, but hopefully some will find it useful and will contribute to the Coreboot project.
 
 # Part The First: Intro
-
 
 My particular board ([MS 7698 / E350IA-E45](http://www.msi.com/product/mb/E350IA-E45.html)) is not supported by the Coreboot project (yet), but after some investigation, most of the components on the board are, so in theory it should be a case of chopping existing board definitions up and reusing them to make my life easy (that's always the dream)...
 

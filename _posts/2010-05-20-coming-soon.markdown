@@ -5,7 +5,6 @@ date: 2010-05-20 11:21:37+00:00
 layout: post
 slug: coming-soon
 title: Coming Soon!
-wordpress_id: 425
 categories:
 - Commentary
 - Uni
@@ -15,8 +14,6 @@ tags:
 ---
 
 Ok, its been a busy few weeks, and I've let the blog slip again, but coming up:
-
-
 
 	
   * Implementing [Google Webfonts](http://code.google.com/webfonts)
@@ -32,5 +29,4 @@ Ok, its been a busy few weeks, and I've let the blog slip again, but coming up:
 
 	
   * Summer Plans including VPN work for Dr David Laverty and CUDA research with Alastair Mckinley and [Dr Alan Marshall](http://www.ee.qub.ac.uk/dsp/research/telecomms/personal/Alan_Marshall.html)
-
 

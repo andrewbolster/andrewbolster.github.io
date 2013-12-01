@@ -5,7 +5,6 @@ date: 2008-05-12 19:51:00+00:00
 layout: post
 slug: folding-code
 title: Folding Code
-wordpress_id: 10
 tags:
 - bash
 - C
@@ -23,29 +22,28 @@ note: the espeak adjustments are just personal preference, so change them at wil
   
 Its kinda a cheat cus it calls itself but isnt recursive. I'm just lazy  
   
-`  
-#!/usr/bin/env bash  
-case "$1" in  
-"-v")  
- points | espeak --stdin -s200 -v en+f4  
- exit  
- ;;  
-"-w")  
- points | espeak --stdin -s200 -v en+f4 -w $2  
- exit  
- ;;  
-*)   
- echo "Folding Stats at "&& date +%H:%M  
- echo "CPU1:" && cat /var/folding/foldingathome/CPU1/unitinfo.txt | grep Progress | cut -d'[' -f1 | cut -d' ' -f2  
- echo "CPU2:" && cat /var/folding/foldingathome/CPU2/unitinfo.txt | grep Progress | cut -d'[' -f1 | cut -d' ' -f2  
- exit  
- ;;  
-esac  
-`  
+{% highlight bash %}
+  #!/usr/bin/env bash  
+  case "$1" in  
+  "-v")  
+   points | espeak --stdin -s200 -v en+f4  
+   exit  
+   ;;  
+  "-w")  
+   points | espeak --stdin -s200 -v en+f4 -w $2  
+   exit  
+   ;;  
+  *)   
+   echo "Folding Stats at "&& date +%H:%M  
+   echo "CPU1:" && cat /var/folding/foldingathome/CPU1/unitinfo.txt | grep Progress | cut -d'[' -f1 | cut -d' ' -f2  
+   echo "CPU2:" && cat /var/folding/foldingathome/CPU2/unitinfo.txt | grep Progress | cut -d'[' -f1 | cut -d' ' -f2  
+   exit  
+   ;;  
+  esac  
+{%endhighlight%}
+
 it doesnt look very pretty on the console but i think it sounds alright.  
   
 Better get some calculus done  
   
-::Edited for new version of code with wavfile output
-
-Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!
+_Edited for new version of code with wavfile output_

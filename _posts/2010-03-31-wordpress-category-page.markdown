@@ -5,7 +5,6 @@ date: 2010-03-31 02:55:37+00:00
 layout: post
 slug: wordpress-category-page
 title: Wordpress category page
-wordpress_id: 309
 categories:
 - Instructional
 tags:

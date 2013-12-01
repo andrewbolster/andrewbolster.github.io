@@ -5,7 +5,6 @@ date: 2010-04-01 16:51:01+00:00
 layout: post
 slug: mod_rewrite-in-apache2
 title: Mod_Rewrite in Apache2
-wordpress_id: 326
 categories:
 - Instructional
 tags:
@@ -26,7 +25,6 @@ Just incase you forget how to fix this the easy way: Enable mod_rewrite for URL 
 
 )
 
-
 > 
 
 >     
@@ -34,8 +32,6 @@ Just incase you forget how to fix this the easy way: Enable mod_rewrite for URL 
 >     $sudo service apache2 restart
 > 
 > 
-
-
 
 Remember to fiddle with 
     

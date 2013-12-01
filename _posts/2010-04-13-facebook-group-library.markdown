@@ -5,7 +5,6 @@ date: 2010-04-13 23:17:09+00:00
 layout: post
 slug: facebook-group-library
 title: Facebook Group Library
-wordpress_id: 353
 categories:
 - Commentary
 tags:

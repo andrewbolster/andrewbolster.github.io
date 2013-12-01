@@ -5,7 +5,6 @@ date: 2008-05-24 12:06:00+00:00
 layout: post
 slug: eeepc-note
 title: EEEpc note
-wordpress_id: 17
 categories:
 - Commentary
 tags:
@@ -42,26 +41,17 @@ Grub works wonderfully and straight out of the install i still have both the sta
 As for install, [use this](http://www.pendrivelinux.com/2008/05/15/usb-ubuntu-804-persistent-install-from-linux/)
 And for tweaking use [this](http://eee.ricey.co.uk/files/eee/RiceeeyTweak.sh) BUT to fix the sound you have to go back in and re fix alsa (the 700 tweak doesnt work for the 900)
 
-
-
 	
   * Edit /etc/modprobe.d/alsa-base and change the line “options snd-hda-intel model=3stack-dig”to “options snd-hda-intel model=auto”
 
 	
   * ALSO, run the following command:
 
-
-
     
     sudo alsactl store
 
-
-
-
-
 	
   * Run:
-
 
 sudo alsactl restore
 
@@ -84,6 +74,5 @@ List of countries getting 5200mAh battery:TW,HK,USA,CAN,IT
 4400mAh:UK
 
 If anyone is reading this please go to [http://forum.eeeuser.com/viewtopic.php?id=27140](http://forum.eeeuser.com/viewtopic.php?id=27140) and make your voice heard, cus i want the battery that was handed out to reviewers! (the forum explains it better than me)
-
 
 Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!

@@ -5,7 +5,6 @@ date: 2012-07-20 08:10:41+00:00
 layout: post
 slug: the-concept-of-quality-and-my-mission
 title: The concept of Quality and my 'mission'
-wordpress_id: 819
 categories:
 - Commentary
 ---

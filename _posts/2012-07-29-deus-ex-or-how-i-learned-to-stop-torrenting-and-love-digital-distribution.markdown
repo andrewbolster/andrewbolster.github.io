@@ -5,7 +5,6 @@ date: 2012-07-29 11:01:16+00:00
 layout: post
 slug: deus-ex-or-how-i-learned-to-stop-torrenting-and-love-digital-distribution
 title: Deus Ex, or How I learned to stop Torrenting and Love Digital Distribution
-wordpress_id: 823
 categories:
 - Commentary
 tags:
@@ -20,23 +19,17 @@ tags:
 
 [caption id="attachment_826" align="alignleft" width="590"][![](http://www.andrewbolster.info/wp-content/uploads/2012/07/trolln.jpg)](http://www.andrewbolster.info/wp-content/uploads/2012/07/trolln.jpg) I am a pirate.[/caption]
 
-
-
 I voyage across the root-zones  in search for content. Movies available months before local DVD release in a format that my media centre laps up (mostly), I watch once, and don't take up shelf space for years; TV shows via RSS that I watch at my leisure; and, on the rare occasion that I want to 'Game' and not feel like an [idiot](http://i.qkme.me/35ahzb.jpg), I torrent.
 
-Today was such a day; I'd had my old memories of Deus Ex (Otherwise known as '[THE GREATEST GAME IN THE WORLD](http://en.wikipedia.org/wiki/Deus_Ex#Critical_response) [Where the lead character [can actually talk](http://en.wikipedia.org/wiki/Gordon_Freeman)]) floating around for a week or so, and had locked off a Lazy Sunday to get back into it. Sunday rolls on, and I fire off a [friendly torrent](http://geek.pikimal.com/2011/10/18/deus-ex-torrent-tricks-pirates-into-answering-piracy-questionnaire/).<!-- more -->
-
+Today was such a day; I'd had my old memories of Deus Ex (Otherwise known as '[THE GREATEST GAME IN THE WORLD](http://en.wikipedia.org/wiki/Deus_Ex#Critical_response) [Where the lead character [can actually talk](http://en.wikipedia.org/wiki/Gordon_Freeman)]) floating around for a week or so, and had locked off a Lazy Sunday to get back into it. Sunday rolls on, and I fire off a [friendly torrent](http://geek.pikimal.com/2011/10/18/deus-ex-torrent-tricks-pirates-into-answering-piracy-questionnaire/).
 
 # But Wait! You're a Linux Fiend?!
-
 
 [caption id="attachment_824" align="alignright" width="280"][![](http://www.andrewbolster.info/wp-content/uploads/2012/07/485141.jpg)](http://www.andrewbolster.info/wp-content/uploads/2012/07/485141.jpg) Yes Gabe, yes we do.[/caption]
 
 Now, the 'fly' in the ointment; I am a [Ubuntu](http://www.andrewbolster.info/tag/ubuntu/) guy. As such, any time you want to install something 'demanding', you do a quick google to find out if it'll work at all. Came across this [article](http://cybolic.wordpress.com/2012/01/07/howto-deus-ex-human-revolution-in-ubuntulinux/), and specifically, this phrase.
 
-
 > Do whatever you would normally do; run the installer from the DVD or download it from Steam – just make sure you do it in a new prefix in Vineyard.
-
 
 [Steam](http://store.steampowered.com/)...works... on... linux?
 
@@ -44,9 +37,7 @@ I've used Valves digital distribution service for a few years on and off during 
 
 I already bought [CodeWeavers](http://www.codeweavers.com/) for MS Office Support in Wine [a few weeks ago](https://plus.google.com/110818363520872888254/posts/YhxfDR6TkDR), so may as well use their Wine engine for Gaming, right?
 
-
 # Steaming forth
-
 
 [caption id="attachment_825" align="alignright" width="300"][![](http://www.andrewbolster.info/wp-content/uploads/2012/07/steaming-2-300x225.jpg)](http://www.andrewbolster.info/wp-content/uploads/2012/07/steaming-2.jpg) Three guesses what I image-searched for: answers on a self-addressed email to really@andrewbolster.info[/caption]
 
@@ -64,8 +55,6 @@ This is what I always wanted; Stuff I wanted at a reasonable price in a reasonab
 
 With [Steam coming to Linux natively](http://blogs.valvesoftware.com/linux/), and the rather public opinions being voiced by [some of the biggest names in the gaming world](http://geek.pikimal.com/2012/07/28/valve-and-blizzard-execs-condemn-windows-8/) regarding Win8, maybe.... [no, I won't say it](http://en.wikipedia.org/wiki/Desktop_Linux#Year_of_Desktop_Linux). But maybe this is the year the playing field between Mac, Windows and Linux is leveled...
 
-
 # But What does it all mean?
-
 
 Summary: I spent more in content than I have in the previous 6 months in one sitting because the experience was easy, I didn't have to dual boot, and I don't feel like a second class citizen. You want my money? Give me a good experience, stop wasting money on PR, advertising, and physical media.

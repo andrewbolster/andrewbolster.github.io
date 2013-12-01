@@ -5,7 +5,6 @@ date: 2009-07-13 08:49:40+00:00
 layout: post
 slug: delayed-post-how-i-installed-windows-7-from-usb-hdd
 title: 'Delayed Post: How I Installed Windows 7 From USB HDD'
-wordpress_id: 154
 categories:
 - Instructional
 tags:
@@ -20,8 +19,6 @@ tags:
 As was noted in my [LENOVO ROCKS](http://www.andrewbolster.info/?p=151) post, I recieved a virgin hard drive for a laptop with no disk drives.
 
 This is a problem that has been[ long solved in Linux Distros](http://www.google.com/search?q=linux%20install%20from%20USB&hl=en&safe=off&num=100&output=search&tbs=tl:1&tbo=1) but is not so good for Windows, but i did find[ this brilliant guide by Sandip](http://www.blogsdna.com/2016/how-to-install-windows-7-from-usb-drive-without-windows-7-iso-dvd.htm) from earlier this year, i just wanted to point out a few difference that i made to the process that i think make it slightly more transparent whats going on.
-
-
 
 	
   1. Get a USB drive > 4GB
@@ -46,7 +43,6 @@ This is a problem that has been[ long solved in Linux Distros](http://www.google
 
 	
   8. Reboot and if you dont know how to boot from a USB drive, you probably arn't reading this, [but if not...](http://lmgtfy.com/?q=boot+from+usb)
-
 
 I know  there are alternative methods for doing this in Linux, but since i didnt use them in this instance, i cant comment on them.
 

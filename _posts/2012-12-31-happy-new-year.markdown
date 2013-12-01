@@ -5,7 +5,6 @@ date: 2012-12-31 23:59:22+00:00
 layout: post
 slug: happy-new-year
 title: Happy New Year
-wordpress_id: 850
 categories:
 - Commentary
 tags:

@@ -5,7 +5,6 @@ date: 2010-10-14 15:50:07+00:00
 layout: post
 slug: hackathon
 title: Hackathon
-wordpress_id: 537
 categories:
 - Commentary
 tags:

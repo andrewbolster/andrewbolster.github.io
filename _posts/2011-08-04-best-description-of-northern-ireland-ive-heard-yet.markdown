@@ -5,7 +5,6 @@ date: 2011-08-04 09:00:15+00:00
 layout: post
 slug: best-description-of-northern-ireland-ive-heard-yet
 title: Best Description of Northern Ireland I've heard yet
-wordpress_id: 654
 categories:
 - Commentary
 tags:
@@ -23,10 +22,9 @@ tags:
 - uvf
 ---
 
-[![Easter Rising-era Propaganda Postcard](http://www.andrewbolster.info/wp-content/uploads/2011/08/gal03-181x300.jpg)](http://www.bbc.co.uk/history/british/easterrising/gallery/gallery03.shtml)Northern Ireland, its history, and its current situation, are a guaranteed topic of conversation to any self-identifying Northern Irishman, especially one travelling around Europe. As I am neither a historian, a bigot, or particularly political, I don't know a whole pile of detail, so my explanations become rambling personal perspectives which I generally suspect make things less-clear; otherwise I dumb it down so much that the point is kinda mixed, usually ending something like 'its weird; its British, but we get to be Irish too, except without being quite so broke'. <!-- more -->
+[![Easter Rising-era Propaganda Postcard](http://www.andrewbolster.info/wp-content/uploads/2011/08/gal03-181x300.jpg)](http://www.bbc.co.uk/history/british/easterrising/gallery/gallery03.shtml)Northern Ireland, its history, and its current situation, are a guaranteed topic of conversation to any self-identifying Northern Irishman, especially one travelling around Europe. As I am neither a historian, a bigot, or particularly political, I don't know a whole pile of detail, so my explanations become rambling personal perspectives which I generally suspect make things less-clear; otherwise I dumb it down so much that the point is kinda mixed, usually ending something like 'its weird; its British, but we get to be Irish too, except without being quite so broke'. 
 
 On the[ site where I do most of my work](http://www.reddit.com), I came across an interesting [thread](http://www.reddit.com/r/explainlikeimfive/comments/j81fo/li5_the_iranorth_ireland/) that explains it better than I ever could.
-
 
 > Well, it's a long and wearing history going all the way back to the English invasion of Ireland in the 12th century by Henry II to provide land for his late-born and last son John (of Prince John in Robin Hood fame and later King John and the Magna Carta fame.)
 
@@ -41,9 +39,7 @@ If you want to read a good fictionalized account of the whole thing I recommend 
 **[HuxleyOrwell
 ](http://www.reddit.com/user/HuxleyOrwell)**
 
-
 As a small adjoinder, I feel that this comment/correction is also appropriate.
-
 
 > 
 
@@ -60,7 +56,6 @@ They're all murdering scumbags.
 <---- Northern Irish ex-pat
 
 **[Atothel](http://www.reddit.com/user/atothel)**
-
 
 So I hope that clears things up for everyone. If anyone else also does 'work' on that site, please deliver generous upboats to these fine gentlemen.
 

@@ -5,7 +5,6 @@ date: 2011-10-05 14:43:50+00:00
 layout: post
 slug: vim-latex-suite-install-on-ubuntu
 title: Vim Latex Suite Install on Ubuntu
-wordpress_id: 679
 categories:
 - Instructional
 tags:

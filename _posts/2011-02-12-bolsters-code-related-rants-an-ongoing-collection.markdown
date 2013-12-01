@@ -5,7 +5,6 @@ date: 2011-02-12 18:21:53+00:00
 layout: post
 slug: bolsters-code-related-rants-an-ongoing-collection
 title: Bolsters Code-Related Rants (An ongoing collection)
-wordpress_id: 573
 categories:
 - Commentary
 tags:
@@ -16,15 +15,13 @@ tags:
 - versioncontrol
 ---
 
-[caption id="" align="alignleft" width="223" caption="FFFFFFUUUUUUUU"]![FFFFFFUUUUUUUU](http://kissmyalas.com/wp-content/uploads/2010/05/RageFace.jpg)[/caption]
-
-
+![FFFFFFUUUUUUUU](http://kissmyalas.com/wp-content/uploads/2010/05/RageFace.jpg)
 
 	
   * Logging functions being called with just a variable and no comment as to **what the hell it is**
 
 	
-  * _logging_ has functions more than logging.info,** use them**.
+  * _logging_ has functions more than logging.info, **use them!**
 
 	
     * _Debug_ = **useful** information if something **breaks** but isn't interesting during normal operation
@@ -33,13 +30,10 @@ tags:
     * _info_ = useful and generally **interesting** information
 
 	
-    * _warn_ = something went **wrong**, indicating something should probably be refactored / fixed,_ but the system could recover from it_.
+    * _warn_ = something went **wrong**, indicating something should probably be refactored / fixed,_ but the system could recover from it._ 
 
 	
-    * _error = oh dear jesus fuck the entire site evaporated into a swarm of zombie locusts, I better put something in the error log._
-
-
-
+    * _error_ = **oh dear jesus fuck the entire site evaporated into a swarm of zombie locusts, I better put something in the error log.**
 
 	
   * Commented out historical code! Using a version control system means you can go back to **any** point in the history of the codebase and see how we used to do something; you don't need dozens of lines of extraneous code 'just in case'
@@ -49,6 +43,5 @@ tags:
 
 	
   * Non existent or orphan files; if you add a new file,`hg add $filename` before updating or committing, otherwise noone has any idea whats going on. Ditto removals of files, its `hg remove $filename ; rm $filename`, not the other way around.
-
 
 You guys got any to add? I'll be adding to this as I think of them... / come across them...

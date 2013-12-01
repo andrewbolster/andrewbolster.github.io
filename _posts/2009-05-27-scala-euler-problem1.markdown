@@ -5,7 +5,6 @@ date: 2009-05-27 13:44:10+00:00
 layout: post
 slug: scala-euler-problem1
 title: Scala-Euler Problem1
-wordpress_id: 135
 categories:
 - Commentary
 tags:
@@ -16,7 +15,6 @@ tags:
 
 Finished my approach to [Euler Problem 1 ](http://projecteuler.net/index.php?section=problems&id=1)last night and checked everything into [github](http://github.com/andrewbolster/Scala-Euler/blob/bc53f88a481354e65370e68d317219e9839e60ea/src/euler/Problem1.scala).
 
-
 > 
 
 > 
@@ -26,9 +24,7 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 
 Find the sum of all the multiples of 3 or 5 below 1000.
 
-
 Was not happy with limiting the specific factors of 3 and 5, and limit of 1000 so i implemented a generalised solution.
-
 
 > 
 
@@ -37,10 +33,7 @@ Was not happy with limiting the specific factors of 3 and 5, and limit of 1000 s
 > 
 > 
 
-
-
 Where fs is a List of integer factors and max is obv the highest limit. eg(Answer is in white font, so select the line "Answer" to see it
-
 
 > 
 
@@ -49,8 +42,6 @@ Where fs is a List of integer factors and max is obv the highest limit. eg(Answe
 >     >Answer: <span style="color: #ffffff;"><strong>233168</strong></span>
 > 
 > 
-
-
 
 Thanks to [@lichtsprung ](http://twitter.com/lichtsprung)for the testing help.
 

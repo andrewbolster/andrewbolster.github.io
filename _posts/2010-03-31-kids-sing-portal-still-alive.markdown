@@ -5,7 +5,6 @@ date: 2010-03-31 13:37:20+00:00
 layout: post
 slug: kids-sing-portal-still-alive
 title: Kids Sing Portal "Still Alive"
-wordpress_id: 313
 categories:
 - Commentary
 tags:

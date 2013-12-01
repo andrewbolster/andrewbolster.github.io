@@ -5,18 +5,11 @@ date: 2009-11-16 15:07:30+00:00
 layout: page
 slug: resume
 title: Resume
-wordpress_id: 150
 ---
 
-[![My Linkedin Profile](http://www.andrewbolster.info/wp-content/uploads/2009/11/linkedin-logo-150x150.jpg)](http://www.linkedin.com/in/andrewbolster)
-[![PDF](http://www.andrewbolster.info/wp-content/uploads/2009/11/pdf-logo-150x150.jpg)](http://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
-
+[My Linkedin Profile](http://www.linkedin.com/in/andrewbolster) - [PDF version](http://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
 
 # Press/Publications/Podcasts
-
-
-
-
 
 	
   * 18/2/12:[A Different Road](http://www.sciencedirect.com/science/article/pii/S0262407912604485) - New Scientist
@@ -63,14 +56,7 @@ wordpress_id: 150
 	
   * 5/9/13: [Experimenting with ICT in Belfast ](http://www.agendani.com/experimenting-with-ict-in-belfast/)- AgendaNI
 
-
-
-
 # Speaking Engagements / Panels
-
-
-
-
 
 	
   * 20/11/12: NISP - [Generation Innovation Awards Ceremony 2012](http://www.nisp.co.uk/top-entrepreneurs-inspire-next-generation/) - Speaking
@@ -86,5 +72,4 @@ wordpress_id: 150
 
 	
   * 24/10/13: [TEDxBelfast](http://www.tedxbelfast.com/) Dr Strange Sub or How I learned to stop worrying and accept Emergence - Speaking
-
 

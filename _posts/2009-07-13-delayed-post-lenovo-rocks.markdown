@@ -5,7 +5,6 @@ date: 2009-07-13 08:29:20+00:00
 layout: post
 slug: delayed-post-lenovo-rocks
 title: 'Delayed Post: LENOVO ROCKS'
-wordpress_id: 151
 categories:
 - Commentary
 - Instructional

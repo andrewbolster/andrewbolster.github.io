@@ -5,7 +5,6 @@ date: 2009-11-09 17:34:56+00:00
 layout: post
 slug: lenovo-not-so-rocking-anymore
 title: Lenovo, not so rocking anymore
-wordpress_id: 167
 ---
 
 This blog is starting to turn into a Lenovo ad, but this time, there are no good factors to my recent experience.
@@ -26,42 +25,19 @@ Of course, it doesnt take much to work out what happened; whoever replaced the m
 
 Not looking foward to sending it away for the sake of a few cables, I emailed lenovo the below;
 
-
 Hello
-
-
-
 
 I took delivery of this last week but haven't had a chance to set it up since then, and lo and behold, my wireless is now broken. Not boken as in non function, the kind of broken where i have to sit on top of my access point (i mean this literally) to get a wireless signal.
 
-
-
-
 Considering the repair docket states that the motherboard was replaced, this leads me to believe that one of your repair staff neglected to reconnect the wireless antenna after the replacement.
-
-
-
 
 I refuse to send the device away for another month to attach one cable. I would have expected more-than-cursory inspection of a full motherboard replacement.
 
-
-
-
 I now have a brilliant tablet with perfect battery life that is next to useless unless tethered.
-
-
-
 
 Please advise as to what can be done to resolve this.
 
-
-
-
 PS Is the replacement motherboard covered by a fresh warranty?
-
-
-
-
 
 Regards
 Andrew Bolster

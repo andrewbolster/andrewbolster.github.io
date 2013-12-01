@@ -5,7 +5,6 @@ date: 2010-07-24 16:55:38+00:00
 layout: post
 slug: citrix-web-client-with-ubuntu
 title: Citrix Web Client with Ubuntu
-wordpress_id: 480
 categories:
 - Instructional
 tags:
@@ -18,7 +17,7 @@ tags:
 
 [![Citrix Reciever Logo](http://www.andrewbolster.info/wp-content/uploads/2010/07/CRlogo.jpg)](http://www.andrewbolster.info/wp-content/uploads/2010/07/CRlogo.jpg)Ubuntu is one of those polarising technologies; Its really easy to use on a recreational basis, or as part of a institution/business wide rollout, but heartbreakingly awkward to use 'alone' within an entrenched business setting.
 
-<!-- more -->One such setting is that of Queen's University; the only form of secure remote access that is made (quietly) availiable is through a [Citrix XenApp gateway](https://offcampus.qub.ac.uk/). Great in theory; everyone can take a slice of a virtualized desktop, do whatever they need to do, and that processing power and memory can be easially reappropriated when they're done. Unfortunately, in an effort to be 'secure', you HAVE to use Windows, and you HAVE to have Internet Explorer installed, and you HAVE to install the propitiatory XenApp client.
+One such setting is that of Queen's University; the only form of secure remote access that is made (quietly) availiable is through a [Citrix XenApp gateway](https://offcampus.qub.ac.uk/). Great in theory; everyone can take a slice of a virtualized desktop, do whatever they need to do, and that processing power and memory can be easially reappropriated when they're done. Unfortunately, in an effort to be 'secure', you HAVE to use Windows, and you HAVE to have Internet Explorer installed, and you HAVE to install the propitiatory XenApp client.
 
 Since I don't have my completly legal [MSDNAA](http://msdn62.e-academy.com/elms/Storefront/Home.aspx?campus=quob_compsci)-provided Windows 7 ISO handy, I couldn't fire up a virtual machine to handle it, so I'm left with jerry rigging a solution using Citrix's crippled linux client.
 
@@ -38,25 +37,13 @@ For newer versions of the client, this path has moved to...
 
 ` /usr/lib/ICAClient/linuxx86/keystore/cacerts/`
 
-
 Thanks to Rudolf for pointing that out to me!
-
-
-
-
-
-
 
 And again, newer (12.1) appears in
 
-
 `/opt/Citrix/ICAClient/keystore/cacerts/`
 
-
 Now, even with all this setup, [Google Chrome](http://www.google.com/chrome) doesn't like the arrangement, but Firefox copes handily.
-
-
-
 
 **UPDATE 2011/11/09 **QUB appear to have changed their certificate authority (probably don't want to pay for it...) So [here](www.instantssl.com/ssl-certificate-support/cert_installation/UTN-USERFirst-Hardware.crt) is the new certificate to use (UTN-USERFirst-Hardware)
 
