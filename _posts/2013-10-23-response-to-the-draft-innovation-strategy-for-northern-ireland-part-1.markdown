@@ -93,5 +93,5 @@ I suppose in some spirit this is supposed to be a generalised document, but to m
 
 This is taking longer than I expected so I'll take this up after TEDx Belfast tomorrow, but my impression so far is that this strategy doesn't have any meat yet, and is not proposing the kind of sweeping revolutionary (rather than evolutionary) policy and attitudinal changes needed needed. This is the low hanging fruit of the "innovation" buzzword. It's boxticking and incremental adjustment. The past 30 years of public sector economic reliance aren't going to be fixed with public sector thinking...
 
-[Part 2 Continues the Ramble](http://www.andrewbolster.info/2013/11/response-to-the-draft-innovation-strategy-for-northern-ireland-part-2-knowledge-generation/)
+[Part 2 Continues the Ramble]({{ BASE_PATH }}/2013/11/response-to-the-draft-innovation-strategy-for-northern-ireland-part-2-knowledge-generation/)
 

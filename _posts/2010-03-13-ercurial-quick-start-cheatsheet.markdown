@@ -21,7 +21,7 @@ I hadn't used Mercurial before so I thought it might be a good idea to leave a r
 
 For tidyness, I do all of my dev-stuff ([Subversion](http://subversion.tigris.org/), [Mercurial](http://mercurial.selenic.com/), [CVS](http://www.nongnu.org/cvs/), [Git ](http://git-scm.com/)etc) under ~/src and only take root privileges when its needed; any good makefile should relocate the necessary files for you at the 'make install' or equivalent point.
 
-**Update:**This article was picked up by the guys at [DevCheatSheet.com](http://www.andrewbolster.info/goto/http://devcheatsheet.com/cheatsheet/1589/) and I'm really honoured to be included in a site that I've been dipping into over the years, so if you need any kind of cheat sheet or quick reference, I highly recommend checking them out. _Anyway..._
+**Update:**This article was picked up by the guys at [DevCheatSheet.com](http://devcheatsheet.com/cheatsheet/1589/) and I'm really honoured to be included in a site that I've been dipping into over the years, so if you need any kind of cheat sheet or quick reference, I highly recommend checking them out. _Anyway..._
 
 To start off, you should add some form of identification to your ~/.hgrc file
 

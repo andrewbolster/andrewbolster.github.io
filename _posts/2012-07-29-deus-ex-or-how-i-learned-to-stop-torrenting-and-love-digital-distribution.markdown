@@ -27,7 +27,7 @@ Today was such a day; I'd had my old memories of Deus Ex (Otherwise known as '[T
 
 [caption id="attachment_824" align="alignright" width="280"][![]({{ BASE_PATH}}/uploads/2012/07/485141.jpg)]({{ BASE_PATH}}/uploads/2012/07/485141.jpg) Yes Gabe, yes we do.[/caption]
 
-Now, the 'fly' in the ointment; I am a [Ubuntu](http://www.andrewbolster.info/tag/ubuntu/) guy. As such, any time you want to install something 'demanding', you do a quick google to find out if it'll work at all. Came across this [article](http://cybolic.wordpress.com/2012/01/07/howto-deus-ex-human-revolution-in-ubuntulinux/), and specifically, this phrase.
+Now, the 'fly' in the ointment; I am a [Ubuntu]({{ BASE_PATH }}/tag/ubuntu/) guy. As such, any time you want to install something 'demanding', you do a quick google to find out if it'll work at all. Came across this [article](http://cybolic.wordpress.com/2012/01/07/howto-deus-ex-human-revolution-in-ubuntulinux/), and specifically, this phrase.
 
 > Do whatever you would normally do; run the installer from the DVD or download it from Steam – just make sure you do it in a new prefix in Vineyard.
 

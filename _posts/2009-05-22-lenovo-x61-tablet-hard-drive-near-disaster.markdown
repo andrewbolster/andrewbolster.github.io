@@ -36,4 +36,4 @@ Fair enough, I'm one of those unlucky people, no worries, I'm sure i can just se
 
 Now, maybe i just wasnt paying attention and the firmware DID get updated while i wasnt looking, but either way its a very strange "Success" message....
 
-UPDATE: Problem got an awful lot worse but Lenovo treated me right, detailed [here ](http://www.andrewbolster.info/?p=151)
+UPDATE: Problem got an awful lot worse but Lenovo treated me right, detailed [here ]({{ BASE_PATH }}/?p=151)

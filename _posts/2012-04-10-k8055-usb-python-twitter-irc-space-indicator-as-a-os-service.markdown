@@ -100,7 +100,7 @@ Simple enough, but a process fruaght with stupid mistakes, such as:
   1. Download and install [python wrappers](http://python-k8055.sourceforge.net/) for the [Velleman K8055 USB interface board](http://www.velleman.eu/products/view/?country=be&lang=en&id=351346)
 
 	
-  2. Copy our customised (but highly customisable) python script that talks to IRC, [Twitter](http://www.andrewbolster.info/2012/04/python-oauth2-for-twitter-status-updates/), and the interface board
+  2. Copy our customised (but highly customisable) python script that talks to IRC, [Twitter]({{ BASE_PATH }}/2012/04/python-oauth2-for-twitter-status-updates/), and the interface board
 
 	
   3. Copy and install the Ubuntu Upstart conf file to use the script as a service

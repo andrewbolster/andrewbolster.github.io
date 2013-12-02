@@ -17,7 +17,7 @@ Eventually, I made the [call to Lenovo](http://www-307.ibm.com/pc/support/site.w
 
 Well, not really.
 
-The laptop had been out of action so long that the [Windows 7 RC](http://www.andrewbolster.info/2009/07/delayed-post-how-i-installed-windows-7-from-usb-hdd/) that I had been using had been deactivated, so laptop was essentially dead until I re-jigged it ([thankyouverymuch ](http://www.qub.ac.uk/schools/eeecs/Education/StudentStudyInformation/QUBMSDNAA/)Queens University/Microsoft).
+The laptop had been out of action so long that the [Windows 7 RC]({{ BASE_PATH }}/2009/07/delayed-post-how-i-installed-windows-7-from-usb-hdd/) that I had been using had been deactivated, so laptop was essentially dead until I re-jigged it ([thankyouverymuch ](http://www.qub.ac.uk/schools/eeecs/Education/StudentStudyInformation/QUBMSDNAA/)Queens University/Microsoft).
 
 When I did, something wasnt right, the wireless wasnt working :S. Hooked up to my network, downloaded all the updates and firmware upgrades I could find. Still no joy. Now, to clarify, the wireless WORKS, but you have to have the accesspoint up ones backside for it to be detected, with one 'bar'.
 

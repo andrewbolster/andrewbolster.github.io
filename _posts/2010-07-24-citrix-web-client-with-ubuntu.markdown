@@ -25,7 +25,7 @@ It all appears to be simple enough, even simpler than [UbuntuGuide](http://ubunt
 
 `sudo ./setupwfc`
 
-NOTE: only 32 bit clients are released, and in the case of Debian/RH based systems, you can force package installation to accept a 32 bit client on a 64 bit system. See [Here](http://www.andrewbolster.info/2011/09/force-32-bit-installs-on-64-bit-systems-debrpm/) for details.
+NOTE: only 32 bit clients are released, and in the case of Debian/RH based systems, you can force package installation to accept a 32 bit client on a 64 bit system. See [Here]({{ BASE_PATH }}/2011/09/force-32-bit-installs-on-64-bit-systems-debrpm/) for details.
 
 Now, in an ideal world, that SHOULD be it, but Queen's uses a CA (Certificate Authority) SSL Cert that isn't shipped by default with Ubuntu (Specifically [DigiCert High Assurance EV Root CA](https://www.digicert.com/digicert-root-certificates.htm)), so if you try and open up the Student Desktop link (that actually generates a launch.ica file) will crap out with "You have not chosen to trust the issuer of the server's security certificate."
 

@@ -42,7 +42,7 @@ tags:
   * Got selected to be one of the two UK projects within a Joint UK/FR Defence PhD Programme, which I accepted,
 
 	
-  * Saw fantastic growth in [QUESTS](http://quests.society.qub.ac.uk/) and the [Hacker^H^H^H^H^H^HMakerspace](http://www.andrewbolster.info/2011/04/why-belfast-needs-a-hackerspace/), including the beginning of a [Major project](http://quests.society.qub.ac.uk/index.php/2011/heliests-eeecs-funding-request-submitted/), which we got [EEECS](http://www.qub.ac.uk/schools/eeecs/) Funding for and are also hoping to get [QAF](http://www.qub.ac.uk/home/Alumni/SupportQueens/DonatingtoQueens/QueensAnnualFund/) funding for QUESTS in general,
+  * Saw fantastic growth in [QUESTS](http://quests.society.qub.ac.uk/) and the [Hacker^H^H^H^H^H^HMakerspace]({{ BASE_PATH }}/2011/04/why-belfast-needs-a-hackerspace/), including the beginning of a [Major project](http://quests.society.qub.ac.uk/index.php/2011/heliests-eeecs-funding-request-submitted/), which we got [EEECS](http://www.qub.ac.uk/schools/eeecs/) Funding for and are also hoping to get [QAF](http://www.qub.ac.uk/home/Alumni/SupportQueens/DonatingtoQueens/QueensAnnualFund/) funding for QUESTS in general,
 
 	
   * We are on track to get a actual space for the Makerspace circa Summer 2012,

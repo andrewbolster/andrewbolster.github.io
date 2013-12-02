@@ -60,4 +60,4 @@ XDG_VIDEOS_DIR="$HOME/Videos"
 {%endhighlight%}
 
 Changed desktop directory to home
-Made the Documents and Pictures directories reference the relevent [Dropbox](http://www.andrewbolster.info/2010/01/ubuntu-windows-sharing-a-dropbox-folder-on-ntfs/) folders
+Made the Documents and Pictures directories reference the relevent [Dropbox]({{ BASE_PATH }}/2010/01/ubuntu-windows-sharing-a-dropbox-folder-on-ntfs/) folders

@@ -19,7 +19,7 @@ tags:
 - programming
 ---
 
-As part of the whole [New Years Resolutions](http://www.andrewbolster.info/2009/12/new-years-resolutions/) plan, I'm gonna get started on the OSS development thing.
+As part of the whole [New Years Resolutions]({{ BASE_PATH }}/2009/12/new-years-resolutions/) plan, I'm gonna get started on the OSS development thing.
 
 The Gist: Cross Platform Mobile application to collect international data on cell reception.
 

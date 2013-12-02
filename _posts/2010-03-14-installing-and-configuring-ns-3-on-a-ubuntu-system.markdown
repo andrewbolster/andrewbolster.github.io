@@ -30,7 +30,7 @@ That will take a while to install so go get coffee.
 
 Once thats all finished, grab the source using [Mercurial](http://mercurial.selenic.com/) (it was installed in the command above). For tidyness, I do all of this under ~/src (If this was a multi-user system I would suggest working under /usr/src and performing the relevant steps as root or under [sudo](http://xkcd.com/149/))
 
-If you havent used Mercurial before, [check my post on the subject](http://www.andrewbolster.info/2010/03/ercurial-quick-start-cheatsheet/).
+If you havent used Mercurial before, [check my post on the subject]({{ BASE_PATH }}/2010/03/ercurial-quick-start-cheatsheet/).
 
 > 
 

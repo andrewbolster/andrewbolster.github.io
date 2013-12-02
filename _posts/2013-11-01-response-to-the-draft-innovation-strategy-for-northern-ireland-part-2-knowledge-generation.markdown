@@ -10,7 +10,7 @@ categories:
 - Commentary
 ---
 
-See [Part 1](http://www.andrewbolster.info/2013/10/response-to-the-draft-innovation-strategy-for-northern-ireland-part-1/) for an introduction to this series.
+See [Part 1]({{ BASE_PATH }}/2013/10/response-to-the-draft-innovation-strategy-for-northern-ireland-part-1/) for an introduction to this series.
 
 # Response to Part 1
 
@@ -106,7 +106,7 @@ Recognising the global nature both of the Knowledge Economy as a whole, and of t
 
 ## Enhancing Northern Ireland's World-Class Research Base
 
-This is an interesting section for me as an ex-ECIT researcher (reasons for leaving are [here](http://www.andrewbolster.info/2013/06/so-long-and-thanks-for-all-the-fish/)), which boasts [CSIT](http://csit.qub.ac.uk), the UK's largest cyber-security university lab, and I had the pleasure of working with some really talented and truly "world-class" researchers.
+This is an interesting section for me as an ex-ECIT researcher (reasons for leaving are [here]({{ BASE_PATH }}/2013/06/so-long-and-thanks-for-all-the-fish/)), which boasts [CSIT](http://csit.qub.ac.uk), the UK's largest cyber-security university lab, and I had the pleasure of working with some really talented and truly "world-class" researchers.
 
 The main take away from this section is the intention to double the number of DEL funded PhD studentships to 1000 by 2020 (I assume this is per annum but this isn't stated clearly), and specifically focusing 60% of these new studentships in "areas of economic relevance". Can't agree with that enough, however, the fly in the ointment in my experience is that it is extremely difficult to entice undergraduates just about to leave 3-4 years of studentship into postgraduate work when on the free market their current skills would net them a very healthy salary compared to the (tax free) sub-£15k salary most students get.
 
