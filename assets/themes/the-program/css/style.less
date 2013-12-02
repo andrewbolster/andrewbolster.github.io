@@ -8,7 +8,23 @@
 @subtle-bg: #515151;
 @main-font-color: #2d2d2d;
 @accent-color: #c26164;
+@bg-img: "/assets/themes/the-program/skin/background.jpg";
 
+.rounded-corners (@radius: 5px) {
+  -webkit-border-radius: @radius;
+  -moz-border-radius: @radius;
+  -ms-border-radius: @radius;
+  -o-border-radius: @radius;
+  border-radius: @radius;
+}
+
+.sidebar-effects {
+  background: url('@{noise-100-90-5}');
+  background-repeat: repeat;
+  background-position: 0 0;
+  background-color: rgba(226, 226, 222,0.6);
+  .rounded-corners(20px);
+}
 /* GLOBAL
 --------------------------------------------------------------------------------- */
 html {
@@ -16,10 +32,10 @@ html {
 }
 
 #page {
-	background: url('@{noise-100-90-5}');
-	background-repeat: repeat;
-	background-position: 0 0;
-	background-color: #e2e2de;
+	background: url('@{bg-img}');
+	background-repeat: no-repeat;
+	background-position: centre top;
+	background-attachment: fixed;
 }
 
 .body {
@@ -79,6 +95,7 @@ pre {
 			top: 2px;
 		}
 	}
+  .sidebar-effects;
 } // .the-header
 
 /* MAIN
@@ -306,6 +323,7 @@ pre {
 		clear: both;
 		p { margin-bottom: 0; }
 	}
+  .sidebar-effects;
 }
 
 @import "_mediaqueries.less";
