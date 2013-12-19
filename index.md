@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+title: Howdi, I'm Andrew, but most people call me Bolster
 ---
 {% include JB/setup %}
 
