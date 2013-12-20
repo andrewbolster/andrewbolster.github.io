@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /Private
+Disallow: /apis
+Disallow: /doc
+Disallow: /photos
+Disallow: /scraps
+Disallow: /*.zip$
+Disallow: /*.Zip$
+Disallow: /*.ZIP$
