@@ -90,3 +90,5 @@ He’s a recipient of the 2012 [Belfast Business Top 50](http://belfastmediagrou
 
 	
   * 24/10/13: [TEDxBelfast](http://www.tedxbelfast.com/) Dr Strange Sub or How I learned to stop worrying and accept Emergence - Speaking
+
+  * 5/12/13: [CXNI Creative Collaborative Futures](https://www.eventbrite.co.uk/e/cxni-creative-collaborative-futures-registration-9160616651) From Ceramics to 3D Printing: Discussing Maker Research Culture in Northern Ireland
