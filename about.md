@@ -10,7 +10,7 @@ title: About Me
 
 # Biography
 
-Andrew  is an accomplished technologist, founder of multiple technology-based groups and organisations, an award winning researcher, innovation community leader, and a consummate speaker.
+Andrew  is an accomplished technologist, founder of multiple technology-based groups and organisations, an award winning researcher, innovation community leader, and a consummate public speaker.
 
 By day, Andrew is a Researcher at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](http://ecit.qub.ac.uk) Institute) investigating Trust and Reputation in Marine Communications for Autonomous Systems of Systems under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](http://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
 
