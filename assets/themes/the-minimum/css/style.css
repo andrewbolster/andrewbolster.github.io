@@ -1,5 +1,6 @@
 @import "base.css";
 @import "module.css";
+@import "spinner.css";
 @import "syntaxhighlighter.css";
 @import "helper.css";
 /*
@@ -222,6 +223,11 @@ pre {
 .the-header .logo a:visited {
   color: #2d2d2d;
 }
+.the-header .tagline {
+  font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+  margin: 0;
+  color: #7851a9;
+}
 .the-header .nav-global {
   text-transform: uppercase;
 }
@@ -304,7 +310,7 @@ pre {
 .unit-article ul,
 .unit-article ol,
 .unit-article dl {
-  padding-left: 0;
+  padding-left: 2.25em;
 }
 .unit-article ul {
   list-style: square;

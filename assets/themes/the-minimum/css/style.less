@@ -1,6 +1,7 @@
 @import "base.css";
 @import "module.css";
 @import "_less-base.less";
+@import "spinner.css";
 
 /* LESS VARIABLES
 --------------------------------------------------------------------------------- */
@@ -60,6 +61,11 @@ pre {
 		margin: 0;
 		a:visited { color: @main-font-color; }
 	}
+  .tagline{
+    font-family: @webfont;
+    margin:0;
+    color: @accent-color;
+  }
 	.nav-global {
 		text-transform: uppercase;
 		.forkme {
@@ -129,7 +135,7 @@ pre {
 				margin-right: 0;
 			}
 		}
-		ul, ol, dl { padding-left: 0; }
+		ul, ol, dl { padding-left: 2.25em; }
 		ul { list-style: square; }
 		ol { list-style: decimal; }
 		li, dt, dd {

@@ -4,17 +4,16 @@ title: Howdi, I'm Andrew, but most people call me Bolster
 ---
 {% include JB/setup %}
 
-{% for post in site.posts limit: 10 %}
-<div class="row-fluid">
-  <div class="span12">
-    <a href="{{ post.url}}"><h2>{{ post.title }}</h2></a>
-    <h4>{{ post.date | date_to_long_string }}</h4>
-    <p>
-      {{ post.content | strip_html | truncatewords:75}}
-      <br/>
-      <a href="{{ post.url }}">Read Post</a>
-    </p>
-  </div>
-</div>
-{% endfor %}
+# I am on
+ * [Twitter](http://twitter.com/bolster)
+ * [Facebook](http://facebook.com/andrewbolster)
+ * [G+](https://plus.google.com/+AndrewBolster)
+ * [LinkedIn](http://www.linkedin.com/in/andrewbolster)
+ * [GitHub](http://www.github.com/andrewbolster)
+ * [Flickr](http://www.flickr.com/people/andrewbolster/)
 
+# I do
+  * PhD Researcher @ [University of Liverpool](http://liv.ac.uk)
+  * Associate @ TOM Ltd
+  * Director @ [Farset Labs](http://farsetlabs.org.uk)
+  * among [other things](/about)
