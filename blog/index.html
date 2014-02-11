@@ -5,17 +5,22 @@ group: navigation
 ---
 {% include JB/setup %}
 <div class="posts">
-{% for post in site.posts %}
+  {% for post in site.posts %}
   <div class="post">
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
     <p class="author">
-      <span class="date">{{ post.date  | date_to_string}}</span>
+    <span class="date">{{ post.date  | date_to_string}}</span>
     </p>
     <div class="content">
-      {{ post.content | strip_html | truncatewords:75}}
+      {% assign truncatedContent = '' %}
+      {% assign paragraphs = post.content | split:'</p>' %}
+      {% for paragraph in paragraphs limit:2 %}
+        {{ truncatedContent | append: paragraph }}
+        {{ truncatedContent | append: '</p>' }}
+      {% endfor %}
       <br/>
       <a href="{{ post.url }}">Read Post</a>
     </div>
   </div>
-{% endfor %}
+  {% endfor %}
 </div>
