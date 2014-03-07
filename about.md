@@ -23,7 +23,7 @@ He’s a recipient of the 2012 [Belfast Business Top 50](http://belfastmediagrou
 
 ## What's my Schedule?
 
-<iframe style="border-width: 0;" src="https://www.google.com/calendar/b/0/embed?src=me%40andrewbolster.info&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;ctz=Europe%2FLondon" height="600" scrolling="no" width="800" frameborder="0"></iframe>
+<iframe style="border-width: 0;" src="https://www.google.com/calendar/b/0/embed?src=me%40andrewbolster.info&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;ctz=Europe%2FLondon" height="600" scrolling="no" width="800" frameborder="0"> </iframe>
 
 [My Linkedin Profile](http://www.linkedin.com/in/andrewbolster) - [PDF version](http://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
 
