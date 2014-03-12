@@ -11,18 +11,6 @@ My work has be flittering between Python and Matlab recently, and lets say I'm n
 
 So I was happy to hear that [`octave`](http://www.gnu.org/software/octave/index.html), an open source, Matlab compatible analysis framework have started testing their GUI.
 
-# Update: 2/3/14 - Pretty Much Total Invalidation for most use cases
-
- 1. Have updated instructions for latest 3.8.1 stable install
- 2. Pretty much all of this can be ignored if you're not looking for custom compilation by using the [ppa:octave/stable](https://launchpad.net/~octave/+archive/stable),
-
-```
-sudo apt-add-repository ppa:octave/stable
-sudo apt-get update
-sudo apt-get install octave
-```
-
-Mint users will have to edit their `/etc/apt/sources.list.d/octave-stable-saucy.list` and change 'saucy' to 'precise', all appears to work fine, but if you're still looking to DIY, carry on!
 
 # Package Requirements
 ~~~ shell
@@ -33,7 +21,7 @@ sudo aptitude -y install gfortran libgfortran3-dbg-arm64-cross liblapack-dev lib
 # Download
 I used `/dev/shm` as the build directory as it's effectivly a RAM disk, but YMMV.
 
-`curl ftp://ftp.gnu.org/gnu/octave/octave-3.8.0.tar.gz | tar -xvzf - -C /dev/shm/; cd /dev/shm`
+`curl ftp://ftp.gnu.org/gnu/octave/octave-3.8.1.tar.gz | tar -xvzf - -C /dev/shm/; cd /dev/shm`
 
 # Configure
 
