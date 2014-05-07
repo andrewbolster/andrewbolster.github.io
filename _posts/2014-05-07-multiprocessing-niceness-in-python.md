@@ -31,9 +31,9 @@ First part is a handy way to make sure that your subprocess simulations actually
 
 But, simple enough `os.nice` call. I reads like it says "Set the niceness value of this process to 5".
 
-It does not. if _[Increments](https://docs.python.org/2/library/os.html#os.nice)_ the niceness value. (And returns the new value)
+It does not, it _[Increments](https://docs.python.org/2/library/os.html#os.nice)_ the niceness value. (And returns the new value)
 
-This means that after a few repeated iterations of this simulation, my processes end up with the maximum niceness (i.e. least priority) of 19. Whis is not ideal.
+This means that after a few repeated iterations of this simulation, my processes end up with the maximum niceness (i.e. least priority) of 19. Which is not ideal.
 
 Simple enough fix however; swap the `os.nice(5)` call with:
 
