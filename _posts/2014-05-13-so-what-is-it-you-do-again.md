@@ -134,13 +134,13 @@ In a simple port protection scenario, where nodes are patrolling around a series
 [![Behaviour Metric Comparison](/img/Behaviour Metric Comparison_700.png)](/img/Behaviour Metric Comparison.png)
 
 
-Each verticle of this chart shows a different behaviour; with the baseline waypointing behaviour in the middle, flanked on the left by the malicious “Shadow” behaviour and on the right by the benign but sub-optimal “Slowcoach” behaviour. The per-node metrics as described are shown in the horizontal, with Internode Heading Deviation at the top, Speed in the Middle and Distance Deviation at the bottom.
+Each vertical of this chart shows a different behaviour; with the baseline waypointing behaviour in the middle, flanked on the left by the malicious “Shadow” behaviour and on the right by the benign but sub-optimal “Slowcoach” behaviour. The per-node metrics as described are shown in the horizontal, with Internode Heading Deviation at the top, Speed in the Middle and Distance Deviation at the bottom.
 
 Green shaded regions are correctly detected per-metric deviations, and Red shaded areas highlight sections of the graph where a per-metric “false positive” would have been reported, i.e. a normal node deviating outside the limits of that metric. Looking at it, it’s a mess.
 
 [![Behaviour Fusion](/img/Behaviour Fusion_700.png)](/img/Behaviour Fusion.png)
 
-This second graph shows the proportional deviation from the average of each metric rather than the raw values for the first three row, which is significantly clearer as to who is misbehavion, especially in the case of the Inter node distance deviation, which shows the yellow and blue nodes respectively as being outliers.  Applying the trust assessment as described previously, to the bottom row, of the chart, we can see the benefit of the exponential window on the false positive rate. 
+This second graph shows the proportional deviation from the average of each metric rather than the raw values for the first three row, which is significantly clearer as to who is misbehaviour, especially in the case of the Inter node distance deviation, which shows the yellow and blue nodes respectively as being outliers.  Applying the trust assessment as described previously, to the bottom row, of the chart, we can see the benefit of the exponential window on the false positive rate. 
 
 With this chart it’s possible to see, despite the colour and resolution, that the slowcoach behaviour manifests itself in the Speed metric as we can see here and here. Using this information we can build a trust weight vector to discriminate between these two ostensibly similar behaviours. With our current analysis we can do so with an average 97% positive identification rate with no false positives, i.e. no instances where a Slowcoach is detected as a Shadow and visa versa. 
 
@@ -168,7 +168,7 @@ The curve is due to variation in the speed of sound in water at varying depths, 
 
 Interesting sidenote; original matlab (not written by me) implementation was 8 seconds for each single execution stand alone. This however is calculated (for an 8 hour mission) around about 350,000 times for one simulation run, so after massaging with python and a few other tools, managed to bring down the single execution time to around half a second, which along with some memoisation techniques and other magicks leaves a total execution time of around 5-8 minutes.
 
-Still, since we're dealing with normally distributed effects, we need a statistical sample.... meaning that my simulation runs currently take arount 19 hours depending on what range of variables are under test at the time. They end up making pretty graphs like this. 
+Still, since we're dealing with normally distributed effects, we need a statistical sample.... meaning that my simulation runs currently take around 19 hours depending on what range of variables are under test at the time. They end up making pretty graphs like this. 
 
 ![UUVDriftAnalysis](/img/uuvdriftanalysis.png)
 
