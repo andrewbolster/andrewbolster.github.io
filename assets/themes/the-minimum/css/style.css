@@ -528,17 +528,17 @@ pre {
   color: rgba(250, 250, 250, 0.8);
   padding-bottom: 1.625em;
 }
+.the-footer a {
+  color: #fafafa;
+}
 .the-footer a:link {
-  color: #7851a9;
-  border: 0;
+  border-bottom: 1px dotted #7851a9;
 }
 .the-footer a:visited {
-  color: #604087;
-  border: 0;
+  border-bottom: 1px dotted #604087;
 }
 .the-footer a:hover {
-  color: #9272bb;
-  border: 0;
+  border-bottom: 1px dotted #9272bb;
 }
 .the-footer ul {
   list-style: square;
