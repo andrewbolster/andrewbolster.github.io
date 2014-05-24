@@ -230,10 +230,65 @@ pre {
 }
 .the-header .nav-global {
   text-transform: uppercase;
+  border-bottom: 1px dotted #7851a9;
 }
 .the-header .nav-global .forkme {
   position: relative;
   top: 2px;
+}
+/* FORKONGITHUB
+--------------------------------------------------------------------------------- */
+#forkongithub a {
+  background: #7851a9;
+  color: #2d2d2d;
+  text-decoration: none;
+  font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+  text-align: center;
+  font-weight: bold;
+  padding: 5px 40px;
+  font-size: 1rem;
+  line-height: 2rem;
+  position: relative;
+  transition: 0.5s;
+}
+#forkongithub a:hover {
+  color: #141414;
+  background: #9272bb;
+}
+#forkongithub a::before,
+#forkongithub a::after {
+  content: "";
+  width: 100%;
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: 0;
+  height: 1px;
+  background: #fff;
+}
+#forkongithub a::after {
+  bottom: 1px;
+  top: auto;
+}
+@media screen and (min-width: 800px) {
+  #forkongithub {
+    position: absolute;
+    display: block;
+    top: 0;
+    right: 0;
+    width: 200px;
+    overflow: hidden;
+    height: 200px;
+  }
+  #forkongithub a {
+    width: 200px;
+    position: absolute;
+    top: 60px;
+    right: -60px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    box-shadow: 4px 4px 10px rgba(120, 81, 169, 0.5);
+  }
 }
 /* MAIN
 --------------------------------------------------------------------------------- */
