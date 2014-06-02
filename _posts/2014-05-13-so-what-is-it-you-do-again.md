@@ -7,6 +7,8 @@ tags: []
 ---
 {% include JB/setup %}
 
+_Update:_ I got asked to do a simplified version of this post for the University of Liverpool, it lives [here](http://news.liv.ac.uk/2014/06/02/becoming-an-expert-andrew-bolster-on-suspicious-submarines/) ([Backup](/uploads/2014/becominganexpert.pdf))
+
 I'm technically in a third year of a PhD, and most of the time, when someone asks me what it is I'm actually doing, I fluff it and say something about "autonomous submarines" or "collaborative autonomy" or "Emergent properties of communities" or something similarly vague.
 
 In the spirit of setting the record straight in a less-academic way, I thought it'd be worth while to edit a presentation I recently made to the Association for the Advancement of Artificial Intelligence last month in Stanford and make it a little more digestible. 
