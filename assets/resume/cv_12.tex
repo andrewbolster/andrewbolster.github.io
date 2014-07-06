@@ -30,8 +30,8 @@
 \lastupdated % Print the Last Updated text at the top right
 
 \namesection{${( profile.firstName )}$}{${( profile.lastName )}$}{ % Your name
-\urlstyle{same}\url{${( profile.url )}$} \\ % Your website, LinkedIn profile or other web address
-\href{mailto:${( profile.email)}$}{${(profile.email )}$} | ${( profile.mobile )}$ % Your contact information
+\urlstyle{same}\url{${( profile.urls.personal )}$} \\ % Your website, LinkedIn profile or other web address
+\href{mailto:${( profile.emailAddress)}$}{${(profile.emailAddress )}$} | ${( profile.phoneNumbers.mobile )}$ % Your contact information
 }
 
 %----------------------------------------------------------------------------------------
@@ -45,8 +45,8 @@
 %------------------------------------------------
 
 \section{Education} 
-${* for edu in education *}$
-\subsection{${( edu.institution )}$}
+${* for edu in profile.educations *}$
+\subsection{${( edu )}$}
 
 \descript{MEng in Computer Science}
 \location{Expected Dec 2014 | Ithaca, NY \\ Cum. GPA: N/A}
