@@ -74,6 +74,16 @@ I'm a recipient of the 2012 [Belfast Business Top 50](http://belfastmediagroup.c
 	
   * 5/9/13: [Experimenting with ICT in Belfast ](http://www.agendani.com/experimenting-with-ict-in-belfast/)- AgendaNI
 
+  * 22/4/12: [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697) - Association for the Advancement of Artificial Intelligence Spring Symposium
+
+  * 2/6/14: [Becoming an Expert](http://news.liv.ac.uk/2014/06/02/becoming-an-expert-andrew-bolster-on-suspicious-submarines/) Andrew Bolster on Suspicious Submarines - University of Liverpool
+
+  * 20/8/14: [GPS III: Where Are We? And Where Are We Going?](http://www.makeuseof.com/tag/gps-iii-going/) - MakeUseOf
+
+  * 19/9/14: [How to Optical and Quantum Computers work?](http://www.makeuseof.com/tag/optical-quantum-computers-work/) - MakeUseOf
+
+
+
 # Speaking Engagements / Panels
 
 	
@@ -92,3 +102,5 @@ I'm a recipient of the 2012 [Belfast Business Top 50](http://belfastmediagroup.c
   * 24/10/13: [TEDxBelfast](http://www.tedxbelfast.com/) Dr Strange Sub or How I learned to stop worrying and accept Emergence - Speaking
 
   * 5/12/13: [CXNI Creative Collaborative Futures](https://www.eventbrite.co.uk/e/cxni-creative-collaborative-futures-registration-9160616651) From Ceramics to 3D Printing: Discussing Maker Research Culture in Northern Ireland
+
+  * 30/9/14: [InterTradeIreland All-Island Innovation Conference](http://www.ucd.ie/innovation/newsevents/events/2014/september/intertradeireland2014all-islandinnovationconference/) Permitting the Creative Insanity of Your Community
