@@ -7,6 +7,8 @@ slug: resume
 group: navigation
 title: Resume
 ---
+![]({{site.author.profileimg }})
+
 # {{ site.author.name }}
 
  * [me@andrewbolster.info](mailto:me@andrewbolster.info)
