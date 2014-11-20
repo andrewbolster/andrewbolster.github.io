@@ -2,6 +2,19 @@
 * { margin: 0; padding: 0; }
 
 body { color: #333333; line-height: 1.4em; background-color: #F9F9F9; font-family: serif; font-size: 0.9em; }
+body { font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;}
+/* Junction Font
+ * http://www.theleagueofmoveabletype.com/
+ * Using for Logo and headers
+*/
+@font-face {
+  font-family: 'junctionregularRegular';
+  src: url('/assets/font/Junction-webfont.eot');
+  src: url('/assets/font/Junction-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/font/Junction-webfont.woff') format('woff'), url('/assets/font/Junction-webfont.ttf') format('truetype'), url('/assets/font/Junction-webfont.svg#junctionregularRegular') format('svg');
+  font-weight: normal !important;
+  font-style: normal;
+}
+
 
 /** Fix float problem. http://www.positioniseverything.net/easyclearing.html */
 .clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
@@ -10,11 +23,11 @@ body { color: #333333; line-height: 1.4em; background-color: #F9F9F9; font-famil
 
 #resume { width: 800px; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; }
 #resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0; }
-#resume h1 { font-size: 170%; border-top: 4px solid #E0E0E0; padding-top: 0.5em; margin-top: 1.5em; }
+#resume h1 { font-size: 170%; padding-top: 0.5em; margin-top: 1.5em; }
 #resume h1:first-child { margin-top: 30px; padding-top: 0.25em; border-top: none; font-size: 200%; }
-#resume h2 { font-size: 150%; margin-top: 1.5em; border-top: 4px solid #E0E0E0; padding-top: 0.5em; }
+#resume h2 { font-size: 150%; margin-top: 1.5em; padding-top: 0.5em; }
 #resume h3 { margin-top: 1em; }
-#resume p { margin: 1em 0; line-height: auto; }
+#resume p { margin: 1em 0; line-height: 1.3em; }
 #resume ul, #resume ol { margin: 1em 0 1em 2em; }
 #resume ul li, #resume ol li { margin-top: 0.3em; margin-bottom: 0.3em; }
 #resume ul ul, #resume ul ol, #resume ol ul, #resume ol ol { margin-top: 0; margin-bottom: 0; }
@@ -25,5 +38,19 @@ body { color: #333333; line-height: 1.4em; background-color: #F9F9F9; font-famil
 #resume blockquote { margin: 1em 0; border-left: 5px solid #E0E0E0; padding-left: 0.6em; color: #333333; }
 #resume dt { font-weight: bold; margin-left: 1em; }
 #resume dd { margin-left: 2em; margin-bottom: 1em; }
+#resume h1,h2,h3,h4,h5,h6 {
+  font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+font-weight: bold;}
+#resume h2 {
+  text-align: center;
+  color: #2d2d2d;
+  text-shadow: 2px 2px #9272bb;
+  background: url('/assets/skin/100-90-5-monochrome.png');
+  background-repeat: repeat;
+  background-position: 0 0;
+  background-color: #7851a9;
+  padding-bottom: 1em;
+}
+
 
 /*# sourceMappingURL=style.css.map */
