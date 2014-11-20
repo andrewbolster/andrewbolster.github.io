@@ -88,7 +88,7 @@ Application of technical knowledge and experience around Social Marketing and Cu
 
 ### Ericsson LMI, Athlone, ROI
 
-####Summer Secondment: Software Test Engineer (2008 - 2009)
+#### Year in Industry: Software Test Engineer (2008 - 2009)
 
 Working to streamline the product release cycle from a waterfall style development to a more Agile, incremental system. In my work i have reduced release testing time from three days to half an hour, with fully automated reporting for a Proprietary client application. I later moved on to server-side performance benchmarking for multi-gigabyte aggregation applications built on MySQL. During this time, I implemented testing strategies not only for the client devices, but also for that test suite itself, and a 'watchdog' system for the server-side processing; this was very useful as during my time at Ericsson, they made the migration from Solaris SPARC to Solaris x86, and my automated testing systems greatly sped up the integration testing of the migration.
 
