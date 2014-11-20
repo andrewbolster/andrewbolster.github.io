@@ -226,11 +226,11 @@ pre {
 .the-header .tagline {
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   margin: 0;
-  color: #7851a9;
+  color: #9b59b6;
 }
 .the-header .nav-global {
   text-transform: uppercase;
-  border-bottom: 1px dotted #7851a9;
+  border-bottom: 1px dotted #9b59b6;
 }
 .the-header .nav-global .forkme {
   position: relative;
@@ -239,7 +239,7 @@ pre {
 /* FORKONGITHUB
 --------------------------------------------------------------------------------- */
 #forkongithub a {
-  background: #7851a9;
+  background: #9b59b6;
   color: #2d2d2d;
   text-decoration: none;
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
@@ -253,7 +253,7 @@ pre {
 }
 #forkongithub a:hover {
   color: #141414;
-  background: #9272bb;
+  background: #b07cc6;
 }
 #forkongithub a::before,
 #forkongithub a::after {
@@ -296,14 +296,14 @@ pre {
   background: url('/assets/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #7851a9;
+  background-color: #9b59b6;
   margin-bottom: 1.625em;
   padding-top: 1.625em;
   padding-bottom: 1.625em;
 }
 .unit-article header h1 {
   color: #2d2d2d;
-  text-shadow: 2px 2px #9272bb;
+  text-shadow: 2px 2px #b07cc6;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -346,13 +346,13 @@ pre {
   margin-top: 0;
 }
 .unit-article a:link {
-  border-bottom: 1px dotted #7851a9;
+  border-bottom: 1px dotted #9b59b6;
 }
 .unit-article a:visited {
-  border-bottom: 1px dotted #604087;
+  border-bottom: 1px dotted #804399;
 }
 .unit-article a:hover {
-  border-bottom: 1px dotted #9272bb;
+  border-bottom: 1px dotted #b07cc6;
 }
 .unit-article blockquote {
   border-left: 1em solid rgba(21, 25, 25, 0.8);
@@ -601,13 +601,13 @@ pre {
   color: #fafafa;
 }
 .the-footer a:link {
-  border-bottom: 1px dotted #7851a9;
+  border-bottom: 1px dotted #9b59b6;
 }
 .the-footer a:visited {
-  border-bottom: 1px dotted #604087;
+  border-bottom: 1px dotted #804399;
 }
 .the-footer a:hover {
-  border-bottom: 1px dotted #9272bb;
+  border-bottom: 1px dotted #b07cc6;
 }
 .the-footer ul {
   list-style: square;

@@ -6,6 +6,5 @@ title: Howdi, I'm Andrew, but most people call me Bolster
 
 # I am
   * PhD Researcher @ [University of Liverpool](http://liv.ac.uk)
-  * Associate @ TOM Ltd
   * Director @ [Farset Labs](http://farsetlabs.org.uk)
   * among [other things](/about)
