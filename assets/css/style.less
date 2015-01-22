@@ -134,6 +134,19 @@ pre {
 
 /* MAIN
 --------------------------------------------------------------------------------- */
+html,body{
+  margin: 0;
+  padding: 0;
+  height: 100%
+}
+#page{
+  position: relative;
+  margin-top: -28px;
+  min-height: 100%;
+}
+.body {
+  padding-bottom: 110px;   /* Height of the footer */
+}
 .unit-article {
 
 		header {
@@ -259,7 +272,6 @@ pre {
 			}
 			padding-top: @line-height / @em;
 			padding-bottom: @line-height / @em;
-			position: relative;
 			nav ul {
 				list-style: none;
 				li { display: inline; }
@@ -368,11 +380,17 @@ pre {
 /* FOOTER
 ----------------------------------------------- */
 .the-footer {
-	background-color: #1a1a1a;
-	background-color: rgba(21, 25, 25, 0.8);
-	color: #fafafa;
+  height: 110px;
+  position: absolute;
+  padding-top: 10px;
+  bottom: 0;
+  width: 100%;
+  vertical-align: bottom;
+  background: -webkit-linear-gradient(rgba(21, 25, 25, 0.2), rgba(21, 25, 25, 1)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(rgba(21, 25, 25, 0.2), rgba(21, 25, 25, 1)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(rgba(21, 25, 25, 0.2), rgba(21, 25, 25, 1)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(rgba(21, 25, 25, 0.2), rgba(21, 25, 25, 1)); /* Standard syntax */
 	color: rgba(250, 250, 250, 0.8);
-	padding-bottom: @line-height / @em;
 	a {
     color: #fafafa;
     &:link { border-bottom: 1px dotted @accent-color; }
