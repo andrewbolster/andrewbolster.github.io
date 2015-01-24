@@ -10,6 +10,8 @@
 @main-font-color: @base03;
 @accent-color: #9b59b6;
 
+@import "_layout.less";
+
 /* GLOBAL
 --------------------------------------------------------------------------------- */
 html {
@@ -145,7 +147,7 @@ html,body{
   min-height: 100%;
 }
 .body {
-  padding-bottom: 110px;   /* Height of the footer */
+  padding-bottom: 5 * (@line-height / @em) ; // Footer
 }
 .unit-article {
 
@@ -162,10 +164,15 @@ html,body{
         text-shadow: 2px 2px lighten(@accent-color, 10%);
 				margin-top: 0;
 				margin-bottom: 0;
+        text-align: center;
 			}
+      box-shadow:4px 4px 10px rgba(120,81,169,0.5);
 		} // .article-inner header
 
 		.entry-content {
+			h1, h2, h3, h4, h5, h6 {
+        text-align: center;
+      }
 			h2, h3, h4, h5, h6 {
 				color: @main-font-color;
 				a {
@@ -380,19 +387,21 @@ html,body{
 /* FOOTER
 ----------------------------------------------- */
 .the-footer {
-  height: 110px;
+  height: 60px;
   position: absolute;
-  padding-top: 10px;
+  padding-top: 40px;
   bottom: 0;
   width: 100%;
-  vertical-align: bottom;
-  background: -webkit-linear-gradient(rgba(21, 25, 25, 0.2), rgba(21, 25, 25, 1)); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(rgba(21, 25, 25, 0.2), rgba(21, 25, 25, 1)); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(rgba(21, 25, 25, 0.2), rgba(21, 25, 25, 1)); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(rgba(21, 25, 25, 0.2), rgba(21, 25, 25, 1)); /* Standard syntax */
-	color: rgba(250, 250, 250, 0.8);
+	font-family: @webfont;
+	font-weight: bold;
+  
+  background: -webkit-linear-gradient(white, rgba(21, 25, 25, 1)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(white, rgba(21, 25, 25, 1)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(white, rgba(21, 25, 25, 1)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(white, rgba(21, 25, 25, 1)); /* Standard syntax */
+	color: rgba(250, 250, 250, 0.7);
 	a {
-    color: #fafafa;
+    color: #fff;
     &:link { border-bottom: 1px dotted @accent-color; }
     &:visited { border-bottom: 1px dotted darken(@accent-color, 10%); }
     &:hover { border-bottom: 1px dotted lighten(@accent-color, 10%); }
@@ -402,12 +411,59 @@ html,body{
 		padding-left: 1em;
 	}
 	address { font-style: normal; }
-	.license {
+	.licence {
 		clear: both;
+    vertical-align: bottom;
+    text-align: center;
 		p { margin-bottom: 0; }
 	}
+  .author {
+    color: #fff;
+  }
+}
+.page-foot {  
+  padding-top: 0;
+  padding-bottom: (@line-height / @em) ;
+  width: 100%;
+  vertical-align: top;
+  background: url('@{noise-100-90-5}');
+  background-repeat: repeat;
+  background-position: 0 0;
+  background-color: @accent-color;
+  box-shadow:4px 4px 10px rgba(120,81,169,0.5);
+  color: @main-font-color;
+  text-shadow: 1px 1px lighten(@accent-color, 10%);
+	font-family: @webfont;
+	font-weight: bold;
+  a {
+    &:link {
+      color: @main-font-color;
+      border: 0;
+    }
+    &:visited {
+      color: darken(@main-font-color, 10%);
+      border: 0;
+    }
+    &:hover {
+      color: lighten(@main-font-color, 10%);
+      border: 0;
+    }
+  }
+  nav ul {
+    list-style: none outside;
+    padding: 5px;
+    .next {
+      text-align: right;
+    }
+    .prev {
+      text-align: left;
+    }
+  }
+
 }
 
-@import "_layout.less";
+.align-center {
+  text-align: center;
+}
 @import "syntaxhighlighter.css";
 @import "helper.css";
