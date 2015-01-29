@@ -13,7 +13,6 @@ title: Resume
 
  * [me@andrewbolster.info](mailto:me@andrewbolster.info)
  * [bolster@tomltd.co.uk](mailto:bolster@tomltd.co.uk)
- * [bolster@liv.ac.uk](mailto:bolster@liv.ac.uk)
  * [(+44) 07783249547](tel:+447783249547)
 
 ## Background
@@ -48,7 +47,7 @@ Public Speaking, Presentation Developement, Collaboration Facilitation, Event Mg
 
 ### TOM Ltd, Belfast / Liverpool, UK
 
-####Associate / Product Manager (PT 2012 - Present)
+####Associate / Product Manager (PT 2012 - 2014)
 
 Traffic Observation and Management is a university spin-out company specialising in advanced wireless security systems for the public hotspot and payments services industries.
 
