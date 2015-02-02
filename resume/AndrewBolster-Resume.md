@@ -12,7 +12,7 @@ title: Resume
 # Andrew Bolster
 
  * [me@andrewbolster.info](mailto:me@andrewbolster.info)
- * [bolster@tomltd.co.uk](mailto:bolster@tomltd.co.uk)
+ * [bolster@liv.ac.uk](mailto:bolster@liv.ac.uk)
  * [(+44) 07783249547](tel:+447783249547)
 
 ## Background
