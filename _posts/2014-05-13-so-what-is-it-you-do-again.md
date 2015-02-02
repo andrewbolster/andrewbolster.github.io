@@ -13,7 +13,7 @@ I'm technically in a third year of a PhD, and most of the time, when someone ask
 
 In the spirit of setting the record straight in a less-academic way, I thought it'd be worth while to edit a presentation I recently made to the Association for the Advancement of Artificial Intelligence last month in Stanford and make it a little more digestible. 
 
-I'm always happy to discuss the ideas, impacts, or problems with my work, especially from strange and wonderful angles, so gimmme a shout on any of the normal ways!
+I'm always happy to discuss the ideas, impacts, or problems with my work, especially from strange and wonderful angles, so gimme a shout on any of the normal ways!
 
 # Introduction
 
@@ -25,7 +25,7 @@ Specifically, we’ve been looking at the relationships between physical behavio
 
 To begin with, it’s important to clarify what we’ve considered to be the definition of “Trust”. It’s a word that gets used a lot in many different ways. 
 
-Mirriam Webster’s Dictionary defines trust as “assured reliance on the character, ability, strength, or truth of someone or something”, and this rather far reaching definition is very attractive to distributed network design as an invaluable area of information to inform autonomous actors, or nodes, to the ‘best’ courses and paths to action. 
+Merriam Webster’s Dictionary defines trust as “assured reliance on the character, ability, strength, or truth of someone or something”, and this rather far reaching definition is very attractive to distributed network design as an invaluable area of information to inform autonomous actors, or nodes, to the ‘best’ courses and paths to action. 
 
 Within this context, we define trust as “The Expectation of an actor performing a certain task or range of tasks within a certain confidence or probability”. In the real world use-case of deployable autonomous systems for survey or other application, this trust can take on two real forms; 
 
@@ -62,7 +62,7 @@ Finally, an operation of most Trust Management Frameworks is the decay of Trust 
 
 These behaviours taken together can provide powerful risk mitigation against a large family of network-based attacks such as Black and Gray hole attacks where packets are selectively dropped based on timing or the node sending a packet, causing that sender to be observed as a ‘bad node’ by the rest of the network, or attacks on the optimality of the routing structures of the network, or simply being selfish and not playing ball with the rest of the group.
 
-# Trust assessment and mult-metric sensing
+# Trust assessment and multi-metric sensing
 
 As stated, most existing Trust Management Frameworks are predicated on the communications behaviour of the nodes within the network, or by explicit certification by a central or trusted authority at runtime in the case of PKI and Resurrecting Duckling, or in the case of Evidence Based Trust, having a pre-shared cryptographic key provided a priori to deployment. While these are all valid approaches, the reliance on a centralised or pre-defined authority provides a weak-spot in the networks security if that ‘authority’ is subverted, hence the justification for the use of a truly decentralised Trust Management Framework such as CONFIDANT as proposed by Sonja Buchesgger[^confidant], which was based on layering trust assessments over Dynamic Source Routing, or Objective Trust Management Framework as proposed by Li in 2007[^li2007], which led the charge in terms of using multiple values to categorise trust, in this case ‘trust’ and ‘confidence’.
 
