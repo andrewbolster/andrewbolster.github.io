@@ -14,6 +14,7 @@ title: Resume
  * [me@andrewbolster.info](mailto:me@andrewbolster.info)
  * [bolster@liv.ac.uk](mailto:bolster@liv.ac.uk)
  * [(+44) 07783249547](tel:+447783249547)
+ * [andrewbolster.info](http://andrewbolster.info)
 
 ## Background
 
@@ -37,11 +38,12 @@ Software Engineering, Embedded Systems, IoT, Linux/UNIX, Python, C/C++, Java, Ne
 Public Speaking, Presentation Developement, Collaboration Facilitation, Event Mgmt., Project Mgmt., Marketing Strategy, Social Engagement Strategy, Operational Workflow Development, STEM Outreach.
 
 ## Publications
-* [Analysis of Trust Interfaces in Autonomous and Semi-Autonomous Collaborative MHPC Operations](), The Technical Cooperation Program, Technical Report TR-C3I-06-2014, May 14, 2014
+* [Analysis of Trust Interfaces in Autonomous and Semi-Autonomous Collaborative MHPC Operations](), The Technical Cooperation Program, Technical Report TR-C3I-06-2014, May 14, 2014 *not publically available*
 * [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697), AAAI Spring Symposium Series, March 2014
 *  [GPS III: Where are we and Where are we going?](http://www.makeuseof.com/tag/gps-iii-going/), MakeUseOf
 *  [How do Optical and Quantum Computers work?](http://www.makeuseof.com/tag/optical-quantum-computers-work/), MakeUseOf
 *  [How The Future Gigabit Internet Is Likely To Play Out](http://www.makeuseof.com/tag/future-gigabit-internet-likely-play/), MakeUseOf
+*  [High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL](https://github.com/andrewbolster/multiuserDSM/raw/master/Dissertation/FINALFINAL.pdf), MEng Thesis, 2011
 
 ## Experience
 
@@ -57,6 +59,8 @@ In addition, as part of a Centre for Defence Enterprise (UK) call, took part in 
 
 ### Farset Labs, Belfast, UK
 
+![](/img/farsetlabs.png)
+
 ####Founder/Director (PT 2011 - Present)
 
 Created Farset Labs in response to a demonstrated need for an independent, non-profit, charitable community of technology innovators, providing them a open space and shared resources to experiment, explore, and grow themselves, their projects, and relationships with local and global business. 
@@ -66,6 +70,8 @@ Building Farset Labs as a hub for the tech community in Belfast and Northern Ire
 Currently Farset Labs stands as a valued part of the technology, entrepreneurship, and STEM outreach communities, with collaborations with academia, government, and the private sector across Northern Ireland
 
 ### Defence Science and Technology Laboratory, Portsdown West, UK
+
+![](/img/dstl.png)
 
 ####Summer Secondment: Analyst (2013) 
 
@@ -87,6 +93,8 @@ Application of technical knowledge and experience around Social Marketing and Cu
 
 ### Ericsson LMI, Athlone, ROI
 
+![](/img/ericsson.png)
+
 #### Year in Industry: Software Test Engineer (2008 - 2009)
 
 Working to streamline the product release cycle from a waterfall style development to a more Agile, incremental system. In my work i have reduced release testing time from three days to half an hour, with fully automated reporting for a Proprietary client application. I later moved on to server-side performance benchmarking for multi-gigabyte aggregation applications built on MySQL. During this time, I implemented testing strategies not only for the client devices, but also for that test suite itself, and a 'watchdog' system for the server-side processing; this was very useful as during my time at Ericsson, they made the migration from Solaris SPARC to Solaris x86, and my automated testing systems greatly sped up the integration testing of the migration.
@@ -95,9 +103,11 @@ Working to streamline the product release cycle from a waterfall style developme
 
 ### University of Liverpool
 
+![](/img/livuni.png)
+
 ####PhD Researcher (2013 - present)
 
-"An Investigation into Trust and Reputation Frameworks for Collaborative Teams of Autonomous Underwater Vehicles"
+*"An Investigation into Trust and Reputation Frameworks for Collaborative Teams of Autonomous Underwater Vehicles"*
 
 Working in the area of trust and security in telecommunications and autonomous networks for marine environments as part of a joint UK-FR PhD programme.
 
@@ -105,13 +115,15 @@ The programme was agreed at the 2010 Anglo-French Summit as one of the ten prior
 
 ### Queen's University Belfast
 
+![](/img/qubuni.png)
+
 ####MEng Electronics and Software Engineering
 
 This is a four-year Extended Engineering course. It has been established to provide an adequate supply of well-qualified engineers with an appropriate blend of engineering knowledge and skills in business practice and management.
 
 Concentrations in High Performance Computing, and Digital Communications. Also sat on as Student Representative througout my time at Queen's, culminating in a chairmanship for my final year.
 
-MEng Project: "High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL"
+MEng Project: *"High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL"*
 
 
 ## Awards and Honours
