@@ -66,3 +66,7 @@ pre .vc { color: #40ffff } /* Name.Variable.Class */
 pre .vg { color: #40ffff } /* Name.Variable.Global */
 pre .vi { color: #40ffff } /* Name.Variable.Instance */
 pre .il { color: #3677a9 } /* Literal.Number.Integer.Long */
+
+/* Add to css/syntax.css */
+2 .post > .highlight .lineno { color: #ccc; display:inline-block; padding: 0 5px; border-right:1px solid #ccc; }
+3 .post > .highlight pre code { display: block; white-space: pre; overflow-x: auto; word-wrap: normal; }

@@ -1,8 +1,5 @@
 @import "base.css";
 @import "module.css";
-@import "spinner.css";
-@import "syntaxhighlighter.css";
-@import "helper.css";
 /*
 Frameless			<http://framelessgrid.com/>
 by Joni Korpi 		<http://jonikorpi.com/>
@@ -21,6 +18,9 @@ Calculation should be done via  http://j.mp/rNg5uA
 
 No styleguide reference.
 */
+@import "spinner.css";
+@import "syntaxhighlighter.css";
+@import "helper.css";
 body {
   font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   font-size: 1em;
@@ -936,13 +936,13 @@ body {
   width: 100%;
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   font-weight: bold;
-  background: -webkit-linear-gradient(#ffffff, #151919);
+  background: -webkit-linear-gradient(white, #151919);
   /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#ffffff, #151919);
+  background: -o-linear-gradient(white, #151919);
   /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#ffffff, #151919);
+  background: -moz-linear-gradient(white, #151919);
   /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#ffffff, #151919);
+  background: linear-gradient(white, #151919);
   /* Standard syntax */
   color: rgba(250, 250, 250, 0.7);
 }
