@@ -10,16 +10,18 @@ title: Bio
 
 # Biography
 
+[![Me](/img/bolster_300.png)](/img/bolster_orig.png)
 I'm technologist, founder of multiple technology-based groups and organisations, an award winning researcher, innovation community leader, and an occasional public speaker.
 
 By day, I'm a Researcher at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](http://ecit.qub.ac.uk) Institute) investigating Trust and Reputation in Marine Communications for Autonomous Systems of Systems under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](http://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
 
-By night, I'm the Founding Director of [Farset Labs](http://farsetlabs.org.uk), Northern Ireland’s [First Hackerspace]({{ BASE_PATH }}/2011/04/why-belfast-needs-a-hackerspace/), located in Weavers Court Business Park, Belfast, as well as consulting local government, business, academia, and the voluntary sector on STEM Outreach, Business Innovation Strategy, and Communications & Data Security.
+By night, I'm the Founding Director of [Farset Labs](http://farsetlabs.org.uk), Northern Ireland’s [First Hackerspace]({{ BASE_PATH }}/2011/04/why-belfast-needs-a-hackerspace/), located in Weavers Court Business Park, Belfast, [developed]({{ BASE_PATH }}/2010/06/great-hopes/) while I was finishing off my Masters in Electronics and Software Engineering at QUB. [Farset Labs](http://farsetlabs.org.uk) now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders.
 
-I [developed]({{ BASE_PATH }}/2010/06/great-hopes/) Farset Labs while finishing off my Masters in Electronics and Software Engineering at QUB. [Farset Labs](http://farsetlabs.org.uk) now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders.
+Most recently I've cofounded a (un)company called [Eubius](http://eubius.com/), connecting the best technologists and creatives with the most exciting projects.
 
-I'm a recipient of the 2012 [Belfast Business Top 50](http://belfastmediagroup.com/top50/15955-2/) for my work at Farset Labs, the QUB The [T G Christie Award](http://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ScholarshipsAwards/ScholarshipsAwardsHandbook/ScholarshipsandBursaries/PostgraduateScholarshipsAwards/FacultyofEngineeringandPhysicalSciences/) for Most Promising Postgraduate, and The Liggard Prize for Best Communications Engineering Masters Project. I'm an [IET Excellence Grant](http://conferences.theiet.org/achievement/-documents/brochure-2010.cfm) recipient and a National Finalist in the IET Present Around the World competition where he spoke on information theory of social networks in 2010  
-<img src="https://lh6.googleusercontent.com/F3Gw2Zy0HKGre0z4ovkDlz4e1WX3E4VCnUrhpQE7QUOuGzIJEXYTO149BBrK2Qqek-F0D9PFq6fvwKL1uZNQ0_DNitjM0lMgBAEsWI_1vUYwGCauHcc4rKYnEg" alt="Me" style="width: 100%;"/>
+I'm a recipient of the 2012 [Belfast Business Top 50](http://belfastmediagroup.com/top50/15955-2/) for my work at Farset Labs, the QUB [T G Christie Award](http://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ScholarshipsAwards/ScholarshipsAwardsHandbook/ScholarshipsandBursaries/PostgraduateScholarshipsAwards/FacultyofEngineeringandPhysicalSciences/) for Most Promising Postgraduate, and The Liggard Prize for Best Communications Engineering Masters Project. I'm an [IET Excellence Grant](http://conferences.theiet.org/achievement/-documents/brochure-2010.cfm) recipient and a National Finalist in the IET Present Around the World competition where I spoke on information theory of social networks in 2010  
+
+I'm a sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino and heavily caffinated German softdrinks.
 
 ## What's my Schedule?
 
