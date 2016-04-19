@@ -18,38 +18,42 @@ title: Resume
 
 ## Background
 
-Systems Researcher with a wide range of skills and experiences across technical, business, and entrepreneurial fields. 
+Data Scientist with a range of skills and experiences across defence research, business, community and entrepreneurial fields, looking for new challenges from mid-2016 
 
-Originally based in Northern Ireland, currently conducting PhD Research at the University of Liverpool as part of a Anglo-French Defence Programme around Autonomous Submarines for Marine Survey and Monitoring.
+Originally based in Northern Ireland, currently concluding PhD Research at the University of Liverpool as part of a Anglo-French Defence Programme on the use of Trust in Physical and Communicatinos Behaviour Assessments for Autonomous Submarines for Marine Survey and Monitoring.
 
-Specific interests in and around distributed systems, 'trust' in insecure network environments, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
+Specific interests in and around distributed systems, 'trust' in insecure environments, autonomous and mixed-human-autonomous systems, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
 
-Experienced Speaker, Panelist and commentator, with appearances at Regional and National events from TEDx and All-Island Innovation Conferences to representing Northern Ireland in delegations to San Francisco and Buckingham Palace.
+Experienced Speaker, Panelist and commentator, with appearances at Regional, National and International Events..
 
 
 ## Proficiency
 
 ### Technical
 
-Software Engineering, Embedded Systems, IoT, Linux/UNIX, Python, C/C++, Java, Network Security, Localisation/Positioning, Agent-Based Development, OOP, TDD, Cloud and Distributed Systems Architecture, Heroku, Google Apps, High Performance Computing, GPGPU, Telecommunications Engineering, Electronics, DVCS
+Software Engineering, Embedded Systems, IoT, Linux/UNIX, Python, C/C++, Java, Network Security and Engineering, Localisation/Positioning, Agent-Based Development, OOP, TDD, Cloud and Distributed Systems Architecture, Heroku, Google Apps, High Performance Computing, GPGPU, Telecommunications Engineering, Electronics, DVCS
 
 ### Professional
 
 Public Speaking, Presentation Developement, Collaboration Facilitation, Event Mgmt., Project Mgmt., Marketing Strategy, Social Engagement Strategy, Operational Workflow Development, STEM Outreach.
 
-## Publications
-* [Analysis of Trust Interfaces in Autonomous and Semi-Autonomous Collaborative MHPC Operations](), The Technical Cooperation Program, Technical Report TR-C3I-06-2014, May 14, 2014 *not publically available*
-* [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697), AAAI Spring Symposium Series, March 2014
-*  [GPS III: Where are we and Where are we going?](http://www.makeuseof.com/tag/gps-iii-going/), MakeUseOf
-*  [How do Optical and Quantum Computers work?](http://www.makeuseof.com/tag/optical-quantum-computers-work/), MakeUseOf
-*  [How The Future Gigabit Internet Is Likely To Play Out](http://www.makeuseof.com/tag/future-gigabit-internet-likely-play/), MakeUseOf
-*  [High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL](https://github.com/andrewbolster/multiuserDSM/raw/master/Dissertation/FINALFINAL.pdf), MEng Thesis, 2011
+## Notable Publications
+* [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](http://bolster.online/bolster/16_UComms_bolster_preprint.pdf), 2016
+* [Physical Behaviours for Trust Assessment in Autonomous Underwater MANETs - Submitted to The 13th IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), Brasilia, Brasil](http://bolster.online/bolster/16_MASS_bolster_preprint.pdf), 2016
+* [Single and Multi-metric Trust Management Frameworks for Use in Underwater Autonomous Networks. In Trustcom/BigDataSE/ISPA, 2015 IEEE, Helsinki, Finland](http://doi.org/10.1109/Trustcom.2015.435), 2015
+*  [GPS III: Where are we and Where are we going?](http://www.makeuseof.com/tag/gps-iii-going/), MakeUseOf 2015
+*  [How do Optical and Quantum Computers work?](http://www.makeuseof.com/tag/optical-quantum-computers-work/), MakeUseOf 2015
+*  [How The Future Gigabit Internet Is Likely To Play Out](http://www.makeuseof.com/tag/future-gigabit-internet-likely-play/), MakeUseOf 2015
+* [Analysis of Trust Interfaces in Autonomous and Semi-Autonomous Collaborative MHPC Operations](), The Technical Cooperation Program, Technical Report TR-C3I-06-2014, May 14, 2014, Portsmouth, UK *not publically available*
+* [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697), AAAI Spring Symposium Series, March 2014, Stanford CA, USA
+*  [High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL](https://github.com/andrewbolster/multiuserDSM/raw/master/Dissertation/FINALFINAL.pdf), MEng Thesis, 2011, Belfast, UK
 
 ## Experience
 
 ### TOM Ltd, Belfast / Liverpool, UK
+![](/img/spriteguard.png)
 
-####Associate / Product Manager (PT 2012 - 2014)
+#### Associate / SpriteGuard Product Manager (PT 2012 - 2014)
 
 Traffic Observation and Management is a university spin-out company specialising in advanced wireless security systems for the public hotspot and payments services industries.
 
@@ -81,11 +85,15 @@ Culminated in significant contribution to a Five-Eyes Autonomy Exchange project.
 
 ### PC Engines GmbH, Zurich, Switzerland
 
+![](/img/PC-Engines.png)
+
 ####Summer Secondment: Embedded Developer (2011)
 
 Implementing and prototyping next generation embedded computing platforms and contributing to the Coreboot, SerialICE and FlashROM Open source Projects.
 
 ### Navigator Blue, Belfast, UK
+
+![](/img/blu.png)
 
 ####Technical Consultant (PT 2009-2010)
 
