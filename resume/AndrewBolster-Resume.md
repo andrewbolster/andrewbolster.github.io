@@ -113,7 +113,7 @@ Working to streamline the product release cycle from a waterfall style developme
 
 ![](/img/livuni.png)
 
-####PhD Researcher (2013 - present)
+#### PhD Researcher (2013 - present)
 
 *"An Investigation into Trust and Reputation Frameworks for Collaborative Teams of Autonomous Underwater Vehicles"*
 
@@ -125,7 +125,7 @@ The programme was agreed at the 2010 Anglo-French Summit as one of the ten prior
 
 ![](/img/qubuni.png)
 
-####MEng Electronics and Software Engineering
+#### MEng Electronics and Software Engineering
 
 This is a four-year Extended Engineering course. It has been established to provide an adequate supply of well-qualified engineers with an appropriate blend of engineering knowledge and skills in business practice and management.
 
