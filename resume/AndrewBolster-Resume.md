@@ -65,7 +65,7 @@ In addition, as part of a Centre for Defence Enterprise (UK) call, took part in 
 
 ![](/img/farsetlabs.png)
 
-####Founder/Director (PT 2011 - Present)
+#### Founder/Director (PT 2011 - Present)
 
 Created Farset Labs in response to a demonstrated need for an independent, non-profit, charitable community of technology innovators, providing them a open space and shared resources to experiment, explore, and grow themselves, their projects, and relationships with local and global business. 
 
@@ -77,7 +77,7 @@ Currently Farset Labs stands as a valued part of the technology, entrepreneurshi
 
 ![](/img/dstl.png)
 
-####Summer Secondment: Analyst (2013) 
+#### Summer Secondment: Analyst (2013) 
 
 Coordinating research between Information Management and Naval Systems departments to synthesize an approach towards maritime autonomy.
 
@@ -87,7 +87,7 @@ Culminated in significant contribution to a Five-Eyes Autonomy Exchange project.
 
 ![](/img/PC-Engines.png)
 
-####Summer Secondment: Embedded Developer (2011)
+#### Summer Secondment: Embedded Developer (2011)
 
 Implementing and prototyping next generation embedded computing platforms and contributing to the Coreboot, SerialICE and FlashROM Open source Projects.
 
@@ -95,7 +95,7 @@ Implementing and prototyping next generation embedded computing platforms and co
 
 ![](/img/blu.png)
 
-####Technical Consultant (PT 2009-2010)
+#### Technical Consultant (PT 2009-2010)
 
 Application of technical knowledge and experience around Social Marketing and Customer Relationship Management to a leading Marketing and Advertising Firm. Responsibilities included strategic report generation for the creative director around the growth of social media marketing, relevant technologies such as Google Analytics for performance stracking and RFID / Smart Phone / Geo-location for targeted advertising. Directly contributed and presented at tender presentations.
 
