@@ -69,7 +69,7 @@ In addition, as part of a Centre for Defence Enterprise (UK) call, took part in 
 
 Created Farset Labs in response to a demonstrated need for an independent, non-profit, charitable community of technology innovators, providing them a open space and shared resources to experiment, explore, and grow themselves, their projects, and relationships with local and global business. 
 
-Building Farset Labs as a hub for the tech community in Belfast and Northern Ireland as a whole, ensuring that the organisation remains agile and true to its core values.
+Building Farset Labs as a hub for the technology community in Belfast and Northern Ireland as a whole, ensuring that the organisation remains agile and true to its core values.
 
 Currently Farset Labs stands as a valued part of the technology, entrepreneurship, and STEM outreach communities, with collaborations with academia, government, and the private sector across Northern Ireland
 
@@ -79,7 +79,7 @@ Currently Farset Labs stands as a valued part of the technology, entrepreneurshi
 
 ####Summer Secondment: Analyst (2013) 
 
-Coordinating research between Information Management and Naval Systems departments to synthesize an approach towards maritime autonomy.
+Coordinating research between Information Management and Naval Systems departments to synthesize a coordinated, data driven approach towards maritime autonomy and its potential applications.
 
 Culminated in significant contribution to a Five-Eyes Autonomy Exchange project.
 
@@ -103,9 +103,9 @@ Application of technical knowledge and experience around Social Marketing and Cu
 
 ![](/img/ericsson.png)
 
-#### Year in Industry: Software Test Engineer (2008 - 2009)
+#### Software Test Engineer (2008 - 2009)
 
-Working to streamline the product release cycle from a waterfall style development to a more Agile, incremental system. In my work i have reduced release testing time from three days to half an hour, with fully automated reporting for a Proprietary client application. I later moved on to server-side performance benchmarking for multi-gigabyte aggregation applications built on MySQL. During this time, I implemented testing strategies not only for the client devices, but also for that test suite itself, and a 'watchdog' system for the server-side processing; this was very useful as during my time at Ericsson, they made the migration from Solaris SPARC to Solaris x86, and my automated testing systems greatly sped up the integration testing of the migration.
+Implementation of an Agile, Unit tested and Continuously Integrated product release cycle to global 4G test infrastructure, reducing pre-deployment testing from three days to less than an hour, with fully automated reporting for a proprietary deployment application. I later moved on to server-side performance benchmarking for multi-gigabyte aggregation applications built on MySQL and Erlang. Participated in deployment planning for internal migration from SPARC to Solaris x86 porting, where my automated testing systems greatly improved the speed asnd confidence of this migration.
 
 ## Education
 
@@ -120,6 +120,11 @@ Working to streamline the product release cycle from a waterfall style developme
 Working in the area of trust and security in telecommunications and autonomous networks for marine environments as part of a joint UK-FR PhD programme.
 
 The programme was agreed at the 2010 Anglo-French Summit as one of the ten priorities in 2011 for the Anglo French Defence Research Group (AFDRG).
+
+Included collaborations with:
+* National Physical Laboratory (NPL) on Enhanced Kalman Filtering for acoustic marine localisation
+* NATO Centre for Maritime Research and Experimentation on REMUS payload scoping and potential malicious misbehaviours of autonomous AUVs
+* Defence Science dd
 
 ### Queen's University Belfast
 
