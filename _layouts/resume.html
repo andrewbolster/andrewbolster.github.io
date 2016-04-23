@@ -28,8 +28,8 @@
        * Initialise print preview plugin
        */
       // Add link for print preview and intialise
-      $('#page').prepend('<a class="fi-print"></a>');
-      $('a.print-preview').printPreview();
+      $('#resume').append('<a class="fi-print"></a>');
+      $('a.fi-print').printPreview();
 
       // Add keybinding (not recommended for production use)
       $(document).bind('keydown', function(e) {
