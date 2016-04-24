@@ -56,4 +56,13 @@ font-weight: bold;}
 }
 
 
+@media print{
+  #resume { 
+    box-shadow:none; width:670px
+  }
+  #resume * {
+    box-shadow:none;
+    text-shadow:none;
+  }
+};
 /*# sourceMappingURL=style.css.map */

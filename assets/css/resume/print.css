@@ -36,6 +36,7 @@ a img { border: none; }
 /* Links */
 a:link, a:visited { background: transparent; font-weight: 700; text-decoration: underline;color:#333; }
 a:link[href^="http://"]:after, a[href^="http://"]:visited:after { content: " (" attr(href) ") "; font-size: 90%; }
+a:link[href^="https://"]:after, a[href^="https://"]:visited:after { content: " (" attr(href) ") "; font-size: 90%; }
 
 abbr[title]:after { content: " (" attr(title) ")"; }
 
@@ -54,7 +55,7 @@ th,td { padding: 4px 10px 4px 0; }
 tfoot { font-style: italic; }
 caption { background: #fff; margin-bottom:2em; text-align:left; }
 thead {display: table-header-group;}
-img,tr {page-break-inside: avoid;} 
+img,tr,p {page-break-inside: avoid;} 
 
 /* Hide various parts from the site
 #header, #footer, #navigation, #rightSideBar, #leftSideBar 
@@ -67,7 +68,7 @@ body { background-color: white; color: black; font-family: Futura;}
 
 .download { display: none; }
 
-#resume { font-size: 8pt; }
+#resume { font-size: 8pt; box-shadow: none;}
 #resume a, #resume a:visited { color: black; text-decoration: none; }
 #resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0 !important; }
 #resume h1 { font-size: 170%; }
@@ -90,7 +91,8 @@ body { background-color: white; color: black; font-family: Futura;}
 #resume blockquote { margin: 1em 0; border-left: 5px solid #ddd; padding-left: .6em; }
 #resume dt { font-weight: bold; margin-left: 1em; }
 #resume dd { margin-left: 2em; margin-bottom: 1em; }
-#resume h1,h2,h3,h4,h5,h6 { font-family: Garamond;}
+#resume h1,h2,h3,h4,h5,h6 { font-family: Garamond; break-after: avoid}
+#resume h4 + p { break-after: avoid; break-before:avoid}
 #resume h2 {
   color: black;
   text-shadow: none;
@@ -105,5 +107,7 @@ body { background-color: white; color: black; font-family: Futura;}
 #andrew-bolster + ul { list-style-type: none}
 #andrew-bolster + ul li:after{ content:", "}
 #andrew-bolster + ul li:last-child:after{ content:""}
+
+#fi-print {display: none}
 
 /*# sourceMappingURL=print.css.map */

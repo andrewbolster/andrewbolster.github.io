@@ -1,26 +1,28 @@
 ---
-author: admin
+author: Andrew Bolster
 comments: false
-date: 2008-08-19 00:52:03+00:00
+site: http://bolster.online
+email: andrew@bolster.online
+phone: +447783249547
 layout: resume
 slug: resume
 group: navigation
 title: Resume
+photo: /img/bolster.png
 ---
 ![](/img/bolster.png)
 
 # Andrew Bolster
 
- * [andrew@bolster.online](mailto:andrew@bolster.online)
- * [bolster@liv.ac.uk](mailto:bolster@liv.ac.uk)
- * [(+44) 07783249547](tel:+447783249547)
- * [bolster.online](http://bolster.online)
+ * [{{ page.email }}](mailto:{{ page.email }})
+ * [{{ page.phone }}](tel:{{ page.phone }})
+ * [{{ page.site }}]({{ page.site }})
 
 ## Background
 
 Data Scientist with a range of skills and experiences across defence research, business, community and entrepreneurial fields, looking for new challenges from mid-2016 
 
-Originally based in Northern Ireland, currently concluding PhD Research at the University of Liverpool as part of a Anglo-French Defence Programme on the use of Trust in Physical and Communicatinos Behaviour Assessments for Autonomous Submarines for Marine Survey and Monitoring.
+Concluding PhD Research at the University of Liverpool as part of a Anglo-French Defence Programme on the use of Trust in Physical and Communications Behaviour Assessments for Autonomous Submarines for Marine Survey and Monitoring.
 
 Specific interests in and around distributed systems, 'trust' in insecure environments, autonomous and mixed-human-autonomous systems, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
 
@@ -74,7 +76,7 @@ Culminated in significant contribution to a Five-Eyes Autonomy Exchange project.
 
 ![](/img/PC-Engines.png)
 
-#### IAESTE placed Embedded Developer (2011)
+#### IAESTE placed Embedded Engineer (2011)
 
 Implementing and prototyping next generation embedded computing platforms and contributing to the Coreboot, SerialICE and FlashROM Open source Projects.
 
@@ -147,9 +149,9 @@ MEng Project: *"High-Speed bit-loading algorithms for Dynamic Spectrum Managemen
 * [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](http://bolster.online/bolster/16_UComms_bolster_preprint.pdf), 2016
 * [Physical Behaviours for Trust Assessment in Autonomous Underwater MANETs - Submitted to The 13th IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), Brasilia, Brasil](http://bolster.online/bolster/16_MASS_bolster_preprint.pdf), 2016
 * [Single and Multi-metric Trust Management Frameworks for Use in Underwater Autonomous Networks. In Trustcom/BigDataSE/ISPA, 2015 IEEE, Helsinki, Finland](http://doi.org/10.1109/Trustcom.2015.435), 2015
-*  [GPS III: Where are we and Where are we going?](http://www.makeuseof.com/tag/gps-iii-going/), MakeUseOf 2015
-*  [How do Optical and Quantum Computers work?](http://www.makeuseof.com/tag/optical-quantum-computers-work/), MakeUseOf 2015
-*  [How The Future Gigabit Internet Is Likely To Play Out](http://www.makeuseof.com/tag/future-gigabit-internet-likely-play/), MakeUseOf 2015
+*  [GPS III: Where are we and Where are we going?](http://www.makeuseof.com/tag/gps-iii-going/), MakeUseOf 2014
+*  [How do Optical and Quantum Computers work?](http://www.makeuseof.com/tag/optical-quantum-computers-work/), MakeUseOf 2014
+*  [How The Future Gigabit Internet Is Likely To Play Out](http://www.makeuseof.com/tag/future-gigabit-internet-likely-play/), MakeUseOf 2014
 * [Analysis of Trust Interfaces in Autonomous and Semi-Autonomous Collaborative MHPC Operations](), The Technical Cooperation Program, Technical Report TR-C3I-06-2014, May 14, 2014, Portsmouth, UK *not publically available*
 * [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697), AAAI Spring Symposium Series, March 2014, Stanford CA, USA
 *  [High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL](https://github.com/andrewbolster/multiuserDSM/raw/master/Dissertation/FINALFINAL.pdf), MEng Thesis, 2011, Belfast, UK
