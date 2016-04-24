@@ -17,6 +17,7 @@ photo: /img/bolster.png
  * [{{ page.email }}](mailto:{{ page.email }})
  * [{{ page.phone }}](tel:{{ page.phone }})
  * [{{ page.site }}]({{ page.site }})
+ * [PDF Resume](AndrewBolster.pdf)
 
 ## Background
 
