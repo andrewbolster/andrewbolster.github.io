@@ -6,11 +6,11 @@
 % available at http://www.latex-project.org/lppl/.
 
 
-\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' \& '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' \& 'landscape') \& font family ('sans' \& 'roman')
 
 % moderncv themes
-\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{purple}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'oldstyle' \& 'banking'
+\moderncvcolor{purple}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' \& 'black'
 %\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
 %\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
 
@@ -39,17 +39,17 @@
 % adjust the page margins
 \usepackage[scale=0.75]{geometry}
 %\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
-%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name \& avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
 
 % personal data
 \name{Andrew}{Bolster}
 \title{Resumé}                               % optional, remove / comment the line if not wanted
-\address{36 Dee St}{Belfast}{UK}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\address{36 Dee St}{Belfast}{UK}% optional, remove / comment the line if not wanted; the "postcode city" \& and "country" arguments can be omitted or provided empty
 \phone[mobile]{+44~07783249547}                   % optional, remove / comment the line if not wanted
 \email{andrew@bolster.online}                               % optional, remove / comment the line if not wanted
 \homepage{bolster.online}                         % optional, remove / comment the line if not wanted
 \extrainfo{@bolster}                 % optional, remove / comment the line if not wanted
-\photo[64pt][0.4pt]{photo}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+\photo[64pt][0.4pt]{photo}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) \& 'picture' is the name of the picture file
 
 % to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
 %\makeatletter
@@ -68,58 +68,56 @@
 %-----       resume       ---------------------------------------------------------
 \makecvtitle
 
-\section{About}
-Data Scientist with a range of skills and experiences across defence research, business, community and entrepreneurial fields, looking for new challenges from mid-2016
-
-Concluding PhD Research at the University of Liverpool as part of a Anglo-French Defence Programme on the use of Trust in Physical and Communications Behaviour Assessments for Autonomous Submarines for Marine Survey and Monitoring.
-
-Specific interests in and around distributed systems, ‘trust’ in insecure environments, autonomous and mixed-human-autonomous systems, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
+\section{Technical skills \& interests}
+\begin{cvcolumns}
+  \cvcolumn{Programming}{\begin{itemize}\item Python \item C/C++ \item Matlab \item Ruby \item Java \item Erlang \item R \item Arduino\end{itemize}}
+  \cvcolumn{Analysis}{\begin{itemize}\item Numpy Suite \item Pandas \item Jupyter \item cuBLAS \item AWS Lambda \item Theano \item sk-learn \end{itemize}}
+  \cvcolumn[0.5]{Research Interests}{autonomy, machine learning, distributed systems, data visualisation \& analysis, wireless localisation, IoT, FOSS, Linux/Unix, GPGPU, FPGA, network security, mobile computation}
+\end{cvcolumns}
 
 \section{Education}
 \cventry{2011--2016}{PhD}{University of Liverpool}{Liverpool, UK}{}{}  % arguments 3 to 6 can be left empty
-\cvitem{title}{An Investigation into Trust and Reputation Frameworks for Collaborative Teams of Autonomous Underwater Vehicles''}
-\cvitem{supervisors}{Prof.\ A. Marshall (UoL), Prof.\ Jean-Guy Fontaine (NATO), Paul Caseley (DSTL)}
-\cvitem{}{Physical and Communicative trust for autonomous networks in marine environments as part of a joint UK-FR PhD programme.}
+\cvitem{Thesis Title}{An Investigation into Trust \& Reputation Frameworks for Collaborative Teams of Autonomous Underwater Vehicles''}
+\cvitem{Supervisors}{Prof.\ A. Marshall (UoL), Prof.\ Jean-Guy Fontaine (NATO), Paul Caseley (DSTL)}
+\cvitem{Description}{Physical \& Communicative trust for autonomous networks in marine environments as part of a joint UK-FR PhD programme.}
 
-\cvitem{}{Including collaborations with; National Physical Laboratory (NPL) and Plextek Ltd.\ on Enhanced Kalman Filtering for acoustic marine localisation in GPS denied environments and NATO Centre for Maritime Research and Experimentation on REMUS payload scoping and potential malicious misbehaviours of autonomous AUVs}
+\cvitem{}{Including collaborations with; National Physical Laboratory (NPL) \& Plextek Ltd.\ on Enhanced Kalman Filtering for acoustic marine localisation in GPS denied environments \& NATO Centre for Maritime Research \& Experimentation on REMUS payload scoping \& potential malicious misbehaviours of autonomous AUVs}
 
 \cventry{2006--2011}{MEng}{Queens'  University Belfast}{Belfast, UK}{\textit{1st Electronics \& Software Engineering}}{}
-\cvitem{specialisations}{High Performance Computing, Digital Communications, Algorithmic Analysis, Machine Learning}
-\cvitem{thesis title}{High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL}
-\cvitem{supervisors}{Prof.\ A. Marshall, Dr.\ A.McKinley}
-\cvitem{description}{GPGPU Acceleration of last-mile internet connections, leveraging parallel, distributed, greedy optimisation techniques using a combination of CUDA, OpenMP, Python, and C/C++}
+\cvitem{Specialisations}{High Performance Computing, Digital Communications, Machine Learning}
+\cvitem{Thesis title}{High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL}
+\cvitem{Supervisors}{Prof.\ A. Marshall, Dr.\ A.McKinley}
+\cvitem{Description}{GPGPU Acceleration of last-mile internet connections, leveraging parallel, distributed, greedy optimisation techniques using a combination of CUDA, OpenMP, Python, \& C/C++}
 
 \section{Experience}
 \subsection{Vocational}
-\cventry{2013--2014}{Product Manager / Research Engineer}{TOM Ltd.}{Liverpool}{}{Contributed to ongoing development and refinement of the core SpriteGuard product structure and marketing, including fund-facing discussion and trade show representation.
+\cventry{2013--2014}{Product Manager / Research Engineer}{TOM Ltd.}{Liverpool}{}{Contributed to ongoing development \& refinement of the core SpriteGuard product structure \& marketing, including fund-facing discussion \& trade show representation.
 \newline{}%
 Detailed achievements:%
 \begin{itemize}%
-\item Primary role in Market-Fit analysis and financial forecasting;
-\item Engaged in roll-out planning and UX investigation
+\item Primary role in Market-Fit analysis \& financial forecasting;
+\item Engaged in roll-out planning \& UX investigation
 \item Contributed to back end architecture design for distributed analysis platform
 \end{itemize}}
 
 
-\cventry{2013}{Analyst}{Defence Science and Technology Laboratory}{Portsdown West, UK}{}{%
-Coordinating research between Information Management and Naval Systems departments to synthesize a coordinated, data driven approach towards maritime autonomy and its potential applications.
-\newline{}%
-Culminated in significant contribution to a ``Five-Eyes'' Autonomy Exchange project.
+\cventry{2013}{Analyst}{Defence Science \& Technology Laboratory}{Portsdown West, UK}{}{%
+Synthesised research between Information Management \& Naval Systems departments to generate a coordinated, data driven approach to maritime autonomy \& its potential applications; significant contribution to ``Five-Eyes'' Autonomy Exchange project.
 }
 
 
 \cventry{2011}{Embedded Engineer}{PC Engines GmbH}{Zurich, Switzerland}{}{%
-Implementing and prototyping next generation embedded computing platforms and contributing to the Coreboot, SerialICE and FlashROM Open source Projects.
+Implementing \& prototyping next generation embedded computing platforms \& contributing to the Coreboot, SerialICE \& FlashROM Open source Projects.
 }
 
 \cventry{2009--2010}{Technical Consultant}{Navigator Blue}{Belfast, UK}{}{%
-Application of technical knowledge and experience around Social Marketing and Customer Relationship Management to a leading Marketing and Advertising Firm.%
+Application of technical knowledge \& experience around Social Marketing \& Customer Relationship Management to a leading Marketing \& Advertising Firm.%
 \newline{}%
 Detailed Achievements:%
 \begin{itemize}
   \item Contribution to successful client tender presentations of social analytics for engagement
-  \item Implementation and Coordination of Google Analytics tracking across client sites
-  \item PoC demonstrations of Targeted Advertising using social geo-location and RFID/NFC engagement
+  \item Implementation \& Coordination of Google Analytics tracking across client sites
+  \item PoC demonstrations of Targeted Advertising using social geo-location \& RFID/NFC engagement
 \end{itemize}
 }
 \cventry{2008--2009}{Software Test Engineer}{Ericsson LMI}{Athlone, ROI}{}{%
@@ -131,7 +129,7 @@ Detailed Achievements:%
     \item Reduced pre-deployment testing from 3 days to less than an hour
     \item Included reporting integration from Open Source toolkits to internal proprietary reporting framework
   \end{itemize}
-  \item Server-Side performance benchmarking, optimisation, and deployment planning for SPARC/x86 transition%
+  \item Server-Side performance benchmarking, optimisation, \& deployment planning for SPARC/x86 transition%
   \begin{itemize}
     \item Real-data testing on MySQL/Erlang based backends
     \item Identified undocumented inter-project interfaces/dependencies
@@ -141,9 +139,9 @@ Detailed Achievements:%
 
 
 \subsection{Voluntary}
-\cventry{2011--today}{Founding Director}{Farset Labs}{Belfast}{}{Created Farset Labs in response to a demonstrated need for an independent, non-profit, charitable community of technology innovators, providing them a open space and shared resources to experiment, explore, and grow themselves, their projects, and relationships with local and global business.
+\cventry{2011--today}{Founding Director}{Farset Labs}{Belfast}{}{Created Farset Labs in response to a demonstrated need for an independent, non-profit, charitable community of technology innovators, providing them a open space \& shared resources to experiment, explore, \& grow themselves, their projects, \& relationships with local \& global business.
 \newline{}%
-Recognising Farset's location in an area of high deprivation meant we had an opportunity to make a positive impact. I have led successful initiatives to bring in local young people into the labs to experience tech in a way that inspires and helps them see new opportunities%
+Recognising Farset's location in an area of high deprivation meant we had an opportunity to make a positive impact. I have led successful initiatives to bring in local young people into the labs to experience tech in a way that inspires \& helps them see new opportunities%
 \newline{}%
 Key Achievements:%
 \begin{itemize}
@@ -156,38 +154,31 @@ Key Achievements:%
     \item First Public Open Data Hackathon
     \item First ``MakerAssembly'' conference held outside the UK Mainland
   \end{itemize}
-  \item Facilitated and Led a series of collaborations including:
+  \item Facilitated \& Led a series of collaborations including:
     \begin{itemize}
       \item Community Healthcare Reablement project with Ulster University
       \item Exhibition generation for Princes Trust NI
       \item Exhibition generation for BBC's Make It Digital programme
     \end{itemize}
-  \item Over it's four year history, we 
 \end{itemize}
 }
-\cventry{2015--today}{Member}{DFPNI Open Data Advisory Board}{Belfast}{}{As a result of my role as a champion of digital start-ups in Northern Ireland I have been invited by the Department of Finance and Personnel to be part of the industry advisor board for the Northern Ireland Executives Open Data Strategy}
+\cventry{2015--today}{Member}{DFPNI Open Data Advisory Board}{Belfast}{}{As a result of my role as a champion of digital start-ups in Northern Ireland I have been invited by the Department of Finance \& Personnel to be part of the industry advisory board for the Northern Ireland Executives Open Data Strategy}
 
-\section{Languages}
-\cvitemwithcomment{english}{Native}{}
-\cvitemwithcomment{french}{Basic}{}
-
-\section{Technical skills and interests}
-\begin{cvcolumns}
-  \cvcolumn{Programming}{\begin{itemize}\item Python \item C/C++ \item Matlab \item Ruby \item Java \item Erlang \item R \item Arduino\end{itemize}}
-  \cvcolumn{Analysis}{\begin{itemize}\item Numpy Suite \item Pandas \item Jupyter \item cuBLAS \item AWS Lambda \item Theano \item sk-learn \end{itemize}}
-  \cvcolumn[0.5]{research interests}{autonomy, machine learning, distributed systems, data visualisation and analysis, wireless localisation, IoT, FOSS, Linux/Unix, GPGPU, FPGA, network security, mobile computation}
-\end{cvcolumns}
-
-\section{Awards and Honours}
+\section{Awards, Honours, \& Notable Speaking Engagements}
+\cvlistitem{BelTech 2016 Innovation Engineering Panelist}
+\cvlistitem{Open Data Day NI 2016 Speaker}
+\cvlistitem{InterTradeIreland All-Island Innovation Conference 2014 Speaker}
+\cvlistitem{TEDxBelfast 2013 Speaker}
+\cvlistitem{NESTA Innovation in Northern Ireland 2013 Conference Speaker}
 \cvlistitem{Belfast Business Top 50 2012 for entrepreneurial leadership related to Farset Labs}
 \cvlistitem{QUB TG\@. Christie Award  for most promising incoming research student}
 \cvlistitem{QUB Linggard Prize  for best Masters project in Communication Engineering}
-\cvlistitem{IET Excellence Grant for Academic Progress and STEM outreach activities}
-\cvlistitem{IET Present Around The World UK Finalist for presentation on Social Media Security and Online Data Safety in the emerging personal-data economy}
+\cvlistitem{IET Excellence Grant for Academic Progress \& STEM outreach activities}
+\cvlistitem{IET Present Around The World UK Finalist for presentation on Social Media Security \& Online Data Safety in the emerging personal-data economy}
 \cvlistitem{City \& Guilds Licentiateship in Information Technology for Software Engineering work undertaken at Ericsson}
 
 \section{Professional Associations}
-\cvitem{Member}{Institution of Engineering and Technology}
+\cvitem{Member}{Institution of Engineering \& Technology}
 \cvitem{}{Marine Technology Society}
 
 % Publications from a BibTeX file without multibib
@@ -203,8 +194,14 @@ Key Achievements:%
 %\nocitemisc{misc1,misc2,misc3}
 %\bibliographystylemisc{plain}
 %\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
 \begin{comment}
 \clearpage
+
+\section{Notable Side-Projects}
+\cventry{2011}{GPU Optimised Multi Variate Analysis \& Modelling of S\&P 500}{}{}{As a result of my MEng experiences with GPGPU, I spent some time over the summer modelling a lagging-leading analyser that would look for historical time-delayed correlations in the movements of the S\&P 500 index fund, using SEC open data. While I have zero-confidence in my modelling of the transactional costs, the generated portfolios had a +5\% performance premium above the index fund over the course of the summer.}
+
+
 %-----       
 letter       ---------------------------------------------------------
 % recipient data
