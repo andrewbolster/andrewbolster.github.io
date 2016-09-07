@@ -11,17 +11,17 @@ title: Bio
 # Biography
 
 [![Me](/img/bolster_300.png)](/img/bolster_orig.png)
-I'm technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.
+Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.
 
-By day, I'm a Researcher at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](http://ecit.qub.ac.uk) Institute) investigating Trust and Reputation in Marine Communications for Autonomous Systems of Systems under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](http://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
+Currently Data Science Leader at [Sensum](http://sensum.co), using advanced data mining and machine learning to analyse human emotions through a combination of biometric observation and contextual heuristics.
 
-By night, I'm the Founding Director of [Farset Labs](http://farsetlabs.org.uk), Northern Ireland’s [First Hackerspace]({{ BASE_PATH }}/2011/04/why-belfast-needs-a-hackerspace/), located in Weavers Court Business Park, Belfast, [developed]({{ BASE_PATH }}/2010/06/great-hopes/) while I was finishing off my Masters in Electronics and Software Engineering at QUB. [Farset Labs](http://farsetlabs.org.uk) now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders.
+Recently completed PhD Research at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](http://ecit.qub.ac.uk) Institute) investigating Trust and Reputation in Marine Communications for Autonomous Systems of Systems under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](http://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
 
-Most recently I've cofounded a (un)company called [Eubius](http://eubius.com/), connecting the best technologists and creatives with the most exciting projects.
+Founding Director of [Farset Labs](http://farsetlabs.org.uk), Northern Ireland’s [First Hackerspace]({{ BASE_PATH }}/2011/04/why-belfast-needs-a-hackerspace/), located in Weavers Court Business Park, Belfast, [developed]({{ BASE_PATH }}/2010/06/great-hopes/) while I was finishing off a Masters in Electronics and Software Engineering at QUB. [Farset Labs](http://farsetlabs.org.uk) now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders.
 
-I'm a recipient of the 2012 [Belfast Business Top 50](http://belfastmediagroup.com/top50/15955-2/) for my work at Farset Labs, the QUB [T G Christie Award](http://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ScholarshipsAwards/ScholarshipsAwardsHandbook/ScholarshipsandBursaries/PostgraduateScholarshipsAwards/FacultyofEngineeringandPhysicalSciences/) for Most Promising Postgraduate, and The Liggard Prize for Best Communications Engineering Masters Project. I'm an [IET Excellence Grant](http://conferences.theiet.org/achievement/-documents/brochure-2010.cfm) recipient and a National Finalist in the IET Present Around the World competition where I spoke on information theory of social networks in 2010  
+Recipient of the 2012 [Belfast Business Top 50](http://belfastmediagroup.com/top50/15955-2/) for my work at Farset Labs, the QUB [T G Christie Award](http://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ScholarshipsAwards/ScholarshipsAwardsHandbook/ScholarshipsandBursaries/PostgraduateScholarshipsAwards/FacultyofEngineeringandPhysicalSciences/) for Most Promising Postgraduate, and The Liggard Prize for Best Communications Engineering Masters Project. Also an [IET Excellence Grant](http://conferences.theiet.org/achievement/-documents/brochure-2010.cfm) recipient and a National Finalist in the IET Present Around the World competition, presenting on information theory of social networks in 2010  
 
-I'm a sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and heavily caffinated German softdrinks.
+A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and heavily caffinated German softdrinks.
 
 ## What's my Schedule?
 
@@ -31,7 +31,7 @@ I'm a sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movi
 # Press/Publications/Podcasts
 
 * 2016
-  * Pending: [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](http://bolster.online/bolster/16_UComms_bolster_preprint.pdf) - Author
+  * [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](http://bolster.online/bolster/16_UComms_bolster_preprint.pdf) - Author
   * Pending: [Physical Behaviours for Trust Assessment in Autonomous Underwater MANETs - Submitted to The 13th IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), Brasilia, Brasil](http://bolster.online/bolster/16_MASS_bolster_preprint.pdf) - Author
 * 2015
   * [Single and Multi-metric Trust Management Frameworks for Use in Underwater Autonomous Networks. In Trustcom/BigDataSE/ISPA, 2015 IEEE, Helsinki, Finland](http://doi.org/10.1109/Trustcom.2015.435) - Author
