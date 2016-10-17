@@ -5,10 +5,19 @@ permalink: /:year/:month/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: "rouge"
 gems:
-  - jekyll-mentions
   - jemoji
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
   - jekyll-redirect-from
-  - jekyll-sitemap
+whitelist:
+  - jemoji
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -36,6 +45,8 @@ author :
 markdown : kramdown
 kramdown:
   enable_coderay: true
+  input: GFM
+  syntax_highlighter: rouge
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
