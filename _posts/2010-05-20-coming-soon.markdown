@@ -13,10 +13,12 @@ tags:
 - planning
 ---
 
+**EDIT - 2017** Updated broken links thanks to heads up from [Paul @ Art of Blog](http://www.artofblog.com/typography-basics-some-fundamentals-for-body-copy/)
+
 Ok, its been a busy few weeks, and I've let the blog slip again, but coming up:
 
 	
-  * Implementing [Google Webfonts](http://code.google.com/webfonts)
+  * Implementing [Google Webfonts](https://fonts.google.com)
 
 	
   * Ubuntu Dot-File Dropbox Synchronisation
@@ -29,4 +31,5 @@ Ok, its been a busy few weeks, and I've let the blog slip again, but coming up:
 
 	
   * Summer Plans including VPN work for Dr David Laverty and CUDA research with Alastair Mckinley and [Dr Alan Marshall](http://www.ee.qub.ac.uk/dsp/research/telecomms/personal/Alan_Marshall.html)
+
 
