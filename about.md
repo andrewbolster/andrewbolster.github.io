@@ -25,8 +25,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 ## What's my Schedule?
 
-<iframe style="border-width: 0;" src="https://www.google.com/calendar/b/0/embed?src=me%40andrewbolster.info&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;ctz=Europe%2FLondon" height="600" scrolling="no" width="800" frameborder="0"> </iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=me%40andrewbolster.info&amp;color=%23711616&amp;src=uvmq90oc081fdj5lji4l7gu5rscrpf05%40import.calendar.google.com&amp;color=%23B1440E&amp;src=bolster%40farsetlabs.org.uk&amp;color=%231B887A&amp;src=bolster%40sensum.co&amp;color=%2342104A&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Press/Publications/Podcasts
 
