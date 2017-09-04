@@ -29,6 +29,9 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 # Press/Publications/Podcasts
 
+* 2017
+  * [Ethical hacker turned off heating 300 miles away](http://www.newsletter.co.uk/news/crime/ethical-hacker-turned-off-heating-300-miles-away-1-8071108) - Interviewee
+
 * 2016
   * [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](http://bolster.online/bolster/16_UComms_bolster_preprint.pdf) - Author
   * Pending: [Physical Behaviours for Trust Assessment in Autonomous Underwater MANETs - Submitted to The 13th IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), Brasilia, Brasil](http://bolster.online/bolster/16_MASS_bolster_preprint.pdf) - Author

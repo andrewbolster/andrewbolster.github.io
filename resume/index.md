@@ -12,34 +12,47 @@ photo: /img/bolster.png
 ---
 ![](/img/bolster.png)
 
-# Andrew Bolster
+# Dr. Andrew Bolster Ph.D M.Eng
 
  * [{{ page.email }}](mailto:{{ page.email }})
  * [{{ page.phone }}](tel:{{ page.phone }})
  * [{{ page.site }}]({{ page.site }})
- * [PDF Resume](AndrewBolster.pdf)
 
 ## Background
 
-Data Scientist with a range of skills and experiences across defence research, business, community and entrepreneurial fields, looking for new challenges from mid-2016 
+Data Scientist with a range of skills and experiences across defence research, business, community and entrepreneurial fields. 
 
-Concluding PhD Research at the University of Liverpool as part of a Anglo-French Defence Programme on the use of Trust in Physical and Communications Behaviour Assessments for Autonomous Submarines for Marine Survey and Monitoring.
+PhD Research at the University of Liverpool as part of a Anglo-French Defence Programme on the use of Trust in Physical and Communications Behaviour Assessments for Autonomous Submarines for Marine Survey and Monitoring.
 
 Specific interests in and around distributed systems, 'trust' in insecure environments, autonomous and mixed-human-autonomous systems, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
 
-Experienced Speaker, Panelist and commentator, with appearances at Regional, National and International Events..
+Experienced Speaker, Panelist and commentator, with appearances at Regional, National and International Events.
 
 ## Proficiency
 
 ### Technical
 
-Software Engineering, Autonomous and Intelligent Systems Engineering, Embedded Systems, IoT, Linux/UNIX, Python, C/C++, Java, GPGPU (CUDA/OpenCL/Theano), Network Security and Engineering, Localisation/Positioning, Agent Development, OOP, TDD, Cloud and Distributed Systems Architecture, Heroku, Google Apps, High Performance Computing, GPGPU, Telecommunications Engineering, Electrical and Electronic Engineering
+Data Science, Software Engineering, Autonomous and Intelligent Systems Engineering, Embedded Systems, IoT, Linux/UNIX, Python, C/C++, Java, GPGPU (CUDA/OpenCL/Theano), Network Security and Engineering, Localisation/Positioning, Agent Development, OOP, TDD, Cloud and Distributed Systems Architecture, Heroku, Google Apps, High Performance Computing, GPGPU, Telecommunications Engineering, Electrical and Electronic Engineering
 
 ### Professional
 
 Public Speaking, Presentation Developement, Collaboration Facilitation, Client Relations, Event Mgmt., Project Mgmt., Marketing Strategy, Social Engagement Strategy, Operational Workflow Development, STEM Outreach.
 
 ## Experience
+
+### Sensum Co, Belfast
+
+![](/img/sensum.png)
+
+#### Data Scientist (2016 - Present)
+
+Sensum Co is a leading emotional analytics start-up engaged with global brands in the assessment of real-time audience/participant engagement and emotionality.
+
+Primary responsibilities in data analysis and investigation, as well as the design, development and testing of of micro services based cloud API/SDK architecture for the real time collation and analysis of mixed modality biometric and context data.
+
+Secondary responsibilities in the architecture of secure data services architecture, PII management, data visualisation, ingress, ETL, as well as on-site, cloud, and mobile data analysis and connectivity architecture.
+
+Incudes direct engagement with client facing analysis and investigation, as well as the encouragement and migration to industrial best practice in areas of data security, communications infrastructure and project management.
 
 ### TOM Ltd, Belfast / Liverpool, UK
 ![](/img/spriteguard.png)
@@ -103,7 +116,7 @@ Implementation of an Agile, Unit-tested and Continuously Integrated product rele
 
 ![](/img/livuni.png)
 
-#### PhD Researcher (2013 - present)
+#### PhD Researcher (2013 - 2016)
 
 *"An Investigation into Trust and Reputation Frameworks for Collaborative Teams of Autonomous Underwater Vehicles"*
 
@@ -122,7 +135,7 @@ Included collaborations with:
 
 #### MEng Electronics and Software Engineering
 
-This is a four-year Extended Engineering course. It has been established to provide an adequate supply of well-qualified engineers with an appropriate blend of engineering knowledge and skills in business practice and management.
+This is a five-year Extended Engineering course. It has been established to provide an adequate supply of well-qualified engineers with an appropriate blend of engineering knowledge and skills in business practice and management.
 
 Concentrations in High Performance Computing, and Digital Communications. Also sat as Student Representative througout my time at Queen's, culminating in a chairmanship for my final year, as well as sitting on the IETs Younger Members Committee.
 
@@ -143,7 +156,7 @@ MEng Project: *"High-Speed bit-loading algorithms for Dynamic Spectrum Managemen
 
 * Institution of Engineering and Technology - Member
 * Marine Technology Society - Member
-* DFPNI Open Data Advisory Board - Member
+* DoF Open Data Advisory Board - Member
 
 ## Notable Publications
 
