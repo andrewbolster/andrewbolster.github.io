@@ -1,3 +1,10 @@
 _site/
 *.swp
 Gemfile.lock
+.jekyll-metadata
+resume/*.aux
+resume/*.bcf
+resume/*.log
+resume/*.out
+resume/*.xml
+
