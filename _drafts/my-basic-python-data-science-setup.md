@@ -3,33 +3,42 @@ layout: post
 title: My Basic (Python) Data Science Setup
 ---
 
-So, I've been largely silent for a long long time. Thought it was time to do something vaguely useful (and actually talk about it) so I'm tidying up a few meetup sessions I've presented at into a series of Basic Data Science stuff. This is the first one and covers my Python environment, the Jupyternotebook environments I use for analysis, and some  on the Plot.ly graphs and RISE / Reveal.js methods I use to turn those notebooks into presentations. 
+So, I've been largely silent for a long long time. Thought it was time to do something vaguely useful (and actually talk about it) so I'm tidying up a few meetup sessions I've presented at into a series of Basic Data Science stuff. This is the first one and covers my Python environment, the Jupyter notebook environments I use for analysis, and some  on the Plot.ly graphs and RISE / Reveal.js methods I use to turn those notebooks into presentations. 
 
 This section will be "Light" on the data science, maths, politics and everything else outside of the setup of this wee environment. 
 
-# What to Ass(u)me
+# Assumptions
 
-* Basic Linux/OSX familiarity
+* Basic Linux/OSX familiarity (This setup was tested on Ubuntu Server 17.04, YMMV)
 * Basic Programming familiarity in a hybrid language like Python, R, Bash, Go, Rust, Julia, Node.JS, Matlab, etc.
 * That when I use the phrases 'High Performance','Large','Big','Parallel', etc, this is in the context of a single, small, machine processing small amounts of interesting derived data. Yes, we can go big, but for now lets start up small... 
 
-# TLDR
-* Install [Anaconda](https://www.anaconda.com/download/) Python 3.X
+# TL;DR
+* Download [Anaconda](https://www.anaconda.com/download/) Python 3.X
+  * `wget https://repo.continuum.io/archive/Anaconda3-4.4.0-Linux-x86_64.sh -O anaconda.sh`
+  * `chmod +x anaconda.sh`
+  * `./anaconda.sh`
 * [_OPTIONAL_] Set up a `conda` environment to play in;
   * `conda create -n datasci`
   * `source activate datasci`
 * `conda config --add channels conda-forge`
-* `conda install numpy scipy pandas jupyter_nbextensions_configurator nbpresent nbbrowserconf nbbrowserpdf plotly seaborn`
+* `conda install numpy scipy pandas`
+* `conda install jupyter_nbextensions_configurator nbpresent nbbrowserpdf plotly seaborn`
+* `conda install -c damianavila82 rise`
+* `jupyter notebook --ip=0.0.0.0`
 
 
 
-# Full Stack/Monty Python
+# Python
 
 If you're using something else to do Data Science, [good for you](http://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html), but in terms of flexibility, developer/analyst velocity and portability, Python is hard to beat. R still has Python beat in some of the depths of it's Statistics expertise, but IMO Python gets you 99% of the way there.
 
 My environment of choice uses the [Anaconda distribution](https://docs.continuum.io/anaconda/). It's largely pre-built and optimised modules, as well as strong environment maintence capabilites make it hard to beat for exploratory analysis  / product design without the overheads of containerization, the pain of virtualenvs or the mess that comes from `sudo pip install`
 
 I'll skip past the installation instructions since [Anaconda's installation guides are pretty spot on](https://www.anaconda.com/download/), and we'll swing on to some tasty packages.
+
+**NOTE** in most cases, when the Anaconda installer asks "Do you wish the installer to prepend the Anaconda3 install location to PATH...?", unless you craft your own dotfiles, it's a good idea to "yes" this
+![](/img/2017/conda-install-path-accept.png)
 
 If you want to keep all your datascience environments tidy, or you just want to minimise cross-bloat, `conda` makes environment creation and management [extremely easy](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 
@@ -71,14 +80,73 @@ While `pandas` is still my favourite module, `jupyter` probably makes the bigges
 Best of all it is packaged as part of Anaconda's Python distribution.
 
 ```shell
-jupyter notebook
+jupyter notebook --ip=0.0.0.0
 ```
 
-For presentationy stuff later though, I like to add in a few extras
+The `--ip=0.0.0.0` sets the jupyter server to accept connections to all addresses; by default it will only listen on `localhost`
+
+On first time launch, you'll need to connect with a tokenized url
+![](/img/2017/jupyter-first-launch.png)
+
+After visiting that URL, you'll be presented with Jupyter's file-tree based browser view:
+
+![](/img/2017/jupyter-tree.png)
+
+From here we can launch "notebooks" from a range of kernels; the `datasci` conda environment we just created, the "root" conda environment (not "root" as in "superuser", "root" as in the base, user-space, conda installation), and the system default python version.
+
+![](/img/2017/jupyter-new-select.png)
+
+You can fire up the `datasci` environment to get into the new notebook view, where Jupyter really comes into its own. 
+
+![](/img/2017/jupyter-hello-jupyter.png)
+
+As you can see, the "output" (stdout / stderr) is redirected from the cell scripts into the browser. This is gets particularly powerful as we start to use more complex functionality than just "printing".
+
+![](/img/2017/jupyter-np-random.png)
+
+Notice the lack of `print` function; we still got the output we expected. But it's still text and not that pretty; here's where `pandas` comes in...
+
+![](/img/2017/jupyter-series-head.png)
+
+When working with large datasets, "accidentally" filling the screen with noise when you just want to peek into a dataset is an occupational hazard, so all `pandas` collection objects have `.head()` methods that show the first 5 (by default) results. Unsurprisingly, there's also a `tail`, but more interestingly; there's a `.describe()` that give you a great general rundown on the nature of the dataset. 
+
+![](/img/2017/jupyter-series-describe.png)
+
+But who needs numbers when we can have graphs? 
+
+Jupyter supports a wonderful meta-language, helpfully called ["magic functions"](http://ipython.readthedocs.io/en/stable/interactive/magics.html) that give lots of access to the innards of Jupyter. One handy one is the `%matplotlib` function, that lets you tell Jupyter how to interpret `matplotlib` plot objects. `%matplotlib inline` essentially says "make it an inline png"
+
+![](/img/2017/jupyter-series-hist.png)
+
+That's fine for fairly constrained plots like histograms; if we're dealing with some kind of long-term varying data (eg timeseries), it's not ideal to try to "navigate" a static image. 
+
+Instead of `inline`; using `%matplotlib nbagg` instructs jupyter to set matplotlib to use a heavily customised backend especially for notebooks, that brings interactive spanning, zooming, translation and image export.
+
+(Note, when switching between `inline` and `nbagg`, the kernel has to be restarted using the relevant button in the toolbar, this will *keep* all your code and cells and outputs, but will clear any stored variables)
+
+![](/img/2017/jupyter-nbagg.png)
+
+Using the Pan button on the bottom right of the plot, we can zoom into a particular area of the graph and export it if we like. 
+
+![](/img/2017/jupyter-nbagg-zoomed.png)
+
+So far so meh; what about something vaguely realistic?
+
+Using `numpy`'s random modules, and `pandas.date_range` functionality, we can generate a (basic) simulation of the daily up/down movements of a financial market;
+
+![](/img/2017/jupyter-ts.png)
+
+From there's it's a hop and a skip to use the `Series`' `cumsum()` method to get a simulated price change from the launch and plot it (with proper time-series x-axis labels!)
+
+![](/img/2017/jupyter-ts-cumsum.png)
+
+For presentationy stuff later though, I like to add in a few extras, this first batch is related to extension management, pdf export and introducing Jupyters Presentation capabilities
 
 ```shell
-conda install jupyter_nbextensions_configurator nbpresent nbbrowserconf nbbrowserpdf
+conda install jupyter_nbextensions_configurator nbpresent nbbrowserpdf
 ```
+
+To augment
 
 ## Graph all the things
 
