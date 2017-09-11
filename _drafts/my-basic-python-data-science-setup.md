@@ -22,7 +22,7 @@ This section will be "Light" on the data science, maths, politics and everything
   * `conda create -n datasci`
   * `source activate datasci`
 * `conda config --add channels conda-forge`
-* `conda install numpy scipy pandas`
+* `conda install numpy scipy pandas nb_conda`
 * `conda install jupyter_nbextensions_configurator nbpresent nbbrowserpdf plotly seaborn`
 * `conda install -c damianavila82 rise`
 * `jupyter notebook --ip=0.0.0.0`
@@ -139,6 +139,8 @@ Using `numpy`'s random modules, and `pandas.date_range` functionality, we can ge
 From there's it's a hop and a skip to use the `Series`' `cumsum()` method to get a simulated price change from the launch and plot it (with proper time-series x-axis labels!)
 
 ![](/img/2017/jupyter-ts-cumsum.png)
+
+## Mixed Cells, Presentations and RISE / Reveal.js
 
 For presentationy stuff later though, I like to add in a few extras, this first batch is related to extension management, pdf export and introducing Jupyters Presentation capabilities
 
