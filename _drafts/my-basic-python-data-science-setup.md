@@ -11,7 +11,7 @@ This section will be "Light" on the data science, maths, politics and everything
 
 * Basic Linux/OSX familiarity (This setup was tested on Ubuntu Server 17.04, YMMV)
 * Basic Programming familiarity in a hybrid language like Python, R, Bash, Go, Rust, Julia, Node.JS, Matlab, etc.
-* That when I use the phrases 'High Performance','Large','Big','Parallel', etc, this is in the context of a single, small, machine processing small amounts of interesting derived data. Yes, we can go big, but for now lets start up small... 
+* That when I use the phrases "High Performance","Large","Big","Parallel", etc, this is in the context of a single, small, machine processing small amounts of interesting derived data. Yes, we can go big, but for now lets start up small... 
 
 # TL;DR
 * Download [Anaconda](https://www.anaconda.com/download/) Python 3.X
@@ -33,7 +33,7 @@ This section will be "Light" on the data science, maths, politics and everything
 
 If you're using something else to do Data Science, [good for you](http://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html), but in terms of flexibility, developer/analyst velocity and portability, Python is hard to beat. R still has Python beat in some of the depths of it's Statistics expertise, but IMO Python gets you 99% of the way there.
 
-My environment of choice uses the [Anaconda distribution](https://docs.continuum.io/anaconda/). It's largely pre-built and optimised modules, as well as strong environment maintence capabilites make it hard to beat for exploratory analysis  / product design without the overheads of containerization, the pain of virtualenvs or the mess that comes from `sudo pip install`
+My environment of choice uses the [Anaconda distribution](https://docs.continuum.io/anaconda/). Its largely pre-built and optimised modules, communuity maintained [channels](https://conda.io/docs/user-guide/tasks/create-custom-channels.html), and environment maintence capabilites make it hard to beat for exploratory analysis / proof of concept without the overheads of containerization, the pain of virtualenvs or the mess that comes from `sudo pip install`
 
 I'll skip past the installation instructions since [Anaconda's installation guides are pretty spot on](https://www.anaconda.com/download/), and we'll swing on to some tasty packages.
 
@@ -46,6 +46,8 @@ If you want to keep all your datascience environments tidy, or you just want to 
 conda create -n datasci
 source activate datasci
 ```
+
+This way, you're not mundging over the base python installation, and best of all, everything lives in userland so this is great for shared machines where you don't have `sudo` access.
 
 Once the base distribution is installed, it's also worthwhile adding in the [`conda-forge` channel](https://conda-forge.org/), which gives you access to community built and tested versions of most major Python packages (and can be more up to date than Anaconda's pre-built versions)
 
@@ -77,9 +79,10 @@ conda install numpy scipy pandas
 
 While `pandas` is still my favourite module, `jupyter` probably makes the biggest difference in my day to day life. Oftentimes you will either be living in a text editor / IDE and executing those scripts from the command line, or running through a command line interpreter directly like IDLE or ipython. `jupyter` presents a "middle-way" of a block-based approach hosted through a local web server. Go play with it, you'll thank me.
 
-Best of all it is packaged as part of Anaconda's Python distribution.
+While the base `jupyter` module is packaged as part of Anaconda, a collection of helper modules in inluded in the `nb_conda` package that includes features such as automatic kernel detection [among other features](https://github.com/Anaconda-Platform/nb_conda)
 
 ```shell
+conda install nb_conda
 jupyter notebook --ip=0.0.0.0
 ```
 
@@ -140,15 +143,48 @@ From there's it's a hop and a skip to use the `Series`' `cumsum()` method to get
 
 ![](/img/2017/jupyter-ts-cumsum.png)
 
+Similar (but far nicer) than the `Series` display, this 2 dimentional dataset (`DataFrame`) has a very clean and readable representation in `jupyter`
+
+![](/img/2017/jupyter-dataframe.png)
+
+Two things to point out before we move on; dimensional aggregation and column creation;
+
+`df.mean()` by default returns the average value of each column, but this behaviour can be made explicit or transposed through the `axis` argument;
+
+![](/img/2017/jupyter-dataframe-aggregation.png)
+
+And then we can use the output of `axis=1` to create a new "AVG" column in the dataframe in place
+
+![](/img/2017/jupyter-dataframe-column.png)
+
+
 ## Mixed Cells, Presentations and RISE / Reveal.js
 
-For presentationy stuff later though, I like to add in a few extras, this first batch is related to extension management, pdf export and introducing Jupyters Presentation capabilities
+For presentationy stuff later though, I like to add in a few extras, this first batch is related to extension management, pdf export and introducing Jupyters Presentation capabilities, in particular, [RISE](https://github.com/damianavila/RISE) which greatly augments Jupyters' presentation capability, bringing in the popular [reveal.js](https://github.com/hakimel/reveal.js/) presentation framework.
 
 ```shell
 conda install jupyter_nbextensions_configurator nbpresent nbbrowserpdf
+conda install -c damianavila82 rise
 ```
 
-To augment
+This also gives us an opportunity to experiment with the multiple cell types that Jupyter gives; (It's not all about code!)
+
+![](/img/2017/jupyter-comment-title.png)
+
+This regular boring comment could also be considered Markdown, if only we could tell jupyter...
+
+![](/img/2017/jupyter-cell-dropdown.png)
+
+By selecting the cell, and switching the cell type from the dropdown to Markdown, it'll re-display as giant blue text while in edit mode, and when you "run" the cell, it'll be rendered as a markdown title.
+
+![](/img/2017/jupyter-markdown.png)
+
+![](/img/2017/jupyter-markdown-render.png)
+
+So we've got markdown, now to get presentations; in default configuration, we need to enable the "Slideshow" cell toolbar.
+
+![](/img/2017/jupyter-slide-dropdown.png)
+
 
 ## Graph all the things
 
