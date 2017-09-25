@@ -3,7 +3,7 @@ layout: post
 title: My Basic (Python) Data Science Setup
 ---
 
-So, I've been largely silent for a long long time. Thought it was time to do something vaguely useful (and actually talk about it) so I'm tidying up a few meetup sessions I've presented at into a series of Basic Data Science stuff. This is the first one and covers my Python environment, the Jupyter notebook environments I use for analysis, and some  on the Plot.ly graphs and RISE / Reveal.js methods I use to turn those notebooks into presentations. 
+After last weeks [return to posting](), I thought it was time to do something vaguely useful (and actually talk about it) so I'm tidying up a few meetup sessions I've presented at into a series of Basic Data Science (with Python) posts. This is the first one and covers my Python environment, the Jupyter notebook environments I use for analysis, and some  on the Plot.ly graphs and RISE / Reveal.js methods I use to turn those notebooks into presentations. 
 
 This section will be "Light" on the data science, maths, politics and everything else outside of the setup of this wee environment. 
 
@@ -185,9 +185,29 @@ So we've got markdown, now to get presentations; in default configuration, we ne
 
 ![](/img/2017/jupyter-slide-dropdown.png)
 
+This adds an extra toolbar to each cell that allows you to control the slide state of that cell (this will make more sense in a sec)
+
+![](/img/2017/jupyter-slide-cell-dropdown.png)
+
+This dropdown gives 6 options for what kind of slideshow behaviour that cell has; 
+
+* `-` : Direct continuation, i.e. this cell will be considered part of the above cell (useful for mixing Markdown and Code in the same slide) 
+* `Slide`: Make this a primary slide in the `Reveal.js` slideshow.
+* `Sub-Slide`: Make this a secondary slide (i.e. slides "below" the primary slides)
+* `Fragment`: This cell will "appear" on the element above, think of it like an "appear" transition in Powerpoint/etc.
+* `Skip`: Simple enough, these cells aren't shown.
+* `Notes`: These cells are used for [Reveal.js Speaker Notes](https://github.com/hakimel/reveal.js/#speaker-notes), YMMV and they don't work with the native Jupyter integration, so I've never used them.
+
+Using a combination of these, we can turn our mixed Markdown/Python notebook into a slideshow including code-outputs:
+
+![](/img/2017/jupyter-slide-cells.png)
+![](/img/2017/jupyter-slide-render.png)
+
+
+
+
 
 ## Graph all the things
-
 One of the key parts of interrogating and analysing a dataset is visualisation. Python has a pile of fantastic visualisation libraries, with [`matplotlib`](https://matplotlib.org/) being the granddaddy of them all (and is a dependency of most numerical libraries because it's handy as hell). [But that's not our only option by a long shot.](https://wiki.python.org/moin/NumericAndScientific/Plotting)
 
 Personally, I'm a fan of [Seaborn](https://seaborn.pydata.org/tutorial.html) for `pandas` aware static plots, and [Plotly](https://plot.ly/) for generating rich, interactive, shareable visualisations (like [this one](https://plot.ly/~bolster/217), presented with no context)
