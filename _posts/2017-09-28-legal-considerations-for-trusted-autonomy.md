@@ -34,8 +34,7 @@ requires any combatant “to be commanded by a person.”, and in
 particular, The Martens Clause of that convention (originally introduced
 in the earlier 1899 convention) specifically demands the application of
 “the principle of humanity” in combat [^Ticehurst1997]. The problem
-presented by these principles has already been briefly introduced in ,
-in that modern remote operation systems perform with the operator
+presented by these principles is that modern remote operation systems perform with the operator
 “on-the-loop” for the majority of time, with on-board autonomy taking
 over “simple” on-board processes such as local navigation, collision
 avoidance, positioning etc.
@@ -43,7 +42,7 @@ avoidance, positioning etc.
 Once this “on-the-loop” platform is in theatre, direct control must be
 assumed before any fire-orders are given, otherwise commanders would be
 in direct breach of the above conventions. Whether such breaches have
-already occurred is outside the scope of this work, and as discussed in
+already occurred is outside the scope of this work, and as discussed in (the [Thesis](https://github.com/andrewbolster/thesis/releases/download/v1.0/Thesis.pdf) )
 , this work is primarily concerned with actions that involve no fire
 control what so ever. However, there is one potentially relevant area of
 application to which these doctrines may arguably apply; a significant 
