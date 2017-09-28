@@ -24,6 +24,7 @@ This section will be "Light" on the data science, maths, politics and everything
 * `conda config --add channels conda-forge`
 * `conda install numpy scipy pandas nb_conda`
 * `conda install jupyter_nbextensions_configurator nbpresent nbbrowserpdf plotly seaborn`
+* `pip install cufflinks`
 * `conda install -c damianavila82 rise`
 * `jupyter notebook --ip=0.0.0.0`
 
@@ -201,10 +202,23 @@ This dropdown gives 6 options for what kind of slideshow behaviour that cell has
 Using a combination of these, we can turn our mixed Markdown/Python notebook into a slideshow including code-outputs:
 
 ![](/img/2017/jupyter-slide-cells.png)
+
+Click the "Enter/Exit Live Reveal Slideshow" button on the top toolbar (Or `Alt + r`)
+
+![](/img/2017/jupyter-reveal-button.png)
+
 ![](/img/2017/jupyter-slide-render.png)
 
+Using these tools and the `Pandas` functionality from above, we can quickly grab the `iris` dataset from [Vincent Arel-Bundock's RDatasets repository](https://vincentarelbundock.github.io/Rdatasets/datasets.html) and start graphing things almost instantly without showing all the gubbins in the presentation;
 
 
+![](/img/2017/jupyter-slide-graphs.png)
+
+![](/img/2017/jupyter-slide-graphs-render-1.png)
+
+Then click either the arrows on the bottom right, or `PgDn` to reveal the next fragment
+
+![](/img/2017/jupyter-slide-graphs-render-2.png)
 
 
 ## Graph all the things
@@ -212,9 +226,22 @@ One of the key parts of interrogating and analysing a dataset is visualisation. 
 
 Personally, I'm a fan of [Seaborn](https://seaborn.pydata.org/tutorial.html) for `pandas` aware static plots, and [Plotly](https://plot.ly/) for generating rich, interactive, shareable visualisations (like [this one](https://plot.ly/~bolster/217), presented with no context)
 
+[Plot.ly's getting started instructions are spot on](https://plot.ly/python/getting-started/) so I'll not dive too far into them and go straight on to using it.
+
+**NOTE** `cufflinks` is a brilliant little bridge between `pandas` and `plotly`, creating an overloaded `iplot()` method on `Series` and `DataFrame` objects. Unfortunately it's not in the default `conda` distribution so we have to `pip` it the old fashioned way.
+
 ```shell
 conda install plotly seaborn
+pip install cufflinks
 ```
+
+But before we completely ignore that `iris` dataset, we'll gently fire it at `seaborn` to get something interesting; 
+
+![](/img/2017/jupyter-seaborn-iris.png)
+
+Using the `hue` argument gives much higher clarity on the delineation between the species, and for wide datasets like this, `seaborn` can infer what columns to plot against, allowing rapid inspection of relationships in data.
+
+
 
 # Conclusion
 
@@ -222,4 +249,4 @@ And that's about it!
 
 I'll try to keep this page updated with "my 'best' practice" setup and workflow. Slap me around if I've messed anything up in these instructions, or to comment on how I'm totally wrong!
 
-
+If there's a decent level of interest in this, I might put together a proper course for this stuff, lemme know if that's something that'd be useful! (Otherwise I'll just keep ranting at Meetups! :trollface: )
