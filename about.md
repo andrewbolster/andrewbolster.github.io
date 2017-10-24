@@ -69,6 +69,10 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 # Speaking Engagements / Panels
 
+* 2017
+  * [University of Ulster MSc Data Science](https://www.ulster.ac.uk/courses/course-finder/201718/data-science-15253) - Guest Lecturer
+  * [BLUG](https://www.meetup.com/belfast-lug/events/242064392/) - Open Data Science in Python - Speaker
+  * [PyBelfast](https://www.meetup.com/PyBelfast/events/238855866/) - Pandas for Data Science - Speaker
 * 2016
   * [BelTech](http://beltech2016.com/schedule/speakers.html) - Innovation Engineering - Panellist
   * [Open Data Day](http://belfast.theodi.org/2016/02/12/open-data-day-2016-belfast/) - Community Use of Open Data - Speaker

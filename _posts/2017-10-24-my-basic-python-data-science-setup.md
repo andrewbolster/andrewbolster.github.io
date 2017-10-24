@@ -249,4 +249,8 @@ And that's about it!
 
 I'll try to keep this page updated with "my 'best' practice" setup and workflow. Slap me around if I've messed anything up in these instructions, or to comment on how I'm totally wrong!
 
-If there's a decent level of interest in this, I might put together a proper course for this stuff, lemme know if that's something that'd be useful! (Otherwise I'll just keep ranting at Meetups! :trollface: )
+Also if you'd like to see a few examples of presentations / notebooks I've used, checkout [present.bolster.online](http://present.bolster.online). The source for these is also available on github at [presentgh.bolster.online](http://presentgh.bolster.online).
+
+If there's a decent level of interest in this, I might put together a proper course for this stuff, lemme know if that's something that'd be useful! (Otherwise I'll just keep ranting at Meetups!)
+
+:trollface:
