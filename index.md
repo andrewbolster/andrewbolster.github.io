@@ -5,7 +5,7 @@ title: Howdi, I'm Andrew, but most people call me Bolster
 {% include JB/setup %}
 
 
-* PhD Researcher @ [University of Liverpool](http://liv.ac.uk)
+* Data Scientist @ [Sensum](https://sensum.co)
 * Director @ [Farset Labs](http://farsetlabs.org.uk)
 * among [other things](/about)
 
