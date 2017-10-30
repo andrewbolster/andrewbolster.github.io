@@ -160,8 +160,8 @@ MEng Project: *"High-Speed bit-loading algorithms for Dynamic Spectrum Managemen
 
 ## Notable Publications
 
+* [Dynamic Model of Athletes' Emotions Based on Wearable Devices - International Conference on Applied Human Factors and Ergonomics](https://www.researchgate.net/publication/317689071_Dynamic_Model_of_Athletes%27_Emotions_Based_on_Wearable_Devices), 2017
 * [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](http://bolster.online/bolster/16_UComms_bolster_preprint.pdf), 2016
-* [Physical Behaviours for Trust Assessment in Autonomous Underwater MANETs - Submitted to The 13th IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), Brasilia, Brasil](http://bolster.online/bolster/16_MASS_bolster_preprint.pdf), 2016
 * [Single and Multi-metric Trust Management Frameworks for Use in Underwater Autonomous Networks. In Trustcom/BigDataSE/ISPA, 2015 IEEE, Helsinki, Finland](http://doi.org/10.1109/Trustcom.2015.435), 2015
 *  [GPS III: Where are we and Where are we going?](http://www.makeuseof.com/tag/gps-iii-going/), MakeUseOf 2014
 *  [How do Optical and Quantum Computers work?](http://www.makeuseof.com/tag/optical-quantum-computers-work/), MakeUseOf 2014
