@@ -169,6 +169,7 @@ MEng Project: *"High-Speed bit-loading algorithms for Dynamic Spectrum Managemen
 *  [How The Future Gigabit Internet Is Likely To Play Out](http://www.makeuseof.com/tag/future-gigabit-internet-likely-play/), MakeUseOf 2014
 * [Analysis of Trust Interfaces in Autonomous and Semi-Autonomous Collaborative MHPC Operations](), The Technical Cooperation Program, Technical Report TR-C3I-06-2014, May 14, 2014, Portsmouth, UK *not publically available*
 * [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697), AAAI Spring Symposium Series, March 2014, Stanford CA, USA
+  * [Pop-up Living Labs: Experiments in Co-creating Service Design with Diverse Stakeholders in Hackerspace Communities](http://uir.ulster.ac.uk/26727/) In: Proceedings Living Lab Summer School Research Workshop. ENOLL, Manchester, UK, 2013
 *  [High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL](https://github.com/andrewbolster/multiuserDSM/raw/master/Dissertation/FINALFINAL.pdf), MEng Thesis, 2011, Belfast, UK
 
 
