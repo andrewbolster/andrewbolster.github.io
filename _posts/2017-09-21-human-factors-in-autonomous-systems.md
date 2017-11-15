@@ -193,11 +193,14 @@ point (in some cases already past) where human operators must place
 their “Trust” in autonomous systems to not only accomplish what they
 want and what they expect, but to do it in a way they are
 psychologically comfortable with. Further, there is the aspect of how
-are (or should) autonomous systems be “trained” in how to deal with the
+are (or should) autonomous systems being “trained” in how to deal with the
 systematic failings in human cognition? At what point does the machine
-need to trust the operator before it performs “responsibly” in the face
-of a possibly irrational or cognitively broken use, and if so, how can
-it communicate the These are massively open research questions I didn’t
+need to trust the _operator_ before it performs “responsibly” in the face
+of a possibly irrational or cognitively broken usage, and if so, how can
+it communicate this state to the operator or some higher order command 
+structure?
+
+These are massively open research questions I didn’t
 get to attempt to answer anywhere other than the appendices and the pub,
 and there is no easy avenue to start from, so this author suggests
 Asimov’s [“The Robot Collection”](https://www.amazon.co.uk/Complete-Robot-Isaac-Asimov/dp/0586057242).

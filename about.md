@@ -31,6 +31,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 * 2017
   * [Ethical hacker turned off heating 300 miles away](http://www.newsletter.co.uk/news/crime/ethical-hacker-turned-off-heating-300-miles-away-1-8071108) - Interviewee
+* [Dynamic Model of Athletes' Emotions Based on Wearable Devices - International Conference on Applied Human Factors and Ergonomics](https://www.researchgate.net/publication/317689071_Dynamic_Model_of_Athletes%27_Emotions_Based_on_Wearable_Devices), Author
 
 * 2016
   * [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](http://bolster.online/bolster/16_UComms_bolster_preprint.pdf) - Author
