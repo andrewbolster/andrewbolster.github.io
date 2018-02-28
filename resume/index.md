@@ -40,11 +40,21 @@ Public Speaking, Presentation Developement, Collaboration Facilitation, Client R
 
 ## Experience
 
+### Alert Logic, Belfast
+
+![](/img/alert.png)
+
+#### Data Scientist (2018 - Present)
+
+Alert Logic is an award-winning multi-national Information Security Solutions provider, with industry-leading cloud security solutions.
+
+Primary responsibilities are the application of Data Science techniques and analyses to cross-sector threat assessment, identifying common threat vectors and providing insight for internal and external stakeholders into the nature of the security landscape around their services, applications, and environments.
+
 ### Sensum Co, Belfast
 
 ![](/img/sensum.png)
 
-#### Data Scientist (2016 - Present)
+#### Data Scientist (2016 - 2018)
 
 Sensum Co is a leading emotional analytics start-up engaged with global brands in the assessment of real-time audience/participant engagement and emotionality.
 

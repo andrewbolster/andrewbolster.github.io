@@ -5,7 +5,7 @@ title: Howdi, I'm Andrew, but most people call me Bolster
 {% include JB/setup %}
 
 
-* Data Scientist @ [Sensum](https://sensum.co)
+* Data Scientist @ [Alert Logic](https://www.alertlogic.com)
 * Director @ [Farset Labs](http://farsetlabs.org.uk)
 * among [other things](/about)
 

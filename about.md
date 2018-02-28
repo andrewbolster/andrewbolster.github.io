@@ -13,7 +13,7 @@ title: Bio
 [![Me](/img/bolster_300.png)](/img/bolster_orig.png)
 Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.
 
-Currently Data Science Leader at [Sensum](http://sensum.co), using advanced data mining and machine learning to analyse human emotions through a combination of biometric observation and contextual heuristics.
+Currently Data Scientist  at [AlertLogic](https://alertlogic.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
 
 Recently completed PhD Research at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](http://ecit.qub.ac.uk) Institute) investigating Trust and Reputation in Marine Communications for Autonomous Systems of Systems under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](http://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
 
@@ -25,7 +25,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 ## What's my Schedule?
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=me%40andrewbolster.info&amp;color=%23711616&amp;src=uvmq90oc081fdj5lji4l7gu5rscrpf05%40import.calendar.google.com&amp;color=%23B1440E&amp;src=bolster%40farsetlabs.org.uk&amp;color=%231B887A&amp;src=bolster%40sensum.co&amp;color=%2342104A&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=me%40andrewbolster.info&amp;color=%23711616&amp;src=uvmq90oc081fdj5lji4l7gu5rscrpf05%40import.calendar.google.com&amp;color=%23B1440E&amp;src=bolster%40farsetlabs.org.uk&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Press/Publications/Podcasts
 
