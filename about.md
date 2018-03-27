@@ -28,10 +28,13 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=me%40andrewbolster.info&amp;color=%23711616&amp;src=uvmq90oc081fdj5lji4l7gu5rscrpf05%40import.calendar.google.com&amp;color=%23B1440E&amp;src=bolster%40farsetlabs.org.uk&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Press/Publications/Podcasts
+* 2018
+  * [Moving to Belfast? Here are 10 people you need to know](https://www.siliconrepublic.com/people/belfast-tech-influencers-people-to-follow) - SiliconRepublic - Listee
 
 * 2017
-  * [Ethical hacker turned off heating 300 miles away](http://www.newsletter.co.uk/news/crime/ethical-hacker-turned-off-heating-300-miles-away-1-8071108) - Interviewee
-* [Dynamic Model of Athletes' Emotions Based on Wearable Devices - International Conference on Applied Human Factors and Ergonomics](https://www.researchgate.net/publication/317689071_Dynamic_Model_of_Athletes%27_Emotions_Based_on_Wearable_Devices), Author
+  * [Best In Class: Our Pick of Northern Ireland's Tech Educators #1](https://syncni.com/news/718/9026/best-in-class-our-pick-of-northern-ireland-s-tech-educators/tab/1356) - SyncNI - Listee
+  * [Ethical hacker turned off heating 300 miles away](http://www.newsletter.co.uk/news/crime/ethical-hacker-turned-off-heating-300-miles-away-1-8071108) - Newsletter - Interviewee
+* [Dynamic Model of Athletes' Emotions Based on Wearable Devices - International Conference on Applied Human Factors and Ergonomics](https://www.researchgate.net/publication/317689071_Dynamic_Model_of_Athletes%27_Emotions_Based_on_Wearable_Devices) - Author
 
 * 2016
   * [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](http://bolster.online/bolster/16_UComms_bolster_preprint.pdf) - Author
@@ -39,7 +42,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 * 2015
   * [Single and Multi-metric Trust Management Frameworks for Use in Underwater Autonomous Networks. In Trustcom/BigDataSE/ISPA, 2015 IEEE, Helsinki, Finland](http://doi.org/10.1109/Trustcom.2015.435) - Author
   *  [How The Future Gigabit Internet Is Likely To Play Out](http://www.makeuseof.com/tag/future-gigabit-internet-likely-play/) - MakeUseOf - Author
-  * [Raspberry Pi Farset Labs 'jams' teach kids how to code computers](http://www.bbc.co.uk/news/uk-northern-ireland-31625354) - Interview
+  * [Raspberry Pi Farset Labs 'jams' teach kids how to code computers](http://www.bbc.co.uk/news/uk-northern-ireland-31625354) - BBC - Interview
   * [Big Data Is Big Business In Northern Ireland](http://www.nispconnect.org/techwatch/big-data-is-big-business-in-northern-ireland/) - TechWatch - Interview
 
 * 2014
@@ -69,7 +72,9 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * [A Different Road](http://www.sciencedirect.com/science/article/pii/S0262407912604485) - New Scientist - Interview
 
 # Speaking Engagements / Panels
-
+* 2018
+  * [Machine Learning BASH](https://www.meetup.com/devbash/events/249025552/) - Speaker
+  * BelFOSS - Speaker
 * 2017
   * [University of Ulster MSc Data Science](https://www.ulster.ac.uk/courses/course-finder/201718/data-science-15253) - Guest Lecturer
   * [BLUG](https://www.meetup.com/belfast-lug/events/242064392/) - Open Data Science in Python - Speaker
