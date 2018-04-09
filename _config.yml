@@ -4,7 +4,7 @@ permalink: /:year/:month/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: "rouge"
-gems:
+plugins:
   - jemoji
   - jekyll-coffeescript
   - jekyll-gist

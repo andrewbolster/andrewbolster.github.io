@@ -12,16 +12,33 @@ Font families
 
 No styleguide reference.
 */
-@import url("http://fonts.googleapis.com/css?family=Roboto:500,700,400");
+@import "spinner.css";
+@import "syntaxhighlighter.css";
+@import "helper.css";
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(http://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url(http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc9.ttf) format('truetype');
+}
 /*
 Base font size should be larger than 16px.
 Calculation should be done via  http://j.mp/rNg5uA
 
 No styleguide reference.
 */
-@import "spinner.css";
-@import "syntaxhighlighter.css";
-@import "helper.css";
 body {
   font-family: Roboto, Sans-Serif;
   font-size: 1em;
@@ -493,6 +510,12 @@ No styleguide reference.
     margin-right: 360px;
   }
 }
+.center-image,
+iframe {
+  margin: 0 auto;
+  display: block;
+  float: center;
+}
 /* GLOBAL
 --------------------------------------------------------------------------------- */
 html {
@@ -542,11 +565,11 @@ pre {
 .the-header .tagline {
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   margin: 0;
-  color: #9b59b6;
+  color: #7E3999;
 }
 .the-header .nav-global {
   text-transform: uppercase;
-  border-bottom: 1px dotted #9b59b6;
+  border-bottom: 1px dotted #7E3999;
 }
 .the-header .nav-global .forkme {
   position: relative;
@@ -555,7 +578,7 @@ pre {
 /* FORKONGITHUB
 --------------------------------------------------------------------------------- */
 #forkongithub a {
-  background: #9b59b6;
+  background: #7E3999;
   color: #2d2d2d;
   text-decoration: none;
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
@@ -569,7 +592,7 @@ pre {
 }
 #forkongithub a:hover {
   color: #141414;
-  background: #b07cc6;
+  background: #9b4abb;
 }
 #forkongithub a::before,
 #forkongithub a::after {
@@ -626,7 +649,7 @@ body {
   background: url('/assets/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #9b59b6;
+  background-color: #7E3999;
   margin-bottom: 1.625em;
   padding-top: 1.625em;
   padding-bottom: 1.625em;
@@ -634,7 +657,7 @@ body {
 }
 .unit-article header h1 {
   color: #2d2d2d;
-  text-shadow: 2px 2px #b07cc6;
+  text-shadow: 2px 2px #9b4abb;
   margin-top: 0;
   margin-bottom: 0;
   text-align: center;
@@ -686,13 +709,13 @@ body {
   margin-top: 0;
 }
 .unit-article a:link {
-  border-bottom: 1px dotted #9b59b6;
+  border-bottom: 1px dotted #7E3999;
 }
 .unit-article a:visited {
-  border-bottom: 1px dotted #804399;
+  border-bottom: 1px dotted #5f2b74;
 }
 .unit-article a:hover {
-  border-bottom: 1px dotted #b07cc6;
+  border-bottom: 1px dotted #9b4abb;
 }
 .unit-article blockquote {
   border-left: 1em solid rgba(21, 25, 25, 0.8);
@@ -951,13 +974,13 @@ body {
   color: #fff;
 }
 .the-footer a:link {
-  border-bottom: 1px dotted #9b59b6;
+  border-bottom: 1px dotted #7E3999;
 }
 .the-footer a:visited {
-  border-bottom: 1px dotted #804399;
+  border-bottom: 1px dotted #5f2b74;
 }
 .the-footer a:hover {
-  border-bottom: 1px dotted #b07cc6;
+  border-bottom: 1px dotted #9b4abb;
 }
 .the-footer ul {
   list-style: square;
@@ -985,10 +1008,10 @@ body {
   background: url('/assets/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #9b59b6;
+  background-color: #7E3999;
   box-shadow: 4px 4px 10px rgba(120, 81, 169, 0.5);
   color: #2d2d2d;
-  text-shadow: 1px 1px #b07cc6;
+  text-shadow: 1px 1px #9b4abb;
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   font-weight: bold;
 }
