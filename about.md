@@ -34,7 +34,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 * 2017
   * [Best In Class: Our Pick of Northern Ireland's Tech Educators #1](https://syncni.com/news/718/9026/best-in-class-our-pick-of-northern-ireland-s-tech-educators/tab/1356) - SyncNI - Listee
   * [Ethical hacker turned off heating 300 miles away](http://www.newsletter.co.uk/news/crime/ethical-hacker-turned-off-heating-300-miles-away-1-8071108) - Newsletter - Interviewee
-* [Dynamic Model of Athletes' Emotions Based on Wearable Devices - International Conference on Applied Human Factors and Ergonomics](https://www.researchgate.net/publication/317689071_Dynamic_Model_of_Athletes%27_Emotions_Based_on_Wearable_Devices) - Author
+  * [Dynamic Model of Athletes' Emotions Based on Wearable Devices - International Conference on Applied Human Factors and Ergonomics](https://www.researchgate.net/publication/317689071_Dynamic_Model_of_Athletes%27_Emotions_Based_on_Wearable_Devices) - Author
 
 * 2016
   * [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](http://bolster.online/bolster/16_UComms_bolster_preprint.pdf) - Author
@@ -73,8 +73,10 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 # Speaking Engagements / Panels
 * 2018
+  * [DigitalDNA/AINI](https://www.meetup.com/Artificial-Intelligence-Northern-Ireland/events/251265424/) - Unfeeling Fire; Autonomy in Defence - Speaker and Panellist
+  * [Northern Ireland Developers Conference](https://www.nidevconf.com/speakers/andrewbolster/) - An Idiots Guide to (Open) Data Science - Speaker
   * [Machine Learning BASH](https://www.meetup.com/devbash/events/249025552/) - Speaker
-  * BelFOSS - Speaker
+  * [BelFOSS](https://www.youtube.com/watch?v=5LhKXL0oDnc):movie_camera: - The Ballad Of Farset Labs: Redux - Speaker
 * 2017
   * [University of Ulster MSc Data Science](https://www.ulster.ac.uk/courses/course-finder/201718/data-science-15253) - Guest Lecturer
   * [BLUG](https://www.meetup.com/belfast-lug/events/242064392/) - Open Data Science in Python - Speaker
@@ -83,18 +85,18 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * [BelTech](http://beltech2016.com/schedule/speakers.html) - Innovation Engineering - Panellist
   * [Open Data Day](http://belfast.theodi.org/2016/02/12/open-data-day-2016-belfast/) - Community Use of Open Data - Speaker
 * 2015
-  * [Ignite Liverpool](http://igniteliverpool.com/2015/08/andrew-bolster-a-rant-about-a-visitors-perspective-of-liverpool/) - A Rant About A Visitors Perspective of Liverpool - Speaking
+  * [Ignite Liverpool](http://igniteliverpool.com/2015/08/andrew-bolster-a-rant-about-a-visitors-perspective-of-liverpool/):movie_camera: - A Rant About A Visitors Perspective of Liverpool - Speaker
 * 2014
-  * [Liverpool Social Media Cafe](http://how-why-diy.com/2015/12/21/video-inspiration-from-the-king-of-gifs/) - Farset Labs - Speaking
-  * [InterTradeIreland All-Island Innovation Conference](http://www.ucd.ie/innovation/newsevents/events/2014/september/intertradeireland2014all-islandinnovationconference/) Permitting the Creative Insanity of Your Community
+  * [Liverpool Social Media Cafe](http://how-why-diy.com/2015/12/21/video-inspiration-from-the-king-of-gifs/):movie_camera: - The Ballad of Farset Labs - Speaker
+  * [InterTradeIreland All-Island Innovation Conference](http://www.ucd.ie/innovation/newsevents/events/2014/september/intertradeireland2014all-islandinnovationconference/) Permitting the Creative Insanity of Your Community - Speaker
 * 2013
-  * [CXNI Creative Collaborative Futures](https://www.eventbrite.co.uk/e/cxni-creative-collaborative-futures-registration-9160616651) From Ceramics to 3D Printing: Discussing Maker Research Culture in Northern Ireland
-  * [TEDxBelfast](http://www.tedxbelfast.com/) Dr Strange Sub or How I learned to stop worrying and accept Emergence - Speaking
-  * [Innovation in Northern Ireland: Nesta in Belfast](http://www.nesta.org.uk/events/nesta_road_shows/assets/events/innovation_in_northern_ireland_nesta_in_belfast) - Speaking
-  * Blick Shared Studios [Creative Camp](http://www.creativecamp2013.com/) - Speaking
+  * [CXNI Creative Collaborative Futures](https://www.eventbrite.co.uk/e/cxni-creative-collaborative-futures-registration-9160616651) From Ceramics to 3D Printing: Discussing Maker Research Culture in Northern Ireland - Speaker
+  * [TEDxBelfast](https://www.youtube.com/watch?v=ja_huuD-K-M):movie_camera: - Dr Strange Sub or How I learned to stop worrying and accept Emergence - Speaker
+  * [Innovation in Northern Ireland: Nesta in Belfast](https://vimeo.com/66357028):movie_camera: - Speaking
+  * Blick Shared Studios [Creative Camp](http://www.creativecamp2013.com/) - Speaker
 * 2012
-  * Bank of Ireland [Junior Dragons Den Regional Heat](http://www.allaboutbusiness.org.uk/denlive/junior) - Speaking
-  * NISP - [Generation Innovation Awards Ceremony 2012](http://www.nisp.co.uk/top-entrepreneurs-inspire-next-generation/) - Speaking
+  * Bank of Ireland [Junior Dragons Den Regional Heat](http://www.allaboutbusiness.org.uk/denlive/junior) - Speaker
+  * NISP - [Generation Innovation Awards Ceremony 2012](http://www.nisp.co.uk/top-entrepreneurs-inspire-next-generation/) - Speaker
 
 # ETC
 * [My Resume](/resume/)

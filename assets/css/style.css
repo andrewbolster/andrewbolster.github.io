@@ -786,7 +786,7 @@ body {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
 }
-.unit-article img {
+.unit-article img:not(.emoji) {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -796,6 +796,10 @@ body {
 }
 .unit-article img.right {
   margin-left: 16px;
+}
+.unit-article .emoji {
+  vertical-align: bottom;
+  margin: 0.33em;
 }
 .unit-article .date-publish {
   margin-bottom: 0;
