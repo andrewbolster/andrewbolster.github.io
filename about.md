@@ -74,7 +74,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 # Speaking Engagements / Panels
 * 2018
   * [DigitalDNA/AINI](https://www.meetup.com/Artificial-Intelligence-Northern-Ireland/events/251265424/) - Unfeeling Fire; Autonomy in Defence - Speaker and Panellist
-  * [Northern Ireland Developers Conference](https://www.nidevconf.com/speakers/andrewbolster/) - An Idiots Guide to (Open) Data Science - Speaker
+  * [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=mtrIEW2nCMc):movie_camera: - An Idiots Guide to (Open) Data Science - Speaker
   * [Machine Learning BASH](https://www.meetup.com/devbash/events/249025552/) - Speaker
   * [BelFOSS](https://www.youtube.com/watch?v=5LhKXL0oDnc):movie_camera: - The Ballad Of Farset Labs: Redux - Speaker
 * 2017
