@@ -77,6 +77,8 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=mtrIEW2nCMc):movie_camera: - An Idiots Guide to (Open) Data Science - Speaker
   * [Machine Learning BASH](https://www.meetup.com/devbash/events/249025552/) - Speaker
   * [BelFOSS](https://www.youtube.com/watch?v=5LhKXL0oDnc):movie_camera: - The Ballad Of Farset Labs: Redux - Speaker
+  * [Cambridge House Grammar School - Annual Awards Ceremony](http://www.cambridgehouse.org.uk/news.php) - Guest Speaker
+  * [Drive105 - For Arts Sake with Eileen Walsh](http://www.drive105.co.uk/the-drive105-team) - Radio Interviewee
 * 2017
   * [University of Ulster MSc Data Science](https://www.ulster.ac.uk/courses/course-finder/201718/data-science-15253) - Guest Lecturer
   * [BLUG](https://www.meetup.com/belfast-lug/events/242064392/) - Open Data Science in Python - Speaker
