@@ -7,4 +7,5 @@ resume/*.bcf
 resume/*.log
 resume/*.out
 resume/*.xml
+.DS_Store
 
