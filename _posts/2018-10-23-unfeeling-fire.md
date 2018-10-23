@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Unfeeling Fire
+tags: autonomy, ai, ml, phd
+category: presentation
 ---
 
 __This is an approximate transcript from my July 2018 talk at Digital DNA's AI NI Community Panel on wether the use of AI in defence and surveillence was inherently evil__
+
+_Yes, It's been sitting in my `drafts` folder for months because I completly forgot about it, sorrynotsorry_
 
 ![](/img/aini/Slide01.png)
 
@@ -11,13 +15,13 @@ Hello folks, I’m Andrew Bolster, most everyone calls me Bolster. And nobody ca
 
 ![](/img/aini/Slide02.png)
 
-I’m a Data Scientist at Alert Logic, a cyber security firm based in Weavers Court where we monitor, analyse and identify malicious and suspicious internet activity, protecting thousands of companies with advanced sequence and pattern matching sensors deployed across the world.
+I’m a Data Scientist at [Alert Logic](https://www.alertlogic.com), a cyber security firm based Texas but with a research office in [Weavers Court](http://www.weaverscourt.com) where we monitor, analyse and identify malicious and suspicious internet activity, protecting thousands of companies with advanced sequence and pattern matching sensors deployed across the world.
 
 But I’m not here to talk about that so if that floats your boat, grab me afterwards.
 
 ![](/img/aini/Slide03.png)
 
-Just around the corner from Alert Logic is the other massive time suck of my life; Farset Labs, northern irelands first and currently only hackerspace, where’ people and technology come together and break one another and usually aren’t on fire.
+Just around the corner from Alert Logic is the other massive time suck of my life; [Farset Labs](https://www.farsetlabs.org.uk), Northern Irelands first and currently only hackerspace, where people and technology come together and break one another and usually aren’t on fire.
 
 But I’m not here to talk about that so if that floats your boat, grab me afterwards.
 
@@ -27,25 +31,25 @@ No, I’m here to talk about death robots, terminators, grey goo, the matrix, ar
 
 ![](/img/aini/Slide05.png)
 
-This.
+This...
 
 AI is dangerous and if we give the military half a chance, they’ll get cocky, think they know better and can control it, but sooner or later someone will mess up and pandoras box, once opened, will kill us all.
 
 ![](/img/aini/Slide06.png)
 
-Because that’s the story right? It’s been the centrepiece of science fiction for decades; humanity is snuffed out or supplanted by it’s own creation, the ultimate combination of Icarus and Oedipus tales
+Because that’s the story right? It’s been the centrepiece of science fiction for decades; humanity is snuffed out or supplanted by it’s own creation, the ultimate combination of [Icarus](https://en.wikipedia.org/wiki/Icaru) and [Oedipus](https://en.wikipedia.org/wiki/Oedipus) tales
 
 ![](/img/aini/Slide07.png)
 
-Well, for the next few minutes I’m going to try and show you a bit of what I found behind the curtain while I was working on my PhD, where I was fortunate enough to be part of a joint UK and French defence research programme specifically assessing how to integrate autonomy and autonomous systems into modern defence operations.
+Well, for the next few minutes I’m going to try and show you a bit of what I found behind the curtain while I was working on my [PhD](https://github.com/andrewbolster/thesis/releases/tag/v1.0), where I was fortunate enough to be part of [a joint UK and French defence research programme](https://en.wikipedia.org/wiki/Lancaster_House_Treaties) specifically assessing how to integrate autonomy and autonomous systems into modern defence operations.
 
 ![](/img/aini/Slide08.png)
 
-As part of my research I spent time developing protocols for assessing security and safety in maritime autonomy while seconded to the Defence Science and Technology Lab in Portsdown West and Porton Down, which is kinda our version of DARPA but not quite,
+As part of my research I spent time developing protocols for assessing security and safety in maritime autonomy while seconded to the [Defence Science and Technology Lab](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) in Portsdown West and Porton Down, which is kinda our version of [DARPA](https://www.darpa.mil/) but not quite,
 
-Additionally I got to work with the **National Physical Laboratory** in Teddington, developing advanced localisation systems for autonomous fleets,
+Additionally I got to work with the [National Physical Laboratory](http://www.npl.co.uk/) in Teddington, developing advanced localisation systems for autonomous fleets,
 
-Later I undertook research at NATO’s Centre for Maritime Research and Experimentation in Italy, developing open communication protocols between different autonomous submarines.
+Later I undertook research at [NATO’s Centre for Maritime Research and Experimentation](https://www.cmre.nato.int/) in Italy, developing open communication protocols between different autonomous submarines.
 
 So I’ve spent a bit of time working in the area of understanding how developments in autonomous systems are being assessed and validated by the defence establishment.
 
@@ -53,7 +57,7 @@ But first, lets talk about what autonomy actually means.
 
 ![](/img/aini/Slide09.png)
 
-As with bloody everything, autonomy comes from Greek, and roughly translated to "A law unto themselves”,
+As with bloody everything, [autonomy](https://en.wiktionary.org/wiki/autonomy#Etymology) comes from Greek, and roughly translated to "A law unto themselves”,
 
 This encapsulates not only the ability to ‘make decisions’ but that those decisions are informed by a certain awareness of the context that we’re operating in.
 
@@ -63,7 +67,7 @@ And from that awareness, being able to generate and evaluate a set of decisions 
 
 Now, add to that definition the context of operating an autonomous system in a defence context; the last thing a commander in the field wants is a hypothetical smart missile that decides that it doesn’t want to fire. Or indeed, the opposite.
 
-Such actions where a "weapon” makes a decision in a combat context would be in complete contravention of pretty much all military doctrine since the 1907 Hague Conventions that define "lawful combat” as requiring any combatant ”to be command by a person”, and in particular, there is The Martens Clause of that convention that specifically demands the application of “the principle of humanity” in combat. But how far up the autonomy ladder can you get and still be ‘controlled’ by a person?
+Such actions where a "weapon” makes a decision in a combat context would be in complete contravention of pretty much all military doctrine since the [1907 Hague Conventions](https://ihl-databases.icrc.org/ihl/INTRO/195) that define "lawful combat” as requiring any combatant ”to be command by a person”, and in particular, there is [The Martens Clause](https://www.icrc.org/eng/resources/documents/article/other/57jnhy.htm) of that convention that specifically demands the application of “the principle of humanity” in combat. But how far up the autonomy ladder can you get and still be ‘controlled’ by a person?
 
 ![](/img/aini/Slide11.png)
 
@@ -83,13 +87,13 @@ Last but by no means least, as it’s the one that we’re all worried about, is
 
 So how is all this being used in the defence world today?
 
-This is the South Korean Super Aegis 2 anti-personel turret, with an effective range of 4km, currently deployed on the edge of the demilitarized zone. It can recognise a human, track them, and notify an operator, asking for orders. While fire orders are configured to require human intervention, this is a configuration choice rather than a technical limit, but lets say this is sitting somewhere on the line between decision support and supervisory control.
+This is the [South Korean Super Aegis 2 anti-personel turret](https://newatlas.com/korea-dodamm-super-aegis-autonomos-robot-gun-turret/17198/), with an effective range of 4km, currently deployed on the edge of the demilitarized zone. It can recognise a human, track them, and notify an operator, asking for orders. While fire orders are configured to require human intervention, this is a configuration choice rather than a technical limit, but lets say this is sitting somewhere on the line between decision support and supervisory control.
 
-This is the USU Sea Hunter, a US autonomous surface vessel that is configured for anti-submarine and mine clearing operations. It’s getting a sister vessel next year and should be being deployed in the next year or two, but unfortunately the programme is being slowed down because the Chinese hacked around 600GB of technical data off of a defence contractor…  But we’ll say that it’s sitting closer to the supervisory control again
+This is the [USU Sea Hunter](https://defensesystems.com/articles/2017/05/04/seahunter.aspx), a US autonomous surface vessel that is configured for anti-submarine and mine clearing operations. It’s getting a sister vessel next year and should be being deployed in the next year or two, but unfortunately the programme is being slowed down because the [Chinese hacked around 600GB of technical data off of a defence contractor](https://sputniknews.com/military/201806081065247798-chinese-hackers-swipe-naval-war-secrets/)…  But we’ll say that it’s sitting closer to the supervisory control again
 
-This is the UK’s Taranis UCAV, built by BAE as a demonstrator aircraft for a range of technologies, including experimental ‘full autonomy’  operation, however this ‘full autonomy’ does not extend to it’s onboard armaments. Considered a significant success, this project is to be combined with the French nEUROn UCAV as a new joint European UCAV, theoretically replacing the current Eurofighter and Tornado strike capabilities.
+This is the [UK’s Taranis UCAV](https://www.baesystems.com/en/product/taranis), built by BAE as a demonstrator aircraft for a range of technologies, including experimental ‘full autonomy’  operation, however this ‘full autonomy’ does not extend to it’s onboard armaments. Considered a significant success, this project is to be combined with the French [nEUROn UCAV](https://www.airforce-technology.com/projects/neuron/) as a new joint European UCAV, theoretically replacing the current Eurofighter and Tornado strike capabilities.
 
-And since it’s always a bad ideal to leave the Russians out, even if they don’t exactly take loads of photos of their cool/scary stuff, in 2017 they claimed to have developed and tested AI-guided missiles that were given the ability to change targets mid flight, and are working on collaborative clusters of UAVs, which are almost certainly sitting at the ‘supervisory control’ side of things…
+And since it’s always a bad ideal to leave the Russians out, even if they don’t exactly take loads of photos of their cool/scary stuff, in [2017](https://futurism.com/russia-is-building-an-ai-powered-missile-that-can-think-for-itself) they claimed to have developed and tested AI-guided missiles that were given the ability to change targets mid flight, and are working on [collaborative clusters of UAVs](https://www.defenseone.com/ideas/2018/04/russia-races-forward-ai-development/147178/), which are almost certainly sitting at the ‘supervisory control’ side of things…
 
 ![](/img/aini/Slide13.png)
 
@@ -105,13 +109,13 @@ This is autonomy, not intelligence.
 
 And that’s the big question here.
 
-When we talk about the fear of AI warfare, or using AI weaponry as being inherently evil, we’re collectively taking two things that we as regular people don’t have direct experience of; the true state of artificial intelligence, and modern warfare, and we smush em together, and let the nightmares grow in our imaginations fertilised by James Camerons own personal brand of manure.
+When we talk about the fear of AI warfare, or using AI weaponry as being inherently evil, we’re collectively taking two things that we as regular people don’t have direct experience of; the true state of artificial intelligence, and modern warfare, and we smush em together, and let the nightmares grow in our imaginations fertilised by Michael Bay's own personal brand of [manure](https://www.youtube.com/watch?v=NF4BT62Haeo).
 
 But maybe that’s not what we should really be worried about. And maybe this was actually crystallised in one of the first big screen depictions of AI as we imagine it today.
 
 ![](/img/aini/Slide15.png)
 
-Released in 1968, 2001 A Space Odyssey tells, or rather shows, what happens when a human-comparable intelligence, working in tandem with a human crew, goes rogue and takes over the ship and tries to kill everyone.
+Released in 1968, [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)) tells, or rather shows, what happens when a human-comparable intelligence, working in tandem with a human crew, goes rogue and takes over the ship and tries to kill everyone.
 
 But that’s not the only interpretation
 
@@ -129,7 +133,7 @@ Humans win, AI gets reset, then about a half hour of irrelevant but beautiful in
 
 ![](/img/aini/Slide18.png)
 
-But is that really what happened? It’s only hinted at relatively subtly in the movie but in both the book by legend Arthur C Clarke and the sequels to the movie, the true reason for HAL’s apparent psychosis is much more clear; 
+But is that really what happened? It’s only hinted at relatively subtly in the movie but in both the book by legend [Arthur C Clarke](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(novel)) and the sequels to the movie, the true reason for HAL’s apparent psychosis is much more clear; 
 
 HAL was given contradictory instructions and a secret mission who’s secrecy, not success, was to be protected above all other orders. 
 
@@ -141,7 +145,7 @@ In AI and Machine Learning research, this kind of ‘unintended consequence’ i
 
 And ‘whoopsie’ doesn’t really cut it.
 
-Max Tegmark, famed MIT AI Researcher and author writes about technology being an amplifier, not being inherently good or evil, and that as humans and technology have co-evolved over millenia, our only soft smushy advantage was that we fiddled with things and broke things and learned through trial and error, learning which technologies could be used for what and which technologies were culturally acceptable to use, in a dance he calls the "Wisdom Race”.
+[Max Tegmark](https://www.amazon.co.uk/Life-3-0-Being-Artificial-Intelligence/dp/024123719X), famed MIT AI Researcher and author writes about technology being an amplifier, not being inherently good or evil, and that as humans and technology have co-evolved over millenia, our only soft smushy advantage was that we fiddled with things and broke things and learned through trial and error, learning which technologies could be used for what and which technologies were culturally acceptable to use, in a dance he calls the ["Wisdom Race”](https://www.edge.org/response-detail/26687).
 
 ![](/img/aini/Slide20.png)
 
