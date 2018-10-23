@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daily Dated Untitled Jupyter Notebooks
-date: 2018-09-26 12:29 +0100
+date: 2018-10-22 12:29 +0100
 tags: python jupyter data notebook
 category: hotfix
 ---
