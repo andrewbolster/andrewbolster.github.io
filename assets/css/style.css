@@ -536,7 +536,7 @@ a:hover {
   text-decoration: none;
 }
 .header-link {
-  padding-left: 0.5em;
+  padding-left: 0.3em;
   opacity: 0;
   -webkit-transition: opacity 0.2s ease-in-out 0.1s;
   -moz-transition: opacity 0.2s ease-in-out 0.1s;
@@ -581,11 +581,11 @@ pre {
 .the-header .tagline {
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   margin: 0;
-  color: #7E3999;
+  color: #9472B3;
 }
 .the-header .nav-global {
   text-transform: uppercase;
-  border-bottom: 1px dotted #7E3999;
+  border-bottom: 1px dotted #9472B3;
 }
 .the-header .nav-global .forkme {
   position: relative;
@@ -594,7 +594,7 @@ pre {
 /* FORKONGITHUB
 --------------------------------------------------------------------------------- */
 #forkongithub a {
-  background: #7E3999;
+  background: #9472B3;
   color: #2d2d2d;
   text-decoration: none;
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
@@ -608,7 +608,7 @@ pre {
 }
 #forkongithub a:hover {
   color: #141414;
-  background: #9b4abb;
+  background: #ad93c5;
 }
 #forkongithub a::before,
 #forkongithub a::after {
@@ -665,7 +665,7 @@ body {
   background: url('/assets/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #7E3999;
+  background-color: #9472B3;
   margin-bottom: 1.625em;
   padding-top: 1.625em;
   padding-bottom: 1.625em;
@@ -673,7 +673,7 @@ body {
 }
 .unit-article header h1 {
   color: #2d2d2d;
-  text-shadow: 2px 2px #9b4abb;
+  text-shadow: 2px 2px #ad93c5;
   margin-top: 0;
   margin-bottom: 0;
   text-align: center;
@@ -725,13 +725,13 @@ body {
   margin-top: 0;
 }
 .unit-article a:link {
-  border-bottom: 1px dotted #7E3999;
+  border-bottom: 1px dotted #9472B3;
 }
 .unit-article a:visited {
-  border-bottom: 1px dotted #5f2b74;
+  border-bottom: 1px dotted #7b559d;
 }
 .unit-article a:hover {
-  border-bottom: 1px dotted #9b4abb;
+  border-bottom: 1px dotted #ad93c5;
 }
 .unit-article blockquote {
   border-left: 1em solid rgba(21, 25, 25, 0.8);
@@ -994,13 +994,13 @@ body {
   color: #fff;
 }
 .the-footer a:link {
-  border-bottom: 1px dotted #7E3999;
+  border-bottom: 1px dotted #9472B3;
 }
 .the-footer a:visited {
-  border-bottom: 1px dotted #5f2b74;
+  border-bottom: 1px dotted #7b559d;
 }
 .the-footer a:hover {
-  border-bottom: 1px dotted #9b4abb;
+  border-bottom: 1px dotted #ad93c5;
 }
 .the-footer ul {
   list-style: square;
@@ -1028,10 +1028,10 @@ body {
   background: url('/assets/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #7E3999;
+  background-color: #9472B3;
   box-shadow: 4px 4px 10px rgba(120, 81, 169, 0.5);
   color: #2d2d2d;
-  text-shadow: 1px 1px #9b4abb;
+  text-shadow: 1px 1px #ad93c5;
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   font-weight: bold;
 }
