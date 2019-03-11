@@ -23,9 +23,54 @@ Recipient of the 2012 [Belfast Business Top 50](http://belfastmediagroup.com/top
 
 A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and heavily caffinated German softdrinks.
 
+# Current Roles
+* Data Scientist @ Alert Logic
+* Founding Director @ Farset Labs
+* Trustee @ Vault Arts Studios
+* Member of DoF Open Data Advisory Panel
+
+# ETC
+* [My Resume](/resume/)
+* [My Linkedin Profile](http://www.linkedin.com/in/{{ site.author.linkedin }}) 
+  * [PDF version](http://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
+
 ## What's my Schedule?
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=me%40andrewbolster.info&amp;color=%23711616&amp;src=uvmq90oc081fdj5lji4l7gu5rscrpf05%40import.calendar.google.com&amp;color=%23B1440E&amp;src=bolster%40farsetlabs.org.uk&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+# Speaking Engagements / Panels
+* 2018
+  * [PyConIE](http://schedule.pycon18.python.ie/#9boRtJSlTmVHQOwVM9) - An Idiots Guide to (Open) Data Science [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-11%20PyconIE) - Speaker
+  * [PyBelfast](https://www.meetup.com/PyBelfast/events/254682565/) - Scalable Analytics with Dask [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-10%20Dask)
+  * [University of Ulster PgDip/MSc Digital Media Communications](https://www.ulster.ac.uk/courses/201819/digital-media-communication-15967) - Guest Lecturer
+  * [University of Ulster MSc Data Science](https://www.ulster.ac.uk/courses/201819/data-science-16111) - Guest Lecturer [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-10%20UU%20Magee)
+  * [DigitalDNA/AINI](https://www.meetup.com/Artificial-Intelligence-Northern-Ireland/events/251265424/) - Unfeeling Fire; Autonomy in Defence - Speaker and Panellist
+  * [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=mtrIEW2nCMc):movie_camera: [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-6%20NIDC) - An Idiots Guide to (Open) Data Science - Speaker
+  * [Machine Learning BASH](https://www.meetup.com/devbash/events/249025552/) HODL-AI: Live Coding RNN on the Blockchain [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-04%20Bash) - Speaker
+  * [BelFOSS](https://www.youtube.com/watch?v=5LhKXL0oDnc):movie_camera: - The Ballad Of Farset Labs: Redux - Speaker
+  * [Cambridge House Grammar School - Annual Awards Ceremony](http://www.cambridgehouse.org.uk/news.php) - Guest Speaker
+  * [Drive105 - For Arts Sake with Eileen Walsh](http://www.drive105.co.uk/the-drive105-team) - Radio Interviewee
+* 2017
+  * [University of Ulster MSc Data Science](https://www.ulster.ac.uk/courses/course-finder/201718/data-science-15253) - Guest Lecturer
+  * [BLUG](https://www.meetup.com/belfast-lug/events/242064392/) - Open Data Science in Python - Speaker
+  * [PyBelfast](https://www.meetup.com/PyBelfast/events/238855866/) - Pandas for Data Science - Speaker
+* 2016
+  * [BelTech](http://beltech2016.com/schedule/speakers.html) - Innovation Engineering - Panellist
+  * [Open Data Day](http://belfast.theodi.org/2016/02/12/open-data-day-2016-belfast/) - Community Use of Open Data - Speaker
+* 2015
+  * [Ignite Liverpool](http://igniteliverpool.com/2015/08/andrew-bolster-a-rant-about-a-visitors-perspective-of-liverpool/):movie_camera: - A Rant About A Visitors Perspective of Liverpool - Speaker
+* 2014
+  * [Liverpool Social Media Cafe](http://how-why-diy.com/2015/12/21/video-inspiration-from-the-king-of-gifs/):movie_camera: - The Ballad of Farset Labs - Speaker
+  * [InterTradeIreland All-Island Innovation Conference](http://www.ucd.ie/innovation/newsevents/events/2014/september/intertradeireland2014all-islandinnovationconference/) Permitting the Creative Insanity of Your Community - Speaker
+* 2013
+  * [CXNI Creative Collaborative Futures](https://www.eventbrite.co.uk/e/cxni-creative-collaborative-futures-registration-9160616651) From Ceramics to 3D Printing: Discussing Maker Research Culture in Northern Ireland - Speaker
+  * [TEDxBelfast](https://www.youtube.com/watch?v=ja_huuD-K-M):movie_camera: - Dr Strange Sub or How I learned to stop worrying and accept Emergence - Speaker
+  * [Innovation in Northern Ireland: Nesta in Belfast](https://vimeo.com/66357028):movie_camera: - Speaking
+  * Blick Shared Studios [Creative Camp](http://www.creativecamp2013.com/) - Speaker
+* 2012
+  * Bank of Ireland [Junior Dragons Den Regional Heat](http://www.allaboutbusiness.org.uk/denlive/junior) - Speaker
+  * NISP - [Generation Innovation Awards Ceremony 2012](http://www.nisp.co.uk/top-entrepreneurs-inspire-next-generation/) - Speaker
+
 
 # Press/Publications/Podcasts
 * 2018
@@ -71,36 +116,5 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * [Muckraker Partners with Farset Labs (Blog)](http://muckraker.me/2012/03/25/announcing-the-muckrakers-partnership-with-farset-labs/) - Muckraker - Appearance
   * [A Different Road](http://www.sciencedirect.com/science/article/pii/S0262407912604485) - New Scientist - Interview
 
-# Speaking Engagements / Panels
-* 2018
-  * [DigitalDNA/AINI](https://www.meetup.com/Artificial-Intelligence-Northern-Ireland/events/251265424/) - Unfeeling Fire; Autonomy in Defence - Speaker and Panellist
-  * [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=mtrIEW2nCMc):movie_camera: - An Idiots Guide to (Open) Data Science - Speaker
-  * [Machine Learning BASH](https://www.meetup.com/devbash/events/249025552/) - Speaker
-  * [BelFOSS](https://www.youtube.com/watch?v=5LhKXL0oDnc):movie_camera: - The Ballad Of Farset Labs: Redux - Speaker
-  * [Cambridge House Grammar School - Annual Awards Ceremony](http://www.cambridgehouse.org.uk/news.php) - Guest Speaker
-  * [Drive105 - For Arts Sake with Eileen Walsh](http://www.drive105.co.uk/the-drive105-team) - Radio Interviewee
-* 2017
-  * [University of Ulster MSc Data Science](https://www.ulster.ac.uk/courses/course-finder/201718/data-science-15253) - Guest Lecturer
-  * [BLUG](https://www.meetup.com/belfast-lug/events/242064392/) - Open Data Science in Python - Speaker
-  * [PyBelfast](https://www.meetup.com/PyBelfast/events/238855866/) - Pandas for Data Science - Speaker
-* 2016
-  * [BelTech](http://beltech2016.com/schedule/speakers.html) - Innovation Engineering - Panellist
-  * [Open Data Day](http://belfast.theodi.org/2016/02/12/open-data-day-2016-belfast/) - Community Use of Open Data - Speaker
-* 2015
-  * [Ignite Liverpool](http://igniteliverpool.com/2015/08/andrew-bolster-a-rant-about-a-visitors-perspective-of-liverpool/):movie_camera: - A Rant About A Visitors Perspective of Liverpool - Speaker
-* 2014
-  * [Liverpool Social Media Cafe](http://how-why-diy.com/2015/12/21/video-inspiration-from-the-king-of-gifs/):movie_camera: - The Ballad of Farset Labs - Speaker
-  * [InterTradeIreland All-Island Innovation Conference](http://www.ucd.ie/innovation/newsevents/events/2014/september/intertradeireland2014all-islandinnovationconference/) Permitting the Creative Insanity of Your Community - Speaker
-* 2013
-  * [CXNI Creative Collaborative Futures](https://www.eventbrite.co.uk/e/cxni-creative-collaborative-futures-registration-9160616651) From Ceramics to 3D Printing: Discussing Maker Research Culture in Northern Ireland - Speaker
-  * [TEDxBelfast](https://www.youtube.com/watch?v=ja_huuD-K-M):movie_camera: - Dr Strange Sub or How I learned to stop worrying and accept Emergence - Speaker
-  * [Innovation in Northern Ireland: Nesta in Belfast](https://vimeo.com/66357028):movie_camera: - Speaking
-  * Blick Shared Studios [Creative Camp](http://www.creativecamp2013.com/) - Speaker
-* 2012
-  * Bank of Ireland [Junior Dragons Den Regional Heat](http://www.allaboutbusiness.org.uk/denlive/junior) - Speaker
-  * NISP - [Generation Innovation Awards Ceremony 2012](http://www.nisp.co.uk/top-entrepreneurs-inspire-next-generation/) - Speaker
 
-# ETC
-* [My Resume](/resume/)
-* [My Linkedin Profile](http://www.linkedin.com/in/{{ site.author.linkedin }}) 
-  * [PDF version](http://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
+
