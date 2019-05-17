@@ -1,3 +1,11 @@
+## Stuff Bolster Always Forgets
+
+`bundle update`
+
+`bundle draft "<TITLE>"`
+
+
+
 ## Theme info
 
 Theme Name: the\_program  
