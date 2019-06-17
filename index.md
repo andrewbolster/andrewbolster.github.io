@@ -6,7 +6,8 @@ title: Howdi, I'm Andrew, but most people call me Bolster
 
 
 * Data Scientist @ [Alert Logic](https://www.alertlogic.com)
-* Director @ [Farset Labs](http://farsetlabs.org.uk)
+* Director @ [Farset Labs](https://www.farsetlabs.org.uk)
+* Trustee @ [Farset Labs](https://www.vaultartiststudios.com/)
 * among [other things](/about)
 
 ### Recent Writings

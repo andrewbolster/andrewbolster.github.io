@@ -34,10 +34,6 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 * [My Linkedin Profile](http://www.linkedin.com/in/{{ site.author.linkedin }}) 
   * [PDF version](http://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
 
-## What's my Schedule?
-
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=me%40andrewbolster.info&amp;color=%23711616&amp;src=uvmq90oc081fdj5lji4l7gu5rscrpf05%40import.calendar.google.com&amp;color=%23B1440E&amp;src=bolster%40farsetlabs.org.uk&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 # Speaking Engagements / Panels
 * 2018
   * [PyConIE](http://schedule.pycon18.python.ie/#9boRtJSlTmVHQOwVM9) - An Idiots Guide to (Open) Data Science [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-11%20PyconIE) - Speaker
