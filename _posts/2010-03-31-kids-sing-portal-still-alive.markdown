@@ -15,7 +15,7 @@ tags:
 - video
 ---
 
-httpv://www.youtube.com/watch?v=6m5TuxdkfkE
+{% include youtubePlayer.html id="6m5TuxdkfkE" %}
 
 The Gifford Children's Choir performs "Still Alive" by Jonathan Coulton.
 
