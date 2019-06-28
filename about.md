@@ -35,6 +35,9 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * [PDF version](http://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
 
 # Speaking Engagements / Panels
+* 2019
+  * [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=Ku2FX9osMXA):movie_camera: - Data Art: Creative collisions and getting out of your comfort zone [:notebook:](/2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.html) - Speaker
+  * [PyBelfast](https://www.meetup.com/PyBelfast/events/258065529/) - The Joys of Python 3 [:notebook:](https://github.com/andrewbolster/nb_presentations/blob/master/2019-01%20PyBelfast/)
 * 2018
   * [PyConIE](http://schedule.pycon18.python.ie/#9boRtJSlTmVHQOwVM9) - An Idiots Guide to (Open) Data Science [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-11%20PyconIE) - Speaker
   * [PyBelfast](https://www.meetup.com/PyBelfast/events/254682565/) - Scalable Analytics with Dask [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-10%20Dask)
