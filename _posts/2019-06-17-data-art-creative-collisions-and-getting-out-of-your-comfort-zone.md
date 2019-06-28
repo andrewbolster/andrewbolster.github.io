@@ -5,6 +5,8 @@ date: 2019-06-17 16:57 +0100
 ---
 _Approximate Script from my #NIDevConf19 talk a few weeks ago_
 
+{% include youtubePlayer.html id="Ku2FX9osMXA" %}
+
 # Introduction
 
 The technology community is known for being strongly inward looking to the point of being miopic at times; we focus on techniques, products, languages, frameworks, and best practices and we consider success and failure based on concrete facts and evidence.
