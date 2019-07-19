@@ -36,10 +36,10 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 # Speaking Engagements / Panels
 * 2019
-  * [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=Ku2FX9osMXA):movie_camera: - Data Art: Creative collisions and getting out of your comfort zone [:notebook:](/2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.html) - Speaker
+  * [Northern Ireland Developers Conference](https://www.nidevconf.com/sessions/andrewbolster/) - Data Art: Creative collisions and getting out of your comfort zone [:movie_camera:](https://www.youtube.com/watch?v=Ku2FX9osMXA) [:notebook:](/2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.html) - Speaker
   * [PyBelfast](https://www.meetup.com/PyBelfast/events/258065529/) - The Joys of Python 3 [:notebook:](https://github.com/andrewbolster/nb_presentations/blob/master/2019-01%20PyBelfast/)
 * 2018
-  * [PyConIE](http://schedule.pycon18.python.ie/#9boRtJSlTmVHQOwVM9) - An Idiots Guide to (Open) Data Science [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-11%20PyconIE) - Speaker
+  * [PyConIE](http://schedule.pycon18.python.ie/#9boRtJSlTmVHQOwVM9) - An Idiots Guide to (Open) Data Science [:movie_camera:](https://www.youtube.com/watch?v=he78D6jwmxE) [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-11%20PyconIE) - Speaker
   * [PyBelfast](https://www.meetup.com/PyBelfast/events/254682565/) - Scalable Analytics with Dask [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-10%20Dask)
   * [University of Ulster PgDip/MSc Digital Media Communications](https://www.ulster.ac.uk/courses/201819/digital-media-communication-15967) - Guest Lecturer
   * [University of Ulster MSc Data Science](https://www.ulster.ac.uk/courses/201819/data-science-16111) - Guest Lecturer [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-10%20UU%20Magee)
