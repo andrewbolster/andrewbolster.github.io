@@ -24,7 +24,7 @@ body { font-family: Roboto, Sans-Serif;}
 .download { margin-top: 100px; display: block; text-align: right; }
 
 #resume { background-color: #f9f9f9; width: 800px; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; box-shadow:4px 4px 10px rgba(0, 0, 0, 0.3); border: 1px black;}
-#resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0; }
+#resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0; text-shadow: none; box-shadow: none}
 #resume h1 { font-size: 170%; padding-top: 0.5em; margin-top: 1.5em; }
 #resume h1:first-child { margin-top: 30px; padding-top: 0.25em; border-top: none; font-size: 200%; }
 #resume h2 { font-size: 150%; margin-top: 1.5em; padding-top: 0.5em; }

@@ -20,13 +20,13 @@ photo: /img/bolster.png
 
 ## Background
 
-Data Scientist with a range of skills and experiences across defence research, business, community and entrepreneurial fields. 
+Data Scientist and Systems Researcher with a wide range of skills and experiences across technical, business, and entrepreneurial fields.
 
-PhD Research at the University of Liverpool as part of a Anglo-French Defence Programme on the use of Trust in Physical and Communications Behaviour Assessments for Autonomous Submarines for Marine Survey and Monitoring.
+Completed my PhD Research at the University of Liverpool as part of a Anglo-French Defence Programme around Autonomous Submarines for Marine Survey and Monitoring.
 
-Specific interests in and around distributed systems, 'trust' in insecure environments, autonomous and mixed-human-autonomous systems, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
+Specific interests in and around distributed systems, ‘trust’ in insecure network environments, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
 
-Experienced Speaker, Panelist and commentator, with appearances at Regional, National and International Events.
+Experienced Speaker, Panelist and commentator, with appearances at Regional and National events from TEDx and All-Island Innovation Conferences to representing the Northern Ireland technology and business communities in international trade-delegations.
 
 ## Proficiency
 
@@ -46,9 +46,11 @@ Public Speaking, Presentation Developement, Collaboration Facilitation, Client R
 
 #### Data Scientist (2018 - Present)
 
-Alert Logic is an award-winning multi-national Information Security Solutions provider, with industry-leading cloud security solutions.
+Using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure, improving coverage, value-assessment, and process control both internally and to customers.
 
-Primary responsibilities are the application of Data Science techniques and analyses to cross-sector threat assessment, identifying common threat vectors and providing insight for internal and external stakeholders into the nature of the security landscape around their services, applications, and environments.
+Architected and built serverless TB-scale incident ETL and analysis platform, tracking both Research KPI's, customer impacts for remediation, and overall operational monitoring.
+
+Developed dynamic customer segmentation methodologies, and ML derived Content Signature validation/vectorisation techniques.
 
 ### Sensum Co, Belfast
 
@@ -90,7 +92,7 @@ Currently Farset Labs stands as a valued part of the technology, entrepreneurshi
 
 ![](/img/dstl.png)
 
-#### Summer Secondment: Analyst (2013) 
+#### Analyst (2013) 
 
 Coordinating research between Information Management and Naval Systems departments to synthesize a coordinated, data driven approach towards maritime autonomy and its potential applications.
 
@@ -159,12 +161,13 @@ MEng Project: *"High-Speed bit-loading algorithms for Dynamic Spectrum Managemen
 * Queen's University Belfast *Linggard Prize* for best Masters project in Communication Engineering
 * Queen's University Belfast *Certificate in Entrepreneurship*
 * The IET *Excellence Grant* for Academic Progress and STEM outreach activities
-* The IET *Present Around The World Finalist* for presentation on Social Media Security and Online Data Safety in the emerging personal-data economy
+* The IET *Present Around 1The World Finalist* for presentation on Social Media Security and Online Data Safety in the emerging personal-data economy
 * City & Guilds *Licentiateship in Information Technology* for Software Engineering work undertaken at Ericsson
 
 ## Professional Associations
 
 * Institution of Engineering and Technology - Member
+* IEEE - Empathic Technology Working Group Member (P7014)
 * Marine Technology Society - Member
 * DoF Open Data Advisory Board - Member
 
@@ -179,7 +182,7 @@ MEng Project: *"High-Speed bit-loading algorithms for Dynamic Spectrum Managemen
 *  [How The Future Gigabit Internet Is Likely To Play Out](http://www.makeuseof.com/tag/future-gigabit-internet-likely-play/), MakeUseOf 2014
 * [Analysis of Trust Interfaces in Autonomous and Semi-Autonomous Collaborative MHPC Operations](), The Technical Cooperation Program, Technical Report TR-C3I-06-2014, May 14, 2014, Portsmouth, UK *not publically available*
 * [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697), AAAI Spring Symposium Series, March 2014, Stanford CA, USA
-  * [Pop-up Living Labs: Experiments in Co-creating Service Design with Diverse Stakeholders in Hackerspace Communities](http://uir.ulster.ac.uk/26727/) In: Proceedings Living Lab Summer School Research Workshop. ENOLL, Manchester, UK, 2013
+* [Pop-up Living Labs: Experiments in Co-creating Service Design with Diverse Stakeholders in Hackerspace Communities](http://uir.ulster.ac.uk/26727/) In: Proceedings Living Lab Summer School Research Workshop. ENOLL, Manchester, UK, 2013
 *  [High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL](https://github.com/andrewbolster/multiuserDSM/raw/master/Dissertation/FINALFINAL.pdf), MEng Thesis, 2011, Belfast, UK
 
 
