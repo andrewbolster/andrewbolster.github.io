@@ -161,7 +161,7 @@ MEng Project: *"High-Speed bit-loading algorithms for Dynamic Spectrum Managemen
 * Queen's University Belfast *Linggard Prize* for best Masters project in Communication Engineering
 * Queen's University Belfast *Certificate in Entrepreneurship*
 * The IET *Excellence Grant* for Academic Progress and STEM outreach activities
-* The IET *Present Around 1The World Finalist* for presentation on Social Media Security and Online Data Safety in the emerging personal-data economy
+* The IET *Present Around The World Finalist* for presentation on Social Media Security and Online Data Safety in the emerging personal-data economy
 * City & Guilds *Licentiateship in Information Technology* for Software Engineering work undertaken at Ericsson
 
 ## Professional Associations
