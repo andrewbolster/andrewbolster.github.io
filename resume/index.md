@@ -12,7 +12,7 @@ photo: /img/bolster.png
 ---
 ![](/img/bolster.png)
 
-# Dr. Andrew Bolster Ph.D M.Eng
+# Andrew Bolster
 
  * [{{ page.email }}](mailto:{{ page.email }})
  * [{{ page.phone }}](tel:{{ page.phone }})
@@ -52,6 +52,8 @@ Architected and built serverless TB-scale incident ETL and analysis platform, tr
 
 Developed dynamic customer segmentation methodologies, and ML derived Content Signature validation/vectorisation techniques.
 
+Generated internal software development, deployment, and scaling best practices in line with industry and academic state of art
+
 ### Sensum Co, Belfast
 
 ![](/img/sensum.png)
@@ -69,7 +71,7 @@ Incudes direct engagement with client facing analysis and investigation, as well
 ### TOM Ltd, Belfast / Liverpool, UK
 ![](/img/spriteguard.png)
 
-#### Associate / SpriteGuard Product Manager (PT 2012 - 2014)
+#### Associate / SpriteGuard Product Manager / Director of Research and Development (PT 2012 - 2016)
 
 Traffic Observation and Management is a university spin-out company specialising in advanced wireless security systems for the public hotspot and payments services industries.
 
