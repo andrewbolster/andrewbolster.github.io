@@ -13,9 +13,11 @@ title: Bio
 [![Me](/img/bolster_300.png)](/img/bolster_orig.png)
 Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.
 
-Currently Data Scientist  at [AlertLogic](https://alertlogic.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
+Currently Machine Learning Team Lead at [White Hat Security](https://whitehatsec.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
 
-Recently completed PhD Research at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](http://ecit.qub.ac.uk) Institute) investigating Trust and Reputation in Marine Communications for Autonomous Systems of Systems under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](http://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
+Previously a Data Scientist working in the fields of Affective Computing and Cyber Security.
+
+Completed PhD Research at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](http://ecit.qub.ac.uk) Institute) investigating Trust and Reputation in Marine Communications for Autonomous Systems of Systems under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](http://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
 
 Founding Director of [Farset Labs](http://farsetlabs.org.uk), Northern Ireland’s [First Hackerspace]({{ BASE_PATH }}/2011/04/why-belfast-needs-a-hackerspace/), located in Weavers Court Business Park, Belfast, [developed]({{ BASE_PATH }}/2010/06/great-hopes/) while I was finishing off a Masters in Electronics and Software Engineering at QUB. [Farset Labs](http://farsetlabs.org.uk) now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders.
 
@@ -24,7 +26,7 @@ Recipient of the 2012 [Belfast Business Top 50](http://belfastmediagroup.com/top
 A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and heavily caffinated German softdrinks.
 
 # Current Roles
-* Data Scientist @ Alert Logic
+* Machine Learning Team Lead @ White Hat Security
 * Founding Director @ Farset Labs
 * Trustee @ Vault Arts Studios
 * Member of DoF Open Data Advisory Panel

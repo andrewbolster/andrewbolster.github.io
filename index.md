@@ -5,7 +5,7 @@ title: Howdi, I'm Andrew, but most people call me Bolster
 {% include JB/setup %}
 
 
-* Data Scientist @ [Alert Logic](https://www.alertlogic.com)
+* Machine Learning Team Lead @ [White Hat](https://www.whitehatsec.com)
 * Director @ [Farset Labs](https://www.farsetlabs.org.uk)
 * Trustee @ [Vault Artist Studios](https://www.vaultartiststudios.com/)
 * among [other things](/about)
