@@ -196,7 +196,7 @@ And one of the relationships that developed was between the Farset community and
 
 ![alt_text](/img/2019/NIDC/projection.png "Mixed reality interfaces with projection mapping at Digital Arts Studios")
 
-Farset hosted one of the workshops about getting started with the Raspberry Pi, led by the dark wizard himself, where Visual and Sonic artists were given the space and opportunity to play with kit and prototyping equipment normally only sought out to
+Farset hosted one of the workshops about getting started with the Raspberry Pi, led by the dark wizard himself, where Visual and Sonic artists were given the space and opportunity to play with kit and prototyping equipment normally only available to engineers, technogist, and "geeks".
 
 ![alt_text](/img/2019/NIDC/robin-pi.png "Can't get rid of that Robin fella")
 
