@@ -75,6 +75,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 # Press/Publications/Podcasts
 * 2020
+  * [Is Your AI Ethical?](https://www.rtinsights.com/is-your-ai-ethical/) - RTInsights - Author
   * [The Importance of Active Learning in Data Science and Engineering](https://www.cybersecurity-insiders.com/the-importance-of-active-learning-in-the-data-science-and-engineering/) - Cybersecurity Insider - Author
 * 2018
   * [Moving to Belfast? Here are 10 people you need to know](https://www.siliconrepublic.com/people/belfast-tech-influencers-people-to-follow) - SiliconRepublic - Listee
