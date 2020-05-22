@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pragmatic Data Science; When Unstoppable Math meets Immovable Ethics
-date: 2020-04-26 21:16 +0100
+date: 2020-05-22 14:35 +0100
 ---
 
 Pragmatic Data Science
