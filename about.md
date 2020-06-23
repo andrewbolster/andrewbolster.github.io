@@ -13,7 +13,7 @@ title: Bio
 [![Me](/img/bolster_300.png)](/img/bolster_orig.png)
 Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.
 
-Currently Machine Learning Team Lead at [White Hat Security](https://whitehatsec.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
+Currently Data Science Team Lead at [White Hat Security](https://whitehatsec.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
 
 Previously a Data Scientist working in the fields of Affective Computing and Cyber Security.
 
@@ -26,7 +26,7 @@ Recipient of the 2012 [Belfast Business Top 50](http://belfastmediagroup.com/top
 A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and heavily caffinated German softdrinks.
 
 # Current Roles
-* Machine Learning Team Lead @ White Hat Security
+* Data Science Team Lead @ White Hat Security
 * Founding Director @ Farset Labs
 * Trustee @ Vault Arts Studios
 * Member of DoF Open Data Advisory Panel
