@@ -64,7 +64,7 @@ done
 
 tmp="/tmp/_${dest}_tmp"
 
-echo "Importing $user/$repo into alexandria"
+echo "Importing $origin/$user/$repo into $dest"
 
 rm -rf ~/src/$repo
 cd ~/src
