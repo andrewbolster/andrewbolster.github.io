@@ -27,7 +27,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 # Current Roles
 * Data Science Team Lead @ White Hat Security
-* Founding Director @ Farset Labs
+* Director @ Farset Labs
 * Trustee @ Vault Arts Studios
 * Member of DoF Open Data Advisory Panel
 
@@ -37,6 +37,9 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * [PDF version](http://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
 
 # Speaking Engagements / Panels
+* 2020
+  * [BelTech](https://www.youtube.com/watch?v=M9izw50NVv4&feature=youtu.be&t=5860) - AI Explainability - Panellist
+  * [DevBash]({% post_url /2020/05/pragmatic-data-science.html %}) - Pragmatic Data Science - Speaker
 * 2019
   * [Northern Ireland Developers Conference](https://www.nidevconf.com/sessions/andrewbolster/) - Data Art: Creative collisions and getting out of your comfort zone [:movie_camera:](https://www.youtube.com/watch?v=Ku2FX9osMXA) [:notebook:](/2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.html) - Speaker
   * [PyBelfast](https://www.meetup.com/PyBelfast/events/258065529/) - The Joys of Python 3 [:notebook:](https://github.com/andrewbolster/nb_presentations/blob/master/2019-01%20PyBelfast/)
