@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \"Tell me about your Programmer\" - Robopsychologist and other careers that don't exist (yet)
+title: Tell me about your Programmer - Robopsychologist and other careers that don't exist (yet)
 typora-root-url: "C:\\Users\\me\\Documents\\GitHub\\andrewbolster.github.io\\"
 date: 2020-10-19 11:34 +0100
 ---
