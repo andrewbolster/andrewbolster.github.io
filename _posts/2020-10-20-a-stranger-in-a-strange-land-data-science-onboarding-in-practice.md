@@ -5,7 +5,7 @@ typora-root-url: "C:\\Users\\me\\Documents\\GitHub\\andrewbolster.github.io\\"
 date: 2020-10-20 11:03 +0100
 ---
 
-> This talk was originally prepared for the 2020l [Northern Ireland Developers Conference](https://www.nidevconf.com/sessions/andrew-bolster/), held in lockdown and pre-recorded in the McKee Room in [Farset Labs](https://www.farsetlabs.org.uk/)
+> This talk was originally prepared for the 2020 [Northern Ireland Developers Conference](https://www.nidevconf.com/sessions/andrew-bolster/), held in lockdown and pre-recorded in the McKee Room in [Farset Labs](https://www.farsetlabs.org.uk/)
 
 [!['A Stranger in a Strange Land: Data Science Onboarding In Practice'](https://img.youtube.com/vi/8jbA1MAJe3Q/0.jpg)](https://www.youtube.com/watch?v=8jbA1MAJe3Q)
 
@@ -15,7 +15,7 @@ Data Science is the current hotness.
 
 While those of us in these virtual rooms may make fun of the likes of Dominic Cummings for extolling a ‘Data Driven Approach’ to policy, the reality is that Data Science as a buzzword bingo term has survived and indeed thrived in a climate where ‘Artificial Intelligence’ is increasingly derided as being something that’s written more in PowerPoint than Python, ‘Machine Learning’ still gives people images of liquid metal exoskeletons crushing powdery puny human skulls, and those in management with long memories remember what kind of [mess](https://economistsview.typepad.com/economistsview/2008/12/quantitative-me.html) “Quantitative Analysis” got us into not too long ago...
 
-[![img](/img/2020/_hqzDHa2mKqFaFwXYVScaExr0nA9wTxLEVaSr7fLl98SnsxoYa3OgtQPhx90rzyGIo90D2zboVcnwHCXk2hFsEQnJlv20EdhFgqd9uYW57DcngrRiO2NB7bFjj0lmZ3wiyo8VyP2Ocg)](https://twitter.com/matvelloso/status/1065778379612282885?lang=en)
+[![img](/img/2020/hqzDHa2mKqFaFwXYVScaExr0nA9wTxLEVaSr7fLl98SnsxoYa3OgtQPhx90rzyGIo90D2zboVcnwHCXk2hFsEQnJlv20EdhFgqd9uYW57DcngrRiO2NB7bFjj0lmZ3wiyo8VyP2Ocg)](https://twitter.com/matvelloso/status/1065778379612282885?lang=en)
 
 Way back in 2012, the Harvard Business Review described Data Science as [“The Sexiest Job of the 21st Century”](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), and since then has been appearing in job specs and linkedin posts and research funding applications and business startup prospecta more than ever. 
 
