@@ -10,7 +10,7 @@ title: Bio
 
 # Biography
 
-[![Me](/img/bolster_300.png)](/img/bolster_orig.png)
+[![Me](/img/bolster_780.png)](/img/bolster_orig.png)
 Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.
 
 Currently Data Science Team Lead at [White Hat Security](https://whitehatsec.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
