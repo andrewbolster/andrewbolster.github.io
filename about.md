@@ -29,7 +29,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 * Data Science Team Lead @ White Hat Security
 * Director @ Farset Labs
 * Trustee @ Vault Arts Studios
-* Member of DoF Open Data Advisory Panel
+* IEEE P7014 Standard for Ethical considerations in Emulated Empathy in Autonomous and Intelligent Systems Working Group Member
 
 # ETC
 * [My Resume](/resume/)
