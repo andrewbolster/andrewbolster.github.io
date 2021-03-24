@@ -1,9 +1,12 @@
 ## Stuff Bolster Always Forgets
 
+`bundle install`
+
 `bundle update`
 
 `bundle exec jekyll draft "<TITLE>"`
 
+Also, this actually [works](https://www.poornerd.com/2020/05/19/installing-and-running-ruby-with-jekyll-on-vs-codespaces.html) in [CodeSpaces](https://github.com/features/codespaces) for the next time you get pissed off at the thought of syncing to a machine with a decent markdown editor....
 
 
 ## Theme info
