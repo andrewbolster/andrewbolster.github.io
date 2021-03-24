@@ -13,34 +13,38 @@ title: Bio
 [![Me](/img/bolster_780.png)](/img/bolster_orig.png)
 Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.
 
-Currently Data Science Team Lead at [White Hat Security](https://whitehatsec.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
+Currently Data Science Engineering Manager at [White Hat Security](https://www.whitehatsec.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
 
-Previously a Data Scientist working in the fields of Affective Computing and Cyber Security.
+Previously a Data Scientist working in the fields of Affective Computing, Wearable Technologies and Cyber Security.
 
-Completed PhD Research at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](http://ecit.qub.ac.uk) Institute) investigating Trust and Reputation in Marine Communications for Autonomous Systems of Systems under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](http://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
+Completed PhD Research at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](https://ecit.qub.ac.uk) Institute) investigating [Trust and Reputation in Marine Communications for Autonomous Systems of Systems](https://github.com/andrewbolster/thesis/releases/tag/v1.0) under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](https://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
 
-Founding Director of [Farset Labs](http://farsetlabs.org.uk), Northern Ireland’s [First Hackerspace]({{ BASE_PATH }}/2011/04/why-belfast-needs-a-hackerspace/), located in Weavers Court Business Park, Belfast, [developed]({{ BASE_PATH }}/2010/06/great-hopes/) while I was finishing off a Masters in Electronics and Software Engineering at QUB. [Farset Labs](http://farsetlabs.org.uk) now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders.
+Founding Director of [Farset Labs](https://farsetlabs.org.uk), Northern Ireland’s [First Hackerspace]({{ BASE_PATH }}/2011/04/why-belfast-needs-a-hackerspace/), located in Weavers Court Business Park, Belfast, [developed]({{ BASE_PATH }}/2010/06/great-hopes/) while I was finishing off a Masters in Electronics and Software Engineering at QUB. [Farset Labs](https://farsetlabs.org.uk) now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders.
 
-Recipient of the 2012 [Belfast Business Top 50](http://belfastmediagroup.com/top50/15955-2/) for my work at Farset Labs, the QUB [T G Christie Award](http://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ScholarshipsAwards/ScholarshipsAwardsHandbook/ScholarshipsandBursaries/PostgraduateScholarshipsAwards/FacultyofEngineeringandPhysicalSciences/) for Most Promising Postgraduate, and The Liggard Prize for Best Communications Engineering Masters Project. Also an [IET Excellence Grant](http://conferences.theiet.org/achievement/-documents/brochure-2010.cfm) recipient and a National Finalist in the IET Present Around the World competition, presenting on information theory of social networks in 2010  
+Recipient of the 2012 [Belfast Business Top 50](https://belfastmediagroup.com/top50/15955-2/) for my work at Farset Labs, the QUB [T G Christie Award](https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ScholarshipsAwards/ScholarshipsAwardsHandbook/ScholarshipsandBursaries/PostgraduateScholarshipsAwards/FacultyofEngineeringandPhysicalSciences/) for Most Promising Postgraduate, and The Liggard Prize for Best Communications Engineering Masters Project. Also an [IET Excellence Grant](https://conferences.theiet.org/achievement/-documents/brochure-2010.cfm) recipient and a National Finalist in the IET Present Around the World competition, presenting on information theory of social networks in 2010  
 
-A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and heavily caffinated German softdrinks.
+A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and [heavily caffinated German softdrinks](https://www.farsetlabs.org.uk/about/club-mate/).
 
 # Current Roles
 * Data Science Team Lead @ White Hat Security
 * Director @ Farset Labs
 * Trustee @ Vault Arts Studios
 * Member of DoF Open Data Advisory Panel
+* Member of IEEE [P7014 Working Group](https://standards.ieee.org/project/7014.html) on Ethics in Empatic Intelligent Systems
 
 # ETC
 * [My Resume](/resume/)
-* [My Linkedin Profile](http://www.linkedin.com/in/{{ site.author.linkedin }}) 
-  * [PDF version](http://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
+* [My Linkedin Profile](https://www.linkedin.com/in/{{ site.author.linkedin }}) 
+  * [PDF version](https://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
 
 # Speaking Engagements / Panels
 * 2020
+  * [Northern Ireland Developers Conference: Kids Track]({% post_url 2020-10-19-tell-me-about-your-programmer %}) - Tell me about your Programmer - Robopsychologist and other careers that don't exist (yet) [:movie_camera:](https://www.youtube.com/watch?v=9DZ58ulwdYE) - Speaker
+  * [Northern Ireland Developers Conference]({% post_url 2020-10-20-a-stranger-in-a-strange-land-data-science-onboarding-in-practice %}) - A Stranger in a Strange Land: Data Science Onboarding In Practice [:movie_camera:](https://www.youtube.com/watch?v=kIbTzis2zAE) - Speaker
   * [BelTech](https://www.youtube.com/watch?v=M9izw50NVv4&feature=youtu.be&t=5860) - AI Explainability - Panellist
   * [DevBash]({% post_url 2020-05-22-pragmatic-data-science %}) - Pragmatic Data Science - Speaker
 * 2019
+  * [PyConIE](https://pyvideo.org/pycon-ireland-2019/pycon-ireland-2019-planning-your-hackerspace-with-python-andrew-bolster.html) - Planning Your Hackerspace With Python [:movie_camera:](https://www.youtube.com/watch?v=hiXdxl6oJCY) - Speaker
   * [Northern Ireland Developers Conference](https://www.nidevconf.com/sessions/andrewbolster/) - Data Art: Creative collisions and getting out of your comfort zone [:movie_camera:](https://www.youtube.com/watch?v=Ku2FX9osMXA) [:notebook:](/2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.html) - Speaker
   * [PyBelfast](https://www.meetup.com/PyBelfast/events/258065529/) - The Joys of Python 3 [:notebook:](https://github.com/andrewbolster/nb_presentations/blob/master/2019-01%20PyBelfast/)
 * 2018
@@ -77,12 +81,14 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 
 # Press/Publications/Podcasts
+* 2021
+  * [WhyNI](https://www.ensorecruitment.com/why-ni-andrew-bolster-farset-labs/) - Enzo Recruitment - Podcast Guest
+  * [Unattested Pod](https://unattested.club/040/) - Podcast Guest
 * 2020
   * [Is Your AI Ethical?](https://www.rtinsights.com/is-your-ai-ethical/) - RTInsights - Author
   * [The Importance of Active Learning in Data Science and Engineering](https://www.cybersecurity-insiders.com/the-importance-of-active-learning-in-the-data-science-and-engineering/) - Cybersecurity Insider - Author
 * 2018
   * [Moving to Belfast? Here are 10 people you need to know](https://www.siliconrepublic.com/people/belfast-tech-influencers-people-to-follow) - SiliconRepublic - Listee
-
 * 2017
   * [Best In Class: Our Pick of Northern Ireland's Tech Educators #1](https://syncni.com/news/718/9026/best-in-class-our-pick-of-northern-ireland-s-tech-educators/tab/1356) - SyncNI - Listee
   * [Ethical hacker turned off heating 300 miles away](http://www.newsletter.co.uk/news/crime/ethical-hacker-turned-off-heating-300-miles-away-1-8071108) - Newsletter - Interviewee
