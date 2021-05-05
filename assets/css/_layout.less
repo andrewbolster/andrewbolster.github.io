@@ -11,6 +11,29 @@
 		font-size: 32px;
 		line-height: 42px;
 	}
+	.nav-global {
+		margin-top: @line-height / @em;
+		letter-spacing: -0.31em;
+		*letter-spacing: normal;
+		word-spacing: -0.43em;
+		list-style: none;
+		padding-left: 0;
+		.home:after {
+			margin-left: 16px;
+			content: "/";
+		}
+		li {
+			display: inline-block;
+			*display: inline;
+			zoom: 1;
+			line-height: normal;
+			letter-spacing: normal;
+			margin-right: 16px;
+			word-spacing: normal;
+			vertical-align: middle;
+			&:last-child { margin-right: 0; }
+		}
+	}
 } // the-header
 
 .unit-article {

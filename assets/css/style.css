@@ -19,19 +19,19 @@ No styleguide reference.
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/roboto/v27/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
-  src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc9.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/roboto/v27/KFOlCnqEu92Fr1MmEU9fBBc9.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
-  src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBBc9.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/roboto/v27/KFOlCnqEu92Fr1MmWUlfBBc9.ttf) format('truetype');
 }
 /*
 Base font size should be larger than 16px.
@@ -205,6 +205,31 @@ No styleguide reference.
 .the-header .logo a {
   font-size: 32px;
   line-height: 42px;
+}
+.the-header .nav-global {
+  margin-top: 1.625em;
+  letter-spacing: -0.31em;
+  *letter-spacing: normal;
+  word-spacing: -0.43em;
+  list-style: none;
+  padding-left: 0;
+}
+.the-header .nav-global .home:after {
+  margin-left: 16px;
+  content: "/";
+}
+.the-header .nav-global li {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+  line-height: normal;
+  letter-spacing: normal;
+  margin-right: 16px;
+  word-spacing: normal;
+  vertical-align: middle;
+}
+.the-header .nav-global li:last-child {
+  margin-right: 0;
 }
 .unit-article .unit-head-inner,
 .unit-article .entry-content,
