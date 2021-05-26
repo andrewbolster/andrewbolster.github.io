@@ -8,7 +8,9 @@
 @main-bg: #ffffff;
 @subtle-bg: @base01;
 @main-font-color: @base03;
-@accent-color: #9472B3;
+@base-color: #4B0082;
+@accent-color: @base-color;
+@accent-contrast: contrast(@accent-color);
 
 @import "_layout.less";
 
@@ -22,15 +24,15 @@ html {
 /* LINK */
 a {
 	&:link {
-		color: @main-font-color;
+		color: @accent-color;
 		text-decoration: none;
 	}
 	&:visited {
-		color: darken(@main-font-color, 10%);
+		color: darken(@accent-color, 10%);
 		text-decoration: none;
 	}
 	&:hover {
-		color: lighten(@main-font-color, 10%);
+		color: lighten(@accent-color, 10%);
 		text-decoration: none;
 	}
 }
@@ -103,7 +105,7 @@ pre {
 #forkongithub {
   a{
     background:@accent-color;
-    color:@main-font-color;
+    color:@accent-contrast;
     text-decoration:none;
     font-family: @webfont;
     text-align:center;
@@ -114,7 +116,7 @@ pre {
     transition:0.5s;
   }
   a:hover{
-		color: darken(@main-font-color, 10%);
+	color: darken(@accent-contrast, 10%);
     background: lighten(@accent-color, 10%);
   }
   a::before,a::after{
@@ -179,7 +181,7 @@ html,body{
 			padding-top: (@line-height / @em);
 			padding-bottom: (@line-height / @em) ;
 			h1 {
-				color: @main-font-color;
+				color: @accent-contrast;
         text-shadow: 2px 2px lighten(@accent-color, 10%);
 				margin-top: 0;
 				margin-bottom: 0;
@@ -218,9 +220,9 @@ html,body{
 		.entry-content:first-child h6 { margin-top: 0; } // Canceling header margin since there is margin on header
 
 		a {
-			&:link { border-bottom: 1px dotted @accent-color; }
+			&:link { border-bottom: 2px dotted @accent-color; }
 			&:visited { border-bottom: 1px dotted darken(@accent-color, 10%); }
-			&:hover { border-bottom: 1px dotted lighten(@accent-color, 10%); }
+			&:hover { border-bottom: 4px dotted lighten(@accent-color, 10%); }
 		}
 
 		blockquote {
@@ -254,7 +256,7 @@ html,body{
 			margin-left: auto;
 			margin-right: auto;
 			object-fit: scale-down;
-			width: 100%;
+			width: 80%;
 		}
 		img.left { margin-right: 16px; }
 		img.right { margin-left: 16px; }
@@ -456,22 +458,22 @@ html,body{
   background-repeat: repeat;
   background-position: 0 0;
   background-color: @accent-color;
-  box-shadow:4px 4px 10px rgba(120,81,169,0.5);
-  color: @main-font-color;
+  box-shadow:4px 4px 10px lighten(@accent-color, 50%);
+  color: @accent-contrast;
   text-shadow: 1px 1px lighten(@accent-color, 10%);
-	font-family: @webfont;
-	font-weight: bold;
+  font-family: @webfont;
+  font-weight: bold;
   a {
     &:link {
-      color: @main-font-color;
+      color: @accent-contrast;
       border: 0;
     }
     &:visited {
-      color: darken(@main-font-color, 10%);
+      color: darken(@accent-contrast, 10%);
       border: 0;
     }
     &:hover {
-      color: lighten(@main-font-color, 10%);
+      color: darken(@accent-contrast, 50%);
       border: 0;
     }
   }
