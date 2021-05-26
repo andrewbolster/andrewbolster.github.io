@@ -549,15 +549,15 @@ html {
 }
 /* LINK */
 a:link {
-  color: #2d2d2d;
+  color: #4B0082;
   text-decoration: none;
 }
 a:visited {
-  color: #141414;
+  color: #2e004f;
   text-decoration: none;
 }
 a:hover {
-  color: #474747;
+  color: #6800b5;
   text-decoration: none;
 }
 .header-link {
@@ -606,11 +606,11 @@ pre {
 .the-header .tagline {
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   margin: 0;
-  color: #9472B3;
+  color: #4B0082;
 }
 .the-header .nav-global {
   text-transform: uppercase;
-  border-bottom: 1px dotted #9472B3;
+  border-bottom: 1px dotted #4B0082;
 }
 .the-header .nav-global .forkme {
   position: relative;
@@ -619,8 +619,8 @@ pre {
 /* FORKONGITHUB
 --------------------------------------------------------------------------------- */
 #forkongithub a {
-  background: #9472B3;
-  color: #2d2d2d;
+  background: #4B0082;
+  color: #ffffff;
   text-decoration: none;
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   text-align: center;
@@ -632,8 +632,8 @@ pre {
   transition: 0.5s;
 }
 #forkongithub a:hover {
-  color: #141414;
-  background: #ad93c5;
+  color: #e6e6e6;
+  background: #6800b5;
 }
 #forkongithub a::before,
 #forkongithub a::after {
@@ -690,15 +690,15 @@ body {
   background: url('/assets/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #9472B3;
+  background-color: #4B0082;
   margin-bottom: 1.625em;
   padding-top: 1.625em;
   padding-bottom: 1.625em;
   box-shadow: 4px 4px 10px rgba(120, 81, 169, 0.5);
 }
 .unit-article header h1 {
-  color: #2d2d2d;
-  text-shadow: 2px 2px #ad93c5;
+  color: #ffffff;
+  text-shadow: 2px 2px #6800b5;
   margin-top: 0;
   margin-bottom: 0;
   text-align: center;
@@ -750,13 +750,13 @@ body {
   margin-top: 0;
 }
 .unit-article a:link {
-  border-bottom: 1px dotted #9472B3;
+  border-bottom: 2px dotted #4B0082;
 }
 .unit-article a:visited {
-  border-bottom: 1px dotted #7b559d;
+  border-bottom: 1px dotted #2e004f;
 }
 .unit-article a:hover {
-  border-bottom: 1px dotted #ad93c5;
+  border-bottom: 4px dotted #6800b5;
 }
 .unit-article blockquote {
   border-left: 1em solid rgba(21, 25, 25, 0.8);
@@ -832,7 +832,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   object-fit: scale-down;
-  width: 100%;
+  width: 80%;
 }
 .unit-article img.left {
   margin-right: 16px;
@@ -1021,13 +1021,13 @@ body {
   color: #fff;
 }
 .the-footer a:link {
-  border-bottom: 1px dotted #9472B3;
+  border-bottom: 1px dotted #4B0082;
 }
 .the-footer a:visited {
-  border-bottom: 1px dotted #7b559d;
+  border-bottom: 1px dotted #2e004f;
 }
 .the-footer a:hover {
-  border-bottom: 1px dotted #ad93c5;
+  border-bottom: 1px dotted #6800b5;
 }
 .the-footer ul {
   list-style: square;
@@ -1055,23 +1055,23 @@ body {
   background: url('/assets/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #9472B3;
-  box-shadow: 4px 4px 10px rgba(120, 81, 169, 0.5);
-  color: #2d2d2d;
-  text-shadow: 1px 1px #ad93c5;
+  background-color: #4B0082;
+  box-shadow: 4px 4px 10px #ca82ff;
+  color: #ffffff;
+  text-shadow: 1px 1px #6800b5;
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   font-weight: bold;
 }
 .page-foot a:link {
-  color: #2d2d2d;
+  color: #ffffff;
   border: 0;
 }
 .page-foot a:visited {
-  color: #141414;
+  color: #e6e6e6;
   border: 0;
 }
 .page-foot a:hover {
-  color: #474747;
+  color: #808080;
   border: 0;
 }
 .page-foot nav ul {
