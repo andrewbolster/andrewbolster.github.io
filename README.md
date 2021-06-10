@@ -6,6 +6,8 @@
 
 `bundle exec jekyll draft "<TITLE>"`
 
+`bundle exec jekyll publish _drafts/*`
+
 `lessc style.less style.css -m=always`
 
 Also, this actually [works](https://www.poornerd.com/2020/05/19/installing-and-running-ruby-with-jekyll-on-vs-codespaces.html) in [CodeSpaces](https://github.com/features/codespaces) for the next time you get pissed off at the thought of syncing to a machine with a decent markdown editor....
