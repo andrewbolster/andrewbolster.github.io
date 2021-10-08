@@ -13,7 +13,7 @@ title: Bio
 [![Me](/img/bolster_780.png)](/img/bolster_orig.png)
 Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.
 
-Currently Data Science Engineering Manager at [White Hat Security](https://www.whitehatsec.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
+Currently Data Science Engineering Manager at [NTT Application Security](https://www.whitehatsec.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
 
 Previously a Data Scientist working in the fields of Affective Computing, Wearable Technologies and Cyber Security.
 
