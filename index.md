@@ -5,9 +5,8 @@ title: Howdi, I'm Andrew, but most people call me Bolster
 {% include JB/setup %}
 
 
-* Data Science Engineering Manager @ [WhiteHat Security](https://www.whitehatsec.com)
-* Director @ [Farset Labs](https://www.farsetlabs.org.uk)
-* Trustee @ [Vault Artist Studios](https://www.vaultartiststudios.com/)
+* Data Science Engineering Manager @ [NTT Application Security](https://www.whitehatsec.com)
+* Trustee @ [Farset Labs](https://www.farsetlabs.org.uk)
 * among [other things](/about)
 
 ### Recent Writings
