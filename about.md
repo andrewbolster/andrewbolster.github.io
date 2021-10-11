@@ -27,8 +27,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 # Current Roles
 * Data Science Team Lead @ White Hat Security
-* Director @ Farset Labs
-* Trustee @ Vault Arts Studios
+* Trustee @ Farset Labs
 * Member of DoF Open Data Advisory Panel
 * Member of IEEE [P7014 Working Group](https://standards.ieee.org/project/7014.html) on Ethics in Empatic Intelligent Systems
 
