@@ -40,11 +40,37 @@ Public Speaking, Presentation Developement, Collaboration Facilitation, Client R
 
 ## Experience
 
+### NTT Application Security, Belfast (Formerly WhiteHat Security)
+
+![](/img/ntt.png)
+
+### Data Science Engineering Manager (2020 - present)
+
+### Data Science Team Lead (2019 - 2020)
+
+Initially hired as first Team lead, 1y promotion to Engineering Manager responsible for management, vision, strategy and technology.
+
+Building a Data Science capability from scratch in an established cyber security player.
+
+Building and growing the Data Science team members in ML methodology and technology stack.
+
+Aligning with cross-team leaders to find problems that can be solved with Data Science processes.
+
+Deliverying and Monitoring Machine Learning solutions to production.
+
+Providing detailed and accessible documentation and explanation of advanced statistical and data science practices.
+
+Architecting solutions in line with scoped justifications.
+
+Evaluate/set architectural standards for the whole ML projects in working with the Chief Architect.
+
+UK Immigration Liaison
+
 ### Alert Logic, Belfast
 
 ![](/img/alert.png)
 
-#### Data Scientist (2018 - Present)
+#### Data Scientist (2018 - 2019)
 
 Using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure, improving coverage, value-assessment, and process control both internally and to customers.
 
