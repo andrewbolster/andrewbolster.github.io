@@ -17,9 +17,9 @@ Also, if implemented as a distributed/ scalable system, then contention for glob
 
 ### What about using nested structures like `/customer/10/entity/1`
 
-This is an option, however it couples the customer state to the individual state of a given target, which introduces unnecessary dependency. Also, establishing the ‘schema’ for addressing arbitrary objects in this way becomes challenging, for instance; if a `customer` object has several `reading_list` mappings with multiple `book` objects within with potential (realised or not) many to many mappings, there are many ways to reference an particular book.
+This is an option, however it couples the customer state to the individual state of a given entity, which introduces unnecessary dependency. Also, establishing the ‘schema’ for addressing arbitrary objects in this way becomes challenging, for instance; if a `customer` object has several `reading_list` mappings with multiple `book` objects within with potential (realised or not) many to many mappings, there are many ways to reference an particular book.
 
-* `/datum/123`
+* `/book/123`
 * `/customer/10/book/123`
 * `/customer/10/reading_list/5/book/123`
 
@@ -82,7 +82,7 @@ These can be mapped such that while ‘close’ hashes look similar, (the author
 
 But visual verification isn’t a solution for interpretability. Git has exactly the same problem, with even longer, 40 character SHA1 hash’s representing commits. However, for the vast majority of projects, [7 characters of that hash is sufficient to represent the commit](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection) *within the project* without colliding with project-external commits.
 
-This kind of contextual reference (i.e. permitting the use of shortcodes or similar) to identify, for instance, a piece of evidence associated with a target, even if several ‘global’ entities still match that ‘shortcode’, that querier will not have access to those entites, so the storage backend can still resolve that case.
+This kind of contextual reference (i.e. permitting the use of shortcodes or similar) to identify, for instance, a 'book' associated with a 'customer', even if several ‘global’ entities still match that ‘shortcode’, that querier should not have access to those entities, so the storage backend can still resolve that case.
 
 ## Bolsters General Rule of Thumb
 
