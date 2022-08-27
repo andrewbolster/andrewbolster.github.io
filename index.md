@@ -5,7 +5,7 @@ title: Howdi, I'm Andrew, but most people call me Bolster
 {% include JB/setup %}
 
 
-* Data Science Engineering Manager @ [NTT Application Security](https://www.whitehatsec.com)
+* Senior R&D Manager (Data Science) at [Synopsys Software Integrity Group](https://www.synopsys.com/software-integrity.html)
 * Trustee @ [Farset Labs](https://www.farsetlabs.org.uk)
 * among [other things](/about)
 
