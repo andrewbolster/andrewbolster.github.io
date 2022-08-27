@@ -13,7 +13,7 @@ title: Bio
 [![Me](/img/bolster_780.png)](/img/bolster_orig.png)
 Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.
 
-Currently Data Science Engineering Manager at [NTT Application Security](https://www.whitehatsec.com), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
+Currently Senior R&D Manager (Data Science) at [Synopsys Software Integrity Group](https://www.synopsys.com/software-integrity.html), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
 
 Previously a Data Scientist working in the fields of Affective Computing, Wearable Technologies and Cyber Security.
 
@@ -26,10 +26,9 @@ Recipient of the 2012 [Belfast Business Top 50](https://belfastmediagroup.com/to
 A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and [heavily caffinated German softdrinks](https://www.farsetlabs.org.uk/about/club-mate/).
 
 # Current Roles
-* Data Science Team Lead @ White Hat Security
-* Trustee @ Farset Labs
-* Member of DoF Open Data Advisory Panel
-* Member of IEEE [P7014 Working Group](https://standards.ieee.org/project/7014.html) on Ethics in Empatic Intelligent Systems
+* Senior R&D Manager (Data Science) @ [Synopsys SIG](https://www.synopsys.com/software-integrity.html)
+* Treasurer @ Farset Labs
+* Treasurer @ BSides Belfast CIC
 
 # ETC
 * [My Resume](/resume/)
@@ -37,6 +36,9 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * [PDF version](https://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
 
 # Speaking Engagements / Panels
+* 2021
+  * [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - [Lies, Damned Lies, and Statistics](/2022/01/lies-damned-lies-and-data-science.html) - Guest Lecturer
+  * [BLUG Technical: Universal screwdrivers](https://www.meetup.com/belfast-lug/events/278413010/) - [Apache Arrow in 5-10 Mins](/2021/06/apache-arrow-in-5-10-mins.html) - Lightning Talk
 * 2020
   * [Northern Ireland Developers Conference: Kids Track]({% post_url 2020-10-19-tell-me-about-your-programmer %}) - Tell me about your Programmer - Robopsychologist and other careers that don't exist (yet) [:movie_camera:](https://www.youtube.com/watch?v=9DZ58ulwdYE) - Speaker
   * [Northern Ireland Developers Conference]({% post_url 2020-10-20-a-stranger-in-a-strange-land-data-science-onboarding-in-practice %}) - A Stranger in a Strange Land: Data Science Onboarding In Practice [:movie_camera:](https://www.youtube.com/watch?v=kIbTzis2zAE) - Speaker
@@ -83,6 +85,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 * 2021
   * [WhyNI](https://www.ensorecruitment.com/why-ni-andrew-bolster-farset-labs/) - Enzo Recruitment - Podcast Guest
   * [Unattested Pod](https://unattested.club/040/) - Podcast Guest
+  * [Dr StrangeBot: or how I learned to stop worrying and trust machine learning](https://services.global.ntt/en-gb/insights/blog/dr-strangebot-or-how-i-learned-to-stop-worrying-and-trust-machine-learning)
 * 2020
   * [Is Your AI Ethical?](https://www.rtinsights.com/is-your-ai-ethical/) - RTInsights - Author
   * [The Importance of Active Learning in Data Science and Engineering](https://www.cybersecurity-insiders.com/the-importance-of-active-learning-in-the-data-science-and-engineering/) - Cybersecurity Insider - Author
