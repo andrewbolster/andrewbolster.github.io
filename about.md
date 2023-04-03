@@ -11,9 +11,9 @@ title: Bio
 # Biography
 
 [![Me](/img/bolster_780.png)](/img/bolster_orig.png)
-Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.
+Head of Data Science @ Synopsys Software Integrity Group (Formerly WhiteHat Security) , recovering academic, former robo-psychiatrist, hackerspace founder, meetup organiser, and player-of-calendar-tetris.
 
-Currently Senior R&D Manager (Data Science) at [Synopsys Software Integrity Group](https://www.synopsys.com/software-integrity.html), using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.
+Currently Senior R&D Manager (Data Science) at [Synopsys Software Integrity Group](https://www.synopsys.com/software-integrity.html), using advanced data mining and machine learning to detect, assess and remediate vulnerabilities and malware attacks on cloud infrastructure.
 
 Previously a Data Scientist working in the fields of Affective Computing, Wearable Technologies and Cyber Security.
 
@@ -27,8 +27,9 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 # Current Roles
 * Senior R&D Manager (Data Science) @ [Synopsys SIG](https://www.synopsys.com/software-integrity.html)
-* Treasurer @ Farset Labs
-* Treasurer @ BSides Belfast CIC
+* Treasurer @ [Farset Labs](https://www.farsetlabs.org.uk/)
+* Treasurer @ [BSides Belfast CIC](https://bsidesbelfast.org/)
+* Director @ [Northern Ireland Open Government Network](https://www.opengovernment.org.uk/networks/ni-ogn/)
 
 # ETC
 * [My Resume](/resume/)
@@ -36,9 +37,16 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * [PDF version](https://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
 
 # Speaking Engagements / Panels
+* 2023
+  * [BelTech 2023](https://www.beltech.co/) - Practical ML for Cyber Security - Speaker
+  * [SISTEM2023](https://sistemconf.com/) - Practical ML for Cyber Security - Speaker
+  * [BringITOn "Top 12 Tech Jobs"](https://www.linkedin.com/posts/andrewbolster_tech-careerintech-datascientist-activity-7043954316977561600-THjH?utm_source=share&utm_medium=member_desktop) - Interviewee
+* 2022
+  * [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Practical ML for Cyber Security - Lecture
+  * [AI NI 17 - AI in Cyber Security, Healthcare & Data Science Success Stories](https://www.meetup.com/artificial-intelligence-northern-ireland/events/288857241/) - Practical ML for Cyber Security - Speaker
 * 2021
   * [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - [Lies, Damned Lies, and Statistics](/2022/01/lies-damned-lies-and-data-science.html) - Guest Lecturer
-  * [BLUG Technical: Universal screwdrivers](https://www.meetup.com/belfast-lug/events/278413010/) - [Apache Arrow in 5-10 Mins](/2021/06/apache-arrow-in-5-10-mins.html) - Lightning Talk
+  * [BLUG Technical: Universal screwdrivers](https://www.meetup.com/belfast-lug/events/278413010/) - [Apache Arrow in 5-10 Mins](/2021/06/apache-arrow-in-5-10-mins.html) - Lightning Talk 
 * 2020
   * [Northern Ireland Developers Conference: Kids Track]({% post_url 2020-10-19-tell-me-about-your-programmer %}) - Tell me about your Programmer - Robopsychologist and other careers that don't exist (yet) [:movie_camera:](https://www.youtube.com/watch?v=9DZ58ulwdYE) - Speaker
   * [Northern Ireland Developers Conference]({% post_url 2020-10-20-a-stranger-in-a-strange-land-data-science-onboarding-in-practice %}) - A Stranger in a Strange Land: Data Science Onboarding In Practice [:movie_camera:](https://www.youtube.com/watch?v=kIbTzis2zAE) - Speaker
