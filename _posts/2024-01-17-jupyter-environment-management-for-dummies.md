@@ -53,5 +53,5 @@ kernel_name = os.path.basename(sys.executable.replace("/bin/python",""))
 ```
 
 ```py
-%conda install -y -n $kernel_name {{requirement}}
+%conda install -y -n $kernel_name magicalpackagenamethatsdefinitelynotahallucination
 ```
