@@ -5,7 +5,7 @@ date: 2008-08-19 00:52:03+00:00
 layout: page
 slug: about
 group: navigation
-title: Bio
+title: About
 ---
 
 # Biography
