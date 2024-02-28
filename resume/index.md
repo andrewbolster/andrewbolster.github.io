@@ -40,13 +40,13 @@ Public Speaking, Presentation Developement, Collaboration Facilitation, Client R
 
 ## Experience
 
-### NTT Application Security, Belfast (Formerly WhiteHat Security)
+### Synopsys Software Integrity Group, Belfast (Formerly WhiteHat Security)
 
-![](/img/ntt.png)
+#### Sr R&D Manager (Synopsys) (2022 - Present)
 
-### Data Science Engineering Manager (2020 - present)
+#### Data Science Engineering Manager (NTT Application Security) (2020 - 2022)
 
-### Data Science Team Lead (2019 - 2020)
+#### Data Science Team Lead (NTT Application Security) (2019 - 2020)
 
 Initially hired as first Team lead, 1y promotion to Engineering Manager responsible for management, vision, strategy and technology.
 
@@ -108,7 +108,7 @@ Contributed to ongoing development and refinement of the core SpriteGuard produc
 
 ![](/img/farsetlabs.png)
 
-#### Founder/Director (PT 2011 - Present)
+#### Founder/Director (PT 2011 - 2024)
 
 Created Farset Labs in response to a demonstrated need for an independent, non-profit, charitable community of technology innovators, providing them a open space and shared resources to experiment, explore, and grow themselves, their projects, and relationships with local and global business. 
 
