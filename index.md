@@ -6,7 +6,6 @@ title: Howdi, I'm Andrew, but most people call me Bolster
 
 
 * Senior R&D Manager (Data Science) at [Synopsys Software Integrity Group](https://www.synopsys.com/software-integrity.html)
-* Trustee, Treasurer @ [Farset Labs](https://www.farsetlabs.org.uk)
 * Director, Treasurer @ [BSides Belfast](https://bsidesbelfast.org)
 * among [other things](/about)
 
