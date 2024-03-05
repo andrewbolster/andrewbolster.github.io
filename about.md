@@ -89,6 +89,22 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 
 # Press/Publications/Podcasts
+* 2024
+  * [Zero-Click GenAI Worm Spreads Malware, Poisoning Models](https://www.darkreading.com/application-security/zero-click-genai-worm-malware-poisoning-models) - DarkReading - Commentary/Interview
+  * [Generative KI hat enorme Auswirkungen auf Softwareentwicklung und Softwaresicherheit ](https://ap-verlag.de/generative-ki-hat-enorme-auswirkungen-auf-softwareentwicklung-und-softwaresicherheit/86448/) - ManageIt - Guest Publication of [Blog Post](/2024/02/generative-ai-impact-on-software-development-and-security)
+  * [Generative AI has a huge impact on software development and software security](https://www.teiss.co.uk/artificial-intelligence/generative-ai-software-development-and-security) - Teiss - Guest Publication of [Blog Post](/2024/02/generative-ai-impact-on-software-development-and-security)
+* 2023
+  * [One Year Anniversary of ChatGPT by Synopsys](https://archive.is/E4LUb) - Technology Reseller - Author
+  * [To improve cybersecurity, is an annual one-month awareness pep rally enough?](https://archive.ph/F74BH) - NerdForTech - Commentary
+  * [Over 800k Flagstar Bank Customers Impacted by Third Data Breach Since 2021](https://archive.ph/77VVc) - itsecurityguru - Commentary
+  * [TP-Link Smart Bulb Users at Risk of WiFi Password Theft](https://archive.is/YCEQu) - HackRead - Commentary
+  * [TP-Link Smart Bulb Spills Wi-Fi Passwords](https://archive.is/877Vp) - Infosecurity Magazine - Commentary
+  * [We’re getting poisoned by bad software. Why not talk about it that way?](https://medium.com/nerd-for-tech/were-getting-poisoned-by-bad-software-why-not-talk-about-it-that-way-b1de6d2b5a0e) - NerdForTech - Commentary
+  * [Is your smart light bulb giving passwords to hackers?](https://archive.is/xD1Xp) - Cult of Mac - Commentary
+  * [Officials Point To Russia After Electoral Commission Hack](https://archive.is/bWSoS) - Silicon.co.uk - Commentary
+  * [Cyber-attack hits the UK’s electoral registers](https://archive.is/wAEdR) - itsecurityguru - Commentary
+  * [Unraveling the EC Data Breach: Cybersecurity Experts Weigh In on the Implications](https://archive.is/S5ZA8) - Infosecurity Magazine - Commentary
+  * [UK Electoral Commission systems breached for over a year](https://archive.is/ctlWk) - BetaNews - Commentary
 * 2021
   * [WhyNI](https://www.ensorecruitment.com/why-ni-andrew-bolster-farset-labs/) - Enzo Recruitment - Podcast Guest
   * [Unattested Pod](https://unattested.club/040/) - Podcast Guest
