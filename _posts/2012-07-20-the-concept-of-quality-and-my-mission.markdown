@@ -1,13 +1,21 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2012-07-20 08:10:41+00:00
 layout: post
 slug: the-concept-of-quality-and-my-mission
+tags:
+- Zen and the Art of Motorcycle Maintenance
+- Personal development
+- Quality
+- Mentorship
+- Cultural improvement
+- Individual change
 title: The concept of Quality and my 'mission'
-categories:
-- Commentary
 ---
+
 
 I've been reading the fantastic '[Zen and the Art of Motorcycle Maintainance](http://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)', and it is simply fantastic on any level. This isn't a sales pitch, but it got me thinking and what I have been trying to accomplish with a range of projects and attitudes over the years.
 

@@ -1,16 +1,24 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2008-05-13 14:33:00+00:00
 layout: post
 slug: i-want
-title: I want
-categories:
-- Commentary
 tags:
-- hardware
 - TED
+- Powerpoint
+- Hans Rosling
+- TED talk
+- research
+- NYU
+- multitouch display
+- global poverty
+- hardware
+title: I want
 ---
+
 
 Jeff Han, a researcher at NYU,  surpassed himself again with the most [georgous multitouch display interface I've ever seen](http://www.ted.com/index.php/talks/view/id/65) (surface/iphone eat your heart out). I always love watching TED talks, and if anyone really wants to see a good reason why Powerpoint should be killed, I'd recomment Hans Roslings talk on global poverty [here](http://www.ted.com/index.php/speakers/view/id/90)
 

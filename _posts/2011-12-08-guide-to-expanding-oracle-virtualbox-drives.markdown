@@ -1,21 +1,25 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2011-12-08 12:01:43+00:00
 layout: post
 slug: guide-to-expanding-oracle-virtualbox-drives
-title: Guide to Expanding Oracle Virtualbox Drives
-categories:
-- Instructional
 tags:
-- disk
+- partitioning
+- windows
 - linux
+- virtualisation
+- disk
 - oracle
 - unix
 - virtualbox
-- virtualisation
-- windows
+- commandline
+- VDI
+title: Guide to Expanding Oracle Virtualbox Drives
 ---
+
 
 The Idiot Proof Guide for Windows-host, \*-guest setup. (Ubuntu in my case, and should work for any host)
 

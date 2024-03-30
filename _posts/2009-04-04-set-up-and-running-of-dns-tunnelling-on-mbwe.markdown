@@ -1,24 +1,35 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: false
 date: 2009-04-04 23:14:32+00:00
 layout: post
 slug: set-up-and-running-of-dns-tunnelling-on-mbwe
-title: Set up and running of DNS tunnelling on MBWE
-categories:
-- Instructional
 tags:
 - code
-- desktop
-- eee
-- Embedded
-- hardware
-- linux
+- coding
 - MyBook
+- SSH
+- hardware
+- security
+- DNS
 - networking
-- programming
+- Embedded
+- Perl
+- traffic encryption
+- DNS2TCP
+- network setup
 - software
+- linux
+- port forwarding
+- SOCKS proxy
+- eee
+- desktop
+- programming
+title: Set up and running of DNS tunnelling on MBWE
 ---
+
 
 Last week or there abouts, there was a big buzz around the interwebs revisiting [Dan Kaminski's OzymanDNS tool](http://www.doxpara.com/?p=51), a perl based toolkit for tunnelling TCP traffic over DNS requests (technically its TCP over SSL over DNS but whos counting) That was originally released mid-2004.
 

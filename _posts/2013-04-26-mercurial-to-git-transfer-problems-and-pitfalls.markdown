@@ -1,20 +1,23 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2013-04-26 11:26:17+00:00
 layout: post
 slug: mercurial-to-git-transfer-problems-and-pitfalls
-title: Mercurial to Git transfer; problems, and pitfalls.
-categories:
-- Instructional
 tags:
-- bitbucket
-- git
 - github
-- mercurial
-- source control
 - version control
+- github migration
+- mercurial
+- bitbucket
+- source control
+- hg-git
+- git
+title: Mercurial to Git transfer; problems, and pitfalls.
 ---
+
 
 Finally decided to move my research work across to GitHub; seems the 'in' thing to do. Also I wanted to get more into the Git swing of things and using intermediary tools like hg-git seem a bit contrived for a 1 person project.
 

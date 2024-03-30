@@ -1,13 +1,22 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-10-23 09:02:26+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23102010-2
+tags:
+- Video Games
+- Technology
+- Event
+- Music
+- Programming
+- Movie Trailer
+- Fun
 title: Stuff I've found interesting in the past month - 23/10/2010
-categories:
-- Link-Roll
 ---
+
 
   * [The Trashmen : Surfin' Bird ( 1963 )](http://www.youtube.com/watch?v=ZThquH5t0ow&feature=autoshare)
   

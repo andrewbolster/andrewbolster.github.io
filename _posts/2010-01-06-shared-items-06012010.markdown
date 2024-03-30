@@ -4,8 +4,14 @@ comments: true
 date: 2010-01-06 17:57:37+00:00
 layout: post
 slug: shared-items-06012010
+tags:
+- 2-part series
+- '2009'
+- YouTube Video
+- 8 Ebor Drive
 title: Shared Items - 06/01/2010
 ---
+
 
   * [8 Ebor Drive pt 2](http://www.youtube.com/watch?v=EXxnNAUnbdI)
   

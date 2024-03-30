@@ -1,10 +1,21 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "FIX:CUDA on Debian Jessie"
-description: ""
-category: ""
-tags: []
+tags:
+- Ubuntu
+- Debian Jessie
+- Linux
+- Operating System
+- Package Management
+- GPU
+- NVIDIA
+- Graphics
+- CUDA
+- Programming
+title: FIX:CUDA on Debian Jessie
 ---
+
 {% include JB/setup %}
 
 

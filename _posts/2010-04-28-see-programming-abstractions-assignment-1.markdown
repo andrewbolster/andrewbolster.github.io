@@ -1,20 +1,38 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-04-28 19:37:30+00:00
 layout: post
 slug: see-programming-abstractions-assignment-1
-title: SEE, Programming Abstractions, Assignment 1
-categories:
-- Instructional
 tags:
+- Memory Allocation
 - C
+- Templates
+- stanford
+- CS106B
+- E-learning
+- see
+- CS106A
+- Letter Frequency Table
+- Memory Diagramming
+- Vectors
+- Pointer Manipulation
+- Function Pointers
+- programming
+- Structures
+- String Manipulation
+- Struct
+- C++
+- Graphics Card
+- CUDA
+- File Access
 - cpp
 - elearning
-- programming
-- see
-- stanford
+title: SEE, Programming Abstractions, Assignment 1
 ---
+
 
 [SEE](http://see.stanford.edu/), or, Stanford Engineering Everywhere, has turned out to be my favourite E-learning resource; I've dipped into it a few times over the past few years but in light of my recent investment into a [CUDA](http://en.wikipedia.org/wiki/CUDA) enabled [Graphics Card](http://en.wikipedia.org/wiki/GeForce%209%20Series), I thought that it was coming high time to brush up on my [C++ programming](http://en.wikipedia.org/wiki/C%2B%2B), which I've basically left stagnant for two years after advancing no further than function pointers, structures, and templates.
 

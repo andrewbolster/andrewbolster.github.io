@@ -1,17 +1,22 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-03-31 02:55:37+00:00
 layout: post
 slug: wordpress-category-page
-title: Wordpress category page
-categories:
-- Instructional
 tags:
 - blog
-- personal
+- navigation plugin
 - wordpress
+- RSS feeds
+- twitter feeds
+- diary
+- personal
+title: Wordpress category page
 ---
+
 
 So, a while ago I started  [personal logbook]({{ BASE_PATH }}/category/diary/) and wanted a way to keep those posts off the main blog (while still appearing in the RSS and twitter feeds).
 

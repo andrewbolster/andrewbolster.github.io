@@ -1,8 +1,16 @@
 ---
-layout: post
-title: Pulling Election Count data out of Google Sheets for fun and democracy
 date: 2023-05-18 14:43 +0100
+layout: post
+tags:
+- Elections
+- Google Sheets
+- Data Visualization
+- Web Development
+- Data Analysis
+- Python
+title: Pulling Election Count data out of Google Sheets for fun and democracy
 ---
+
 # Messing around with Elections NI data
 
 Sources: 

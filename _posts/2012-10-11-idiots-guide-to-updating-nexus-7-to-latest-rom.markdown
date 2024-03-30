@@ -1,24 +1,35 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2012-10-11 16:24:11+00:00
 layout: post
 slug: idiots-guide-to-updating-nexus-7-to-latest-rom
-title: Idiots Guide to Updating Nexus 7 to Latest ROM
-categories:
-- Instructional
 tags:
-- android
-- jellybean
-- nexus
+- ota-update
 - nexus7
-- pap
-- peap
-- root
-- tls
-- ttls
+- authentication
+- security
+- factory-reset
+- jellybean
 - wifi
+- root
+- pap
+- backup
+- tls
+- warranty-void
+- peap
+- android
+- wireless-networks
+- boot-loader
+- nexus
+- grouper-rom
+- custom-rom
+- ttls
+title: Idiots Guide to Updating Nexus 7 to Latest ROM
 ---
+
 
 Came across a [well known issue](http://code.google.com/p/android/issues/detail?id=34212) with QUB_SEC and Android, so I decided to fix it.
 

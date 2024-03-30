@@ -1,16 +1,24 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-10-23 09:16:06+00:00
 layout: post
 slug: what-the-hack
-title: What the Hack?
-categories:
-- Commentary
 tags:
+- technology
+- networking
+- equipment donation
+- hackathon
+- community
+- event
 - hackerspace
 - hacking
+- computer science
+title: What the Hack?
 ---
+
 
 Today is the day I've been working on for the past few weeks.
 

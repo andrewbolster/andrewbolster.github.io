@@ -1,13 +1,35 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2013-05-28 12:08:23+00:00
 layout: post
 slug: those-who-can
+tags:
+- pseudocode
+- experience
+- Unit Testing
+- Code Coverage
+- George Bernard Shaw
+- Man and Superman
+- architectural design
+- Continuous Integration
+- technical design
+- Paul Graham
+- Fred Brooks
+- systems design
+- Code Club
+- scientific computing
+- OO Python
+- Hackers and Painters
+- failure
+- The Design of Design
+- Coder Dojo
+- teaching
 title: Those who can...
-categories:
-- Commentary
 ---
+
 
 I was digesting "[The Design of Design](http://www.amazon.co.uk/Design-Essays-Computer-Scientist/dp/0201362988)" by Fred Brooks as a bit of holiday reading, which talks in great depth about the nature of [technical](http://www.cs.unc.edu/~brooks/DesignofDesign/experiences.html) and [architectural](http://www.cs.unc.edu/~brooks/DesignofDesign/kitchen_design_notes.pdf) design from a practical perspective, and it made me thinking about my own experience and the "future" of that experience. Blessing or curse, due to my inability to say no and (publically) boundless <del>patience</del> exploration of a range of areas, in technology, security, academia, business, and society; several people have made flippant, off the cuff comments about some form of predicted success, usually financial or technical.
 

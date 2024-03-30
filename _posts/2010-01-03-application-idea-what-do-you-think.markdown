@@ -1,23 +1,45 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-01-03 20:18:55+00:00
 layout: post
 slug: application-idea-what-do-you-think
-title: 'Application Idea: What do you think?'
-categories:
-- Instructional
 tags:
-- android
-- blackberry
-- cell
-- Embedded
-- hardware
-- iphone
+- MySQL server
+- oss development
+- XML
+- Trac page
 - mobile
+- android api
+- new years resolutions
+- hardware
+- blackberry
+- iphone
+- data aggregation
 - networking
+- GPS coordinates
+- reception maps
+- open formats
+- web service
+- Embedded
+- mobile application
+- RF propagation modelling
+- cell
+- cell reception
+- blackberry api
+- licensing
+- android
+- service providers
+- RSSI
+- signal propagation
+- cross-platform
 - programming
+- iphone api
+title: 'Application Idea: What do you think?'
 ---
+
 
 As part of the whole [New Years Resolutions]({{ BASE_PATH }}/2009/12/new-years-resolutions/) plan, I'm gonna get started on the OSS development thing.
 

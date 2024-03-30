@@ -1,13 +1,21 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-03-03 06:11:29+00:00
 layout: post
 slug: shared-items-03032010
+tags:
+- Wordpress
+- Data Recovery
+- Exploit
+- Technology
+- Wi-Fi
+- Theme Design
 title: Shared Items - 03/03/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Recovering Data From Noise](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/q7OaINRogxI/Recovering-Data-From-Noise)
   

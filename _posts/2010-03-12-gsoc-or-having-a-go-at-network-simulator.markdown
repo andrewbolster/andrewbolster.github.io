@@ -1,20 +1,36 @@
 ---
 author: admin
+categories:
+- Uni
 comments: true
 date: 2010-03-12 15:03:03+00:00
 layout: post
 slug: gsoc-or-having-a-go-at-network-simulator
-title: GSOC or Having a go at Network Simulator
-categories:
-- Uni
 tags:
-- gsoc
-- linux
-- networking
+- university
+- virtualisation
+- debian
+- project
+- configuration
+- x.org
 - ns
-- oss
+- dissertation
+- networking
+- gsoc
+- kde
+- apache
+- drupal
+- network simulator
+- linux
+- summer of code
+- ubuntu
+- installation
 - programming
+- ns-3
+- oss
+title: GSOC or Having a go at Network Simulator
 ---
+
 
 I had been looking at this years [Google Summer Of Code](http://code.google.com/soc/) google [group ](http://groups.google.com/group/google-summer-of-code-discuss)and saw the[ list of  organisations](http://spreadsheets.google.com/pub?key=t-XzUSGaMoJIM9lPmCMVezA&output=html) that are getting involved. While i was alooking at it, I knew i didn't want to even consider the big boys (I'm looking at you, [Debian](http://debian-community.org/planets/), [Drupal](http://drupal.org/contributors-guide), [KDE](http://www.kdedevelopers.org/), [Apache](http://www.apache.org/dev/), [X.Org](http://wiki.x.org/wiki/ModularDevelopersGuide), etc), they're too big to get my teeth into, and I'm currently in the throws of 'WHAT THE HELL AM I GOING TO DO MY FINAL YEAR PROJECT ON!!! ' (For any Americans, that means 'dissertation').
 

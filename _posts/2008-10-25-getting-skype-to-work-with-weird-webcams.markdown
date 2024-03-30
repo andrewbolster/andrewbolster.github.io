@@ -1,20 +1,27 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: false
 date: 2008-10-25 21:45:00+00:00
 layout: post
 slug: getting-skype-to-work-with-weird-webcams
-title: Getting Skype to work with weird webcams.
-categories:
-- Instructional
 tags:
-- '8.10'
-- cheese
-- linux
-- skype
 - Ubuntu
+- linux
+- jaunty
+- lib32v4l-0
+- lib32v4l-dev
+- cheese
+- v4l1
+- '8.10'
+- ubuntu
 - webcam
+- skype
+- v4l2
+title: Getting Skype to work with weird webcams.
 ---
+
 
 I'll keep this as informative.
 If your webcam works in ubuntu (I'm running the 8.10 RC atm, fantastic btw) under cheese but not with skype, I did a bit of digging and cheese uses v4l2 (the 'new' webcam api) which inherently screws up skype that uses v4l1.

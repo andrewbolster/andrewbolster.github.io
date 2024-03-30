@@ -1,20 +1,23 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-04-17 21:13:04+00:00
 layout: post
 slug: add-a-twitter-anywhere-hovercard-to-links-containing-tweeps
-title: Add a Twitter @anywhere hovercard to links containing tweeps
-categories:
-- Instructional
 tags:
-- anywhere
-- blog
 - code
+- blog
+- anywhere
 - design
-- javascript
 - twitter
+- hovercards
+- javascript
+- web development
+title: Add a Twitter @anywhere hovercard to links containing tweeps
 ---
+
 
 Everyone and their dog has a walkthrough of adding @anywhere hovercards to your blog. But the default has a small failing that irked me when I was re-doing my Blogroll (check them out, they're all great! I promise!), and that was that if you take a tweep, like @god for example, it'll happily wrap the hovercard around it, but if you have a link to this [great status that @god posted](http://twitter.com/god/status/11603782129), @anywhere won't pick this @god up.
 

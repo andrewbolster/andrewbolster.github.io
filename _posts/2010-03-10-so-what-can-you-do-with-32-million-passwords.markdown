@@ -1,19 +1,31 @@
 ---
 author: admin
+categories:
+- Uni
 comments: true
 date: 2010-03-10 09:49:40+00:00
 layout: post
 slug: so-what-can-you-do-with-32-million-passwords
-title: So what can you do with 32 Million Passwords...
-categories:
-- Uni
 tags:
-- eee
 - linux
+- cybersecurity
+- education
+- passwords
+- eee
 - networking
+- information security
+- password security
+- password cracking
+- data breaches
+- CS module
 - qub
+- University Belfast
+- coursework
+- SQL injection
 - security
+title: So what can you do with 32 Million Passwords...
 ---
+
 
 So I have a piece of coursework for a [CS module](http://www.qub.ac.uk/schools/eeecs/Education/Undergraduates/ModuleSummaries/ModuleInformation/?CrsCode=CSC3048) I'm taking at [Queen's University Belfast](http://www.qub.ac.uk/schools/eeecs/) and one of the focal points of it is the recent [RockYou! SQL-injection breach](http://techcrunch.com/2009/12/14/rockyou-hack-security-myspace-facebook-passwords/) that released 32million passwords into the internet, and I thought I'd have a closer look at that list.
 

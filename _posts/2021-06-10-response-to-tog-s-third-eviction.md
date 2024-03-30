@@ -1,9 +1,27 @@
 ---
-layout: post
-title: Response to TOG's Third Eviction
-tags: rant hackerspace tog farsetlabs twitter funding community
 date: 2021-06-10 13:18 +0100
+layout: post
+tags:
+- technology
+- STEAM
+- startup
+- tog
+- volunteer-run
+- developers
+- co-working space
+- hackerspace
+- twitter
+- rant
+- NI
+- charity
+- farsetlabs
+- community
+- rant hackerspace tog farsetlabs twitter funding community
+- funding
+- Dublin
+title: Response to TOG's Third Eviction
 ---
+
 > _This is a condensed version of a twitter thread in response to [@silverSpoon](https://twitter.com/silverSpoon) asking about how Farset Labs would comment on recent news of Dublins hackerspace ([TOG](https://www.tog.ie/)) being [uncerimoniously turfed out of their third home](https://www.independent.ie/regionals/dublin/southside/life/there-should-be-space-for-community-groups-that-are-more-than-just-gaa-clubs-40502887.html) thanks to developers just wanting to flip sites_
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Agreed, and it shouldn&#39;t be down to companies to fill up the gap. <a href="https://t.co/Np46Znn3xH">https://t.co/Np46Znn3xH</a></p>&mdash; Andrea (@silverSpoon) <a href="https://twitter.com/silverSpoon/status/1402231908457648134?ref_src=twsrc%5Etfw">June 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

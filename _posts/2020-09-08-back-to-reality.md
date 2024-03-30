@@ -1,9 +1,28 @@
 ---
-layout: post_toc
-title: Back to reality
-tags: farset, travel, personal, weeknotes, covid,
 date: 2020-09-08 16:22 +0100
+layout: post_toc
+tags:
+- renovation
+- technology
+- workspace
+- podcast
+- journaling
+- data science
+- pandemic
+- lockdown
+- workshop
+- events
+- travel
+- farset
+- community
+- blogging
+- weeknotes
+- covid
+- personal
+- covid,
+title: Back to reality
 ---
+
 Realised it'd been a while, thought it was time for an update. I'm gonna try and make an effort to get closer to an ideal of something like #weeknotes as I've always been jealous of [Adrian's](http://www.mcqn.net/mcfilter/) ability to put this thoughts down and get them out the door in a sensible way... 
 
 Anyway, use the Table of Contents above to skip to bits you may care about.

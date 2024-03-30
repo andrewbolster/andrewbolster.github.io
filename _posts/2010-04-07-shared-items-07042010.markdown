@@ -1,13 +1,25 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-04-07 05:09:35+00:00
 layout: post
 slug: shared-items-07042010
+tags:
+- Blogs
+- Apps
+- Memory Management
+- Coding
+- Web Design
+- Self Improvement
+- Google Ad Innovations
+- WordPress
+- Privacy
+- Engineering
 title: Shared Items - 07/04/2010
-categories:
-- Link-Roll
 ---
+
 
   * [50 Top Engineering Blogs](http://feedproxy.google.com/~r/Zencollegelife/~3/xztd-OTwA3I/)
   

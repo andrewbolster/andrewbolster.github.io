@@ -1,20 +1,27 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: false
 date: 2008-11-06 19:20:00+00:00
 layout: post
 slug: mbwe-fuel-gauge-speedometer-conversion
-title: MBWE Fuel Gauge -> Speedometer conversion
-categories:
-- Instructional
 tags:
-- bash
 - code
-- hardware
 - linux
+- bash
+- cronjob
+- scripting
+- speedometer
+- MBWE
 - MyBook
+- disk usage
 - programming
+- hardware
+- LEDs
+title: MBWE Fuel Gauge -> Speedometer conversion
 ---
+
 
 The Fuel gauge on the front of my MBWE is fairly useless, noone cares, so why not repurpose it as a speedometer?
 

@@ -1,10 +1,26 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "So, what is it you do again?"
-description: ""
-category: ""
-tags: []
+tags:
+- Trust Management Frameworks
+- Cross Domain Trust Framework
+- University of Liverpool
+- Physical Behavior Analysis
+- Node Relationships
+- Autonomous Systems
+- PhD Research
+- Artificial Intelligence
+- Multi-Vector Trust Management
+- Multi Parameter Trust
+- Communications Behavior Analysis
+- Network Security
+- Node Behavior Detection
+- Collaborative Autonomy
+- Decentralised Trust Management
+title: So, what is it you do again?
 ---
+
 {% include JB/setup %}
 
 _Update:_ I got asked to do a simplified version of this post for the University of Liverpool, it lives [here](http://news.liv.ac.uk/2014/06/02/becoming-an-expert-andrew-bolster-on-suspicious-submarines/) ([Backup](/uploads/2014/becominganexpert.pdf))

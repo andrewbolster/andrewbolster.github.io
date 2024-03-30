@@ -1,22 +1,30 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2008-05-11 01:12:00+00:00
 layout: post
 slug: update
-title: Update
-categories:
-- Commentary
 tags:
+- Ubuntu
+- Linux
+- Job Hunting
+- Ireland
+- Upgrade
+- Firefox
+- Memory Management
+- Hardy Heron
+- Ericsson
+- Examination
+- Red Hat
+- Tech
+- Software Compatibility
 - 64-bit
 - '8.04'
-- Ericsson
-- Firefox
-- Hardy Heron
-- Ireland
-- Red Hat
-- Ubuntu
+title: Update
 ---
+
 
 Yeah, suprise suprise, I'm actually gonna try and keep this up.
 

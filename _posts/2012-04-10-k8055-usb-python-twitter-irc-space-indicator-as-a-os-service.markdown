@@ -1,19 +1,30 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2012-04-10 17:52:11+00:00
 layout: post
 slug: k8055-usb-python-twitter-irc-space-indicator-as-a-os-service
-title: 'K8055 USB + Python + Twitter + IRC: Space Indicator as a OS Service'
-categories:
-- Instructional
 tags:
-- farsetlabs
+- upstart
+- velleman
 - irc
 - k8055
 - python
+- scripting
+- service installation
+- Ubuntu Upstart
+- interface board
 - twitter
+- OAuth2
+- python wrappers
+- ubuntu
+- farsetlabs
+- usb
+title: 'K8055 USB + Python + Twitter + IRC: Space Indicator as a OS Service'
 ---
+
 
 [caption id="attachment_768" align="alignright" width="231" caption="Big Red Button, Does what it says on the tin"][![]({{ BASE_PATH}}/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)]({{ BASE_PATH}}/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)[/caption]
 

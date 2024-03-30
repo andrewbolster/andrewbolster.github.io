@@ -1,8 +1,15 @@
 ---
-layout: post
-title: Generative Adversarial Procrastination
 date: 2021-11-26 15:07 +0000
+layout: post
+tags:
+- Data Science
+- Productivity
+- Task Management
+- Procrastination
+- Machine Learning
+title: Generative Adversarial Procrastination
 ---
+
 _TL:DR "Don't worry about being a procrastinator, just make sure that your procrastinations are worthwhile."_
 
 There's an implicit irony in this post that I've been thinking / talking about writing it for at least 6 months, and it finally came down to a [tweet](https://twitter.com/Bolster/status/1464233419714568198?s=20) to force me to do it.

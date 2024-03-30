@@ -1,19 +1,28 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2011-02-12 18:21:53+00:00
 layout: post
 slug: bolsters-code-related-rants-an-ongoing-collection
-title: Bolsters Code-Related Rants (An ongoing collection)
-categories:
-- Commentary
 tags:
 - code
 - development
+- version control
+- info
+- file management
+- versioncontrol
 - progamming
 - rant
-- versioncontrol
+- debug
+- warn
+- logging
+- branching
+- error
+title: Bolsters Code-Related Rants (An ongoing collection)
 ---
+
 
 ![FFFFFFUUUUUUUU](http://kissmyalas.com/wp-content/uploads/2010/05/RageFace.jpg)
 

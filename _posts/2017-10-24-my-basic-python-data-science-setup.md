@@ -1,7 +1,26 @@
 ---
 layout: post
+tags:
+- Virtual Environment
+- Matplotlib
+- Data Science
+- Jupyter
+- Cufflinks
+- Pandas
+- Plotly
+- NumPy
+- Markdown
+- Anaconda
+- SciPy
+- Data Visualization
+- Seaborn
+- R Programming
+- Data Analysis
+- Python
+- RISE
 title: My Basic (Python) Data Science Setup
 ---
+
 
 After last weeks [return to posting](), I thought it was time to do something vaguely useful (and actually talk about it) so I'm tidying up a few meetup sessions I've presented at into a series of Basic Data Science (with Python) posts. This is the first one and covers my Python environment, the Jupyter notebook environments I use for analysis, and some  on the Plot.ly graphs and RISE / Reveal.js methods I use to turn those notebooks into presentations. 
 

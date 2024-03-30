@@ -1,16 +1,26 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2009-01-03 19:34:36+00:00
 layout: post
 slug: big-move
-title: Big Move
-categories:
-- Commentary
 tags:
-- hardware
+- technology
+- XBox 360
+- new year deal
+- domain
 - xbox
+- Lifehacker
+- personal
+- DreamHost
+- hardware
+- gaming
+- My Book World Edition
+title: Big Move
 ---
+
 
 Well, I've finally joined the washed masses in actually having my own domain. Lovely new years deal from DreamHost. 10 bucks for 2 years, brilliant. Thanks [Lifehacker](http://lifehacker.com)
 

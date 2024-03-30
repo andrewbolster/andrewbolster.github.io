@@ -1,16 +1,35 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2009-05-13 01:01:46+00:00
 layout: post
 slug: staggering-unproductivity
-title: Staggering Unproductivity
-categories:
-- Commentary
 tags:
-- career
+- Ubuntu
+- Virtual Machine
 - Ericsson
+- Stability
+- VirtualBox
+- ThinkPad X61s
+- partner
+- graduation
+- Windows Vista
+- Scala
+- 21st birthday
+- development
+- Ian Clarke
+- Java
+- career
+- dual booting
+- Swarm project
+- Networking
+- programming
+- NJ
+title: Staggering Unproductivity
 ---
+
 
 I must apologise for my lack of activity on the blog, but more is coming.
 

@@ -1,8 +1,17 @@
 ---
-layout: post
-title: UUIDs and You
 date: 2021-11-10 18:00 +0000
+layout: post
+tags:
+- Database Architecture
+- Entity Identification
+- UUID
+- Performance Optimization
+- Web Development
+- Microservices
+- Data Storage
+title: UUIDs and You
 ---
+
 > The guts of this document was originally created as part of my work at NTT Application Security stripped of its specificity and retained for my own reference. 
 
 ## Background
@@ -30,7 +39,39 @@ Universally Unique Identifiers ([UUIDs](https://en.wikipedia.org/wiki/Universall
 There are a range of UUID generation types, summarised below (v1-5 based on [RFC4122](https://www.rfc-editor.org/rfc/inline-errata/rfc4122.html)
 
 | Version | Description                                  | Usecase                                            |
-| ------- | -------------------------------------------- | -------------------------------------------------- |
+| ---
+---
+- | ---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+-- | ---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+-- |
 | 1       | Date Time (100ns) + MAC address              | Basically guaranteed uniqueness between nodes      |
 | 2       | Date Time (7min) + MAC + Namespace/Domain ID | Security (but pretty useless)                      |
 | 3/5     | Namespace + Name + Hash (MD5/SHA1)           | Actively designed to enable “same uuid generation” |

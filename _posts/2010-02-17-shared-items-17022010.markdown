@@ -1,13 +1,22 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-02-17 06:06:25+00:00
 layout: post
 slug: shared-items-17022010
+tags:
+- Presentations
+- Kernel Security Updates
+- Patents
+- Ubuntu 9.10
+- Government
+- Ksplice Uptrack
+- Student Fees
 title: Shared Items - 17/02/2010
-categories:
-- Link-Roll
 ---
+
 
   * [A Screw-In Coffin is Clever and Economical [Patents]](http://feeds.gawker.com/~r/gizmodo/full/~3/1q-6FCFQ6-w/a-screw+in-coffin-is-clever-and-economical)
   

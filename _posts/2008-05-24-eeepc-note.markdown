@@ -1,23 +1,29 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2008-05-24 12:06:00+00:00
 layout: post
 slug: eeepc-note
-title: EEEpc note
-categories:
-- Commentary
 tags:
-- '8.04'
+- Ubuntu
 - Aircrack
-- eee
+- linux
+- Linux
 - GPS
+- Eee
+- eee
+- Webcam
 - Hardy Heron
 - Kismet
-- linux
-- Ubuntu
 - Wireless
+- Dual Boot
+- Battery Life
+- '8.04'
+title: EEEpc note
 ---
+
 
 Ok, got the 900, sorry this blog is very very late
 

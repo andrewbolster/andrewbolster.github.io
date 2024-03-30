@@ -1,21 +1,30 @@
 ---
 author: admin
+categories:
+- Commentary
+- Instructional
 comments: false
 date: 2009-02-15 20:05:33+00:00
 layout: post
 slug: hacking-weekend
-title: Hacking Weekend
-categories:
-- Commentary
-- Instructional
 tags:
+- packet capture
 - Aircrack
-- desktop
 - linux
-- remote
-- software
+- wesside-ng
+- Backtrack 4
+- WEP
+- desktop
+- airodump-ng
+- arp attacks
+- subversion
 - Wireless
+- remote
+- aireplay-ng
+- software
+title: Hacking Weekend
 ---
+
 
 So, I've been experimenting over the weekend with [Backtrack 4](http://www.remote-exploit.org/backtrack_download.html). My... Lord....
 

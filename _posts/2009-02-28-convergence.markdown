@@ -1,17 +1,24 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2009-02-28 18:08:38+00:00
 layout: post
 slug: convergence
-title: Convergence
-categories:
-- Commentary
 tags:
-- desktop
+- LinkedIn
+- Facebook
+- social media
 - networking
+- desktop
+- business
+- Twitter
 - software
+- personal
+title: Convergence
 ---
+
 
 So, I've made the plunge and am determined to catch up on everything I've left behind the past couple of years.
 
