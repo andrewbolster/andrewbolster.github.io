@@ -1,8 +1,16 @@
 ---
-layout: post
-title: Merging Git Repos for Archival Purposes
 date: 2020-06-23 14:32 +0100
+layout: post
+tags:
+- repository
+- bash
+- scripting
+- version-control
+- archival
+- git
+title: Merging Git Repos for Archival Purposes
 ---
+
 
 # TL;DR
 

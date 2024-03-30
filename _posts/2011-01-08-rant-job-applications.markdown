@@ -1,19 +1,24 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2011-01-08 14:44:03+00:00
 layout: post
 slug: rant-job-applications
-title: 'Rant: Job Applications'
-categories:
-- Commentary
 tags:
+- LinkedIn
+- assessment_test
 - career
-- economy
+- job_application
 - finance
-- personal
 - rant
+- economy
+- personal
+- data_management
+title: 'Rant: Job Applications'
 ---
+
 
 Inspired by [Barry Haughey's](http://www.facebook.com/profile.php?id=533924992) recent facebook post;
 

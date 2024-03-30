@@ -1,10 +1,18 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "IPython Websocket Failure on Chrome"
-description: ""
-category: ""
-tags: []
+tags:
+- WebSocket
+- Chrome
+- IPython Notebook
+- Linux Mint
+- IPython setup
+- Chrome troubleshooting
+- IPython
+title: IPython Websocket Failure on Chrome
 ---
+
 {% include JB/setup %}
 
 [IPython](http://ipython.org/) is an amazing tool, and in particular [IPython Notebook](http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/Notebook/Index.ipynb), which is easily the best 'python scratch-pad' I've ever used.

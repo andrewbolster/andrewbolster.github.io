@@ -1,18 +1,22 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-04-12 17:38:45+00:00
 layout: post
 slug: us-confirm-status-as-acta-transparancy-stopping-block
-title: US confirm status as ACTA transparancy stopping block
-categories:
-- Commentary
 tags:
-- acta
-- personal
 - privacy
+- acta
+- trade agreement
+- negotiations
+- intellectual property rights
+- personal
 - security
+title: US confirm status as ACTA transparancy stopping block
 ---
+
 
 > "In this upcoming round of ACTA negotiations, the U.S. delegation will be working with other delegations to resolve some fundamental issues, such as the scope of the intellectual property rights that are the focus of this agreement.  Progress is necessary so that we can prepare to release a text that will provide meaningful information to the public and be a basis for productive dialogue.  We hope that enough progress is made in New Zealand in clearing brackets from the text so that participants can be in a position to reach a consensus on sharing a meaningful text with the public."
 

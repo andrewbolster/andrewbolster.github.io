@@ -1,10 +1,25 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "Return of the Beard"
-description: ""
-category: ""
-tags: []
+tags:
+- achievements
+- University of Liverpool
+- work experience
+- future plans
+- academic conferences
+- networking
+- reflective post
+- professional development
+- technology events
+- friendship
+- personal journey
+- travel experiences
+- public speaking
+- social events
+title: Return of the Beard
 ---
+
 {% include JB/setup %}
 
 So today is my last official day in the University of Liverpool office. Time for a bit of reflection.

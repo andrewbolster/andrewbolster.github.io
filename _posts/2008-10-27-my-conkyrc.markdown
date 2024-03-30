@@ -1,18 +1,32 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: false
 date: 2008-10-27 19:15:00+00:00
 layout: post
 slug: my-conkyrc
-title: My conkyrc
-categories:
-- Instructional
 tags:
-- conky
-- lifehacker
-- linux
 - Ubuntu
+- network speed
+- linux
+- Folding@Home
+- RAM usage
+- conky
+- gmail
+- weather
+- system monitoring
+- HDDtemp
+- uptime
+- CPU load
+- automation
+- SSH authentication
+- lifehacker
+- Transmission
+- ToDo list
+title: My conkyrc
 ---
+
 
 Contents (what you get out of this)  
 Weather, HDDtemp, UL/DL speed and cumulative meters, CPU load, Folding@Home status, Remote transmission download status (could be local, easy change), gmail status, RAM usage, Uptime, Date/Time, ToDo list  

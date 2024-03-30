@@ -1,17 +1,23 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2009-03-03 18:46:14+00:00
 layout: post
 slug: on-education-and-employability
-title: On Education and Employability
-categories:
-- Commentary
 tags:
 - career
+- employability
 - Education
+- education
+- online presence
 - networking
+- professional development
+- personal branding
+title: On Education and Employability
 ---
+
 
 Yeah, i know, "What does a guy who hasnt even graduated yet and is in a placement job have to say about education and employability?", and usually i would agree with the sentiment. But the times they are a-changing.
 

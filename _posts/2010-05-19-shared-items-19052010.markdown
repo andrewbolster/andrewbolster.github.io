@@ -1,13 +1,20 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-05-19 05:03:27+00:00
 layout: post
 slug: shared-items-19052010
+tags:
+- Data Science
+- Technology
+- Visualization
+- Programming
+- Mathematics
 title: Shared Items - 19/05/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Illustrated Guide Explains Your Mind's Decision Biases [Mind Hacks]](http://feeds.gawker.com/~r/lifehacker/full/~3/alt6HGqo4V8/illustrated-guide-explains-your-minds-decision-biases)
   

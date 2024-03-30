@@ -1,12 +1,22 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "Data Wrangling for UK Internet Usage"
-description: ""
-category: ""
 tags:
-    - python
-    - notebook
+- internet use
+- data visualization
+- python
+- blog post
+- statistics
+- notebook
+- UK
+- data wrangling
+- data analysis
+- regional data
+- digital literacy
+title: Data Wrangling for UK Internet Usage
 ---
+
 {% include JB/setup %}
 This post is a little different from my usual fare;
 

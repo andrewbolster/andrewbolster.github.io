@@ -1,10 +1,19 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "Generating a unit 3 vector in Python (Uniform Spherical Projection)"
-description: ""
-category: ""
-tags: []
+tags:
+- spherical surface
+- PhD work
+- numpy
+- random walk
+- behaviours
+- StackOverflow
+- virtual submarines
+- Python
+title: Generating a unit 3 vector in Python (Uniform Spherical Projection)
 ---
+
 {% include JB/setup %}
 
 Quick one more as a reminder to me than anything else. 

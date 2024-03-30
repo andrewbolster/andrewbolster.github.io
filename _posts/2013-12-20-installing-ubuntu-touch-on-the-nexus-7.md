@@ -1,10 +1,21 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "Installing Ubuntu Touch on the Nexus 7"
-description: ""
-category: ""
-tags: []
+tags:
+- Ubuntu
+- rooting
+- backing up
+- mobile
+- Cyanogenmod
+- Canonical
+- phablet-flash
+- Ubuntu Touch
+- USB debugging
+- documentation
+title: Installing Ubuntu Touch on the Nexus 7
 ---
+
 {% include JB/setup %}
 
 

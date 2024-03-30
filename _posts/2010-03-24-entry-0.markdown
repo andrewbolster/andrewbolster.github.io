@@ -1,13 +1,18 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-03-24 12:35:22+00:00
 layout: post
 slug: entry-0
+tags:
+- Diary
+- Blogging
+- Personal
 title: Entry 0
-categories:
-- Commentary
 ---
+
 
 So in a continuing effort to be more productive, I'm segregating off a section of the blog for 'My Diary'.
 

@@ -1,19 +1,21 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-03-12 15:37:50+00:00
 layout: post
 slug: line-parsing-reminder-duplicate-removal
-title: Line Parsing Reminder (Duplicate removal)
-categories:
-- Instructional
 tags:
-- bash
 - code
 - linux
-- software
 - workstation
+- bash
+- shell scripting
+- software
+title: Line Parsing Reminder (Duplicate removal)
 ---
+
 
 So, say you have a long list of instruction (like multiple apt-get install lines) and you want to eliminate common words?
 

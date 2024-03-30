@@ -4,15 +4,19 @@ comments: false
 date: 2008-05-12 19:51:00+00:00
 layout: post
 slug: folding-code
-title: Folding Code
 tags:
-- bash
-- C
+- Ubuntu
 - folding
 - linux
+- bash
+- scripting
+- command-line
+- text-to-speech
+- C
 - programming
-- Ubuntu
+title: Folding Code
 ---
+
 
 I've been folding for a while now, and I'd previously written a really very cobbled together way of parsing my unitinfo.txt files, but, searching for something to do other than revise, I've written a similarly cobbled together but much shorter way of parsing my folding progress and telling me (as in speech) how far its going.  
   

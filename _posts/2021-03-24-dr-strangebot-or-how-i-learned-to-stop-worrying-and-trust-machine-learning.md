@@ -1,8 +1,17 @@
 ---
-layout: post
-title: 'Dr StrangeBot: Or How I Learned to Stop Worrying and Trust Machine Learning'
 date: 2021-03-24 06:06 +0000
+layout: post
+tags:
+- Cybersecurity
+- Data Science
+- WhiteHat Security
+- Machine Learning
+- AI
+- Artificial Intelligence
+- Big Data
+title: 'Dr StrangeBot: Or How I Learned to Stop Worrying and Trust Machine Learning'
 ---
+
 > This post was originally published as part of my role at WhiteHat Security
 > Links have been added for context/comedy/my own entertainment, but no content has been modified
 

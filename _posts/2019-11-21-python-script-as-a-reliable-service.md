@@ -1,8 +1,16 @@
 ---
-layout: post
-title: Python Script as a Reliable Service
 date: 2019-11-21 14:09 +0000
+layout: post
+tags:
+- Systemd
+- Logging
+- Python
+- Error Handling
+- Network Connection
+- Raspberry Pi
+title: Python Script as a Reliable Service
 ---
+
 
 > I was asked to help out a friend who had an installation in an art gallery that stopped booting properly, and was reminded that I keep forgetting to actually write this post. 
 

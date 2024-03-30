@@ -1,18 +1,48 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-07-17 17:42:11+00:00
 layout: post
 slug: belfast_hackerspac
-title: Belfast Hackerspace Anyone?
-categories:
-- Commentary
 tags:
-- Hackerspaces
-- hacking
-- social
+- experimentation
 - TheNextHope
+- collaboration
+- creative
+- Belfast
+- Facebook Group
+- community
+- independent
+- hacking
+- technology
+- Google Group
+- Hackerspaces
+- industrial
+- not-for-profit
+- knitters
+- makers
+- sponsored
+- carpenters
+- innovation
+- Londonderry
+- musicians
+- creativity
+- meetup
+- artist
+- tinkerers
+- technical
+- Ireland
+- Open Source
+- academic
+- excellence
+- social
+- machinists
+- hacktivism
+title: Belfast Hackerspace Anyone?
 ---
+
 
 Contrary to popular belief, the concept of a '[hacker](http://en.wikipedia.org/wiki/Hacker)' (or at least self described ones) has very little to do with coding and networking wizards pounding through systems and stealing valuable information or just destroying everything they touch. In fact, Google (and Princeton University's) first definition of the word has more to do with Golf than security (try it by googling ["define:hacker"](http://www.google.com/search?q=define:hacker)).
 

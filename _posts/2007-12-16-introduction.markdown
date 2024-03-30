@@ -4,15 +4,31 @@ comments: false
 date: 2007-12-16 23:34:00+00:00
 layout: post
 slug: introduction
-title: Introduction
 tags:
-- 64-bit
+- Ubuntu
+- technical musings
+- WinXP
+- Athena
 - hardware
-- linux
-- software
-- Uni
+- Electronics
+- GeForce
+- experiments
+- Software Engineering
 - windows
+- Uni
+- AMD
+- Apollo
+- 64-bit
+- Queens University Belfast
+- linux
+- Celeron
+- VMWare
+- Hermes
+- software
+- Semperon
+title: Introduction
 ---
+
 
 So.... I'm Andrew, I'm a technical person, and I'm gonna use this blog to post out some of my technical musings and little experiments.
 

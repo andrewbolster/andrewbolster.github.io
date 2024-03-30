@@ -1,26 +1,34 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2011-08-04 09:00:15+00:00
 layout: post
 slug: best-description-of-northern-ireland-ive-heard-yet
-title: Best Description of Northern Ireland I've heard yet
-categories:
-- Commentary
 tags:
+- uda
+- religion
+- history
+- unionist
+- independence
+- British history
 - ira
+- reddit
+- uff
+- paramilitaries
+- uvf
+- colonialism
+- politics
+- religious conflict
 - Ireland
 - northern ireland
-- politics
-- reddit
-- religion
 - republican
+- propaganda
 - terrorism
-- uda
-- uff
-- unionist
-- uvf
+title: Best Description of Northern Ireland I've heard yet
 ---
+
 
 [![Easter Rising-era Propaganda Postcard]({{ BASE_PATH}}/uploads/2011/08/gal03-181x300.jpg)](http://www.bbc.co.uk/history/british/easterrising/gallery/gallery03.shtml)Northern Ireland, its history, and its current situation, are a guaranteed topic of conversation to any self-identifying Northern Irishman, especially one travelling around Europe. As I am neither a historian, a bigot, or particularly political, I don't know a whole pile of detail, so my explanations become rambling personal perspectives which I generally suspect make things less-clear; otherwise I dumb it down so much that the point is kinda mixed, usually ending something like 'its weird; its British, but we get to be Irish too, except without being quite so broke'. 
 
@@ -49,7 +57,8 @@ As a small adjoinder, I feel that this comment/correction is also appropriate.
 
 > They're all murdering scumbags.
 
-<---- Northern Irish ex-pat
+<---
+- Northern Irish ex-pat
 
 **[Atothel](http://www.reddit.com/user/atothel)**
 

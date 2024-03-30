@@ -1,8 +1,35 @@
 ---
 layout: post
+tags:
+- business case
+- collaboration
+- learning resources
+- hardware
+- funding
+- presentation
+- technology
+- education
+- computer labs
+- workshops
+- hackaday
+- community education
+- talk
+- hackerspace
+- speaking
+- technology access
+- farset labs
+- social impact
+- dublin
+- laptops
+- user account management
+- community groups
+- nonprofits
+- outreach
+- socially accessible computing
+- open source
 title: 'Hackaday Unconf Dublin Talk: Socially Accessible Computing'
-tags: farset labs outreach education funding hardware speaking presentation 	talk dublin hackaday
 ---
+
 
 ## Intro
 

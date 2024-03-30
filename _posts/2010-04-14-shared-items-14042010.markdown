@@ -1,13 +1,34 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-04-14 05:22:12+00:00
 layout: post
 slug: shared-items-14042010
+tags:
+- QR Codes
+- Intel
+- To-Do List
+- Code Snippets
+- Business Cards
+- WordPress
+- Word Clouds
+- WordPress Security
+- SEO
+- Bacula Bweb
+- Ubuntu Server
+- Branding
+- Banner Advertisements
+- Productivity
+- Technology
+- Google Chrome
+- Technology News
+- Video Download
+- Web Tools
 title: Shared Items - 14/04/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Ubuntu Server 9.04 Bacula Bweb GUI](http://www.howtoforge.com/ubuntu-server-9.04-bacula-bweb-gui)
   

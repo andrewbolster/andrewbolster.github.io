@@ -1,20 +1,27 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-02-26 16:23:45+00:00
 layout: post
 slug: would-have-been-an-introduction-to-google-adwords
-title: (Would have been) An introduction to Google Adwords
-categories:
-- Commentary
 tags:
+- online advertising
+- Google ads
 - advertising
-- adwords
+- digital marketing
+- coupon issues
+- billing problems
 - coupons
-- google
+- Google Adwords
 - grievances
 - marketing
+- google
+- adwords
+title: (Would have been) An introduction to Google Adwords
 ---
+
 
 So, I was going to do a complete walkthrough for people interested in using Google Adwords for advertising, and its something I was really looking forward to writing.
 

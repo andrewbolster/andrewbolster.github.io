@@ -1,13 +1,37 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2013-06-20 06:07:13+00:00
 layout: post
 slug: so-long-and-thanks-for-all-the-fish
+tags:
+- trust
+- collaboration
+- University of Liverpool
+- maritime
+- autonomous vehicles
+- UK
+- community
+- Farset Labs
+- Northern Ireland
+- DSTL
+- funding
+- Portsmouth
+- technology
+- NATO
+- directorship
+- move
+- innovation
+- DGA
+- PhD
+- Liverpool
+- France
+- research
 title: So long and thanks for all the fish
-categories:
-- Commentary
 ---
+
 
 I'm leaving Northern Ireland, and I'm moving to Liverpool. Via Portsmouth.
 

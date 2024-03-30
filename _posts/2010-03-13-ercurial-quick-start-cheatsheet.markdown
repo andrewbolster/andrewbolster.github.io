@@ -1,21 +1,27 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-03-13 12:24:47+00:00
 layout: post
 slug: ercurial-quick-start-cheatsheet
-title: Mercurial Quick Start Cheatsheet
-categories:
-- Instructional
 tags:
 - code
-- networking
-- ns
-- programming
-- software
 - Ubuntu
+- development
+- tutorial
 - version control
+- Unix
+- networking
+- source control
+- ns
+- software
+- Mercurial
+- programming
+title: Mercurial Quick Start Cheatsheet
 ---
+
 
 I hadn't used Mercurial before so I thought it might be a good idea to leave a reminder for me and anyone else who comes across it...
 

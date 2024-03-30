@@ -1,15 +1,25 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2008-10-06 12:40:00+00:00
 layout: post
 slug: links
-title: Links
-categories:
-- Commentary
 tags:
+- Academic Videos
+- Tutorials
+- Linux
+- Online Lecture
+- Cheat Sheets
+- Obsoletet
 - Uncategorized
+- Tech
+- Google Courses
+- SSH
+title: Links
 ---
+
 
 As Other Folks have been going in a GTD fashion, I'll be throwing useful websites and links into this post so my sievelike menory can cope with the multitude of things that come to my attention.
 

@@ -1,17 +1,24 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2011-09-29 19:48:37+00:00
 layout: post
 slug: through-the-drinking-glass
-title: Through The Drinking Glass
-categories:
-- Commentary
 tags:
+- card game
+- party game
 - drink
 - games
+- fun
+- social
 - personal
+- rules
+- drinking game
+title: Through The Drinking Glass
 ---
+
 
 Inspired by the drinking game 'Kings'
 

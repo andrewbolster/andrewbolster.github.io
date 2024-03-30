@@ -1,20 +1,23 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2013-07-02 11:17:16+00:00
 layout: post
 slug: qub-email-settings-that-actually-work
-title: QUB Email Settings that Actually Work
-categories:
-- Instructional
 tags:
-- Email
 - mail
+- email-configuration
+- email-setup
 - networking
-- qub
-- server
 - settings
+- server
+- Email
+- qub
+title: QUB Email Settings that Actually Work
 ---
+
 
 **UPDATE**
 I've long left QUB since this post was writted so as expected, IS have changed things again. If you're hitting this, head over to [Ryan McConville's updated instructions](https://ryanmcconville.com/blog/post/qub-email-settings/)

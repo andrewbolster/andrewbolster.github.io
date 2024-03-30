@@ -1,8 +1,16 @@
 ---
-layout: post
-title: Jupyter Environment Management for Dummies
 date: 2024-01-17 13:50 +0000
+layout: post
+tags:
+- Kernel Management
+- JupyterLab
+- Environment Setup
+- conda
+- Notebook
+- Python
+title: Jupyter Environment Management for Dummies
 ---
+
 This is another one of those "I kept googling the same thing over and over again" things that needed a post, except this time I made an [issue to make a post](https://github.com/andrewbolster/andrewbolster.github.io/issues/8) and then started to repeatedly refer to that. 
 
 ## TL;DR

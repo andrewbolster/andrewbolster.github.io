@@ -1,8 +1,19 @@
 ---
-layout: post
-title: Headless Pi Configuration with Multi-Wifi Remote Access
 date: 2020-02-17 15:28 +0000
+layout: post
+tags:
+- Reverse SSH tunnel
+- WiFi setup
+- SD card boot
+- Network scanning
+- System configuration
+- Headless setup
+- AutoSSH
+- Raspberry Pi
+- SSH setup
+title: Headless Pi Configuration with Multi-Wifi Remote Access
 ---
+
 Raspberry Pi's are great, but often have a lot of baggage associated with them, and I keep forgetting all the clever things you can do to get them up and running without having a sea of cables attached...
 
 # Results

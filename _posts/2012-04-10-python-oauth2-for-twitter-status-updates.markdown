@@ -1,18 +1,21 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2012-04-10 15:46:08+00:00
 layout: post
 slug: python-oauth2-for-twitter-status-updates
-title: Python + Oauth2 for Twitter Status Updates
-categories:
-- Instructional
 tags:
 - code
-- oauth2
 - python
+- social media
 - twitter
+- oauth2
+- web development
+title: Python + Oauth2 for Twitter Status Updates
 ---
+
 
 Working on the [Farset Labs](http://blog.farsetlabs.org.uk) Big Red Button for space occupancy, had to find a simple way to tweet a status. This is a post to remind myself and anyone else who has [dived](https://dev.twitter.com/docs/twitter-libraries#python) through hundreds of incorrect, out of date, or inapplicable examples of Oauth 2 with Twitter using a  pre-generated auth-token pair.
 

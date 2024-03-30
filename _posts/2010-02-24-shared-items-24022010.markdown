@@ -1,13 +1,25 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-02-24 06:09:49+00:00
 layout: post
 slug: shared-items-24022010
+tags:
+- Software Engineering
+- RFID
+- Researchers
+- Ad Serving
+- Geeks
+- Women
+- Pattern Matching
+- Tracking System
+- Bash
+- Engineering
 title: Shared Items - 24/02/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Nice process, but what about the engineering bits?](http://feedproxy.google.com/~r/AyendeRahien/~3/dKBYl-3LgBg/nice-process-but-what-about-the-engineering-bits.aspx)
   

@@ -1,21 +1,26 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-06-14 19:46:33+00:00
 layout: post
 slug: ongoing-cuda-work-aka-i-love-this-book
-title: Ongoing CUDA work, aka, I love this book.
-categories:
-- Commentary
 tags:
-- book
 - cuda
-- mpi
-- NVIDIA
 - parallel
-- programming
+- emulation mode
+- gpu
+- book
 - review
+- NVIDIA
+- parallel computing
+- Matrix Multiplication
+- mpi
+- programming
+title: Ongoing CUDA work, aka, I love this book.
 ---
+
 
 If anyone has any interest in [CUDA](http://en.wikipedia.org/wiki/CUDA), or [GPU](http://en.wikipedia.org/wiki/GPGPU)/[Parallel](http://en.wikipedia.org/wiki/Parallel%20computing) programming in general, [David B. Kirk](http://en.wikipedia.org/wiki/David%20Kirk%20%28scientist%29) and [Wen-mei Hwu](http://en.wikipedia.org/wiki/Wen-mei%20Hwu)'s groundbreaking "[Programming Massively Parallel Processors](http://www.amazon.com/gp/product/0123814723?tag=apture-20)" is a must.
 

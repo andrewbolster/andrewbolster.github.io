@@ -1,23 +1,25 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-04-01 16:51:01+00:00
 layout: post
 slug: mod_rewrite-in-apache2
-title: Mod_Rewrite in Apache2
-categories:
-- Instructional
 tags:
-- 64-bit
-- apache
 - code
-- linux
-- networking
-- programming
-- server
 - Ubuntu
+- linux
+- apache
+- mod_rewrite
 - web
+- networking
+- server
+- programming
+- 64-bit
+title: Mod_Rewrite in Apache2
 ---
+
 
 Just incase you forget how to fix this the easy way: Enable mod_rewrite for URL voodoo; (Or any module replacing the 
     

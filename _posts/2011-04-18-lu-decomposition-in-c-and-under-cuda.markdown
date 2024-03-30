@@ -1,20 +1,27 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2011-04-18 13:00:23+00:00
 layout: post
 slug: lu-decomposition-in-c-and-under-cuda
-title: LU Decomposition in C (and under CUDA)
-categories:
-- Instructional
 tags:
-- C
 - cuda
-- gpu
+- numerical stability
 - linalg
+- gpu
+- parallel processing
+- pivoting
 - Meng
+- C
+- dense matrix solver
+- LU Decomposition
+- linear systems
 - programming
+title: LU Decomposition in C (and under CUDA)
 ---
+
 
 As part of any major project, it occasionally happens that you assume something is a 'solved problem' when its really not.
 

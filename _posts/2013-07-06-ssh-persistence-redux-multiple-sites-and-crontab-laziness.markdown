@@ -1,19 +1,27 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2013-07-06 09:56:58+00:00
 layout: post
 slug: ssh-persistence-redux-multiple-sites-and-crontab-laziness
-title: 'SSH Persistence Redux: Multiple sites and Crontab Laziness'
-categories:
-- Instructional
 tags:
-- cron
-- networking
-- security
-- shell
+- Linux
+- autossh
 - ssh
+- networking
+- remote access
+- cron
+- service setup
+- reverse shell
+- persistent connection
+- shell
+- Raspberry Pi
+- security
+title: 'SSH Persistence Redux: Multiple sites and Crontab Laziness'
 ---
+
 
 Inspired by a pretty good [write](http://www.reddit.com/r/linux/comments/1ho90h/a_simple_call_home_function_for_a_rasberry_pi/) up by Cynofield as to his setup for getting a Raspberry Pi to "phone home", I thought I'd set out how I do it.
 

@@ -1,20 +1,27 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2012-04-10 17:08:44+00:00
 layout: post
 slug: python-irclib-for-irc-status-updates
-title: Python + irclib for IRC Status Updates
-categories:
-- Instructional
 tags:
+- Ubuntu
+- linux
+- irc
+- Code Example
+- python
+- irclib
+- Ubuntu Linux
+- IRC
 - farsetlabs
 - hackerspace
-- irc
-- linux
-- python
-- Ubuntu
+- Programming
+- Python
+title: Python + irclib for IRC Status Updates
 ---
+
 
 IRC, Python, Ubuntu linux. Simples!
 

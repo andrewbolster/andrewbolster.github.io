@@ -1,19 +1,25 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-04-24 11:16:51+00:00
 layout: post
 slug: ads-outside-the-box
-title: Ads Outside the Box?
-categories:
-- Commentary
 tags:
-- advertising
-- convergence
-- design
-- marketing
+- digital media
 - video
+- design
+- social media
+- future technology
+- gaming industry
+- marketing
+- gamification
+- convergence
+- advertising
+title: Ads Outside the Box?
 ---
+
 
 I cant for the life of me remember who it was who pointed this out on Twitter, either @cimota or @stuartgibson.
 

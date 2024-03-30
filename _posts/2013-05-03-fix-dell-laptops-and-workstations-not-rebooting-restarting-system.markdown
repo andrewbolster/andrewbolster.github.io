@@ -1,21 +1,27 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2013-05-03 08:14:50+00:00
 layout: post
 slug: fix-dell-laptops-and-workstations-not-rebooting-restarting-system
-title: 'Fix: Dell Laptops and workstations not rebooting ("Restarting System")'
-categories:
-- Instructional
 tags:
-- boot
-- bug
-- dell
-- fix
-- linux
-- reboot
 - Ubuntu
+- grub
+- linux
+- system
+- reboot
+- reboot=pci
+- dell
+- problem-solving
+- boot
+- kernel
+- bug
+- fix
+title: 'Fix: Dell Laptops and workstations not rebooting ("Restarting System")'
 ---
+
 
 Had an interesting if annoying problem recently that I assumed would just fix itself eventually. But when you're sick of prodding a power button to force a machine to reboot, you gotta do something.
 

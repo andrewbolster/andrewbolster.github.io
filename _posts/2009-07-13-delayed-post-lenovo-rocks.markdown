@@ -1,19 +1,30 @@
 ---
 author: admin
+categories:
+- Commentary
+- Instructional
 comments: false
 date: 2009-07-13 08:29:20+00:00
 layout: post
 slug: delayed-post-lenovo-rocks
-title: 'Delayed Post: LENOVO ROCKS'
-categories:
-- Commentary
-- Instructional
 tags:
-- hard drive
+- technology
+- Lenovo
 - HDD
-- laptop
 - lenovo
+- laptop
+- user experience
+- tech support
+- Lenovo Ireland
+- hard drive
+- product review
+- customer service
+- Google Analytics
+- hardware
+- replacement service
+title: 'Delayed Post: LENOVO ROCKS'
 ---
+
 
 I'll try and keep this as short and sweet as possible.
 

@@ -1,10 +1,20 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "Git Split Repository With Commit History"
-description: ""
-category: ""
-tags: []
+tags:
+- Development
+- Repository Management
+- Commit History
+- Version Control
+- Viva
+- Git
+- Thesis
+- Programming
+- Coding
+title: Git Split Repository With Commit History
 ---
+
 {% include JB/setup %}
 
 Thesis submitted, Viva cleared (with minor corrections) but this post isn't about all that...

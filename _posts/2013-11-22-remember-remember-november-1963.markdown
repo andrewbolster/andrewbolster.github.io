@@ -1,17 +1,31 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2013-11-22 13:50:22+00:00
 layout: post
 slug: remember-remember-november-1963
-title: Remember Remember ... November 1963?
-categories:
-- Commentary
 tags:
-- doing
-- personal
+- technology
+- Doctor Who
+- historical events
+- 1960s
+- Aldous Huxley
+- JFK
+- literature
 - rant
+- '1963'
+- doing
+- C.S. Lewis
+- world changing events
+- pop culture
+- 1960s culture
+- assassination
+- personal
+title: Remember Remember ... November 1963?
 ---
+
 
 Turns out that November 1963 was a pretty stupendous month all in all, in particular the couple of days (20-24) we're currently wading through.
 

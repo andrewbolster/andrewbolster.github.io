@@ -1,23 +1,40 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2011-10-17 11:42:01+00:00
 layout: post
 slug: todays-accomplishments-the-2-0-generation
-title: 'Today''s Accomplishments: The 2.0 Generation'
-categories:
-- Commentary
 tags:
-- finance
-- google
-- internet
-- Ireland
-- marketing
-- networking
-- rant
+- remote services
+- efficiency
+- NiftyNosh
+- Tesco
 - remote
+- technology
+- StackExchange
+- internet
+- literature review
+- Zopa
+- networking
+- finance
+- rant
+- groceries
+- internet-based services
+- online services
+- papers
 - services
+- investments
+- wine
+- PhD
+- Ireland
+- Occupy X
+- marketing
+- google
+title: 'Today''s Accomplishments: The 2.0 Generation'
 ---
+
 
 	
   * Ordered Groceries ([Tesco Online](http://www.tesco.com/groceries/)),
