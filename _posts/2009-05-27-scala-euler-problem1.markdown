@@ -1,17 +1,22 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2009-05-27 13:44:10+00:00
 layout: post
 slug: scala-euler-problem1
-title: Scala-Euler Problem1
-categories:
-- Commentary
 tags:
 - code
-- programming
+- algorithms
+- github
+- project-euler
 - scala
+- mathematics
+- programming
+title: Scala-Euler Problem1
 ---
+
 
 Finished my approach to [Euler Problem 1 ](http://projecteuler.net/index.php?section=problems&id=1)last night and checked everything into [github](http://github.com/andrewbolster/Scala-Euler/blob/bc53f88a481354e65370e68d317219e9839e60ea/src/euler/Problem1.scala).
 

@@ -1,19 +1,36 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-01-17 17:04:40+00:00
 layout: post
 slug: are-we-on-the-brink-of-war
-title: Are we on the brink of War?
-categories:
-- Commentary
 tags:
+- Adobe
+- hackers
+- China
+- RackSpace
+- vulnerability
 - hacking
-- networking
 - security
+- technology
+- cybersecurity
+- Symantec
+- networking
+- spyware
+- Northrop Grumman
+- phishing
+- Dow Chemical
+- Yahoo
+- information security
+- Google
+- data breach
 - software
 - terrorism
+title: Are we on the brink of War?
 ---
+
 
 Recent events in the cyber-security world have got me feeling paranoid. Between [Estonia](http://news.bbc.co.uk/1/hi/world/europe/6665195.stm), [Georgia](http://blogs.zdnet.com/security/?p=1670), and the [ever](http://timesofindia.indiatimes.com/China/Hackers-in-China-infiltrate-PCs-of-Dalai-Indian-embassy/articleshow/4330735.cms)-[increasing ](http://www.theage.com.au/news/security/hacking-for-china/2008/04/23/1208743025691.html)focus on [Chinese ](http://www.telegraph.co.uk/comment/6924710/China-will-soon-have-the-power-to-switch-off-the-lights-in-the-West.html)[cyber](http://online.wsj.com/article/SB10001424052748704675104575001382754823848.html)-[political](http://mediamemo.allthingsd.com/20100114/white-house-to-china-were-with-google-on-this-one/)-[warfare](http://en.wikipedia.org/wiki/Operation_Aurora), geo-political entities are starting to realise that the whole 'lets stockpile enough weapons to [blow up the world enough times for the number to be rendered pointless](http://internationalreporter.com/News-5147/present-stockpile-of-a-bombs-can-destroy-earth-1000-times-god-believers.html)' may not have been the best plan.
 

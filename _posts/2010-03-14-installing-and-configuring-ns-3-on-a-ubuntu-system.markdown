@@ -1,22 +1,35 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-03-14 23:39:09+00:00
 layout: post
 slug: installing-and-configuring-ns-3-on-a-ubuntu-system
-title: Installing and Configuring NS-3 on a Ubuntu System
-categories:
-- Instructional
 tags:
 - code
-- linux
-- networking
-- programming
-- simulation
-- software
 - Ubuntu
 - workstation
+- tutorials
+- bugtracker
+- networking
+- prerequisites
+- simulation
+- Ubuntu 9.10
+- network simulation
+- Mercurial
+- WAF
+- software
+- linux
+- build process
+- NS-3
+- learning curve
+- regression test suite
+- programming
+- Python
+title: Installing and Configuring NS-3 on a Ubuntu System
 ---
+
 
 [caption id="" align="alignright" width="240" caption="An Example of network simulation using NS"][![Network Simulated by NS](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)[/caption]
 

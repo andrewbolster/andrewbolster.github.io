@@ -1,13 +1,36 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2012-09-05 11:10:13+00:00
 layout: post
 slug: rms-is-coming-to-town
+tags:
+- GNU
+- Free Software Foundation
+- Free Digital Society
+- GNU General Public License
+- Copyleft
+- Big Data Bash
+- Tech Event
+- Software Freedom Activist
+- Free Software Advocate
+- Software Patents
+- FOSS
+- Software Engineering
+- Free Software Movement
+- Software Community
+- GNU Operating System
+- Free Software License
+- Software Developer
+- Open Source
+- Copyright
+- Richard Stallman
+- Event Registration
 title: RMS is coming to town
-categories:
-- Commentary
 ---
+
 
 ![RMS]({{ BASE_PATH}}/uploads/2012/09/rms-bw-300x216.jpeg)
 >Richard Matthew Stallman is a software developer and software freedom activist. Born in 1953, he attended Harvard starting in 1970 and graduated in 1974 with a Bachelor of Arts in physics. From September 1974 to June 1975 he was a graduate student in physics at MIT.

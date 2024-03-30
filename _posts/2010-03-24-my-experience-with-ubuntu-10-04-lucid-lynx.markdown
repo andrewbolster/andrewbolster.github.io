@@ -1,24 +1,34 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-03-24 16:39:16+00:00
 layout: post
 slug: my-experience-with-ubuntu-10-04-lucid-lynx
-title: My Experience with Ubuntu 10.04, Lucid Lynx
-categories:
-- Commentary
 tags:
-- '10.04'
-- beta
-- hardware
-- install
-- linux
-- lucid
-- lynx
-- rant
 - Ubuntu
 - workstation
+- Lucid Lynx
+- Ubuntu fan
+- Launchpad
+- live CD
+- install
+- lucid
+- lynx
+- hardware
+- serverfault
+- rant
+- '10.04'
+- installation troubleshooting
+- daily build
+- bug report
+- linux
+- boot issues
+- beta
+title: My Experience with Ubuntu 10.04, Lucid Lynx
 ---
+
 
 **Updates(26/3/10): **Thought I'd give the liveCD another go (this  time using the dailyx64 image and using [unetbootin](http://unetbootin.sourceforge.net/)), thinking  it must be something simple; so during boot i just kept pressing escape,  before the splash screen came up. This got me around the splash screen  issue and it seems as if everything is fine. Also, I found a matching [bug report](https://bugs.launchpad.net/xsplash/+bug/539020) on launchpad, but no resolution as of yet. Guess we'll have to wait and  see.
 

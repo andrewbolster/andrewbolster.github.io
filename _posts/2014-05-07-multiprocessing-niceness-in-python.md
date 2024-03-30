@@ -1,10 +1,20 @@
 ---
+category: code diary
+description: ''
 layout: post
-title: "Multiprocessing Niceness in Python"
-description: ""
-category: "code diary"
-tags: ["code", "python", "multiprocessing"]
+tags:
+- code
+- niceness value
+- Monte Carlo simulation
+- random number generation
+- multiprocessing
+- simulation
+- python
+- parallel processing
+- Unix
+title: Multiprocessing Niceness in Python
 ---
+
 {% include JB/setup %}
 
 Quick and dirty one that tripped me up.

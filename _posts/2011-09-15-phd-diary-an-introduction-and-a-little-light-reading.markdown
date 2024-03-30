@@ -1,16 +1,23 @@
 ---
 author: admin
+categories:
+- Uni
 comments: true
 date: 2011-09-15 14:31:10+00:00
 layout: post
 slug: phd-diary-an-introduction-and-a-little-light-reading
-title: 'PhD Diary: An Introduction and A Little Light Reading'
-categories:
-- Uni
 tags:
+- bibliographies
+- note-taking
+- lit-review
 - phd
+- PhD supervisor
+- academic references
+- Mendeley
 - qub
+title: 'PhD Diary: An Introduction and A Little Light Reading'
 ---
+
 
 [caption id="" align="alignright" width="600" caption="Sometimes I worry about the accuracy of webcomics..."][![PhD Ponzi Scheme](http://www.phdcomics.com/comics/archive/phd030909s.gif)](http://www.phdcomics.com/comics.php?f=1144)[/caption]
 

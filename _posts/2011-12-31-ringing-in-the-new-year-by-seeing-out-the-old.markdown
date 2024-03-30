@@ -1,28 +1,40 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2011-12-31 17:15:38+00:00
 layout: post
 slug: ringing-in-the-new-year-by-seeing-out-the-old
-title: Ringing in the New Year by seeing out the old
-categories:
-- Commentary
 tags:
+- hacker
+- learning
+- phd
+- C
+- hacking
+- qub
+- presentation
 - belfast
 - blog
-- C
+- work-life balance
+- Hackerspaces
+- college
+- hackersapce
+- rant
+- achievement
+- hackerspace
+- Europe
+- engineering
+- travel
+- personal
 - career
 - eee
-- hacker
-- hackersapce
-- hackerspace
-- Hackerspaces
-- hacking
-- personal
-- phd
-- qub
-- rant
+- experience
+- friendship
+- professional
+title: Ringing in the New Year by seeing out the old
 ---
+
 
 2011 has been a great year for me;
 

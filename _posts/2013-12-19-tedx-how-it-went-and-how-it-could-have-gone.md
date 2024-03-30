@@ -1,10 +1,21 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "TEDx: How it went and how it could have gone"
-description: ""
-category: ""
-tags: []
+tags:
+- technology
+- economic development
+- STEM education
+- emergent behaviors
+- social investment
+- complex systems
+- speaking event
+- innovation
+- TEDx Belfast
+- community building
+title: 'TEDx: How it went and how it could have gone'
 ---
+
 {% include JB/setup %}
 <iframe width="420" height="315" src="//www.youtube.com/embed/ja_huuD-K-M" frameborder="0" allowfullscreen></iframe>
 
@@ -20,7 +31,22 @@ My talk didn't quite go as planned, since [someone](http://twitter.com/davysims)
 
 In the interests of stimulating discussion, and critiquing myself, here's what I had 'planned' to say. 
 
----------------------------------------------
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
 
 It's said that any sufficiently advanced technology is indistinguishable from magic. I would extend that and say that any sufficiently complex system is indistinguishable from magic.
 

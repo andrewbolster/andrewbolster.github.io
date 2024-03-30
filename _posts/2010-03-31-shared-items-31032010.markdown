@@ -1,13 +1,26 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-03-31 05:02:31+00:00
 layout: post
 slug: shared-items-31032010
+tags:
+- Technology
+- Atheism
+- Men's Fashion
+- Religion
+- Networking
+- Computer Science
+- Motivation
+- Web Development
+- Web Design
+- Programming
+- Statistics
 title: Shared Items - 31/03/2010
-categories:
-- Link-Roll
 ---
+
 
   * [NumberQuotes Gives Perspective to Your Statistics, Is Great for Presentations [Statistics]](http://feeds.gawker.com/~r/lifehacker/full/~3/cuSQtQPw3aY/numberquotes-gives-perspective-to-your-statistics-is-great-for-presentations)
   

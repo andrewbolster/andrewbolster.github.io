@@ -4,8 +4,15 @@ comments: true
 date: 2009-11-02 13:33:24+00:00
 layout: post
 slug: save-the-internet
+tags:
+- ISP Throttling
+- Internet Legislation
+- Net Neutrality
+- Google
+- Internet Freedom
 title: Save The Internet
 ---
+
 
 Currently, this is a major American congressional argument, and hasn't really come up publicly in Europe (outside of [Scandinavia ](http://www.circleid.com/posts/20091015_finland_legislates_universal_broadband/), but [Net Neutrality](http://en.wikipedia.org/wiki/Network_neutrality) is going to be one of those issues that if people aren't made aware of it, the legislation removing it will sweep over all of us.
 

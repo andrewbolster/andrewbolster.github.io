@@ -1,20 +1,26 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-04-16 16:25:46+00:00
 layout: post
 slug: shaded-headers
-title: Shaded Headers in Thematic
-categories:
-- Instructional
 tags:
+- gradient
 - blog
-- css
-- jquery
+- tutorial
+- design
 - web
-- web-design
+- css
 - wordpress
+- html
+- web-design
+- thematic-child-theme
+- jquery
+title: Shaded Headers in Thematic
 ---
+
 
 So, as you can see the blog is sporting a new, cleaner look. Nothing better than experimenting!  One of the nicer aspects of the new setup is the shaded headers (ie. `<h1>`/`<h2>` tags).
 

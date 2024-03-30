@@ -1,18 +1,23 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2009-11-25 14:06:32+00:00
 layout: post
 slug: peter-mandelson-tv-producer-spin-doctor-politician-tosser
-title: Peter Mandelson... TV Producer, Spin-doctor, Politician, Tosser
-categories:
-- Commentary
 tags:
-- economy
-- internet
 - politics
+- internet
+- digital rights
+- government regulation
+- economy
 - society
+- copyright law
+- privacy concerns
+title: Peter Mandelson... TV Producer, Spin-doctor, Politician, Tosser
 ---
+
 
 For a man who's title is currently Baron Mandelson, _of [Foy](http://en.wikipedia.org/wiki/Foy,_Herefordshire) in the County of [Herefordshire](http://en.wikipedia.org/wiki/Herefordshire) and of [Hartlepool](http://en.wikipedia.org/wiki/Hartlepool) in the County of [Durham](http://en.wikipedia.org/wiki/County_Durham), _First Secretary of State, Secretary of State for Business, Innovation and Skills, President of the Board of Trade and Lord President of the Council, educated in Philosophy, Politics and Economics, and is hotly tipped to become a major part of the [Lisbon-Treaty-generated](http://europa.eu/lisbon_treaty/index_en.htm)-[unelected-cou-detat](http://en.wikipedia.org/wiki/Ratification_of_the_Treaty_of_Lisbon)-european-super-parliment, you'd think the power-addicted, peace-process screwing, ['shreud loaning](http://en.wikipedia.org/wiki/Peter_Mandelson#First_resignation)' rat would leave well enough alone.
 

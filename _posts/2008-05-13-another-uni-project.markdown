@@ -1,18 +1,27 @@
 ---
 author: admin
+categories:
+- Uni
 comments: false
 date: 2008-05-13 19:47:00+00:00
 layout: post
 slug: another-uni-project
-title: 'Another Uni Project '
-categories:
-- Uni
 tags:
-- C
 - code
-- programming
 - telecomms
+- communications
+- engineering
+- telecommunication
+- Erlang B
+- algorithm
+- networks
+- factorial
+- Erlang A
+- C
+- programming
+title: 'Another Uni Project '
 ---
+
 
 If anyone is interested in [Erlang B](http://en.wikipedia.org/wiki/Erlang-B) Calculations, very relevent to any communications or engineering students, I've written a little quick piece of code to calculate them.
 

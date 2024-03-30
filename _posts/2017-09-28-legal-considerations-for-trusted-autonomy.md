@@ -1,14 +1,24 @@
 ---
-layout: post
-title: Legal Considerations for Trusted Defence Autonomy
 date: 2017-09-28 18:02:12+0100
-tags: 
- - phd
- - ai
- - ml
- - autonomous systems
- - research
+layout: post
+tags:
+- robotics
+- phd
+- international combat doctrine
+- ml
+- ethical challenges
+- research
+- maritime autonomy
+- ai
+- autonomous weapons systems
+- fire control
+- defense field
+- friend-or-foe identification
+- combat law
+- autonomous systems
+title: Legal Considerations for Trusted Defence Autonomy
 ---
+
 
 This is another short extract from the [Thesis](https://github.com/andrewbolster/thesis/releases/download/v1.0/Thesis.pdf) that I thought was particularly relevant given [recent](https://www.theguardian.com/technology/2017/sep/27/robots-destabilise-world-war-unemployment-un) [news](http://www.telegraph.co.uk/news/science/science-news/11633838/Killer-robots-will-leave-humans-utterly-defenceless-warns-professor.html) coverage of the dangers of autonomy and AI, particularly in the field of "killer robots".
 

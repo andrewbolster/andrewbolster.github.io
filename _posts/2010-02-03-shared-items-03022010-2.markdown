@@ -1,13 +1,26 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-02-03 06:12:28+00:00
 layout: post
 slug: shared-items-03022010-2
+tags:
+- Powerpoint Presentations
+- Programming Skills
+- Audience Differentiation
+- Social Media
+- Graphic Design Tutorials
+- Open Web Standards
+- Freelance Work
+- Internet Explorer
+- WiFi Network Scanner
+- Dual Boot
+- Usability
 title: Shared Items - 03/02/2010
-categories:
-- Link-Roll
 ---
+
 
   * [10 ways to make Internet Explorer act like a modern browser](http://www.catswhocode.com/blog/10-ways-to-make-internet-explorer-act-like-a-modern-browser)
   

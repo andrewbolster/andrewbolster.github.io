@@ -1,18 +1,29 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-01-25 22:08:39+00:00
 layout: post
 slug: online-media-marketing
-title: Online Media Marketing
-categories:
-- Commentary
 tags:
-- marketing
-- ppc
-- seo
+- internet advertising
+- Facebook advertising
+- YouTube Adwords
+- social networking
 - social media
+- ppc
+- search engines
+- Google Adwords
+- comparison sites
+- seo
+- marketing
+- Twitter
+- viral marketing
+- advertising
+title: Online Media Marketing
 ---
+
 
 'Social Media' has been lauded as the be-all and end all of the future of marketing, advertising, society, and general human decency.
 

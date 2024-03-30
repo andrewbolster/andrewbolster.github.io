@@ -1,13 +1,27 @@
 ---
 author: admin
+categories:
+- Uni
 comments: true
 date: 2012-06-12 09:32:15+00:00
 layout: post
 slug: litreview-an-overview-on-behaviour-based-methods-for-auv-control
+tags:
+- dynamic model
+- MatLab
+- simulation
+- research tradition
+- limitations
+- simulation framework
+- control architectures
+- ROV
+- AUV
+- collaborative behaviors
+- robotics
+- behaviour-based methods
 title: 'LitReview: An Overview on Behaviour based methods for AUV Control'
-categories:
-- Uni
 ---
+
 
 # Biblio
 

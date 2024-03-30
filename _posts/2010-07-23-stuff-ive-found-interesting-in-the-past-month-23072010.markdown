@@ -1,13 +1,50 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-07-23 09:04:43+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23072010
+tags:
+- Google Maps
+- Open Source Projects
+- Linux Distros
+- Rachel Maddow
+- Domain-Specific Languages
+- Neuroscience
+- Coffee Shop
+- Google Docs
+- Einztein Knowledge Network
+- Google PhD Fellowships
+- MultiBootISOs
+- Location-Based
+- NeighborGoods
+- Pendrive
+- Top 10
+- Team HTC-Columbia
+- Nautilus
+- Downloads
+- Chrome
+- Android
+- Android App Inventor
+- Geocron
+- App Inventor
+- Lifehacker
+- Gmail
+- USB Drive
+- Android Development
+- Lending
+- Latitude
+- Borrowing Network
+- Groovy
+- Learning
+- Google
+- USB Thumb Drive
+- Social Engineers
 title: Stuff I've found interesting in the past month - 23/07/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Google Doc Mount Puts Your Google Docs in Nautilus for Editing [Downloads]](http://feeds.gawker.com/~r/lifehacker/full/~3/JRy2zXEHwTM/google-doc-mount-puts-your-google-docs-in-nautilus-for-editing)
   * [Google PhD Fellowships go international](http://feedproxy.google.com/~r/blogspot/MKuf/~3/vzUu2NVRAD8/google-phd-fellowships-go-international.html)

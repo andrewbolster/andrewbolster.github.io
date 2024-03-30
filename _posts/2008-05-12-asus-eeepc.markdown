@@ -1,20 +1,28 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2008-05-12 20:00:00+00:00
 layout: post
 slug: asus-eeepc
-title: Asus EEEpc
-categories:
-- Commentary
 tags:
-- '8.10'
-- eee
-- hardware
-- Hardy Heron
-- linux
 - Ubuntu
+- linux
+- Clove
+- eee
+- Hardy Heron
+- Asus
+- '8.10'
+- delivery
+- product review
+- battery issue
+- customer service
+- hardware
+- internal bluetooth mod
+title: Asus EEEpc
 ---
+
 
 Just off the phone with [Clove](http://www.clove.co.uk/) saying that my shiny new black eee 900 is winging its way to my homestead, which unfortunatly is not wer i am, but at least i wont be losing any time for revision (read: have any other reasons not to study)
 

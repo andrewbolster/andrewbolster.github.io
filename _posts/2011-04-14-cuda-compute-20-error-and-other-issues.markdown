@@ -1,19 +1,27 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2011-04-14 11:48:01+00:00
 layout: post
 slug: cuda-compute-20-error-and-other-issues
-title: CUDA Compute 20 Error and other issues
-categories:
-- Instructional
 tags:
-- C
 - cuda
+- Makefile
 - gpu
+- NVIDIA SDK
+- OpenGL
+- GPU
+- Programming
 - makefile
+- C
+- OpenCL
+- CUDA
 - programming
+title: CUDA Compute 20 Error and other issues
 ---
+
 
 There's a quirk of using older CUDA drivers is that  the latest [NVIDIA SDK code examples](http://developer.download.nvidia.com/compute/cuda/sdk/website/samples.html) are not backward compatible, i.e compiling the 3.0 SDK against the 2.3 toolkit (that I've spent the last day doing) is a fools errand (Thanks very much to @thebaron on #cuda on freenode and tkerwin on [StackO﻿verflow](http://stackoverflow.com/questions/3047909/nvidia-cuda-sdk-examples-compilation-unsupported-architecture-computer-20).)
 

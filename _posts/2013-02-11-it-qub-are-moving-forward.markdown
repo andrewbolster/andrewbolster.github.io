@@ -1,24 +1,37 @@
 ---
 author: admin
+categories:
+- Uni
 comments: true
 date: 2013-02-11 13:04:43+00:00
 layout: post
 slug: it-qub-are-moving-forward
-title: IT @ QUB are moving forward
-categories:
-- Uni
 tags:
-- networking
-- pg forum
-- qub
-- qub_sec
-- representative
-- Uni
 - university
-- vpn
 - web space
+- qub
 - wifi
+- networking
+- crypto authentication
+- Uni
+- representative
+- wifi network
+- vpn
+- backhaul improvement
+- queens university belfast
+- information services
+- researcher web space
+- pg forum
+- vpn service
+- email storage
+- qub_sec
+- eduRoam inclusion
+- VPN endpoint
+- IS engagement
+- social media use
+title: IT @ QUB are moving forward
 ---
+
 
 QUB Relevant: Mostly PGR or prospective PGR
 

@@ -1,10 +1,19 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "Unicode Madness in Jekyll"
-description: ""
-category: ""
-tags: [ Jekyll, blogging, irc]
+tags:
+- irc
+- Jekyll
+- BOM
+- template layouts
+- Stack Overflow
+- blogging
+- Unicode
+- byte order mark
+title: Unicode Madness in Jekyll
 ---
+
 {% include JB/setup %}
 
 Ok so this was a weird one. 

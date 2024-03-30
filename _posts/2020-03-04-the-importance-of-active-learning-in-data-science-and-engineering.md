@@ -1,8 +1,18 @@
 ---
-layout: post
-title: The Importance of Active Learning in Data Science and Engineering
 date: 2020-03-04 11:10 +0000
+layout: post
+tags:
+- engineering
+- cybersecurity
+- data science
+- machine learning
+- STEM
+- professional development
+- mentorship
+- technology trends
+title: The Importance of Active Learning in Data Science and Engineering
 ---
+
 _Originally posted in [Cybersecurity Insiders](https://www.cybersecurity-insiders.com/the-importance-of-active-learning-in-the-data-science-and-engineering/)_
 
 Back when I was pursuing my undergraduate degree in electronics and software engineering, I couldn’t imagine a path that would lead to me working with NATO on port protection and maritime defense, teaching smart submarines how to trust each other. But while I was working toward a Ph.D., that’s what happened. Instead of following the path into academia, a friend enticed me to work with him on biometrics. From there, I found an opportunity to apply my skills and knowledge to the cybersecurity industry – but that’s not something I could have predicted either.

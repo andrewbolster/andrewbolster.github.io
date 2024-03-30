@@ -1,13 +1,22 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-03-24 06:02:47+00:00
 layout: post
 slug: shared-items-24032010
+tags:
+- Logorama
+- Photoshop
+- information processing
+- cloud creation
+- Google Summer of Code
+- web laws
+- animated short
 title: Shared Items - 24/03/2010
-categories:
-- Link-Roll
 ---
+
 
   * [How to Scan, Absorb and Process Information](http://www.webdesignerdepot.com/2010/03/how-to-scan-absorb-and-process-information/)
   

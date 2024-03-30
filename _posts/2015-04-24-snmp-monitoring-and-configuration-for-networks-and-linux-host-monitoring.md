@@ -1,10 +1,19 @@
 ---
+category: ''
+description: ''
 layout: post
-title: "SNMP Monitoring and Configuration for Networks and Linux Host Monitoring"
-description: ""
-category: ""
-tags: []
+tags:
+- Observium
+- SNMP
+- Network Monitoring
+- Network Management
+- Dynamic DNS
+- Host Discovery
+- Linux Servers
+- System Monitoring
+title: SNMP Monitoring and Configuration for Networks and Linux Host Monitoring
 ---
+
 {% include JB/setup %}
 
 *TL:DR*: Setting up Observium to perform autodiscovery with dynamic DNS, and sample snmp configs to manage Linux servers

@@ -1,21 +1,27 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-10-14 15:50:07+00:00
 layout: post
 slug: hackathon
-title: Hackathon
-categories:
-- Commentary
 tags:
-- hacking
-- hardware
+- technology
 - linux
-- networking
 - privacy
+- networking
+- hackathon
+- event
+- hackerspace
 - programming
+- hardware
+- gaming
+- hacking
 - security
+title: Hackathon
 ---
+
 
 ![hackathon]({{ BASE_PATH}}/uploads/2010/10/h2k8-263x300.gif)
 

@@ -1,19 +1,26 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2009-12-31 21:38:17+00:00
 layout: post
 slug: new-years-resolutions
-title: New Years Resolutions
-categories:
-- Commentary
 tags:
-- finance
-- personal
+- investment
 - plans
+- freelancing
+- finance
+- time management
+- portfolio development
+- blogging
 - programming
+- personal
+- open source
 - software
+title: New Years Resolutions
 ---
+
 
 	
   * Post *something* at least once a day on either blog or [web-album](http://picasaweb.google.com/andrew.bolster/1ayr?feat=directlink)

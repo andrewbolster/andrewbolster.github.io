@@ -1,21 +1,31 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-03-26 09:48:35+00:00
 layout: post
 slug: what-to-do-when-ubuntu-device-mapper-seems-to-be-invincible
-title: 'What to do when Ubuntu Device-mapper seems to be invincible! '
-categories:
-- Instructional
 tags:
-- 64-bit
-- hard drive
-- hardware
-- linux
-- lucid lynx
 - Ubuntu
+- RAID set deletion
+- linux
 - workstation
+- RAID
+- hardware
+- BIOS configuration
+- AHCI
+- dmraid
+- partition tables
+- lucid lynx
+- repartitioning
+- hard drive
+- SATA drives
+- ubuntu installation
+- 64-bit
+title: 'What to do when Ubuntu Device-mapper seems to be invincible! '
 ---
+
 
 I've been trying a dozen different configurations of my 2x500GB SATA drives over the past few days involving switching between ACHI/IDE/RAID in my bios (This was after trying different things to solve [my problems with Ubuntu Lucid Lynx]({{ BASE_PATH }}/2010/03/my-experience-with-ubuntu-10-04-lucid-lynx/)) ; After each attempt I've reset the bios option, booted into a live CD, deleting partitions and rewriting partition tables left on the drives.
 

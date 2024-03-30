@@ -1,9 +1,25 @@
 ---
-layout: post
-title: Tell me about your Programmer - Robopsychologist and other careers that don't exist (yet)
-typora-root-url: "C:\\Users\\me\\Documents\\GitHub\\andrewbolster.github.io\\"
 date: 2020-10-19 11:34 +0100
+layout: post
+tags:
+- science fiction
+- technology
+- careers
+- Robopsychologist
+- computing
+- cybersecurity
+- future jobs
+- data science
+- software engineering
+- artificial intelligence
+- Three Laws of Robotics
+- robotics
+- Isaac Asimov
+title: Tell me about your Programmer - Robopsychologist and other careers that don't
+  exist (yet)
+typora-root-url: C:\Users\me\Documents\GitHub\andrewbolster.github.io\
 ---
+
 > This talk was originally prepared for [NI Raspberry Jam's Kids Track](https://hopin.to/events/ni-raspberry-jam-nidc), associated with the full [Northern Ireland Developers Conference](https://www.nidevconf.com/), held in lockdown and pre-recorded in the McKee Room in [Farset Labs](https://www.farsetlabs.org.uk/)
 
 [![Actual Recording of This Transcript](/../../../../../../../../img/2020/0.jpg)](https://www.youtube.com/watch?v=Z1c4KAESO0s)

@@ -1,13 +1,24 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-02-10 06:30:12+00:00
 layout: post
 slug: shared-items-10022010
+tags:
+- technology
+- Linux
+- internet
+- anonymity
+- freelancing
+- events
+- DIY
+- Google Wave
+- security
 title: Shared Items - 10/02/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Super Happy Dev Castle – SHDC #0](http://www.jonathancusick.co.uk/2010/02/09/super-happy-dev-castle-shdc-0/)
   

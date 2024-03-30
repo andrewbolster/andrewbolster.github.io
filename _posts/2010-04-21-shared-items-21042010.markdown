@@ -1,13 +1,24 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-04-21 05:04:17+00:00
 layout: post
 slug: shared-items-21042010
+tags:
+- Linux
+- Backup
+- Android
+- Open Source
+- Technology
+- Version Control
+- Remote Desktop
+- Programming
+- Software Development
 title: Shared Items - 21/04/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Twittering pub hanging](http://hackaday.com/2010/04/20/twittering-pub-hanging/)
   

@@ -1,10 +1,23 @@
 ---
-layout: post
-title: Daily Dated Untitled Jupyter Notebooks
-date: 2018-10-22 12:29 +0100
-tags: python jupyter data notebook
 category: hotfix
+date: 2018-10-22 12:29 +0100
+layout: post
+tags:
+- data-analysis
+- python
+- data
+- education
+- file-management
+- notebook
+- coding
+- metadata
+- data-reporting
+- open-data
+- jupyter
+- python jupyter data notebook
+title: Daily Dated Untitled Jupyter Notebooks
 ---
+
 
 I am a *heavy* user of [Jupyter Notebook](http://jupyter.org/), both personally for wrapping my head around Open Data, professionally for analysis and reporting, and for education/presentations.
 
