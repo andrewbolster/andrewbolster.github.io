@@ -1,21 +1,37 @@
 ---
 author: admin
+categories:
+- Commentary
+- Instructional
 comments: true
 date: 2010-04-09 11:11:35+00:00
 layout: post
 slug: the-de-bill-or-how-i-learned-to-stop-worrying-and-love-tor
-title: The DE Bill, or, How I Learned to Stop Worrying and Love Tor
-categories:
-- Commentary
-- Instructional
 tags:
-- desktop
-- linux
-- personal
-- privacy
-- security
 - Ubuntu
+- civil rights
+- privacy
+- law
+- FoxyProxy
+- internet privacy
+- security
+- Polipo
+- Proxy Switchy
+- copyright
+- anonymity
+- Chrome
+- digital economy bill
+- browser configuration
+- personal
+- linux
+- Firefox
+- desktop
+- network surveillance
+- Tor
+- web proxy
+title: The DE Bill, or, How I Learned to Stop Worrying and Love Tor
 ---
+
 
 Folks, we're basically screwed; The Digital Economy Bill recieved Royal Accent on April 9th and is officially now Law.
 

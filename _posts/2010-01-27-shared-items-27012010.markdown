@@ -1,13 +1,30 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-01-27 07:33:22+00:00
 layout: post
 slug: shared-items-27012010
+tags:
+- Ubuntu
+- Science
+- CMS
+- Passion
+- Terminal Server
+- Linux
+- Fonts
+- Transportation Network
+- Biomimetics
+- Professional Designs
+- Design
+- Drupal
+- Joomla
+- Google Code
+- FreeNX
 title: Shared Items - 27/01/2010
-categories:
-- Link-Roll
 ---
+
 
   * [How To Set Up A Terminal Server In Linux Using Ubuntu 9.10 And FreeNX](http://www.howtoforge.com/how-to-set-up-a-terminal-server-in-linux-using-ubuntu-9.10-and-freenx)
   

@@ -1,13 +1,43 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-09-23 09:12:12+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23092010
+tags:
+- Amazon Kindle 3G/WiFi
+- European Parliament
+- jQuery
+- Repurposing
+- Segway Olympics
+- BugMeNot Lite
+- HGTV
+- ACTA
+- OpenHeatMap
+- Scientific Computing
+- Ebook Reader
+- Chrome
+- Python Training
+- Priority Inbox
+- Cyber-Offence
+- Lifehacker
+- Gawker Blogs
+- RepRap
+- Google Chrome
+- GPU Acceleration
+- Organized Life
+- 3D Printer
+- SweetSearch
+- EEVblog
+- SciPy
+- Heat Map
+- Old Computer
+- Python
 title: Stuff I've found interesting in the past month - 23/09/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Segway Olympics - prototype run](http://www.youtube.com/watch?v=m_ZCs9N372I&feature=autoshare)
   

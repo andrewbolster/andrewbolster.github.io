@@ -1,8 +1,20 @@
 ---
-layout: post
-title: Apache Arrow in 5-10 Mins
 date: 2021-06-01 11:54 +0100
+layout: post
+tags:
+- Data Ecosystem
+- Data Science
+- Linux
+- Apache Arrow
+- Pandas
+- Technology
+- Memory Management
+- Data Formats
+- Open Data
+- Python
+title: Apache Arrow in 5-10 Mins
 ---
+
 The below was presented as part of the Belfast Linux Users Groups' May Technical Meetup.
 
 I'm also maintaining this 'short' as part of my gradually accumulating ['python_data_workshop'](https://www.github.com/andrewbolster/python_data_workshop/), so that may be the best place to see updates if you're reading this any later than 2021.

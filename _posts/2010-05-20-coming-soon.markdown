@@ -1,17 +1,27 @@
 ---
 author: admin
+categories:
+- Commentary
+- Uni
 comments: true
 date: 2010-05-20 11:21:37+00:00
 layout: post
 slug: coming-soon
-title: Coming Soon!
-categories:
-- Commentary
-- Uni
 tags:
+- technology
+- Ubuntu
 - blog
+- VPN
+- revision system
+- updates
+- CUDA research
+- Google Webfonts
 - planning
+- web development
+- Drupal 6
+title: Coming Soon!
 ---
+
 
 **EDIT - 2017** Updated broken links thanks to heads up from [Paul @ Art of Blog](http://www.artofblog.com/typography-basics-some-fundamentals-for-body-copy/)
 

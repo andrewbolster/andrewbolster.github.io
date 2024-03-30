@@ -1,25 +1,41 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2011-07-28 10:22:56+00:00
 layout: post
 slug: the-road-to-coreboot-part-the-first-introduction
-title: 'The Road to Coreboot, Part the First: Introduction'
-categories:
-- Instructional
 tags:
-- amd
 - code
-- coreboot
-- eee
-- Embedded
 - fusion
+- SPI BIOS
+- PC Engines
+- flashrom
+- IAESTE
 - hardware
+- LPC Bus
+- SIO
+- embedded systems
+- Embedded
+- BIOS
+- amd
+- coreboot
+- universal serial programmer
+- IRC
 - motherboard
-- open source
-- superio
+- chipset
 - x86
+- open source
+- TPM
+- eee
+- superio
+- CPU
+- south-bridge
+- north-bridge
+title: 'The Road to Coreboot, Part the First: Introduction'
 ---
+
 
 ![Coreboot Logo](http://www.coreboot.org/images/0/0d/Chip_cb.png)
 

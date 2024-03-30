@@ -1,21 +1,34 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2008-09-24 22:25:00+00:00
 layout: post
 slug: primers-coming-up
-title: Primers Coming Up
-categories:
-- Commentary
 tags:
-- bash
 - code
-- linux
-- programming
-- remote
-- software
 - Ubuntu
+- XML
+- bash
+- X server
+- Unix
+- X display
+- programming education
+- remote
+- SSH
+- X encryption
+- bash scripting
+- perl scripting
+- X forwarding
+- sysadmins
+- software
+- linux
+- X compression
+- programming
+title: Primers Coming Up
 ---
+
 
 Thru my work I'm thrown into alot of technologies that i dont nearly know enough about and as with alot of tech related things, the education scene is basic basic basic..GURU with little or no gradiation, so what I'm going to do is post what i learn when i learn it and where i learn it from and hopefully it'll be useful for someone else, and I'll also take the opportunity to rehash stuff I've already done.
 

@@ -1,17 +1,36 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: false
 date: 2007-12-16 23:50:00+00:00
 layout: post
 slug: installation-of-vmware-server-windows
-title: Installation of VMWare Server (Windows)
-categories:
-- Instructional
 tags:
+- virtualisation
+- BackTrack Linux
+- virtual machine creation
+- live booting
+- server virtualisation
+- network tools
+- IP assignment
+- network addressing
+- VM setup
+- windows
+- beta version
+- client console
+- boot configuration
+- bridged connection
+- DHCP
 - linux
 - vm
-- windows
+- networking setup
+- Flux
+- VMWare
+- BT3
+title: Installation of VMWare Server (Windows)
 ---
+
 
 So, to do most of this playing about, I need a virtualisation environment, and VMware is the easiest, simplest and, at the moment, cheapest.
 

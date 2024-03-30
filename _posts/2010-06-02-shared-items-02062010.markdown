@@ -1,13 +1,32 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-06-02 05:00:10+00:00
 layout: post
 slug: shared-items-02062010
+tags:
+- Science
+- Guidelines
+- OPINION
+- Creationism
+- Environment
+- BP Leak
+- Ulster
+- Android Market
+- Technology
+- Investors
+- Oil Industry
+- Conspiracy Theories
+- Business
+- Developers
+- Apple
+- Global Warming
+- AppStore
 title: Shared Items - 02/06/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Apple Blindsides More AppStore Developers](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2lq-MjCcJHA/Apple-Blindsides-More-AppStore-Developers)
   

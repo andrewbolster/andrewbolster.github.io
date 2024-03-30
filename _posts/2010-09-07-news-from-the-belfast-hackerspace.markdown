@@ -1,24 +1,44 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-09-07 13:02:31+00:00
 layout: post
 slug: news-from-the-belfast-hackerspace
-title: News from the Belfast Hackerspace
-categories:
-- Commentary
 tags:
-- belfast
-- charity
-- community
-- hackerspace
-- Hackerspaces
-- hacking
-- open source
 - privacy
-- security
+- technical fields
+- charity
+- obsolete computers
+- community
+- event
+- computer architecture
 - Wireless
+- hacking
+- security
+- technology
+- belfast
+- CyberSecurity
+- intrusion detection
+- Hackerspaces
+- wireless
+- encryption
+- exhibition
+- partnership
+- hackerspace
+- electrical engineering
+- Digital Circle
+- DDoS attacks
+- network mapping
+- hackerspaces
+- donation
+- programming
+- IET Committee
+- open source
+title: News from the Belfast Hackerspace
 ---
+
 
 [caption id="attachment_515" align="alignleft" width="212" caption="Proposed Hack Aid poster designed by David Kane"][![Proposed Hack Aid poster]({{ BASE_PATH}}/uploads/2010/09/Hack-Aid-212x300.jpg)]({{ BASE_PATH }}/2010/09/news-from-the-belfast-hackerspace/hack-aid/)[/caption]
 

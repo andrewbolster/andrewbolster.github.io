@@ -1,8 +1,18 @@
 ---
-layout: post
-title: 'Data Art: Creative Collisions and Getting out of your comfort zone'
 date: 2019-06-17 16:57 +0100
+layout: post
+tags:
+- Community
+- Data Science
+- Creativity
+- Technology
+- Innovation
+- Public Sector
+- Collaboration
+- Art
+title: 'Data Art: Creative Collisions and Getting out of your comfort zone'
 ---
+
 _Approximate Script from my #NIDevConf19 talk a few weeks ago_
 
 {% include youtubePlayer.html id="Ku2FX9osMXA" %}

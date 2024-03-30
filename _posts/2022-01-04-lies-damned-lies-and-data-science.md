@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Lies, Damned Lies, and Data Science
 date: 2022-01-04 18:49 +0000
+layout: post
+tags: []
+title: Lies, Damned Lies, and Data Science
 ---
+
 > This talk was originally prepared for my 2021 Guest Lecture at UU Magee for the MSc Data Science course. And if it looks familiar, yes, the first bit is almost entirely lifted from [A Stranger in a Strange Land](2020/10/a-stranger-in-a-strange-land-data-science-onboarding-in-practice.html) from last year.
 
 ## Intro
@@ -143,7 +145,17 @@ But what does this really mean in real life? One of the most famous examples of 
 From the data presented below, it is once again Obvious, and Self Evident that a higher percentage of men were admitted than women. It can be graphed easily, the aggregations seem ‘fair’,'obvious' and ‘natural’; all we do is we take a count of all the men who applied, all the women who applied, and in each group, calculate the percentage that were successful. 
 
 | Applicants | Applied | Admitted | % Success |
-|:----------:|:-------:|:--------:|:---------:|
+|:---
+---
+---
+-:|:---
+---
+-:|:---
+---
+--:|:---
+---
+---
+:|
 |     Men    | 19186   | 8442     | 44%       |
 |    Women   | 12346   | 4321     | 35%       |
 |    Total   | 31129   | 12763    | 41%       |
@@ -155,7 +167,32 @@ Job done, fire the admissions board, issue a public apology and go home.
 But not so fast! When researchers dug into the totals and looked at each department (presumably to find someone to blame at a lower faculty tier…), they found something surprising; in the most popular and highest intake departments, if anything there was a bias towards female applicants. 
 
 |            |  Total  |          |           |   Men   |          |           |    Women   |          |           |
-|:----------:|:-------:|:--------:|:---------:|:-------:|:--------:|:---------:|:----------:|:--------:|:---------:|
+|:---
+---
+---
+-:|:---
+---
+-:|:---
+---
+--:|:---
+---
+---
+:|:---
+---
+-:|:---
+---
+--:|:---
+---
+---
+:|:---
+---
+---
+-:|:---
+---
+--:|:---
+---
+---
+:|
 | Department | Applied | Admitted | % Success | Applied | Admitted | % Success | Applicants | Admitted | % Success |
 |      A     | 933     | 597      | 64%       | 825     | 512      | 62%       | 108        | 89       | 82%       |
 |      B     | 585     | 369      | 63%       | 560     | 353      | 63%       | 25         | 17       | 68%       |
@@ -187,7 +224,12 @@ And we’re all very clever and data driven so we’re going to experiment by ta
 To make sure we’re comfortable with the numbers, we’ll start with a small scale and ramp up as we need to.
 
 |   | height (cm) |
-|---|-------------|
+|---
+|---
+---
+---
+---
+-|
 | A | 155.06  |
 | B | 157.83  |
 | C | 173.85  |
@@ -256,7 +298,27 @@ Until; Some pesky legislator says  we need more seats, citing something like ‘
 And State C suddenly goes from 20% of the representative body to a 9% representation.
 
 |       |            | With 10 seats |       | With 11 seats  |        |
-|-------|------------|---------------|-------|----------------|--------|
+|---
+---
+-|---
+---
+---
+---
+|---
+---
+---
+---
+---
+|---
+---
+-|---
+---
+---
+---
+---
+-|---
+---
+--|
 | State | Population | Fair share    | Seats | Fair share     | Seats  |
 | A     | 6          | 4.286         | 4     | 4.714          | 5      |
 | B     | 6          | 4.286         | 4     | 4.714          | 5      |

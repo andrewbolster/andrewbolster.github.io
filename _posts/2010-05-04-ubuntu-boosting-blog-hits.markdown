@@ -1,21 +1,25 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-05-04 11:26:13+00:00
 layout: post
 slug: ubuntu-boosting-blog-hits
-title: Ubuntu Boosting Blog Hits
-categories:
-- Commentary
 tags:
-- '10.04'
-- analytics
-- google
+- Ubuntu
+- seo strategies
+- keyword analysis
+- ubuntu
+- seo
 - lucid
 - lynx
-- seo
-- Ubuntu
+- analytics
+- '10.04'
+- google
+title: Ubuntu Boosting Blog Hits
 ---
+
 
 I had a bit of a surprise logging into my weekly stats-fest that is my [Google Analytics](http://en.wikipedia.org/wiki/Google%20Analytics) account; 300% rise in Search Based traffic. My daily traffic is meagre to say the least but still, to see such a jump on the week-on-week numbers is always a good thing.
 

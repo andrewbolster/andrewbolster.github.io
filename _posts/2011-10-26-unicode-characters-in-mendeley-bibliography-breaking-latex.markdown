@@ -1,24 +1,30 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2011-10-26 13:45:59+00:00
 layout: post
 slug: unicode-characters-in-mendeley-bibliography-breaking-latex
-title: Unicode Characters in Mendeley Bibliography Breaking Latex?
-categories:
-- Instructional
 tags:
-- bibtex
 - code
-- eclipse
-- latex
 - mendeley
+- project building
+- eclipse
 - pdflatex
-- tex
+- unicode characters
 - texclipse
-- unicode
+- latex
 - xelatex
+- whitespace characters
+- unicode
+- text file encoding
+- tex
+- reference management
+- bibtex
+title: Unicode Characters in Mendeley Bibliography Breaking Latex?
 ---
+
 
 [![]({{ BASE_PATH}}/uploads/2011/10/oem.png)]({{ BASE_PATH }}/2011/10/unicode-characters-in-mendeley-bibliography-breaking-latex/oem/)I use Mendeley for my reference and citation management.
 

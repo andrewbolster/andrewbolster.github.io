@@ -1,21 +1,25 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-06-01 12:31:11+00:00
 layout: post
 slug: customised-user-directories-in-ubuntu
-title: Customised User Directories in Ubuntu
-categories:
-- Instructional
 tags:
-- bash
-- desktop
-- dropbox
-- linux
-- shell
 - Ubuntu
+- linux
 - workstation
+- bash
+- file management
+- desktop
+- configuration
+- shell
+- dropbox
+- customization
+title: Customised User Directories in Ubuntu
 ---
+
 
 I've been doing alot of messing around in Ubuntu recently and there are lots of tweaks I like to make. One of them being to show the contents of my home folder as my desktop; I don't need any more pointless folders....
 

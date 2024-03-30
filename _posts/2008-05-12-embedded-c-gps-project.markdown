@@ -1,19 +1,30 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: false
 date: 2008-05-12 13:10:00+00:00
 layout: post
 slug: embedded-c-gps-project
-title: Embedded C GPS Project
-categories:
-- Instructional
 tags:
-- C
 - code
-- Embedded
+- GPS unit
 - GPS
+- NMEA
+- character buffer
+- checksum
+- RS232
+- PIC
+- hex conversion
+- interrupts
+- string manipulation
+- data parsing
+- C
 - LCD
+- Embedded
+title: Embedded C GPS Project
 ---
+
 
 Afternoon folks, I'm supposed to be studying but dont have the heart to, so I'm documenting a recent project from Uni.  
   

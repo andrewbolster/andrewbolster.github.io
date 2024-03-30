@@ -1,8 +1,14 @@
 ---
-layout: post
-title: Wrangling NI House Price Index Data
 date: 2022-03-27 19:49 +0000
+layout: post
+tags:
+- Government Open Data
+- Data Analysis
+- Data Wrangling
+- NI House Price Index
+title: Wrangling NI House Price Index Data
 ---
+
 
 # Data Wrangling NI House Price Index Data
 

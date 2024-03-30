@@ -1,20 +1,30 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: false
 date: 2009-07-13 08:49:40+00:00
 layout: post
 slug: delayed-post-how-i-installed-windows-7-from-usb-hdd
-title: 'Delayed Post: How I Installed Windows 7 From USB HDD'
-categories:
-- Instructional
 tags:
-- HDD
 - ISO
-- laptop
-- lenovo
-- USB
 - Windows 7
+- WinCDEmu
+- Linux Distros
+- formatting partitions
+- HDD
+- lenovo
+- laptop
+- booting from USB
+- X11 server
+- command line networking
+- USB
+- MathML
+- SSH
+- Math Input Panel
+title: 'Delayed Post: How I Installed Windows 7 From USB HDD'
 ---
+
 
 As was noted in my [LENOVO ROCKS]({{ BASE_PATH }}/?p=151) post, I recieved a virgin hard drive for a laptop with no disk drives.
 

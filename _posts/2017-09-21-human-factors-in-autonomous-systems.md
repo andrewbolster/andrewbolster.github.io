@@ -1,16 +1,28 @@
 ---
 author: admin
-layout: post
-title: Human Factors related to Trusted Operation of Autonomous Systems
 date: 2017-09-21 19:05:52+0100
-tags: 
- - phd
- - ai
- - ml
- - autonomous systems
- - research
-
+layout: post
+tags:
+- human factors
+- complexity
+- user experience design
+- human cognition
+- phd
+- autonomy
+- adaptive automation
+- ml
+- decision support systems
+- information overload
+- research
+- HCI
+- ai
+- human-machine interfaces
+- autonomous systems
+- distributed decision making
+- cognitive biases
+title: Human Factors related to Trusted Operation of Autonomous Systems
 ---
+
 # Preface 
 
 It's nearly a year to the day since I passed my Ph.D Viva (And since I last updated the blog...), so I thought 
@@ -29,6 +41,7 @@ impact human/AI teams.
 
 ---
 
+
 This [work](https://github.com/andrewbolster/thesis/releases/download/v1.0/Thesis.pdf) has largely considered autonomous systems as entities of wider
 systems, implicitly involving human operators/agents in some part of the
 desired operation. We refer to these systems as Autonomous Collaborative 
@@ -41,7 +54,13 @@ the ACS and the human operator / team of operators. [Cummings et. al. (2010)](ht
 the main challenges to Human Supervisory Control (HSC), summarised below:
 
 Information Overload
---------------------
+---
+---
+---
+---
+---
+---
+--
 
 Operator efficiency exhibits an optimum at moderate levels of cognitive
 engagement, above which cognitive ability is overloaded and performance
@@ -51,7 +70,13 @@ desensitised to changing factors. *However, predicting this point of
 over-saturation is an open psychophysiological research problem.*
 
 Adaptive Automation
--------------------
+---
+---
+---
+---
+---
+---
+-
 
 Automation is well tailored to consistent levels of activity. This is
 quite simply not the case in many domains. Particularly in defence and
@@ -82,7 +107,16 @@ Does the autonomous system or the human decide to change LOA ? What LOAs are
 appropriate for what circumstances?*
 
 Distributed Decision Making
----------------------------
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
 
 In a modern, non-hierarchical, often distributed or cellular military
 management system (Network Centric Warfare doctrine for example), tools
@@ -116,7 +150,10 @@ consensus on whether it is advantageous or not, and what magnitude of
 operational delta is introduced, if any.*
 
 Complexity
-----------
+---
+---
+---
+-
 
 Beyond simple Information Overload, increasing complexity of information
 presented to operators is having a negative effect on operational
@@ -137,7 +174,20 @@ these representations of the environment rather than remaining engaged
 in the environment.*
 
 Cognitive Biases and Failing Heuristics
----------------------------------------
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
 
 In many areas, operators are required to make rapid decisions with
 imperfect information, driven by massively increased information
@@ -185,7 +235,10 @@ systems can match or exceed the detection rates of their human
 counterparts.
 
 Conclusions
------------
+---
+---
+---
+--
 
 The separate fields of automation and user experience design have been
 running in parallel for several years. However, there will soon come a

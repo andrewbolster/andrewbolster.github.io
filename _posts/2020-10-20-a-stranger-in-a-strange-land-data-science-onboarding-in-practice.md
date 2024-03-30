@@ -1,9 +1,38 @@
 ---
-layout: post
-title: 'A Stranger in a Strange Land: Data Science Onboarding In Practice'
-typora-root-url: "C:\\Users\\me\\Documents\\GitHub\\andrewbolster.github.io\\"
 date: 2020-10-20 11:03 +0100
+layout: post
+tags:
+- Machine Learning
+- Innovation
+- Data Workflow
+- Philosophies
+- Data Science
+- Business Context
+- Strategy
+- Jupyter Notebooks
+- Data Glossary
+- Data Management
+- Complex Data
+- Plotly Express
+- Atlassian Confluence
+- Team Leadership
+- Pandas
+- Data Catalogue
+- AWS
+- Continuity
+- Data Analysis
+- Modern Data Science Workflow
+- Data Scientists
+- Production Data
+- Business Intelligence
+- Communication
+- Azure
+- Artificial Intelligence
+- Engineering
+title: 'A Stranger in a Strange Land: Data Science Onboarding In Practice'
+typora-root-url: C:\Users\me\Documents\GitHub\andrewbolster.github.io\
 ---
+
 
 > This talk was originally prepared for the 2020 [Northern Ireland Developers Conference](https://www.nidevconf.com/sessions/andrew-bolster/), held in lockdown and pre-recorded in the McKee Room in [Farset Labs](https://www.farsetlabs.org.uk/)
 

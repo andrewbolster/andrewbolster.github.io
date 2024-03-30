@@ -1,13 +1,22 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2012-01-05 17:29:31+00:00
 layout: post
 slug: my-guide-to-my-own-favourite-ubuntu-setup
+tags:
+- Ubuntu
+- Chrome Beta
+- Dropbox
+- TeXLive
+- Etckeeper
+- Vim
+- Gnome Shell
 title: My Guide To My Own Favourite Ubuntu Setup
-categories:
-- Instructional
 ---
+
 
 This is my own self-indulgant reminder for how to do the things I like. I'll keep adding to this as I think of them.
 

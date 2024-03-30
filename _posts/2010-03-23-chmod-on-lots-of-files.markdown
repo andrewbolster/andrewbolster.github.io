@@ -1,20 +1,24 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-03-23 22:42:20+00:00
 layout: post
 slug: chmod-on-lots-of-files
-title: Chmod on lots of files
-categories:
-- Instructional
 tags:
-- bash
-- chown
-- Embedded
 - linux
 - nas
+- chown
 - workstation
+- bash
+- file management
+- troubleshooting
+- permissions
+- Embedded
+title: Chmod on lots of files
 ---
+
 
 My lil-NAS has plenty of space but is maddeningly underpowered.
 

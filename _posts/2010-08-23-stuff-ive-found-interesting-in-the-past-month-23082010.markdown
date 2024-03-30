@@ -1,13 +1,29 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-08-23 09:04:08+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23082010
+tags:
+- Linux
+- Office Culture
+- Automation
+- Web Utilities
+- Technology
+- Gadgets
+- Sound Effects
+- Security
+- Social Networking
+- Economy
+- Taxation
+- Music
+- Hacking
+- Internet
 title: Stuff I've found interesting in the past month - 23/08/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Why PulseAudio?](http://www.vidarholen.net/contents/blog/?p=21)
   
@@ -23,7 +39,8 @@ categories:
 
   * [U.S. Is Bankrupt and We Don't Even Know It: Laurence Kotlikoff - Bloomberg](http://www.bloomberg.com/news/2010-08-11/u-s-is-bankrupt-and-we-don-t-even-know-commentary-by-laurence-kotlikoff.html) -_ "So the IMF is saying that closing the U.S. fiscal gap, from the revenue side, requires, roughly speaking, an immediate and permanent doubling of our personal-income, corporate and federal taxes as well as the payroll levy set down in the Federal Insurance Contribution Act."  
   
-[---]  
+[---
+]  
   
 "This is what happens when you run a massive Ponzi scheme for six decades straight, taking ever larger resources from the young and giving them to the old while promising the young their eventual turn at passing the generational buck."  
   

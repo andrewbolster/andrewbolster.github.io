@@ -1,9 +1,29 @@
 ---
-layout: post
-title: Unfeeling Fire
-tags: autonomy, ai, ml, phd
 category: presentation
+layout: post
+tags:
+- phd
+- defense
+- cyber security
+- machine learning
+- ml
+- technology
+- autonomous weapons
+- surveillance
+- autonomy
+- unmanned systems
+- intelligence
+- military
+- drones
+- digital dna
+- robots
+- data science
+- ethics
+- ai
+- Artificial Intelligence
+title: Unfeeling Fire
 ---
+
 
 __This is an approximate transcript from my July 2018 talk at Digital DNA's AI NI Community Panel on wether the use of AI in defence and surveillence was inherently evil__
 

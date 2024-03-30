@@ -1,17 +1,23 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2008-05-13 21:57:00+00:00
 layout: post
 slug: eee-update-etc
-title: EEE Update etc
-categories:
-- Commentary
 tags:
+- travel blogging
 - eee
+- fast delivery
+- cycling
 - family
+- ads
 - hardware
+- online shopping
+title: EEE Update etc
 ---
+
 
 [![](http://www.todomodding.com/wp-content/uploads/2008/03/face_black.jpg)](http://www.todomodding.com/wp-content/uploads/2008/03/face_black.jpg)
 Just got a call from home saying that my EEE was delivered today, now thats what i call super fast delivery, kudos to [clove](http://www.clove.co.uk/) for being so speedy

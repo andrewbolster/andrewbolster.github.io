@@ -1,13 +1,22 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2013-01-22 17:24:19+00:00
 layout: post
 slug: the-pitch
+tags:
+- Charitable Projects
+- Storytelling
+- Innovation
+- Small Business
+- Entrepreneurship
+- Community Building
+- Creative Writing
 title: '"The Pitch"'
-categories:
-- Commentary
 ---
+
 
 >Open on Industrial Stairwell, Camera pans, looking up into the darkness. A soft, diffuse, but intimidating light creeps over the top step. With an apprehensive cadence, the viewer lollups up the staircase, turning as ceiling gives way to floor to peer over the long, dark, hardwood that makes up the expanse of floor, (beaten worn by industrial revolution, then caked in dust, then scraped clean in sections by Aeron chairs, ping-pong tables and feature lightning, before being scraped back over again by the repo-men), towards five chairs, the mix of which look as if they belong in a time-travellers' garage
 

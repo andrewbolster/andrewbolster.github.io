@@ -1,15 +1,57 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: false
 date: 2008-01-07 15:29:00+00:00
 layout: post
 slug: ces-2008
-title: CES 2008
-categories:
-- Commentary
 tags:
+- Linux
+- Olympics
+- Bluetooth
+- Slingbox
+- Pandora
+- Visual recognition
+- OpenID
+- Sony Ericsson
+- Google Calendar
+- Google-phile
+- Video Search
+- Surface
+- Myspace
+- Vegas
+- Silverlight
+- GCal
+- XBox
+- XviD
+- RSS feeds
+- Gootube
+- Winamp
+- Voice recognition
+- VLC
+- Facebook
+- Zune Social
+- Vista
+- iTunes
+- IPTV
+- CES keynote
+- Slash
+- Bill Gates
+- Google Mail
+- IM
+- Mobile search
+- Picasa
+- Symbian
+- DivX
+- Twitter
+- Google
+- Ford Sync
+- Opera
 - google
+title: CES 2008
 ---
+
 
 Ok, its been a bit quiet in the old experimentalism, but im just taking in [Bill Gates' CES keynote](http://wm.istreamplanet.com/customers/ms/01062008_300.asx), and there are a few things i wanted to comment on.
 

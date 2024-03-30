@@ -1,22 +1,28 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-07-08 19:53:40+00:00
 layout: post
 slug: intel-4965-poor-wireless-performance-under-ubuntu
-title: 'Intel 4965: Poor wireless performance under Ubuntu'
-categories:
-- Instructional
 tags:
-- compat-wireless
-- drivers
-- intel
-- iwlagn
-- lenovo
 - Ubuntu
+- open AP
 - wifi
+- syslog
+- lenovo
+- networking
+- iwlagn
+- linux-backports-modules
+- compat-wireless
+- intel
+- AP
 - Wireless
+- drivers
+title: 'Intel 4965: Poor wireless performance under Ubuntu'
 ---
+
 
 I had an incident recently where the [Windows 7](http://www.youtube.com/watch?v=XaqaDZZ_P0g) side of my laptop connected easily to an open AP, but the [Ubuntu 10.04](http://releases.ubuntu.com/lucid/) (or [9.04](http://releases.ubuntu.com/9.04/), tried both) wouldn't, with the [Intel Iwlagn](http://wiki.debian.org/iwlagn) drivers reporting in syslog a [deauth (reason=6), basically the card spoke too soon.](http://steev.wordpress.com/2010/03/31/deauthentication-reason-codes/) I eventually found the solution.
 

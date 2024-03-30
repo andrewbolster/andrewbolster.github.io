@@ -4,8 +4,28 @@ comments: false
 date: 2009-06-28 11:39:20+00:00
 layout: post
 slug: change-of-plans
+tags:
+- programming languages
+- Scala
+- scripting languages
+- Java
+- random number generator
+- Ruby
+- C#
+- experience level
+- Perl
+- Project Euler
+- interpreted languages
+- PHP
+- C++
+- JavaScript
+- compiled languages
+- C
+- Bash
+- Python
 title: Change Of Plans.....
 ---
+
 
 My attention span isnt really that great with projects, so the thought of doing the entire [Project Euler](http://projecteuler.net/) in several different languages was never realistically getting off the ground.  (FYI [Problems All On One Page](http://projecteuler.net/index.php?section=view_all) )
 

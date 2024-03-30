@@ -1,8 +1,21 @@
 ---
-layout: post
-title: 'Counting Tabs and Background Tasks: Taunting Goodharts Demon'
 date: 2021-07-22 10:58 +0000
+layout: post
+tags:
+- Windows
+- MQTT
+- Influx
+- Firefox
+- Grafana
+- Tabs
+- API
+- Task Scheduler
+- Scripting
+- Python
+- Crontab
+title: 'Counting Tabs and Background Tasks: Taunting Goodharts Demon'
 ---
+
 This was going to be a really quick post yesterday, but I've spent the guts of a day (between actual work) just getting the _simplest_ bit of this working. 
 
 ## The intent

@@ -1,13 +1,24 @@
 ---
 author: admin
+categories:
+- Link-Roll
 comments: true
 date: 2010-06-16 05:12:26+00:00
 layout: post
 slug: shared-items-16062010
+tags:
+- Freelancing
+- Backup
+- Virtualization
+- Android
+- Cloud
+- Client Acquisition
+- Explore
+- Travel
+- Kayak
 title: Shared Items - 16/06/2010
-categories:
-- Link-Roll
 ---
+
 
   * [Back Up Your Entire Android Phone to the Cloud [Backup]](http://feeds.gawker.com/~r/lifehacker/full/~3/2QGkzdXHEk4/back-up-your-entire-android-phone-to-the-cloud)
   

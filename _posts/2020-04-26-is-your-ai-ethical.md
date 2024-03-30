@@ -1,8 +1,18 @@
 ---
-layout: post
-title: Is Your AI Ethical?
 date: 2020-04-26 21:16 +0100
+layout: post
+tags:
+- Ethical AI
+- Corporate Ethics
+- Bias in AI
+- Machine Learning
+- Data Ethics
+- Artificial Intelligence
+- AI Ethics
+- Inclusivity
+title: Is Your AI Ethical?
 ---
+
 
 _Originally posted in [RTInsights](https://www.rtinsights.com/is-your-ai-ethical/)_
 

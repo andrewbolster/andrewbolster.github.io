@@ -1,19 +1,30 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2010-07-24 16:55:38+00:00
 layout: post
 slug: citrix-web-client-with-ubuntu
-title: Citrix Web Client with Ubuntu
-categories:
-- Instructional
 tags:
-- citrix
-- networking
-- remote
-- security
 - Ubuntu
+- Certificate Authority
+- Linux
+- Virtualization
+- Firefox
+- networking
+- Google Chrome
+- Networking
+- Internet Explorer
+- Citrix
+- Security
+- citrix
+- remote
+- Remote Access
+- security
+title: Citrix Web Client with Ubuntu
 ---
+
 
 [![Citrix Reciever Logo]({{ BASE_PATH}}/uploads/2010/07/CRlogo.jpg)]({{ BASE_PATH}}/uploads/2010/07/CRlogo.jpg)Ubuntu is one of those polarising technologies; Its really easy to use on a recreational basis, or as part of a institution/business wide rollout, but heartbreakingly awkward to use 'alone' within an entrenched business setting.
 

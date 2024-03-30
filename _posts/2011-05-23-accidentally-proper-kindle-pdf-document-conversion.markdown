@@ -1,19 +1,25 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2011-05-23 13:25:13+00:00
 layout: post
 slug: accidentally-proper-kindle-pdf-document-conversion
-title: Accidentally Proper Kindle PDF Document Conversion
-categories:
-- Instructional
 tags:
-- amazon
+- shell script
 - conversion
-- document
-- kindle
+- tutorial
+- command line
+- amazon
 - pdf
+- kindle
+- email delivery
+- sendemail
+- document
+title: Accidentally Proper Kindle PDF Document Conversion
 ---
+
 
 ![Example of standard PDF 'conversion']({{ BASE_PATH}}/uploads/2011/05/IMG_20110523_140017-225x300.jpg)
 

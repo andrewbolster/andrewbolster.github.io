@@ -1,19 +1,27 @@
 ---
 author: admin
+categories:
+- Commentary
 comments: true
 date: 2010-03-31 13:37:20+00:00
 layout: post
 slug: kids-sing-portal-still-alive
-title: Kids Sing Portal "Still Alive"
-categories:
-- Commentary
 tags:
-- game
-- marketing
+- Jonathan Coulton
+- video games
 - portal
-- still alive
 - video
+- game
+- children's choir
+- marketing
+- music
+- augmented reality
+- Portal 2
+- viral marketing
+- still alive
+title: Kids Sing Portal "Still Alive"
 ---
+
 
 {% include youtubePlayer.html id="6m5TuxdkfkE" %}
 

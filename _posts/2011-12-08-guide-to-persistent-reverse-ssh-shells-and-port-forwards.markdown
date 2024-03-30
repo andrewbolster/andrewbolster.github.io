@@ -1,24 +1,30 @@
 ---
 author: admin
+categories:
+- Instructional
 comments: true
 date: 2011-12-08 13:41:41+00:00
 layout: post
 slug: guide-to-persistent-reverse-ssh-shells-and-port-forwards
-title: Guide to Persistent Reverse SSH Shells and Port Forwards
-categories:
-- Instructional
 tags:
-- bash
 - code
-- forwarding
-- linux
-- networking
-- nix
-- port
-- ssh
 - tunnel
+- linux
+- Ubuntu
+- bash
+- ssh
+- port forwarding
+- nix
 - unix
+- Unix
+- networking
+- forwarding
+- port
+- reverse shell
+- ssh tunnel
+title: Guide to Persistent Reverse SSH Shells and Port Forwards
 ---
+
 
 Idiot proof setup for persistent reverse shells / port forwards (same thing) under a Ubuntu VM remote and my Dreamhost server, but should apply to nearly\* all \*nix's
 
