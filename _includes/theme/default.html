@@ -14,8 +14,8 @@
 	<meta name="author" content="{{ site.author.name }}">
 	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
 	<link href='{{ ASSET_PATH }}/font/foundation-icons/foundation-icons.css' rel="stylesheet">
-  <link href="{{ site.author.gplus}}" rel="author">
-  <link href="{{ site.author.gplus}}" rel="publisher">
+  <link href="{{ site.author.about}}" rel="author">
+  <link href="{{ site.production_url}}" rel="publisher">
 	<link href="//feeds.feedburner.com/{{ site.author.feedname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script async src="{{ASSET_PATH}}/js/infinite-jekyll.js"></script>
@@ -29,7 +29,7 @@
   </script>
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:creator" content="{{ site.author.name }}">
+  <meta name="twitter:creator" content="{{ site.author.twitter }}">
   {% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}">
   {% else %}
@@ -65,13 +65,12 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
             <li><a href="https://www.facebook.com/{{ site.author.facebook }}"><i style='font-size:1.5em' class="fi-social-facebook"></i></a></li>
-            <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i style='font-size:1.5em' class="fi-social-linkedin"></i></a></li>
-            <li><a href="https://www.twitter.com/{{ site.author.twitter }}"><i style='font-size:1.5em' class="fi-social-twitter"></i></a></li>
-            <li><a href="https://www.github.com/{{ site.author.github }}"><i style='font-size:1.5em' class="fi-social-github"></i></a></li>
+            <li><a href="https://linkedin.com/in/{{ site.author.linkedin }}"><i style='font-size:1.5em' class="fi-social-linkedin"></i></a></li>
+            <li><a href="https://twitter.com/{{ site.author.twitter }}"><i style='font-size:1.5em' class="fi-social-twitter"></i></a></li>
+            <li><a href="https://github.com/{{ site.author.github }}"><i style='font-size:1.5em' class="fi-social-github"></i></a></li>
             <li><a href="https://www.foursquare.com/{{ site.author.foursquare }}"><i style='font-size:1.5em' class="fi-social-foursquare"></i></a></li>
-            <li><a href="https://www.flickr.com/{{ site.author.flickr }}"><i style='font-size:1.5em' class="fi-social-flickr"></i></a></li>
+            <li><a href="https://www.flickr.com/photos/{{ site.author.flickr }}"><i style='font-size:1.5em' class="fi-social-flickr"></i></a></li>
             <li><a href="https://www.stackoverflow.com/users/{{ site.author.stackoverflow }}"><i style='font-size:1.5em' class="fi-social-stack-overflow"></i></a></li>
-            <li><a href="{{ site.author.gplus }}"><i style='font-size:1.5em' class="fi-social-google-plus"></i></a></li>
             <li><a href="https://steamcommunity.com/id/{{ site.author.steam }}"><i style='font-size:1.5em' class="fi-social-steam"></i></a></li>
             <li><a href="https://open.spotify.com/user/{{ site.author.spotify }}"><i style='font-size:1.5em' class="fi-social-spotify"></i></a></li>
             <li><a href="https://feeds.feedburner.com/{{ site.author.feedname }}"><i style='font-size:1.5em' class="fi-rss"></i></a></li>
@@ -99,7 +98,7 @@
 				<p class="licence address">
         Published by <span class="author vcard"><span class="fn">{{site.author.name}}</span></span>, <time class="updated" datetime={{ site.time }}> {{ site.time | date: '%Y' }}.</time>
 
-					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+					Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a>.
 				</p>
 			</div><!-- unit-foot-inner -->
 		</div><!-- unit-foot -->
@@ -113,8 +112,6 @@
 		fjs.parentNode.insertBefore(js, fjs);
 		};
 	load('https://platform.twitter.com/widgets.js', 'tweetjs');
-  // load('https://apis.google.com/js/plusone.js', 'gplus1js'); // Checkout http://j.mp/ApDgMr for usage html for this is <div class="g-plusone" data-size="medium"></div>
-	// load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk'); // Checkout http://j.mp/wZw2xR for using open graph protorol html for this is <div class="fb-like" data-href="{{ page.url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
 	}(document, 'script'));
 </script>
 <script>
