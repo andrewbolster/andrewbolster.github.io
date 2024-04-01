@@ -60,6 +60,10 @@ kramdown:
 production_url: https://andrewbolster.info
 enforce_ssl: andrewbolster.info
 
+atom_path: feed.atom
+rss_path: feed.rss
+feed_items: 20
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB:
@@ -105,8 +109,8 @@ JB:
   archive_path: /archive.html
   categories_path: /categories.html
   tags_path: /tags.html
-  atom_path: /atom.xml
-  rss_path: /rss.xml
+  atom_path: /feed.atom
+  rss_path: /feed.rss
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
