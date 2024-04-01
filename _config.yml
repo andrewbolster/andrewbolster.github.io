@@ -12,7 +12,6 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-feed
 whitelist:
   - jemoji
   - jekyll-coffeescript
@@ -21,7 +20,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-feed
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
@@ -112,7 +110,7 @@ JB:
   categories_path: /categories.html
   tags_path: /tags.html
   atom_path: /feed.atom
-  rss_path: /rss.xml
+  rss_path: /feed.rss
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
