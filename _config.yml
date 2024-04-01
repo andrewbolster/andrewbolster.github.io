@@ -60,9 +60,9 @@ kramdown:
 production_url: https://andrewbolster.info
 enforce_ssl: andrewbolster.info
 
-feed:
-  posts_limit: 20
-  excerpt_only: true
+atom_path: feed.atom
+rss_path: feed.rss
+feed_items: 20
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
