@@ -42,7 +42,7 @@ author:
   spotify: 1144471047
   tagline: Senior R&D Manager (Data Science) at Synopsys Software Integrity Group and Treasurer @ Bsides Belfast and NI OpenGovernment Network
   profileimg: "/img/bolster.png"
-  gplus: "https://plus.google.com/+AndrewBolster/"
+  about: "https://andrewbolster.info/about/"
 
 markdown: kramdown
 kramdown:
