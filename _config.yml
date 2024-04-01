@@ -60,6 +60,7 @@ kramdown:
 production_url: https://andrewbolster.info
 enforce_ssl: andrewbolster.info
 
+tags_path: tags.html
 atom_path: feed.atom
 rss_path: feed.rss
 feed_items: 20
