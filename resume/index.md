@@ -36,35 +36,39 @@ Data Science, Software Engineering, Autonomous and Intelligent Systems Engineeri
 
 ### Professional
 
-Public Speaking, Presentation Developement, Collaboration Facilitation, Client Relations, Event Mgmt., Project Mgmt., Marketing Strategy, Social Engagement Strategy, Operational Workflow Development, STEM Outreach.
+Public Speaking, Presentation Development, Collaboration Facilitation, Client Relations, Event Mgmt., Project Mgmt., Marketing Strategy, Social Engagement Strategy, Operational Workflow Development, STEM Outreach.
 
 ## Experience
 
-### Synopsys Software Integrity Group, Belfast (Formerly WhiteHat Security)
+### Synopsys Software Integrity Group, Belfast (Via Acquisitions)
 
-#### Sr R&D Manager (Synopsys) (2022 - Present)
+#### Senior R&D Manager [Synopsys] (2022 - Present)
 
-#### Data Science Engineering Manager (NTT Application Security) (2020 - 2022)
+#### Data Science Engineering Manager [NTT Application Security] (2020 - 2022)
 
-#### Data Science Team Lead (NTT Application Security) (2019 - 2020)
+#### Data Science Team Lead [WhiteHat Security] (2019 - 2020)
 
 Initially hired as first Team lead, 1y promotion to Engineering Manager responsible for management, vision, strategy and technology.
 
-Building a Data Science capability from scratch in an established cyber security player.
+Building a Data Science capability from scratch in an established cyber security leader.
 
 Building and growing the Data Science team members in ML methodology and technology stack.
 
 Aligning with cross-team leaders to find problems that can be solved with Data Science processes.
 
-Deliverying and Monitoring Machine Learning solutions to production.
+Working with cybersecurity leaders on feedback, risk, onboarding and training methodologies for ML/SME feature co-design.
+
+"Data Tzar" around Data Privacy, Confidentially, Mobility and Cataloging.
+
+AI tools review board and primary delivery partner for all AI/LLM derives tooling and capabilities across the organisation.
+
+Delivering and Monitoring Machine Learning solutions to production.
 
 Providing detailed and accessible documentation and explanation of advanced statistical and data science practices.
 
-Architecting solutions in line with scoped justifications.
-
 Evaluate/set architectural standards for the whole ML projects in working with the Chief Architect.
 
-UK Immigration Liaison
+UK Home Office Immigration Liaison
 
 ### Alert Logic, Belfast
 
