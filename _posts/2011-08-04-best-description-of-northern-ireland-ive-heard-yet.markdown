@@ -48,9 +48,9 @@ On the[ site where I do most of my work](http://www.reddit.com), I came across a
 ](http://www.reddit.com/user/HuxleyOrwell)**
 
 As a small adjoinder, I feel that this comment/correction is also appropriate.
- 
+
 > _"until you have Protestant Unionist and Catholic Republican gangs and paramilitaries attacking each other and blowing the shit out of each other."_
- 
+
 > Disagree with this... the Republican gangs mainly focused on attacking police and army personnel (with the occasional civilian 'mistake' tossed in for good measure. These mistakes ranged from single people to bomb and gun attacks on hotels etc were many were killed and injured.)
 
 > The Loyalist gangs sprang up to 'protect' their areas from IRA attacks. Much of this protection involved attacking innocent Catholics who wandered into the wrong areas and got picked off, or blowing up Catholic pubs and bars.

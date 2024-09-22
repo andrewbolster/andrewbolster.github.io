@@ -44,7 +44,7 @@ On reflection this just doesn't cover it.
 
 I've recently been playing with the concepts of [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing) and [Code Coverage](http://stackoverflow.com/questions/195008/what-is-code-coverage-and-how-do-you-measure-it), and [Continuous Integration](http://martinfowler.com/articles/continuousIntegration.html) in scientific computing, constantly endeavouring to maintain logical integrity of the simulation systems I operate as part of my research, so refactoring this platitude into pseudocode (i.e. OO Python), we can get...
 
-    
+
     if self.can_do():
         self.do();
     else:
@@ -58,7 +58,7 @@ The ability to take an internalised process, extract the isolated kernel of 'exp
 
 If I was to now re-architect that platitude for the greatest technical, social, and cultural benefits, I'd make a few structural changes.
 
-    
+
     while():
         if self.can_teach():
             self.teach()

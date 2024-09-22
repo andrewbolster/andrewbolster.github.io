@@ -12,13 +12,13 @@ title: Wrangling NI House Price Index Data
 
 # Data Wrangling NI House Price Index Data
 
-This is a 'messy' 'blog post' that's just a braindump of a notebook to step through [NI House Price Index](https://www.nisra.gov.uk/statistics/housing-community-and-regeneration/northern-ireland-house-price-index) datasets I was playing around with. 
+This is a 'messy' 'blog post' that's just a braindump of a notebook to step through [NI House Price Index](https://www.nisra.gov.uk/statistics/housing-community-and-regeneration/northern-ireland-house-price-index) datasets I was playing around with.
 
-It's mostly code, so if you were here from some 'insight', feck aff. 
+It's mostly code, so if you were here from some 'insight', feck aff.
 
 There is **no** analysis here, this is **just** data wrangling.
 
-TLDR As always, Government Open Data has over the years gone from 'non-existent' to 'garbeled' to 'inconsistent' and I feel is now in the stage of 'consistently inconsistent', which is progress in my eyes. 
+TLDR As always, Government Open Data has over the years gone from 'non-existent' to 'garbeled' to 'inconsistent' and I feel is now in the stage of 'consistently inconsistent', which is progress in my eyes.
 
 # Preamble Code, move on.
 
@@ -40,8 +40,8 @@ base_soup = BeautifulSoup(base_content)
 for a in base_soup.find_all('a'):
     if a.attrs.get('href','').endswith('xlsx'):
         source_name, source_url = a.contents[1],a.attrs['href']
-        
-source_df = pd.read_excel(source_url, sheet_name = None) # Load all worksheets in 
+
+source_df = pd.read_excel(source_url, sheet_name = None) # Load all worksheets in
 
 ```
 
@@ -163,7 +163,7 @@ source_df['Contents']
 
 
 ### Fix the Contents sheet to correctly reflect the Worksheet names
-And fix the table headers and sheet-titles while we're at it. 
+And fix the table headers and sheet-titles while we're at it.
 
 
 ```python
@@ -418,53 +418,53 @@ source_df['Table 1']
 
 ```python
 def basic_cleanup(df:pd.DataFrame, offset=1)->pd.DataFrame:
-    df = df.copy() 
+    df = df.copy()
     # Re-header from row 1 (which was row 3 in excel)
     new_header = df.iloc[offset]
     df = df.iloc[offset+1:]
     df.columns = new_header
-    
+
     # remove 'NaN' trailing columns
     df = df[df.columns[pd.notna(df.columns)]]
-    
-    # 'NI' is a usually hidden column that appears to be a checksum; 
+
+    # 'NI' is a usually hidden column that appears to be a checksum;
     #if it's all there and all 100, remove it, otherwise, complain.
-    # (Note, need to change this 'if' logic to just 'if there's a 
+    # (Note, need to change this 'if' logic to just 'if there's a
     # column with all 100's, but cross that bridge later)
     if 'NI' in df:
         assert df['NI'].all() and df['NI'].mean() == 100, "Not all values in df['NI'] == 100"
         df = df.drop('NI', axis=1)
-        
-    # Strip rows below the first all-nan row, if there is one 
+
+    # Strip rows below the first all-nan row, if there is one
     # (Otherwise this truncates the tables as there is no
     # idxmax in the table of all 'false's)
     if any(df.isna().all(axis=1)):
         idx_first_bad_row = df.isna().all(axis=1).idxmax()
         df = df.loc[:idx_first_bad_row-1]
-    
+
     # By Inspection, other tables use 'Sale Year' and 'Sale Quarter'
     if set(df.keys()).issuperset({'Sale Year','Sale Quarter'}):
         df = df.rename(columns = {
             'Sale Year':'Year',
             'Sale Quarter': 'Quarter'
         })
-        
+
     # For 'Year','Quarter' indexed pages, there is an implied Year
     # in Q2/4, so fill it downwards
     if set(df.keys()).issuperset({'Year','Quarter'}):
         df['Year'] = df['Year'].astype(float).fillna(method='ffill').astype(int)
-        
+
         # In Pandas we can represent Y/Q combinations as proper datetimes
-        #https://stackoverflow.com/questions/53898482/clean-way-to-convert-quarterly-periods-to-datetime-in-pandas 
+        #https://stackoverflow.com/questions/53898482/clean-way-to-convert-quarterly-periods-to-datetime-in-pandas
         df.insert(loc=0,
                   column='Period',
                   value=pd.PeriodIndex(df.apply(lambda r:f'{r.Year}-{r.Quarter}', axis=1), freq='Q')
         )
-    
-    # reset index, try to fix dtypes, etc, (this should be the last 
+
+    # reset index, try to fix dtypes, etc, (this should be the last
     # operation before returning!
-    df = df.reset_index(drop=True).infer_objects()   
-    
+    df = df.reset_index(drop=True).infer_objects()  
+
     return df
 
 df = basic_cleanup(source_df['Table 1'])
@@ -1021,7 +1021,7 @@ len(dest_df), len([k for k in source_df.keys() if k.startswith('Table') and k no
 
 
 
-6 down, 26 to go. 
+6 down, 26 to go.
 
 ### Table 3: NI HPI & Standardised Price Statistics by New/Existing Resold Dwelling Type Q4 2021
 
@@ -1270,7 +1270,7 @@ len(dest_df), len([k for k in source_df.keys() if k.startswith('Table') and k no
 
 ### Table 4: Number of Verified Residential Property Sales Q1 2005 - Q4 2021
 
-Table 4 is not looking great 
+Table 4 is not looking great
 
 
 ```python
@@ -1438,13 +1438,13 @@ df
 
 
 
-Of note; new offset for the header row at index 3 instead of index 1, due to lots of fluff at the start that is probably not going to be consistent between reports so that will almost certainly mess up my day in a few months. 
+Of note; new offset for the header row at index 3 instead of index 1, due to lots of fluff at the start that is probably not going to be consistent between reports so that will almost certainly mess up my day in a few months.
 
-Also, **Quarter dates** have now been shifted into 'Quarter 1' instead of 'Q1', which ... meh 🤷‍♂️. More Egrigiously, it looks like **'\n' has leaked into some Sales Year values**. Funtimes. 
+Also, **Quarter dates** have now been shifted into 'Quarter 1' instead of 'Q1', which ... meh 🤷‍♂️. More Egrigiously, it looks like **'\n' has leaked into some Sales Year values**. Funtimes.
 
 Finally, and possibly most annoying, the introduction of **partial total lines** is going to throw things off, and this isn't a validation study, to stuff-em
 
-In an effort not to over-complicate `basic_cleanup`, we can try and clean these table specific issues first; 
+In an effort not to over-complicate `basic_cleanup`, we can try and clean these table specific issues first;
 
 
 ```python
@@ -1622,7 +1622,7 @@ df=df[~df.iloc[:,1].str.contains('Total').fillna(False)]
 # Lose the year new-lines (needs astype because non str lines are
 # correctly inferred to be ints, so .str methods nan-out
 with pd.option_context('mode.chained_assignment',None):
-    df.iloc[:,0]=df.iloc[:,0].astype(str).str.replace('\n','') 
+    df.iloc[:,0]=df.iloc[:,0].astype(str).str.replace('\n','')
 ```
 
 
@@ -1973,7 +1973,7 @@ def cleanup_table_4(df):
     # Lose the year new-lines (needs astype because non str lines are
     # correctly inferred to be ints, so .str methods nan-out
     with pd.option_context('mode.chained_assignment',None):
-        df.iloc[:,0]=df.iloc[:,0].astype(str).str.replace('\n','') 
+        df.iloc[:,0]=df.iloc[:,0].astype(str).str.replace('\n','')
     return basic_cleanup(df, offset=3)
 
 cleanup_table_4(source_df['Table 4'].copy())
@@ -2848,7 +2848,7 @@ We _could_ turn this into a proper multiindex but it would mean pushing the Peri
 def cleanup_table_5(df):
     """
     Table 5: Standardised House Price & Index for each Local Government District Northern Ireland
-    * 
+    *
     """
     # Basic Cleanup first
     df = basic_cleanup(df)
@@ -3195,7 +3195,7 @@ len(dest_df), len([k for k in source_df.keys() if k.startswith('Table') and k no
 
 ### Table 5a: Number of Verified Residential Property Sales by Local Government District
 
-This one has a new problem; the Sale Year/Quarter is now squished together. This will do a few terrible things to our `basic_cleanup` so this needs to be done ahead of cleanup. 
+This one has a new problem; the Sale Year/Quarter is now squished together. This will do a few terrible things to our `basic_cleanup` so this needs to be done ahead of cleanup.
 Also has annual total lines.
 
 
@@ -3928,7 +3928,7 @@ def cleanup_table_5a(df):
     """
     # Safety first
     df=df.copy()
-    
+
     # Extract 'Quarter' and 'Year' columns from the future 'Sale Year/Quarter' column
     dates = df.iloc[:,0].str.extract('(Q[1-4]) ([0-9]{4})').rename(columns={0:'Quarter',1:'Year'})
     for c in ['Quarter','Year']:# insert the dates in order, so they come out in reverse in the insert
@@ -3937,13 +3937,13 @@ def cleanup_table_5a(df):
 
     # Remove 'total' rows from the future 'Sale Year/Quarter' column
     df=df[~df.iloc[:,0].str.contains('Total').fillna(False)]
-    
+
     # Remove the 'Sale Year/Quarter' column all together
     df = df.iloc[:,1:]
-    
+
     # Standard cleanup
     df = basic_cleanup(df, offset=2)
-    
+
     return df
 
 cleanup_table_5a(source_df['Table 5a'])
@@ -4196,7 +4196,7 @@ len(dest_df), len([k for k in source_df.keys() if k.startswith('Table') and k no
 
 ### Table 6: Standardised House Price & Index for all Urban and Rural areas in NI
 
-Wee buns, thankfully. Still mixing the 'HPI' vs 'Index', but that's a downstream problem 
+Wee buns, thankfully. Still mixing the 'HPI' vs 'Index', but that's a downstream problem
 
 
 ```python
@@ -5476,7 +5476,7 @@ len(dest_df), len([k for k in source_df.keys() if k.startswith('Table') and k no
 
 These are very similar to Tables 2x; i.e. they're broken down by property type.
 
-Annoyingly, they don't follow the same structure as Tables 2x or Table 9 because they don't include the Year/Quarter headers. 
+Annoyingly, they don't follow the same structure as Tables 2x or Table 9 because they don't include the Year/Quarter headers.
 
 If that reminds you of anything, it's because Table 7 was the same...
 
@@ -5985,7 +5985,7 @@ len(dest_df), len([k for k in source_df.keys() if k.startswith('Table') and k no
 
 So, we can see that while government open data is a pain, at least it's a ... consistently inconsistent pain?
 
-I hope this was helpful to someone else. 
+I hope this was helpful to someone else.
 
 
 
@@ -5999,7 +5999,7 @@ with pd.ExcelWriter('NI Housing Price Index.xlsx') as writer:
     # Thankfully these are semantically sortable otherwise this would be a _massive_ pain
     for k,df in sorted(dest_df.items()):
         df.to_excel(writer, sheet_name=k)
-    
+
 ```
 
 * [Notebook Here](/assets/2022-03-27-NI-House-Price-Index.ipynb)

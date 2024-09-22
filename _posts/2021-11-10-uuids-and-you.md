@@ -12,7 +12,7 @@ tags:
 title: UUIDs and You
 ---
 
-> The guts of this document was originally created as part of my work at NTT Application Security stripped of its specificity and retained for my own reference. 
+> The guts of this document was originally created as part of my work at NTT Application Security stripped of its specificity and retained for my own reference.
 
 ## Background
 
@@ -20,7 +20,7 @@ Entities need to be identifiable, but the existence of entities should not be pr
 
 Conventional auto-increment integer ID’s were historically de-rigeur for (now largely spurious) database performance optimisation reasons, however, they are succeptible to both presence estimation, and scale estimation.
 
-If a potential customer creates an entity with the integer id `180`, we can infer that globally, there are `179` existant entities of that type, and that then next one will probably be `181`. 
+If a potential customer creates an entity with the integer id `180`, we can infer that globally, there are `179` existant entities of that type, and that then next one will probably be `181`.
 
 Also, if implemented as a distributed/ scalable system, then contention for global ID generation becomes a limiting factor (and a challenge to any stateless expectations on such a system).
 
@@ -34,7 +34,7 @@ This is an option, however it couples the customer state to the individual state
 
 ### UUIDS!
 
-Universally Unique Identifiers ([UUIDs](https://en.wikipedia.org/wiki/Universally_unique_identifier)) are 128bit cryptographically generated values, intended for the generation of globally unique identifiers without dependency on a central authority or coordination between services generating them. 
+Universally Unique Identifiers ([UUIDs](https://en.wikipedia.org/wiki/Universally_unique_identifier)) are 128bit cryptographically generated values, intended for the generation of globally unique identifiers without dependency on a central authority or coordination between services generating them.
 
 There are a range of UUID generation types, summarised below (v1-5 based on [RFC4122](https://www.rfc-editor.org/rfc/inline-errata/rfc4122.html)
 
@@ -82,14 +82,14 @@ There are a range of UUID generation types, summarised below (v1-5 based on [RFC
 
 ### Sidebar on Collisions
 
-They’re just stupidly unlikely, stop worrying about them: 
+They’re just stupidly unlikely, stop worrying about them:
 > Thus, the probability to find a duplicate within 103 trillion version-4 UUIDs is one in a billion.
 
 Within most reasonable data models, it would be sufficient (or, overkill to the point of paranoia) to check for the existence of an entity as part of it’s initial creation, and to just ‘reroll’ in the rare case this emerges, although this in and of itself would mitigate a significant amount of the advantage of UUID in distributed/delay tolerant systems.
 
 However, for timeseries variants (1/2/6,7,8), once you leave their ‘tick’, no future-collision is possible, and so as long as your generating nodes have unique MAC addresses, all will be well.
 
-### Sidebar on Storage 
+### Sidebar on Storage
 
 Naively, UUID’s look huge with 36bit chars, vs our teeny integer or even uint or int32 fields we could use in other ID schemes, but compared to the size of the objects these keys will be referencing, this is a miniscule consideration. Even then, we can also change the representation of these 128 bits in any number of ways, mapping them directly to bin16 blobs, or encoding them as base64 values.
 
@@ -105,7 +105,7 @@ What’s more relevant is the impact of the use of UUID’s in back end storage 
 
 ### Sidebar on applicability of this to the microservices/persistence architectures
 
-Within a service/state domain, noone cares what the underlying storage is doing; **there is no reason that a persistence service couldn’t use auto-increment PK’s for its internal state storage** etc. 
+Within a service/state domain, noone cares what the underlying storage is doing; **there is no reason that a persistence service couldn’t use auto-increment PK’s for its internal state storage** etc.
 
 However, when entities are referenced, or expressed on the boundaries of that service, they should be referred to and stored using some kind of globally unique identifier.
 
@@ -140,7 +140,7 @@ import uuid
 
 def id_gen():
     return uuid.uuid4()
-  
+
 id_gen()
 >>> UUID('d9c11c39-4bdf-4903-83e5-163b77f6df23')
 ```

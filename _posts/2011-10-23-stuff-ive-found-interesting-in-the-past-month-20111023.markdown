@@ -16,5 +16,3 @@ title: Stuff I've found interesting in the past month - 2011/10/23
 
 
   * [Baby trashes bar in Las Palmas](http://www.youtube.com/watch?v=cds7lSHawAw&feature=autoshare)
-  
-

@@ -17,7 +17,7 @@ title: IPython Websocket Failure on Chrome
 
 [IPython](http://ipython.org/) is an amazing tool, and in particular [IPython Notebook](http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/Notebook/Index.ipynb), which is easily the best 'python scratch-pad' I've ever used.
 
-However, a while ago something strange happened to my set up and I'm not entirely sure when or how but either way, here's how I 'fixed' it. 
+However, a while ago something strange happened to my set up and I'm not entirely sure when or how but either way, here's how I 'fixed' it.
 
 # The Problem
 
@@ -31,7 +31,7 @@ TL;DR Can't execute anything at all using Chrome, works fine in other browsers.
 
 This was accompanied by a JS console error (rightclick anywhere in Chrome and 'Inspect Element' will open up the dev tools)
 
-> WebSocket connection to 'wss://localhost:8888/api/kernels/a893ce6e-3a3d-4a99-afc0-b02368245d32/stdin' failed: WebSocket is closed before the connection is established. 
+> WebSocket connection to 'wss://localhost:8888/api/kernels/a893ce6e-3a3d-4a99-afc0-b02368245d32/stdin' failed: WebSocket is closed before the connection is established.
 
 No unexpected error messages show up in the `ipython notebook --debug` log.
 
@@ -53,7 +53,7 @@ This is a surprisingly difficult thing to [Google](https://www.google.co.uk/sear
 * IPython install broken somehow? As per the [instructions](http://ipython.org/ipython-doc/dev/install/install.html) I'd launched a `iptest` and all came back within bounds (however, the `js/notebook` tests were disabled and I can't find any instruction anywhere as to enabling them, lemme know in the comments.
 
 * Tornado conflict? Every so often Tornado does a 'breaking update' so maybe there's some update-race-condition. Also the [Quickstart](http://ipython.org/ipython-doc/dev/install/install.html#tornado) implies that Tornado 2.1 is the required version, so I tried it out, no joy.
-  
+
 * Another process occupying the same port? This was reported as a potential problem on some Mac machines but at this point I was getting desparate. Quick `lsof` stuffed that idea.
 
 # The "Fix"
@@ -70,5 +70,3 @@ And in either your customised profile or in the `ipython_notebook_config.py` fil
 # The full path to an SSL/TLS certificate file.
 c.NotebookApp.certfile = u'$WHEREVER_YOU_PUT/mycert.pem'
 {% endhighlight %}
-
-

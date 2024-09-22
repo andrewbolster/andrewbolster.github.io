@@ -40,25 +40,25 @@ I think there has been something ignored in this most recent spate of Chinese in
 
 This is the list of companies and industries [identified ](http://www.darkreading.com/security/attacks/showArticle.jhtml?articleID=222301032)as potential victims of the Chinese attacks....
 
-	
+
   * Google
 
-	
+
   * Yahoo
 
-	
+
   * Adobe
 
-	
+
   * Dow Chemical
 
-	
+
   * Northrop Grumman
 
-	
+
   * Symantec
 
-	
+
   * RackSpace
 
 Just think about that for a second. [Dow Chemical](http://www.dow.com), nice big conglomerate of manufacturing and government supply. Nothing to go wrong there, right?

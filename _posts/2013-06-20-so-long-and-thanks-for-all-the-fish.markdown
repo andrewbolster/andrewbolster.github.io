@@ -43,7 +43,7 @@ The short answer is that a series of unexpected events mean that it makes sense 
 
 Recently, my PhD supervisor, [Prof Alan Marshall](http://uk.linkedin.com/pub/alan-marshall/5/7a/8a9), was offered a research Chairship at the [University of Liverpool](http://www.liv.ac.uk/electrical-engineering-electronics-and-computer-science/), which he gladly accepted. It's a great move for him (Another [Russell Group](http://en.wikipedia.org/wiki/Russell_Group), one of the original '[redbrick](http://en.wikipedia.org/wiki/Red_brick_university)' universities, etc etc), but that's his life not mine so all it does is provide an option. (Disclosure: I also work with Alan on his spinout Wireless Security company, TOM Ltd)
 
-Most PhD funding in Northern Ireland (at least in the technology/engineering/science sector) is funded through the [Department of Employment and Learning](http://www.qub.ac.uk/home/StudyatQueens/PostgraduateStudents/MoneyMatters/FundingforPostgraduateStudy/) block grant scheme, which in effect hands a large block of cash to the University which the University then spends on research across the university’s departments, meaning that it's the universities money, and if you want to move, well, sucks to be you. Mine isn't like that[^1]. 
+Most PhD funding in Northern Ireland (at least in the technology/engineering/science sector) is funded through the [Department of Employment and Learning](http://www.qub.ac.uk/home/StudyatQueens/PostgraduateStudents/MoneyMatters/FundingforPostgraduateStudy/) block grant scheme, which in effect hands a large block of cash to the University which the University then spends on research across the university’s departments, meaning that it's the universities money, and if you want to move, well, sucks to be you. Mine isn't like that[^1].
 
 [^1]: Actually it's even weirder; Under the DEL grant scheme, researchers have yearly budgets, and at the end of each year there is a spending spree to make sure that they spend right up to the penny the amount that's budgeted for, otherwise that leftover money goes back to the general fund and is "lost". In my case, I have funding for the entire project, so there is no end-of-year splurge and I can effectively "bank" the year on year underspends
 
@@ -127,9 +127,8 @@ _Especially_ if projects fail; The act of trying something different and 'failin
 
 Maybe I'll get more momentum if I come back. That, quasi-sexy, "Ohhhh, you've been somewhere else! What can I do for you?! Would you like a biscuit?"[^3] can't be underestimated.
 
-[^3]: As opposed to "oh, you worked hard in your community, developed a strong network, and maintained loyalty to your culture? Don't call us, we'll call you..."] 
+[^3]: As opposed to "oh, you worked hard in your community, developed a strong network, and maintained loyalty to your culture? Don't call us, we'll call you..."]
 
 I intend to change the world. I intend to change this province. But first, I have to change myself.
 
 See you on the other side.
-

@@ -55,10 +55,10 @@ in direct breach of the above conventions. Whether such breaches have
 already occurred is outside the scope of this work, and as discussed in (the [Thesis](https://github.com/andrewbolster/thesis/releases/download/v1.0/Thesis.pdf) )
 , this work is primarily concerned with actions that involve no fire
 control what so ever. However, there is one potentially relevant area of
-application to which these doctrines may arguably apply; a significant 
-area of application of maritime autonomy is in Explosive Ordinance 
-Disposal as part of Mine Counter Measures operations, i.e. mine-clearance 
-with explosive devices. 
+application to which these doctrines may arguably apply; a significant
+area of application of maritime autonomy is in Explosive Ordinance
+Disposal as part of Mine Counter Measures operations, i.e. mine-clearance
+with explosive devices.
 Current operational doctrine as well as currently in-testing systems utilise
 autonomous survey and mine localisation, and then this information is used to
 send in a human diving team to perform clearance, placing them at
@@ -73,4 +73,3 @@ context.
 [^Lin2009]: Lin, P., Bekey, G., & Abney, K. (2009). Robots in War : Issues of Risk and Ethics. In R. Capurro & M. Nagenborg (Eds.), Ethics and Robotics (pp. 49–67). AKA Verlag Heidelberg.
 [^HagueIV]: Convention (IV) respecting the Laws and Customs of War on Land and its annex: Regulations concerning the Laws and Customs of War on Land. The Hague, (1907). Brussels. Retrieved from https://ihl-databases.icrc.org/ihl/INTRO/195
 [^Ticehurst1997]: Ticehurst, R. (1997). The Martens Clause and the Laws of Armed Conflict. International Review of the Red Cross, 317. Retrieved from https://www.icrc.org/eng/resources/documents/article/other/57jnhy.htm
-

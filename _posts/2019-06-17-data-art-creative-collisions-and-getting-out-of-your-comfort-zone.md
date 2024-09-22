@@ -34,7 +34,7 @@ In this talk, I’ll be sharing a bit of my background for context, and discussi
 And along the way I’ll hopefully be proving that I can actually pull off a talk with less than a hundred slides and without resorting to Python or Slides-with-text just to piss off Sigma
 
 
-## My Background, Our Journey and Your Challenge 
+## My Background, Our Journey and Your Challenge
 
 ![alt_text](/img/2019/NIDC/0.jpg
  "It may suprise many that once upon a time I had hair on the top of my head rather than the bottom...")
