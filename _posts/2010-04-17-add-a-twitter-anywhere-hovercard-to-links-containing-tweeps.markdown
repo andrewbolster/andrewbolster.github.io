@@ -23,19 +23,19 @@ Everyone and their dog has a walkthrough of adding @anywhere hovercards to your 
 
 Quick and dirty solution; add the following code-block inside your
 
-    
+
     onAnywhereLoad(twitter)
 
 section of script.
 
-> 
+>
 
->     
+>
 >     twitter("a").hovercards({
 >     infer=true
 >     });
-> 
-> 
+>
+>
 
 Then thats you done! No muss, no fuss.
 Thanks go to @stuartgibson for help.
@@ -44,13 +44,13 @@ If I've missed anything, scream at me in the comments or @bolster
 **Update**
 Of course I'd missed something; this unfortunately makes @anywhere inspect every link on your site, including navigational ones, so for my usecase (blogroll), i modified my code to only infer when inside the id of my blogroll, ie
 
-> 
+>
 
->     
+>
 >     twitter("#linkcat-2 a").hovercards({
 >     infer=true
 >     });
-> 
-> 
+>
+>
 
 YMMV

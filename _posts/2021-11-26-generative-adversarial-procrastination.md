@@ -20,7 +20,7 @@ I'm a procrastinator. Ridiculously so. To a degree that my procrastination at th
 
 However, I'm still surprisingly productive in my own way; I've contributed to the operation of numerous charities, side projects, talks, meetups, guest lecture series; spent a load of time on deep background to local journalists who end up out of their depth in the stranger parts of the tech world; did a masters project on a 36 hour sleep cycle, and a 3 year PhD in 5 years, still play the Start-Up game every so often (or, at least, the fun bit of setting the world to rights in the bar with a few friends / colleagues convinced that we've got an idea that will change the world), and still faff around with a load of hardware and home automation stuff (that never seems to work for long)...
 
-So I'm a workaholic right? Christ no. This morning I got out of bed at around noon after getting caught up on [BlindBoy](https://play.acast.com/s/blindboy) and [Robert Evans podcasts](https://open.spotify.com/show/0rOatMqaG3wB5BF4AdsrSX) 
+So I'm a workaholic right? Christ no. This morning I got out of bed at around noon after getting caught up on [BlindBoy](https://play.acast.com/s/blindboy) and [Robert Evans podcasts](https://open.spotify.com/show/0rOatMqaG3wB5BF4AdsrSX)
 
 Must be one of those 'mono-taskers'? Nope; I currently have 2 different IDE's open, 12 text documents in various stages of progress and [currently 55 tabs open](/2021/07/counting-tabs-and-background-tasks-taunting-goodharts-demon.html), along with 3 different 'in flight' books, one has been 'in-flight' for over a year...
 
@@ -40,16 +40,16 @@ Google Pixel 6's "Magic Eraser"? GANs on image segmentation
 
 Those Style Transfers of ["What if Kandinsky painted a Lab?"](https://www.tensorflow.org/tutorials/generative/style_transfer); Origionally a CNN, but GANs have been used to identify 'genuine' pieces.
 
-Put simply, for a given target task, GAN's consist of two parts; 
+Put simply, for a given target task, GAN's consist of two parts;
 
 * Discriminator - This tries to accomplish the task by expressing a lower dimensionality output, usually a label or number, based on a higher dimensional input, usually an image
 * Generator - This tries to 'trick' the discriminator, by expressing a candidate input for the Discriminator, based on a candidate label.
 
 Basically, if the Generator tricks the Discriminator, the Discriminator then gets retrained with the new 'fake' information as a negative label, and the Generator gets retrained with the digital equivalent of a pat on the head for a good job done. Together, and in this loop, you end up with one network that's really good at mapping from 'images' to 'labels', and one that's really good at mapping from 'labels' to 'images'.
 
-This is the 'Adversarial' part, and it's become pretty clear to me, that I do the same thing with my procrastination; I continuously push new 'tasks' onto the stack, so that when I'm getting pissed off / frustrated / bored / stuck with one thing that I have on my plate, I can 'constructively' procrastinate away from Task A by working on Task B. 
+This is the 'Adversarial' part, and it's become pretty clear to me, that I do the same thing with my procrastination; I continuously push new 'tasks' onto the stack, so that when I'm getting pissed off / frustrated / bored / stuck with one thing that I have on my plate, I can 'constructively' procrastinate away from Task A by working on Task B.
 
-This makes my use of task managers / issue trackers / calendars really ... Strange. 
+This makes my use of task managers / issue trackers / calendars really ... Strange.
 
 I will block off sections of time in my calendar with built in procrastination targets, because I've accepted that if I'm not going to feel like doing Task A, I may as well do Task B instead.
 

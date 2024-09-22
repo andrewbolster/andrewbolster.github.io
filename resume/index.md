@@ -114,7 +114,7 @@ Contributed to ongoing development and refinement of the core SpriteGuard produc
 
 #### Founder/Director (PT 2011 - 2024)
 
-Created Farset Labs in response to a demonstrated need for an independent, non-profit, charitable community of technology innovators, providing them a open space and shared resources to experiment, explore, and grow themselves, their projects, and relationships with local and global business. 
+Created Farset Labs in response to a demonstrated need for an independent, non-profit, charitable community of technology innovators, providing them a open space and shared resources to experiment, explore, and grow themselves, their projects, and relationships with local and global business.
 
 Building Farset Labs as a hub for the technology community in Belfast and Northern Ireland as a whole, ensuring that the organisation remains agile and true to its core values.
 
@@ -124,7 +124,7 @@ Currently Farset Labs stands as a valued part of the technology, entrepreneurshi
 
 ![](/img/dstl.png)
 
-#### Analyst (2013) 
+#### Analyst (2013)
 
 Coordinating research between Information Management and Naval Systems departments to synthesize a coordinated, data driven approach towards maritime autonomy and its potential applications.
 
@@ -216,5 +216,3 @@ MEng Project: *"High-Speed bit-loading algorithms for Dynamic Spectrum Managemen
 * [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697), AAAI Spring Symposium Series, March 2014, Stanford CA, USA
 * [Pop-up Living Labs: Experiments in Co-creating Service Design with Diverse Stakeholders in Hackerspace Communities](http://uir.ulster.ac.uk/26727/) In: Proceedings Living Lab Summer School Research Workshop. ENOLL, Manchester, UK, 2013
 *  [High-Speed bit-loading algorithms for Dynamic Spectrum Management in ADSL](https://github.com/andrewbolster/multiuserDSM/raw/master/Dissertation/FINALFINAL.pdf), MEng Thesis, 2011, Belfast, UK
-
-

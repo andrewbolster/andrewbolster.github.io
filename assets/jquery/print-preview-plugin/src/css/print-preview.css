@@ -40,11 +40,11 @@
         text-indent: -999em;
         width: 80px;
     }
-    
+
     #print-modal-controls a:hover {
         opacity: 0.75;
     }
-    
+
     #print-modal-controls a.print {
         background: url(images/icon-print.png) no-repeat 50% 50%;
     }

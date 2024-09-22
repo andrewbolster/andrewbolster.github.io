@@ -147,15 +147,15 @@ These two activities dancing around each other in a perilous partnership on gran
 
 ![](/img/aini/Slide17.png)
 
-Then HAL seemingly stops doing what it’s told, becomes buggy and making mistakes and eventually just starts straight up trying to kill the people trying to fix it… 
+Then HAL seemingly stops doing what it’s told, becomes buggy and making mistakes and eventually just starts straight up trying to kill the people trying to fix it…
 
-Humans win, AI gets reset, then about a half hour of irrelevant but beautiful insanity happens as mankind is elevated to a higher level of being having vanquished the soulless machine. 
+Humans win, AI gets reset, then about a half hour of irrelevant but beautiful insanity happens as mankind is elevated to a higher level of being having vanquished the soulless machine.
 
 ![](/img/aini/Slide18.png)
 
-But is that really what happened? It’s only hinted at relatively subtly in the movie but in both the book by legend [Arthur C Clarke](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(novel)) and the sequels to the movie, the true reason for HAL’s apparent psychosis is much more clear; 
+But is that really what happened? It’s only hinted at relatively subtly in the movie but in both the book by legend [Arthur C Clarke](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(novel)) and the sequels to the movie, the true reason for HAL’s apparent psychosis is much more clear;
 
-HAL was given contradictory instructions and a secret mission who’s secrecy, not success, was to be protected above all other orders. 
+HAL was given contradictory instructions and a secret mission who’s secrecy, not success, was to be protected above all other orders.
 
 And with that paradox in play, HAL decides that it’s may be easier to keep a secret if there’s no one around to hear it.
 
@@ -174,4 +174,3 @@ However, as we’ve just about made our way through the 20th century without blo
 ![](/img/aini/Slide21.png)
 
 All in all, I’m not afraid of AI, I’m afraid of us.
-

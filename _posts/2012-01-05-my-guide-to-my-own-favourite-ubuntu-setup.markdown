@@ -93,4 +93,3 @@ Funnily enough, installing `vim-addons` and `vim-latexsuite` doesn't actually in
 ### `Etckeeper`
 
 Don't forget to init etckeeper; `cd /etc; sudo etckeeper init`
-

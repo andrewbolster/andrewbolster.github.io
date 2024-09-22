@@ -27,16 +27,16 @@ In playing with NS-3, I came across this problem, and googled for a solution. No
 
 # Assume you have...
 
-	
+
   * Ubuntu
 
-	
+
   * pcap files
 
-	
+
   * ~/src/ dir
 
-	
+
   * a ~/bin directory on your users $PATH
 
 # Get 'er dun
@@ -56,4 +56,3 @@ Then Pump the same thing into mscgen
 
 `pcap2msc <whatever.pcap> all | mscgen -T png -o <whatever.png>
 `
-

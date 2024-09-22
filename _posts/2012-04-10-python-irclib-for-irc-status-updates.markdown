@@ -31,15 +31,15 @@ Biggest problem with this one was working out that the IRC server needs to be ke
 
 All `$VARIABLES` should be replaces with your own stuff
 
-    
+
     import irclib
     import time
-    
+
     username="$USERNAME"
     irc_net="$NETWORK"
     irc_chan="$CHANNEL"
     irc_port=6667
-    
+
     try:
         irc=irclib.IRC()
         irc_serv=irc.server()
@@ -48,10 +48,10 @@ All `$VARIABLES` should be replaces with your own stuff
     except irclib.IRCError as err:
         print("Cannot Connect to IRC Service, Aborting:"+err)
         exit
-    
+
     def post_irc(status):
         irc_serv.privmsg(irc_chan,status)
-    
+
     while True:
         time.sleep(1)
         irc.process_once()

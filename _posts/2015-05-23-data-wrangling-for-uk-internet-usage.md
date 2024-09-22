@@ -43,7 +43,7 @@ reliable, and impactful metric to target economic and cultural
 growth/stability/recovery/happiness/whatever.
 
 Unfortuately the data massage, both in terms of dealing with the Excel data and then massaging the outputs into something
-the blog could safely handle took longer than I'd expected so the follow up will have to wait for another time. 
+the blog could safely handle took longer than I'd expected so the follow up will have to wait for another time.
 
 Until then, well, here's some data to play with.
 
@@ -1267,9 +1267,9 @@ def non_dup_indexes_of_columns(df, dupkey):
 
 regions = ["UK",
            "North East","North West",
-           "Yorkshire and the Humber", 
-           "East Midlands", "West Midlands", 
-           "East of England", "London", 
+           "Yorkshire and the Humber",
+           "East Midlands", "West Midlands",
+           "East of England", "London",
            "South East", "South West",
            "Wales", "Scotland",
            "Northern Ireland"
@@ -1344,7 +1344,7 @@ df_regional_never_pct_change = ((df_regional_never/df_regional_never.iloc[0])-1)
 
 #df_regional_never_pct_change.plot(ax=ax, legend=False, color=tableau20)
 df_regional_never_pct_change.iplot(filename='Internet Region Never Pct Change',world_readable=True, theme="pearl",
-                                   title="Reduction in UK Digital Illiteracy since 2013", 
+                                   title="Reduction in UK Digital Illiteracy since 2013",
                                    xTitle="Period", yTitle="%")
 {% endhighlight %}
 
@@ -1369,7 +1369,7 @@ have just done a linear regression but that's not really that interesting.
 cycle,trend = sm.tsa.filters.hp_filter.hpfilter(df_regional_never_pct_change)
 
 trend.iplot(filename='Internet Region Never Pct Change Reg',world_readable=True, theme="pearl",
-                                   title="Reduction in UK Digital Illiteracy since 2013", 
+                                   title="Reduction in UK Digital Illiteracy since 2013",
                                    xTitle="Period", yTitle="%")
 {% endhighlight %}
 

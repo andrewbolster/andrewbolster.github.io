@@ -23,20 +23,20 @@ tags:
 title: Human Factors related to Trusted Operation of Autonomous Systems
 ---
 
-# Preface 
+# Preface
 
-It's nearly a year to the day since I passed my Ph.D Viva (And since I last updated the blog...), so I thought 
-it'd be fun to very-gently tidy up one of my appendices that's a bit 
+It's nearly a year to the day since I passed my Ph.D Viva (And since I last updated the blog...), so I thought
+it'd be fun to very-gently tidy up one of my appendices that's a bit
 relevant to current stories about the end of the world and machines
-taking over and such. 
+taking over and such.
 
-It's a piece of work that I enjoyed researching and had originally had 
-as a significant part of the main [thesis](https://github.com/andrewbolster/thesis/releases/download/v1.0/Thesis.pdf), but it just didn't fit in 
-anywhere sensible, so it got stripped to it's bare minimum and kicked to the end. 
+It's a piece of work that I enjoyed researching and had originally had
+as a significant part of the main [thesis](https://github.com/andrewbolster/thesis/releases/download/v1.0/Thesis.pdf), but it just didn't fit in
+anywhere sensible, so it got stripped to it's bare minimum and kicked to the end.
 
 If there's an interest in this stuff, I'll have a go at revisiting the most painful document of my career and tear out the interesting bits!
 
-So without further ado, here's a rant about how human factors and HCI 
+So without further ado, here's a rant about how human factors and HCI
 impact human/AI teams.
 
 ---
@@ -44,7 +44,7 @@ impact human/AI teams.
 
 This [work](https://github.com/andrewbolster/thesis/releases/download/v1.0/Thesis.pdf) has largely considered autonomous systems as entities of wider
 systems, implicitly involving human operators/agents in some part of the
-desired operation. We refer to these systems as Autonomous Collaborative 
+desired operation. We refer to these systems as Autonomous Collaborative
 Systems (ACS). As described in [Chapter 2](https://github.com/andrewbolster/thesis/releases/download/v1.0/Thesis.pdf)
 Operational Trust has two main aspects, trust in the system to behave as
 expected and trust in the interfaces between systems (human/machine and
@@ -250,7 +250,7 @@ are (or should) autonomous systems being “trained” in how to deal with the
 systematic failings in human cognition? At what point does the machine
 need to trust the _operator_ before it performs “responsibly” in the face
 of a possibly irrational or cognitively broken usage, and if so, how can
-it communicate this state to the operator or some higher order command 
+it communicate this state to the operator or some higher order command
 structure?
 
 These are massively open research questions I didn’t

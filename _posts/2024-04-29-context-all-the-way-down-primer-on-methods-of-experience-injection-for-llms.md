@@ -160,43 +160,43 @@ Given the Question `"What is Task Decomposition?"`, and using text extracted fro
 Based on the previously discussed context prompt, below is the actual prompt that is invoked by the agent to the LLM backend;
 
 ```
-> Use the following pieces of context to answer the question at the end. 
-> If you don't know the answer, just say that you don't know, don't try to make up an answer. 
-> Use three sentences maximum and keep the answer as concise as possible. 
-> Always say "thanks for asking!" at the end of the answer. 
-> 
+> Use the following pieces of context to answer the question at the end.
+> If you don't know the answer, just say that you don't know, don't try to make up an answer.
+> Use three sentences maximum and keep the answer as concise as possible.
+> Always say "thanks for asking!" at the end of the answer.
+>
 > Fig. 1. Overview of a LLM-powered autonomous agent system.
 > Component One: Planning#
 > A complicated task usually involves many steps. An agent needs to know what they are and plan ahead.
 > Task Decomposition#
 > Chain of thought (CoT; Wei et al. 2022) has become a standard prompting technique for enhancing model performance on complex tasks. The model is instructed to “think step by step” to utilize more test-time computation to decompose hard tasks into smaller and simpler steps. CoT transforms big tasks into multiple manageable tasks and shed lights into an interpretation of the model’s thinking process.
-> 
+>
 > Tree of Thoughts (Yao et al. 2023) extends CoT by exploring multiple reasoning possibilities at each step. It first decomposes the problem into multiple thought steps and generates multiple thoughts per step, creating a tree structure. The search process can be BFS (breadth-first search) or DFS (depth-first search) with each state evaluated by a classifier (via a prompt) or majority vote.
-> 
+>
 > Task decomposition can be done (1) by LLM with simple prompting like "Steps for XYZ.\n1.", "What are the subgoals for achieving XYZ?", (2) by using task-specific instructions; e.g. "Write a story outline." for writing a novel, or (3) with human inputs.
-> 
+>
 > Resources:
 > 1. Internet access for searches and information gathering.
 > 2. Long Term memory management.
 > 3. GPT-3.5 powered Agents for delegation of simple tasks.
 > 4. File output.
-> 
+>
 > Performance Evaluation:
 > 1. Continuously review and analyze your actions to ensure you are performing to the best of your abilities.
 > 2. Constructively self-criticize your big-picture behavior constantly.
 > 3. Reflect on past decisions and strategies to refine your approach.
 > 4. Every command has a cost, so be smart and efficient. Aim to complete tasks in the least number of steps.
-> 
+>
 > (3) Task execution: Expert models execute on the specific tasks and log results.
 > Instruction:
-> 
+>
 > With the input and the inference results, the AI assistant needs to describe the process and results. The previous stages can be formed as - User Input: {{ User Input }}, Task Planning: {{ Tasks }}, Model Selection: {{ Model Assignment }}, Task Execution: {{ Predictions }}. You must first answer the user's request in a straightforward manner. Then describe the task process and show your analysis and model inference results to the user in the first person. If inference results contain a file path, must tell the user the complete file path.
-> 
+>
 > Fig. 11. Illustration of how HuggingGPT works. (Image source: Shen et al. 2023)
 > The system comprises of 4 stages:
 > (1) Task planning: LLM works as the brain and parses the user requests into multiple tasks. There are four attributes associated with each task: task type, ID, dependencies, and arguments. They use few-shot examples to guide LLM to do task parsing and planning.
 > Instruction:
-> 
+>
 > The AI assistant can parse user input to several tasks: [{"task": task, "id", task_id, "dep": dependency_task_ids, "args": {"text": text, "image": URL, "audio": URL, "video": URL}}]. The "dep" field denotes the id of the previous task which generates a new resource that the current task relies on. A special tag "-task_id" refers to the generated text image, audio and video in the dependency task with id as task_id. The task MUST be selected from the following options: {{ Available Task List }}. There is a logical relationship between tasks, please note their order. If the user input can't be parsed, you need to reply empty JSON. Here are several cases for your reference: {{ Demonstrations }}. The chat history is recorded as {{ Chat History }}. From this chat history, you can find the path of the user-mentioned resources for your task planning.
 > Question: What is Task Decomposition?
 > Helpful Answer:

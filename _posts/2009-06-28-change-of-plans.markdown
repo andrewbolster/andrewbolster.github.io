@@ -33,37 +33,37 @@ So, modification and extension to the previous idea; Take one random number gene
 
 Simple enough; So this is the list as of today
 
-	
+
   1. [C](http://en.wikipedia.org/wiki/C_(programming_language))
 
-	
+
   2. [C++](http://en.wikipedia.org/wiki/C%2B%2B)
 
-	
+
   3. [C#](http://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
-	
+
   4. [Java](http://en.wikipedia.org/wiki/Java_(programming_language))
 
-	
+
   5. [Scala](http://www.scala-lang.org/)
 
-	
+
   6. [JavaScript](http://en.wikipedia.org/wiki/JavaScript)
 
-	
+
   7. [PHP](http://en.wikipedia.org/wiki/PHP)
 
-	
+
   8. [Bash](http://en.wikipedia.org/wiki/Bash)
 
-	
+
   9. [Ruby](http://en.wikipedia.org/wiki/Ruby_(programming_language))
 
-	
+
   10. [Python](http://en.wikipedia.org/wiki/Python_(programming_language))
 
-	
+
   11. [Perl](http://en.wikipedia.org/wiki/Perl)
 
 To my shame i have never touched C#, JavaScript, Ruby or Python, so all in all its going to be very interesting how much i screw up. Other than "experience level" i think the list is fairly cult-agnostic; 3C-ish, 3 Java-esque, 3 Web languages, Good mix of interpreted and compiled languages, along with a few "script" lingos to keep it down to earth.

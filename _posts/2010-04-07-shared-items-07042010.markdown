@@ -22,23 +22,21 @@ title: Shared Items - 07/04/2010
 
 
   * [50 Top Engineering Blogs](http://feedproxy.google.com/~r/Zencollegelife/~3/xztd-OTwA3I/)
-  
+
 
   * [Memory Management Technique Speeds Apps By 20%](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wavOoGFqTlk/Memory-Management-Technique-Speeds-Apps-By-20)
-  
+
 
   * [19 smart page navigations to spice up your web design](http://www.webdeveloperjuice.com/2010/04/06/19-smart-page-navigations-to-spice-up-your-web-design/)
-  
+
 
   * [Privacy and Control](http://www.schneier.com/blog/archives/2010/04/privacy_and_con.html)
-  
+
 
   * [Best practices for WordPress coding](http://www.catswhocode.com/blog/best-practices-for-wordpress-coding)
-  
+
 
   * [42 Practical Ways To Improve Yourself](http://feeds.lifehack.org/~r/LifeHack/~3/g4VI9sViY3k/42-practical-ways-to-improve-yourself.html)
-  
+
 
   * [Introducing Google Ad Innovations](http://feedproxy.google.com/~r/blogspot/MKuf/~3/CPGtTIVe8sQ/introducing-google-ad-innovations.html)
-  
-

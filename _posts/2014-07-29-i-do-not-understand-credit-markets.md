@@ -17,7 +17,7 @@ title: I do not understand credit markets
 
 {% include JB/setup %}
 
-After 20+ years with [Ulster Bank](http://www.ulsterbank.co.uk) (All hail Henry Hippo), and with countless computer, customer service, overdraft, and credit card problems, I'm jumping ship to [Santander](http://www.santander.co.uk) on the advice of my friends, colleagues and family. It hasn't gone so well. 
+After 20+ years with [Ulster Bank](http://www.ulsterbank.co.uk) (All hail Henry Hippo), and with countless computer, customer service, overdraft, and credit card problems, I'm jumping ship to [Santander](http://www.santander.co.uk) on the advice of my friends, colleagues and family. It hasn't gone so well.
 
 # Credit Background
 
@@ -43,17 +43,17 @@ And so it was. Until after a half hour of paperwork with the lovely April (congr
 
 What?
 
-It's a horribly embarrassing feeling. April doesn't know if I'm a [money laudering drug dealer](http://www.bbc.co.uk/news/business-18880269), or some kind of [fraudster](http://www.heraldscotland.com/news/home-news/rbs-facing-8bn-loss-after-latest-mis-selling-scandal.23288486), and I'm sitting here thinking about the projects I'm doing with [Farset Labs](http://farsetlabs.org.uk) and TOM Ltd and if my newly crippled financial standing is going to affect them. 
+It's a horribly embarrassing feeling. April doesn't know if I'm a [money laudering drug dealer](http://www.bbc.co.uk/news/business-18880269), or some kind of [fraudster](http://www.heraldscotland.com/news/home-news/rbs-facing-8bn-loss-after-latest-mis-selling-scandal.23288486), and I'm sitting here thinking about the projects I'm doing with [Farset Labs](http://farsetlabs.org.uk) and TOM Ltd and if my newly crippled financial standing is going to affect them.
 
 Of course, due to data protection, April can't know anything about **why** I've been rejected, so this cloud hangs over us as I awkwardly pack up my oodles of paperwork, feeling like the worst kind of human for wasting this persons time. April is lovely but you can sense an exasperation. I know that feeling well, I did it myself when I worked at Laser and we were doing financing for home electronics, it's the "You know what you did, and you're just chancing your arm even trying, all you've done is waste my time".
 
-She tells me that the best thing to do is if I can get a hold of my credit report, and hand it to them (what about Data Protection? Oh who cares, gimme ma bank account!) and let the underwriters make a decision. "You can call them or write a letter, but they'll charge you for that, go for the website, you get 30-days free trial which should get you the info you need". 
+She tells me that the best thing to do is if I can get a hold of my credit report, and hand it to them (what about Data Protection? Oh who cares, gimme ma bank account!) and let the underwriters make a decision. "You can call them or write a letter, but they'll charge you for that, go for the website, you get 30-days free trial which should get you the info you need".
 
 Great, I'll do that, and I did.
 
 # The Report of Doom
 
-I dander up the hill to the office in the rain, trying not to worry about my little entrepreneurial empire collapsing as HMRC come and take me in for fraud, SAS leaping through windows because my cards were used in Brazillian gun running cartels. 
+I dander up the hill to the office in the rain, trying not to worry about my little entrepreneurial empire collapsing as HMRC come and take me in for fraud, SAS leaping through windows because my cards were used in Brazillian gun running cartels.
 
 Sit down, sign up, log in, "View your report".
 
@@ -112,7 +112,7 @@ The [Current Account Switch Service](https://www.gov.uk/government/news/bank-acc
 
 > The new 7 day switching service is central to our reforms to build a banking system that works for customers. This service was a key part of the recommendations of our [Independent Commission on Banking](http://www.parliament.uk/business/committees/committees-a-z/commons-select/treasury-committee/inquiries1/icb-final-report/) two years ago and I’m delighted it has now become a powerful weapon for consumers.
 
-You can't have a competitive market without having a fluid market, where consumers are free to reasonably move from provider to provider. 
+You can't have a competitive market without having a fluid market, where consumers are free to reasonably move from provider to provider.
 
 # Conclusion / TLDR
 

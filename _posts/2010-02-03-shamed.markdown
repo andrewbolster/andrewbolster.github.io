@@ -35,16 +35,16 @@ Fact is I've been experimenting with so many different things that nothing cogen
 
 Some of the things I've been working on:
 
-	
+
   * Virtual Lab- Walk through of the setup and playing with of a virtual computer lab using VirtualBox including Windows, Ubuntu, FreeBSD, Fedora, and Debian servers/clients
 
-	
+
   * Write up of my automated downloading system and the scripts associated with it
 
-	
+
   * Exploration of Setup of a VPN using the WRT54G or my MyBook
 
-	
+
   * A first-timers walk through of setting up Google Adwords campaigns
 
 And somewhere in between all that I've been working and getting back to Uni...

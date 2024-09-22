@@ -5,7 +5,7 @@
   border-radius: 40px;
   background-color: #333;
   margin: 60px auto;
-  
+
   -webkit-animation: scaleout 1.0s infinite ease-in-out;
   animation: scaleout 1.0s infinite ease-in-out;
 }

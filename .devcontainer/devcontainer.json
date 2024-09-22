@@ -10,11 +10,9 @@
 			"installJupyterlab": true,
 			"version": "latest"
 		},
-		"ghcr.io/deep-space-cartel/devcontainers-features/pip:1": {
-			"location": "/var/tmp/.venv",
-			"packages": "pre-commit"
-		}
-	}
+		"ghcr.io/devcontainers-contrib/features/pre-commit:2": {}
+
+	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -23,7 +21,7 @@
 	// "forwardPorts": [],
 
 	// Uncomment the next line to run commands after the container is created.
-	// "postCreateCommand": "jekyll --version"
+	"postCreateCommand": "pre-commit install",
 
 	// Configure tool-specific properties.
 	// "customizations": {},

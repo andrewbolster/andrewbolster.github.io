@@ -70,13 +70,13 @@ Giving [TextTeaser](http://www.textteaser.com/s/WY0zCb) another shot at bat;
 >   * This Innovation Strategy sets out the key long term actions necessary to make that transformation and so ensure that innovation plays its full part in realising the vision of our Economic Strategy.
 >   * Innovation in its Widest Sense There is a frequent misconception that innovation means scientists and R&D.
 >   * Barriers to Innovation To realise our vision, this Strategy needs to address the main barriers to innovation.
- 
+
 
 Ok, so TT isn't perfect, but if you squint a bit, it actually does sum up my interpretation of the message put across in 5 odd pages. Right off the bat (well, 4 paragraphs in) what is nearly my "QOTD" is in here.
 
 > If innovation is to play its full part in realising the vision of our Economic Strategy then Northern Ireland needs a complete step change in its culture, priority and performance in respect to innovation
 
-My sentiment is quite simple... 
+My sentiment is quite simple...
 
 [![256621-funny-gifs-citizen-kane-clapping]({{ BASE_PATH}}/uploads/2013/10/256621-funny-gifs-citizen-kane-clapping.gif)]This sentiment was slightly tarnished by a little post-word for this section...
 
@@ -104,11 +104,11 @@ One thing that raised an eyebrow however was this.
 
 I think this can be read a few ways. First, maybe I was being a bit too judgemental about the whole "yous'uns" thing. Or possibly (and more likely), this is a statement that will continue InvestNI's dominance in the sector. That then raised the question of what innovations were going to be put in place in InvestNI to make them able custodians of this mission from above?... I don't think I found a satisfactory answer to that in this document... Another nice little misdirect is the discussion about the [NESTA Neighbourhood Challenge Initiative](http://www.nesta.org.uk/areas_of_work/public_services_lab/past_projects_public_services_lab/neighbourhood_challenge) where the buck is partially passed to the third sector (i.e. free/cheap labour) to improve policy. Basically, according to this section, the Executive has no part in being a Barrier to Innovation and it's everyone else’s fault. Apart from some hints at 'innovation is also required in the public sector', there's no culpability from local government to say "yup, we're part of the problem too and we need to change as well, we're in this together lads". But the cracker is the breakdown of the "Barriers to Innovation"
 
-> * *Knowledge - *Absorptive capacity, trust, IP, user knowledge, lack of communication, lack of information 
-> * *Access to Capital - *Availability of finance, cost of finance 
-> * *Incentives* Lack of competition, lack of inducements, lack of ambition 
-> * *Markets - *Identifying opportunities, understanding opportunities, regulation, standardisation, access to markets, and language barriers 
-> * *Skills - *Leadership, technological, R&D,  creative thinking 
+> * *Knowledge - *Absorptive capacity, trust, IP, user knowledge, lack of communication, lack of information
+> * *Access to Capital - *Availability of finance, cost of finance
+> * *Incentives* Lack of competition, lack of inducements, lack of ambition
+> * *Markets - *Identifying opportunities, understanding opportunities, regulation, standardisation, access to markets, and language barriers
+> * *Skills - *Leadership, technological, R&D,  creative thinking
 > * *Cultural Changes - *Risk aversion, entrepreneurship, understanding innovation, managing change
 
 I suppose in some spirit this is supposed to be a generalised document, but to me this is a shopping list of generic limitations to business. The only ones that are really "impactful" to embracing innovation are the "Cultural Changes". The rest are problems with investors/granters/policymakers not understanding the operation of innovation as a large number of risky 'experiments' (and by the law of large numbers, mostly failing with a few standout successes) that should be encouraged to start quick, iterate, and fail quickly.
@@ -118,4 +118,3 @@ I suppose in some spirit this is supposed to be a generalised document, but to m
 This is taking longer than I expected so I'll take this up after TEDx Belfast tomorrow, but my impression so far is that this strategy doesn't have any meat yet, and is not proposing the kind of sweeping revolutionary (rather than evolutionary) policy and attitudinal changes needed needed. This is the low hanging fruit of the "innovation" buzzword. It's boxticking and incremental adjustment. The past 30 years of public sector economic reliance aren't going to be fixed with public sector thinking...
 
 [Part 2 Continues the Ramble]({{ BASE_PATH }}/2013/11/response-to-the-draft-innovation-strategy-for-northern-ireland-part-2-knowledge-generation/)
-
