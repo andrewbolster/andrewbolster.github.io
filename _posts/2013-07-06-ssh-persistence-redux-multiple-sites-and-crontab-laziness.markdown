@@ -35,7 +35,7 @@ Biggest pain in the ass is setting up the persistence of the connection. This is
 
 Because I'm lazy, I wrapped autossh into a little lazy script I call `ssh_tunnel`
 
-    
+
     #!/bin/sh
     # Example script to start up tunnel with autossh.
     # This script will tunnel 22 from the local host

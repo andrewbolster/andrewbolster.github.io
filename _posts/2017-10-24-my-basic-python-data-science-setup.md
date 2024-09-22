@@ -22,15 +22,15 @@ title: My Basic (Python) Data Science Setup
 ---
 
 
-After last weeks [return to posting](), I thought it was time to do something vaguely useful (and actually talk about it) so I'm tidying up a few meetup sessions I've presented at into a series of Basic Data Science (with Python) posts. This is the first one and covers my Python environment, the Jupyter notebook environments I use for analysis, and some  on the Plot.ly graphs and RISE / Reveal.js methods I use to turn those notebooks into presentations. 
+After last weeks [return to posting](), I thought it was time to do something vaguely useful (and actually talk about it) so I'm tidying up a few meetup sessions I've presented at into a series of Basic Data Science (with Python) posts. This is the first one and covers my Python environment, the Jupyter notebook environments I use for analysis, and some  on the Plot.ly graphs and RISE / Reveal.js methods I use to turn those notebooks into presentations.
 
-This section will be "Light" on the data science, maths, politics and everything else outside of the setup of this wee environment. 
+This section will be "Light" on the data science, maths, politics and everything else outside of the setup of this wee environment.
 
 # Assumptions
 
 * Basic Linux/OSX familiarity (This setup was tested on Ubuntu Server 17.04, YMMV)
 * Basic Programming familiarity in a hybrid language like Python, R, Bash, Go, Rust, Julia, Node.JS, Matlab, etc.
-* That when I use the phrases "High Performance","Large","Big","Parallel", etc, this is in the context of a single, small, machine processing small amounts of interesting derived data. Yes, we can go big, but for now lets start up small... 
+* That when I use the phrases "High Performance","Large","Big","Parallel", etc, this is in the context of a single, small, machine processing small amounts of interesting derived data. Yes, we can go big, but for now lets start up small...
 
 # TL;DR
 * Download [Anaconda](https://www.anaconda.com/download/) Python 3.X
@@ -83,7 +83,7 @@ There are a few fundamental challenges in Data Science that can be loosely group
 * Slicing, Dicing Grouping and Applying
 * Extraction of Meaning/Context
 
-The first two of these are made massively more comfortable with the addition of 3 (large) Python packages; `numpy`,`scipy` and `pandas`. 
+The first two of these are made massively more comfortable with the addition of 3 (large) Python packages; `numpy`,`scipy` and `pandas`.
 
 `numpy` and `scipy` specialise in highly optimised vector-based computation and processing, allowing the application of single functions across large amounts of data in one go. They're both very tightly integrated with eachother but in general, `numpy` focuses on dense, fast, data storage and iteration, with a certain amount of statistical power under the hood (most of it from `scipy`), and then `scipy` focuses on slightly more 'esoteric' maths from the scientific, engineering and academic fields.
 
@@ -119,7 +119,7 @@ From here we can launch "notebooks" from a range of kernels; the `datasci` conda
 
 ![](/img/2017/jupyter-new-select.png)
 
-You can fire up the `datasci` environment to get into the new notebook view, where Jupyter really comes into its own. 
+You can fire up the `datasci` environment to get into the new notebook view, where Jupyter really comes into its own.
 
 ![](/img/2017/jupyter-hello-jupyter.png)
 
@@ -131,17 +131,17 @@ Notice the lack of `print` function; we still got the output we expected. But it
 
 ![](/img/2017/jupyter-series-head.png)
 
-When working with large datasets, "accidentally" filling the screen with noise when you just want to peek into a dataset is an occupational hazard, so all `pandas` collection objects have `.head()` methods that show the first 5 (by default) results. Unsurprisingly, there's also a `tail`, but more interestingly; there's a `.describe()` that give you a great general rundown on the nature of the dataset. 
+When working with large datasets, "accidentally" filling the screen with noise when you just want to peek into a dataset is an occupational hazard, so all `pandas` collection objects have `.head()` methods that show the first 5 (by default) results. Unsurprisingly, there's also a `tail`, but more interestingly; there's a `.describe()` that give you a great general rundown on the nature of the dataset.
 
 ![](/img/2017/jupyter-series-describe.png)
 
-But who needs numbers when we can have graphs? 
+But who needs numbers when we can have graphs?
 
 Jupyter supports a wonderful meta-language, helpfully called ["magic functions"](http://ipython.readthedocs.io/en/stable/interactive/magics.html) that give lots of access to the innards of Jupyter. One handy one is the `%matplotlib` function, that lets you tell Jupyter how to interpret `matplotlib` plot objects. `%matplotlib inline` essentially says "make it an inline png"
 
 ![](/img/2017/jupyter-series-hist.png)
 
-That's fine for fairly constrained plots like histograms; if we're dealing with some kind of long-term varying data (eg timeseries), it's not ideal to try to "navigate" a static image. 
+That's fine for fairly constrained plots like histograms; if we're dealing with some kind of long-term varying data (eg timeseries), it's not ideal to try to "navigate" a static image.
 
 Instead of `inline`; using `%matplotlib nbagg` instructs jupyter to set matplotlib to use a heavily customised backend especially for notebooks, that brings interactive spanning, zooming, translation and image export.
 
@@ -149,7 +149,7 @@ Instead of `inline`; using `%matplotlib nbagg` instructs jupyter to set matplotl
 
 ![](/img/2017/jupyter-nbagg.png)
 
-Using the Pan button on the bottom right of the plot, we can zoom into a particular area of the graph and export it if we like. 
+Using the Pan button on the bottom right of the plot, we can zoom into a particular area of the graph and export it if we like.
 
 ![](/img/2017/jupyter-nbagg-zoomed.png)
 
@@ -209,9 +209,9 @@ This adds an extra toolbar to each cell that allows you to control the slide sta
 
 ![](/img/2017/jupyter-slide-cell-dropdown.png)
 
-This dropdown gives 6 options for what kind of slideshow behaviour that cell has; 
+This dropdown gives 6 options for what kind of slideshow behaviour that cell has;
 
-* `-` : Direct continuation, i.e. this cell will be considered part of the above cell (useful for mixing Markdown and Code in the same slide) 
+* `-` : Direct continuation, i.e. this cell will be considered part of the above cell (useful for mixing Markdown and Code in the same slide)
 * `Slide`: Make this a primary slide in the `Reveal.js` slideshow.
 * `Sub-Slide`: Make this a secondary slide (i.e. slides "below" the primary slides)
 * `Fragment`: This cell will "appear" on the element above, think of it like an "appear" transition in Powerpoint/etc.
@@ -254,7 +254,7 @@ conda install plotly seaborn
 pip install cufflinks
 ```
 
-But before we completely ignore that `iris` dataset, we'll gently fire it at `seaborn` to get something interesting; 
+But before we completely ignore that `iris` dataset, we'll gently fire it at `seaborn` to get something interesting;
 
 ![](/img/2017/jupyter-seaborn-iris.png)
 

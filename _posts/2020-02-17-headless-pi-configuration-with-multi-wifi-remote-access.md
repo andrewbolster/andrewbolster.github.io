@@ -77,7 +77,7 @@ network={
 }
 ```
 
-> If you have a 'weird' password with quotes or unescaped symbols, you can use `wpa_passphrase MY_SSID` to generate the relevant pre-encrypted `psk`'s that are acceptable by `wpa_supplicant.conf`, and you should be able to run this either on the pi directly later, any other pi, or any other linux-based wifi enabled machine... You can probably to it in a VM too but I haven't tested that... 
+> If you have a 'weird' password with quotes or unescaped symbols, you can use `wpa_passphrase MY_SSID` to generate the relevant pre-encrypted `psk`'s that are acceptable by `wpa_supplicant.conf`, and you should be able to run this either on the pi directly later, any other pi, or any other linux-based wifi enabled machine... You can probably to it in a VM too but I haven't tested that...
 > [Source](https://www.raspberrypi.org/forums/viewtopic.php?p=1472865&sid=0e9fd7545d8ce3e46ffaa9f212649697#p1472865)
 
 
@@ -98,7 +98,7 @@ If you're lucky and have a nice router on your wifi network, you *might* be able
 ```
 ssh pi@raspberrypi
 ```
-or 
+or
 
 ```
 ssh pi@raspberrypi.local
@@ -111,7 +111,7 @@ Using a network scanner like `nmap`, scan for IP's that have the SSH port (22) o
 On basic networks this should be as simple as:
 
 ```
-sudo nmap -sS -p 22 192.168.0.0/24 
+sudo nmap -sS -p 22 192.168.0.0/24
 ```
 
 But you may also want to check out the [Fing](https://www.fing.com/products/fing-app) android network scanner which is great at identifying Raspberry Pi's based on their [Vendor MAC Address](https://www.macvendorlookup.com/)
@@ -124,13 +124,13 @@ ssh pi@<IP-ADDRESS>
 
 ## Good Housekeeping
 
-Now that we're in, there are a few steps that we should do just for good housekeeping; 
+Now that we're in, there are a few steps that we should do just for good housekeeping;
 
 1. Update the Pi with `sudo apt-get update; sudo apt-get upgrade -y`
 2. Using [`sudo raspi-config`](https://www.raspberrypi.org/documentation/configuration/raspi-config.md), perform the following actions
 	1. Change the `pi` user password to something custom
 	2. Network Options > Set the Hostname to something memorable (We'll be referring to this in future as PI_HOST)
-	3. Advanced Options > Update 
+	3. Advanced Options > Update
 3. Reboot with `sudo reboot`
 4. Log back in with either `ssh pi@PIHOST`, or your previously found IP address (or return to the "Port Scan" section if that doesn't work)
 5. Run `ssh-keygen` (without specifying a passphrase)
@@ -142,14 +142,14 @@ We'll be using the `autossh` program to, well, automate ssh. This will be able t
 
 ### `JUMPBOX` Prep
 
-Log into the `JUMPBOX`, and create a new `nologin` user 
+Log into the `JUMPBOX`, and create a new `nologin` user
 
 > **All the commands in this section should be executed on `JUMPBOX` as the `root` user (or add appropriate `sudo`s)**
 
 ```
 useradd -m -s /sbin/nologin --disabled-password autotunnel
 su - autotunnel -s /bin/bash
-ssh-keygen 
+ssh-keygen
 ```
 You'll be asked for a `passphrase` here, don't enter one, as this ensures we'll be able to securely setup the tunnel without manually entering passwords
 
@@ -183,7 +183,7 @@ ssh-keygen
 ssh-copy-id JUMPBOX
 ssh JUMPBOX
 ```
-At this point you'll be asked to confirm things like accepting the SSH key of the JUMPBOX server, but you won't actually get a login shell and will be kicked off; this is because we setup the `autotunnel@jumpbox` user with `/sbin/nologin`, so it's fine. 
+At this point you'll be asked to confirm things like accepting the SSH key of the JUMPBOX server, but you won't actually get a login shell and will be kicked off; this is because we setup the `autotunnel@jumpbox` user with `/sbin/nologin`, so it's fine.
 
 Now, using <kbd>CTL</kbd> + <kbd>D</kbd> to "escape" from the `autotunnel` user back to the `pi` user
 
@@ -192,8 +192,8 @@ Finally, `sudo -sh` into the root user and execute the following to create a aut
 ```sh
 cat > /etc/systemd/system/autossh-JUMPBOX.service << EOF
 
-[Unit] 
-Description=Keep a tunnel to 'JUMPBOX' open 
+[Unit]
+Description=Keep a tunnel to 'JUMPBOX' open
 After=network-online.target
 
 
@@ -247,9 +247,3 @@ ssh PI_HOST
 * [Creating a user without a password](https://unix.stackexchange.com/questions/56765/creating-a-user-without-a-password)
 * [Fun and Profit with Reverse SSH Tunnels and AutoSSH](https://hobo.house/2016/06/20/fun-and-profit-with-reverse-ssh-tunnels-and-autossh/)
 * [Autossh.service](https://gist.github.com/thomasfr/9707568)
-
-
-
-
-
-

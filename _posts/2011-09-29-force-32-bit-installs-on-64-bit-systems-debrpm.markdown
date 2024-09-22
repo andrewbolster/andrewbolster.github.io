@@ -19,7 +19,7 @@ title: Force 32 bit installs on 64 bit systems (Deb/RPM)
 ---
 
 
-Pre-built packages not releasing 64 bit versions? No Problem. 
+Pre-built packages not releasing 64 bit versions? No Problem.
 
 Debian/Ubuntu based:
 `dpkg -i --force-architecture whatever.deb`
@@ -27,4 +27,3 @@ Debian/Ubuntu based:
 RH/Fedora based:
 
 `rpm -i --ignorearch whatever.rpm`
-

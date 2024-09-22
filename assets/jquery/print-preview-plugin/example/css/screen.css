@@ -5,7 +5,7 @@
  *	author: Tim Connell
  */
 
-/* 
+/*
  *	Table of contents
  *
  *		1. General
@@ -40,7 +40,7 @@
  /* Unordered lists for good not evil */
  ul {
  	list-style: none;
- } 
+ }
 
  /* Tables still need 'cellspacing="0"' in the markup. */
  table { border-collapse: separate; border-spacing: 0; }
@@ -173,7 +173,7 @@ body {
     font-size: 0.85em;
     margin-top: 40px;
 }
-    
+
     #footer .footer-links {
         margin-left:-10px;
     }
@@ -205,17 +205,17 @@ body {
         font-size: 1.3em;
         margin: 0 0 0.25em;
     }
-    
+
     #aside ul {
         margin: 0 0 2em;
     }
-    
+
 /*
  --------------------
  3. Content Eelemnts
  --------------------
  */
- 
+
 #feature {
     position: relative;
     margin: 20px 0;
@@ -229,20 +229,20 @@ body {
     	height: 175px;
     	width: 620px;
     }
-    
+
      #feature div.items {
          position:absolute;
          width:20000em;
      }
-     
+
          #feature div.items div {
             float: left;
          }
-         
+
         #feature div.items img {
             border: none;
         }
- 
+
      #feature .next,
      #feature .prev {
          cursor: pointer;
@@ -261,7 +261,7 @@ body {
          left: -35px;
          right: auto;
      }
-     
+
      #feature a.disabled {
          color: #BBB;
          cursor: auto;
@@ -282,7 +282,7 @@ body {
         display: block;
         margin: 0 -1px;
     }
-    
+
 /* -- 3.X Print preview -- */
 a.print-preview {
     background: url(images/icon-print-preview.png) no-repeat 0 0;

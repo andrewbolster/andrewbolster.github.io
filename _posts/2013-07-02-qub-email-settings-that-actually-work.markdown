@@ -31,49 +31,48 @@ Let me know in the comments if you find anything different and I'll try and keep
 
 # Incoming Mail (IMAP)
 
-	
+
   * **Server**: imap.qub.ac.uk
 
-	
+
   * **Port**:143
 
-	
+
   * **Username**: `<Student Number>`
 
-	
+
   * **Security**: TTLS / StartTTLS\*
 
-	
+
   * **Authentication**: Normal\*
 
 # Outgoing Mail (SMTP)
 
-	
+
   * **Server**: smtp.qub.ac.uk
 
-	
+
   * **Port**: 587
 
-	
+
   * **Username**: `<Student Number>`
 
-	
+
   * **Security**: TTLS/StartTTLS\*
 
-	
+
   * **Authentication**: Normal\*
 
 # Bi-Directional (Exchange Services for Mobile / Outlook)
 
-	
+
   * **Server**: qmail.qub.ac.uk
 
-	
+
   * **Port**:443
 
-	
+
   * **Username**: ads/`<Student Number>`
 
-	
-  * **Security**: SSL
 
+  * **Security**: SSL

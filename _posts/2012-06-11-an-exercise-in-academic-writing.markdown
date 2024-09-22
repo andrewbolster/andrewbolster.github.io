@@ -65,25 +65,25 @@ But first, just buy [_How to write a Thesis_ by Rowena Murray](http://books.goo
 
 This is for your own benefit but can be used as the basis of a review document to your supervisors/etc. Two/Three sentences each, starting with...
 
-	
+
   * My project is about...
 
-	
+
   * The stage I am at now is...
 
-	
+
   * The next step is...
 
-	
+
   * What I am interested in is...
 
-	
+
   * The original contribution of my work is...
 
-	
+
   * In the last month I have moved my project on by...
 
-	
+
   * I need to find out more about...
 
 (Adapted from Murray(2006) _[How to write a Thesis](http://books.google.co.uk/books/about/How_to_Write_a_Thesis.html?id=H2htzdy-z_wC) p.74)_
@@ -98,46 +98,46 @@ If you get at far as the abstract and are already losing interest, it's possibly
 
 Again, one or two sentences each
 
-	
+
   * Bibliographic information: Authors,title, date, source publication, source location, and where you got your current copy
 
-	
+
   * What is this work about?
 
-	
+
   * What are the main findings of this work?
 
-	
+
   * What gap in our understanding does this work fill
 
-	
+
   * What research tradition/approach/method is used?
 
-	
+
   * How is this work connected to the wider research field? (Be specific to cited papers/authors)
 
-	
+
   * How is this work relevant to your assignment?
 
-	
+
   * What are the limitations of this work? (again, be specific)
 
-	
+
   * Useful Quotation/Algorithm/finding (if relevant/mindblowing)
 
-	
+
   * GRADE: One of
 
-	
+
   * 1: Very useful, return for more detailed analysis
 
-	
+
   * 2: Useful and of general importance
 
-	
+
   * 3: Relevant but minor
 
-	
+
   * 4: Irrelevant
 
 ## Critical Summary of Literature
@@ -146,25 +146,24 @@ Same as above, but looking at your entire body of reading over a period
 
 Haven't done this yet, but will be for [Differentiation](http://www.qub.ac.uk/schools/SchoolofPharmacy/Research/CurrentPGStudents/).
 
-	
+
   * Who are the most important researchers to the topic and in what ways are they relevant to your research?
 
-	
+
   * What methodologies/approaches/theories are involved in your research and from where are they drawn in the literature?
 
-	
+
   * Why are these methodologies/approaches/theories important to your research, i.e. why are you using them , what do they enable you to do and why is that important?
 
-	
+
   * What are the limitations of these methodologies/approaches/theories (i.e. who has critiscised them and to what extent are those criticisms valid)?
 
-	
+
   * What are the most importat current questions or problems in your specific area of interest? (If these questions have been explicitly posed in the literature, who posed them? If the questions are implicit in the literature, where and how did you deduce them?)
 
-	
+
   * What is the original contribution of your work? (i.e. where is the gap in the literature , the problems or questions raised previously either explicitly, and how will your work fill that gap?)
 
 # So I was wrong, what now?
 
 I'm going to be spamming this blog with my CRF's (where possible), but will switch off network notifications. Hopefully my views are useful to someone!
-
