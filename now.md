@@ -10,7 +10,7 @@ title: Now
 
 # Now
 
-Head of Data Science @ Synopsys Software Integrity Group, trying to do data better.
+Head of Data Science @ [Black Duck Software](http://blackduck.com/), trying to do data better.
 
 ## Wants
 
