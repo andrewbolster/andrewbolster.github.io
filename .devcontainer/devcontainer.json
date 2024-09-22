@@ -4,11 +4,15 @@
 	"name": "Jekyll",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"yzhang.markdown-all-in-one"
-			]
+	"features": {
+		"ghcr.io/devcontainers/features/python:1": {
+			"installTools": true,
+			"installJupyterlab": true,
+			"version": "latest"
+		},
+		"ghcr.io/deep-space-cartel/devcontainers-features/pip:1": {
+			"location": "/var/tmp/.venv",
+			"packages": "pre-commit"
 		}
 	}
 
