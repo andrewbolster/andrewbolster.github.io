@@ -15,7 +15,7 @@ Had an issue with Fedora 15 not liking my harddrives that used to be RAIDed. Not
 
 “Disk contains BIOS metadata, but is not part of any recognized BIOS RAID sets."
 
-Solution: 
+Solution:
 `dmraid -r -E /dev/????`
 
 Stolen from [Kezhong](http://kezhong.wordpress.com/2011/06/14/how-to-remove-bios-raid-metadata-from-disk-on-fedora/)

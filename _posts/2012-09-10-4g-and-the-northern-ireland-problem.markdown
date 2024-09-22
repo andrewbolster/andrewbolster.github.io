@@ -84,4 +84,3 @@ In short, the only thing that really worked with 3G in the ‘naughties’, was 
 Imagine if they had got the rest to work?
 
 Imagine if they got it to work for Everyone, on Everything, Everywhere?
-

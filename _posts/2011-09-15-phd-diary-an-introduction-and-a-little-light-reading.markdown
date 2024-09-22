@@ -29,13 +29,13 @@ Ahh well, I bought a Kindle for a reason.
 
 My supervisor passed on an interesting commentary on what a PhD actually is; he said that it comes in three stages (not years, stages). (I may have taken some artistic liberties with the language, but you'll get the point)
 
-	
+
   1. Bright Eyed Apprentice and Zen Master; the student has all the energy and relies on the supervisor for guidance and verification
 
-	
+
   2. The Petulant Brat and the Withering Lord; the student now has about as much knowledge in the subject as the supervisor, leading to inevitable 'conflicts of opinion' and a need for the student to back up his arguments constantly.
 
-	
+
   3. The Master and the Emeritus; the student is now a domain expert and can more or less 'school' the now obsolete (in this field) supervisor.
 
 Considering the personalities of myself and  my supervisor, that second bit could be interesting.

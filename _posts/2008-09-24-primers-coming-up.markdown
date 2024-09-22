@@ -32,15 +32,15 @@ title: Primers Coming Up
 
 Thru my work I'm thrown into alot of technologies that i dont nearly know enough about and as with alot of tech related things, the education scene is basic basic basic..GURU with little or no gradiation, so what I'm going to do is post what i learn when i learn it and where i learn it from and hopefully it'll be useful for someone else, and I'll also take the opportunity to rehash stuff I've already done.
 
-  
+
 
 ATM I'll probably be doing Bash scripting, Perl Scripting, XML, and whatever UNIX stuff comes up whenever I'm writing, but for now and for a relativly simple start; X display fowarding...
 
-  
+
 
 This is the setup: Linux/Unix based "client" and "server"; in my case I have headless systems that i fiddle with from time to time, but after a while vim just becomes a pain, and as for viewing html files etcetc copying things back and forth is a pain in the ass.
 
-  
+
 
 The solution is already there; From its beginning the X server has always been client server based on some level. Basically what were gonna do is tell the server to use the client as an X display; this is controlled thru an environment variable, strangly called DISPLAY
 
@@ -77,4 +77,3 @@ server# xclock &
 {%endhighlight%}
 
 Job done. Later
-

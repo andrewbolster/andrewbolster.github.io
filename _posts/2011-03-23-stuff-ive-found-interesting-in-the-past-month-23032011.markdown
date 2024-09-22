@@ -16,5 +16,3 @@ title: Stuff I've found interesting in the past month - 23/03/2011
 
 
   * [BB King & John Mayer Live - Part 2](http://www.youtube.com/watch?v=-Xb0vKbuwdk&feature=autoshare)
-  
-

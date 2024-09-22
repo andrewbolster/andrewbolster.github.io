@@ -23,4 +23,3 @@ My dad gave me this a while back. It's basically a list of stuff people commonly
  19. What do you know about our organization
  20. What are your interests outside of your career?
  21. What books have you read?
-

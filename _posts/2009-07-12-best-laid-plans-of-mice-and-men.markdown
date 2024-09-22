@@ -56,31 +56,31 @@ This is the plan of things i want to set up, and I will be updating this page wi
 
 In no particular order
 
-	
+
   1. Shared media storage area for the whole house (probably using my MyBook) that will work with games consoles aswell as laptops/desktops internally and externally.
 
-	
+
   2. Shared calendars and timetables availiable.
 
-	
+
   3. Festival based alarm clock with dynamic alarm times based on respective timetables. (2)
 
-	
+
   4. VPN access for all housemates.
 
-	
+
   5. Some form of SFF pc in the living room to act as a Skype box attached to big-screen (My partner has 'attentive' parents that will be 3000  miles away, and mine will be about 500 miles away, i expect them to be in contact somehow, so it may as well make it as inexpensive as possible...)
 
-	
+
   6. Secure wireless (obv)
 
-	
+
   7. Centralised logging (syslog/snmp trap) across all 'applicable' machines, with some form of visualisation (mrtg)
 
-	
+
   8. X10 automation of (at least) lights, could be augmented by basic motion detectors and environmental montiors
 
-	
+
   9. Remote webcam (may turn this into a robotics/machine learning/machine vision project with the old eeepc and have a kinda roomba on steroids)
 
 Its a big list and i dont expect to finish half of them, but what gets done will be documented here!

@@ -54,10 +54,10 @@ Required Arguments:
 	-o|--origin: The git server that is the origin of the repo to be imported
 EOF
 }
-if [  $# -le 6 ]; then 
+if [  $# -le 6 ]; then
     usage
     exit 1
-fi 
+fi
 
 while [[ "$#" -gt 0 ]]; do
     case $1 in
@@ -92,4 +92,3 @@ else
 	echo failed for $user/$repo
 fi
 ```
-

@@ -42,12 +42,12 @@ Install the fun-stuff
 
 (I personally prefer to get all the plugins aswell, but thats personal choice; just add in `awn-applets-all` to the above command)
 
-At this point, it'll look like nothing has changed; just log out or log back in (Or reboot), and then unity will be gone (Woohoo!). The Gnome-Do Launcher should have come up, and if you've clicked out of it, it will come back to the foreground with a [windows\command]+Space press. 
+At this point, it'll look like nothing has changed; just log out or log back in (Or reboot), and then unity will be gone (Woohoo!). The Gnome-Do Launcher should have come up, and if you've clicked out of it, it will come back to the foreground with a [windows\command]+Space press.
 
-If everything has gone well, you can type 'Avant' in this launcher, and boom, there should be a window at the bottom. This is the avant launcher. 
+If everything has gone well, you can type 'Avant' in this launcher, and boom, there should be a window at the bottom. This is the avant launcher.
 [caption id="attachment_632" align="alignleft" width="300" caption="Default Avant Window Navigator"][![Default Avant Window Navigator]({{ BASE_PATH}}/uploads/2011/06/avant0-300x225.png)]({{ BASE_PATH}}/uploads/2011/06/avant0.png)[/caption]
 
-Now for some fun stuff. 
+Now for some fun stuff.
 
 Use gnome-do to start `tilda`. This is a quake-style terminal that pops down from the top of the screen with a quick [F1] click. Much better than the standard [alt+F2] command launcher.
 

@@ -17,11 +17,9 @@ title: Shared Items - 19/05/2010
 
 
   * [Illustrated Guide Explains Your Mind's Decision Biases [Mind Hacks]](http://feeds.gawker.com/~r/lifehacker/full/~3/alt6HGqo4V8/illustrated-guide-explains-your-minds-decision-biases)
-  
+
 
   * [NIST Releases Updated Handbook of Math Functions](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9qUaEDdRjqo/NIST-Releases-Updated-Handbook-of-Math-Functions)
-  
+
 
   * [Matplotlib For Python Developers](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/drObRa7V0HQ/Matplotlib-For-Python-Developers)
-  
-

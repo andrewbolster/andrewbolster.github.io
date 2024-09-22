@@ -12,9 +12,9 @@ title: Python Script as a Reliable Service
 ---
 
 
-> I was asked to help out a friend who had an installation in an art gallery that stopped booting properly, and was reminded that I keep forgetting to actually write this post. 
+> I was asked to help out a friend who had an installation in an art gallery that stopped booting properly, and was reminded that I keep forgetting to actually write this post.
 
-Running a python script as a reliable, retryable service on a Raspberry Pi that waits for an 'up' network connection, because I'm an idiot who keeps changing his mind how to do it. 
+Running a python script as a reliable, retryable service on a Raspberry Pi that waits for an 'up' network connection, because I'm an idiot who keeps changing his mind how to do it.
 
 # Fail gracefully and with informative error messages:
 
@@ -29,7 +29,7 @@ logging.basicConfig(level=logging.DEBUG)
 logging.debug('This will get logged')
 ```
 
-OR 
+OR
 
 ```python
 import logging
@@ -48,16 +48,16 @@ logging.warning('This will get logged to a file')
 Description=My Awesome Service
 After=network-online.target
 Wants=network-online.target
- 
+
 [Service]
 Type=simple
 ExecStart=/usr/bin/python /home/pi/my_awesome_service.py
 Restart=on-failure
 RestartSec=10
- 
+
 [Install]
 WantedBy=multi-user.target
-``` 
+```
 
 `sudo chmod 644 /lib/systemd/system/awesome.service`
 

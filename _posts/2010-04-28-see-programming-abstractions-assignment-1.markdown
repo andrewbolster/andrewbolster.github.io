@@ -46,7 +46,7 @@ Straight into it, [Assignment 1](http://see.stanford.edu/materials/icspacs106b/
 
 Build two different functions to remove substrings from strings, one that returns a fresh 'new' string, and another that operates directly on an existing string in memory. Simple Enough (Well, there was one [Gotcha!](http://stackoverflow.com/questions/2709199/c-string-manipulation-isnt-making-sense-to-me) that I fell hook line and sinker for)
 
-    
+
     string CensorString1(string text, string remove){
         string returned;
         size_t found=0, lastfound=0;
@@ -60,21 +60,21 @@ Build two different functions to remove substrings from strings, one that return
         return returned;
     }
 
-    
+
     void CensorString2(string& text, string remove){
         size_t found = text.find(remove);
         while ( string::npos != found){
             text.erase(found, remove.length());
             found = text.find(remove);
-        } 
-    
+        }
+
     }
 
 ### Problem 2: Struct
 
 Build a structure definition to store statistical information about class grades read from a file, where each line is a mark between 0 and 100. Write a function to generate this structure with max/min/average, and return the structure. (I left some extra vestigial information in the structure such as the number of entries and the total total of marks for averaging purposes.
 
-    
+
      struct gradestats {
          gradestats(){
              min=numeric_limits::max();
@@ -86,7 +86,7 @@ Build a structure definition to store statistical information about class grades
          int min,max,count,total;
          double average;
      };
-    
+
     struct gradestats GradeStatistics(string filename){
         struct gradestats stats;
         int tempI;
@@ -112,13 +112,13 @@ Build a structure definition to store statistical information about class grades
 
 Write a function that takes a filename and prints out a letter frequency table. (dont forget to include [fstream](http://en.wikipedia.org/wiki/Fstream))
 
-    
+
     void CountLetters(string filename){
         int tempI;
         vector  counts(26,0);
         char tempC;
         ifstream instream(filename.c_str());
-    
+
         if (!instream.fail()){
             do{
                 tempC = std::tolower(tempC);
@@ -128,9 +128,9 @@ Write a function that takes a filename and prints out a letter frequency table. 
                 }
                 tempC = instream.get();
             }while ( tempC != EOF );
-    
+
             cout < < endl;
-    
+
             for (tempI=0;tempI < counts.size(); tempI++)
                 cout << (char)(tempI + 97) << ":" << counts[tempI] << endl;
         } else {
