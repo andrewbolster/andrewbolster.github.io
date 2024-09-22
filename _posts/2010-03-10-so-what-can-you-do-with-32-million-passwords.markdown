@@ -37,59 +37,59 @@ I 'acquired' the password list from your regular neighbourhood tracker, and thou
 
 Having a look at the head of the resultant 'UserAccount-passwords.txt' file shows:
 
-> 
+>
 
-> 
+>
 > $ head UserAccount-passwords.txt
-> 
-> 
+>
+>
 
-> 
+>
 > password
-> 
-> 
+>
+>
 
-> 
+>
 > mekster11
-> 
-> 
+>
+>
 
-> 
+>
 > mekster11
-> 
-> 
+>
+>
 
-> 
+>
 > mekster11
-> 
-> 
+>
+>
 
-> 
+>
 > progr4sm
-> 
-> 
+>
+>
 
-> 
+>
 > khas8950
-> 
-> 
+>
+>
 
-> 
+>
 > emilio1
-> 
-> 
+>
+>
 
-> 
+>
 > holiday2
-> 
-> 
+>
+>
 
-> 
+>
 > caitlin1
-> 
-> 
+>
+>
 
-> 
+>
 > purblanca
 
 32million entries in arbitrary order arn't really that useful, so I sorted them alphabetically first (-d)
@@ -154,9 +154,9 @@ The -d flag means that we only want to know about entries that appear at least t
 
 Still sorted alphabetically, so sort reverse-numerically to get most popular entries at the top.
 
-> 
+>
 
-> 
+>
 > sort -nr -S 2048K UserAccount-passwords.uniq.txt -o UserAccount-passwords.uniq.sorted.txt
 
 Giving our top 20 most popular passwords (sorry guys, but this is really depressing)

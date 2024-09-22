@@ -16,8 +16,6 @@ title: Shared Items - 05/05/2010
 
 
   * [Seven Tips for Your Design Job Interview](http://designinformer.com/seven-tips-design-job-interview/)
-  
+
 
   * [Grid-Based Web Design, Simplified](http://designinformer.com/grid-based-web-design-simplified/)
-  
-

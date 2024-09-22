@@ -13,7 +13,7 @@ title: Pulling Election Count data out of Google Sheets for fun and democracy
 
 # Messing around with Elections NI data
 
-Sources: 
+Sources:
 
 * [Live Data (for 2023)](https://docs.google.com/spreadsheets/d/11o0rbI-NVcPJhkBZxInN4qn55rm0TCJT9ERitaiN1fk/edit?usp=sharing)
 * [2022 Assembly Elections](https://docs.google.com/spreadsheets/d/1AazeIZwfflJJoTiYNil3RprIOXcNy8yyzfZ4ImVlETA/edit#gid=264660014)
@@ -21,25 +21,25 @@ Sources:
 
 ## Creating your own Google Sheet and referencing the crowdsourced data
 
-The above linked spreadsheets are naturally not editable by everyone; this is great for reliable data but isn't so great when you want to make pretty graphs. 
+The above linked spreadsheets are naturally not editable by everyone; this is great for reliable data but isn't so great when you want to make pretty graphs.
 
-Google Sheets supports the live referencing of external sheets in your own sheets, so you can 'import' the data from the read-only sheets as they evolve over the count, and then reference those data in your own visualisations. 
+Google Sheets supports the live referencing of external sheets in your own sheets, so you can 'import' the data from the read-only sheets as they evolve over the count, and then reference those data in your own visualisations.
 
-This is done using the [IMPORTRANGE](https://support.google.com/docs/answer/3093340?hl=en&ref_topic=9199554&sjid=4812370886125323989-EU) function in Google Sheets, so like this; 
+This is done using the [IMPORTRANGE](https://support.google.com/docs/answer/3093340?hl=en&ref_topic=9199554&sjid=4812370886125323989-EU) function in Google Sheets, so like this;
 
 `=IMPORTRANGE("https://docs.google.com/spreadsheets/d/1AazeIZwfflJJoTiYNil3RprIOXcNy8yyzfZ4ImVlETA/edit#gid=372848906","Belfast South/West!A2:Q24")`
 
 ![Image of Imported Spreadsheet showing separated results for the Belfast South Assembly Election in 2022](/img/eni_sheet_1.png)
 
-Using this and the [Google QUERY language](https://support.google.com/docs/answer/3093343?hl=en), you can easily create some pretty dynamic graphs in a couple of lines/cells across your own sheets, all while being 'fed' by the main collaborative work. 
+Using this and the [Google QUERY language](https://support.google.com/docs/answer/3093343?hl=en), you can easily create some pretty dynamic graphs in a couple of lines/cells across your own sheets, all while being 'fed' by the main collaborative work.
 
 ![Image of PieChart of First Preference Votes in Belfast South in 2022](/img/eni_sheet_2.png)
 
 For instance, this is generated from the following formula;
 
-`=query('Basic IMPORTRANGE'!A2:Q16, "select B, sum(C) group by B order by sum(C) desc")`; 
+`=query('Basic IMPORTRANGE'!A2:Q16, "select B, sum(C) group by B order by sum(C) desc")`;
 
-In this case the first argument to the `query` is a reference to my own sheet that just has 'IMPORTRANGE' in it; the interesting bit is the second argument which gives a list of the values in column B (The Party Names in the count sheet) sorted by the sum of the matching rows in column C (the first preference votes), with that 'sum' being defined across the groups with the same values in column B, and finally, these all sorted in a descending fashion by the total of those first preference votes. 
+In this case the first argument to the `query` is a reference to my own sheet that just has 'IMPORTRANGE' in it; the interesting bit is the second argument which gives a list of the values in column B (The Party Names in the count sheet) sorted by the sum of the matching rows in column C (the first preference votes), with that 'sum' being defined across the groups with the same values in column B, and finally, these all sorted in a descending fashion by the total of those first preference votes.
 
 So now we've easily set up a aggregation with two 'cells' of formula and a fairly basic chart.
 
@@ -1336,9 +1336,9 @@ pd.read_csv(url)
 
 
 
-This is a little bit more complicated than other google foo would have you believe but it looks like Google updated their API's over the years to remove the 'happy path' for this call. 
+This is a little bit more complicated than other google foo would have you believe but it looks like Google updated their API's over the years to remove the 'happy path' for this call.
 
-Additionally, note that as in the `IMPORTRANGE` example, there are no usable 'headers' in the underlying data so we may have to create these ourselves for more complex analysis. 
+Additionally, note that as in the `IMPORTRANGE` example, there are no usable 'headers' in the underlying data so we may have to create these ourselves for more complex analysis.
 
 Also, we have to manually 'tidy up' the 'range' ourselves, as the Belfast South range only goes to row 24, and then Belfast West appears.
 
@@ -3043,7 +3043,7 @@ df.iloc[1:16]
 
 
 
-There are a few ways to tidy up this stage/transfer setup, so for simplicity we'll take the 'index' off the left of the table (consisting of the candidate and party names) and try and construct a new column index based on those. 
+There are a few ways to tidy up this stage/transfer setup, so for simplicity we'll take the 'index' off the left of the table (consisting of the candidate and party names) and try and construct a new column index based on those.
 
 Sounds fancy.
 
@@ -3825,9 +3825,9 @@ _table
 
 
 
-Now to do the same thing with the stage counts and transfers; 
+Now to do the same thing with the stage counts and transfers;
 
-There are many ways to do this, either leaving it as is and just naming the columns by Stage and Transfer, but a 'better' way to do it is to create a multiindex on the column. Which probably means nothing. 
+There are many ways to do this, either leaving it as is and just naming the columns by Stage and Transfer, but a 'better' way to do it is to create a multiindex on the column. Which probably means nothing.
 
 
 ```python
@@ -4488,7 +4488,7 @@ _table.xs("Count", level='Step', axis=1)
 
 
 
-This makes plotting quite simple; which then makes the queries you can express much more complex... 
+This makes plotting quite simple; which then makes the queries you can express much more complex...
 
 
 ```python
@@ -4503,9 +4503,9 @@ _table.xs("Count", level='Step', axis=1).groupby('Party').sum().T.plot()
 
 
 
-    
+
 ![png](/img/eni_output_16_1.png)
-    
+
 
 
 
@@ -4524,9 +4524,9 @@ _table.xs("Transfers", level='Step', axis=1)\
 
 
 
-    
+
 ![png](/img/eni_output_17_1.png)
-    
+
 
 
 ## Conclusion

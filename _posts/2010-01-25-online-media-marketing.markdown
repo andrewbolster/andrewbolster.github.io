@@ -51,28 +51,28 @@ But I guess thats really the crux of the difference between Social Media marketi
 
 When deciding where to spend the hard-to-come-by advertising budget, consider what you want; and to make it easier, heres my thoughts...
 
-	
+
   * Don't/[SEO](http://www.primolution.com/seo-ppc-advertising-comparison): Search Engine Optimisation can often provide sufficient rates of return on investment so that its fairly unnessary to pay for anything else within the Search and Comparison fields. If you enter three words of your businesses 'activities' and your in the top 5, you have little to worry about with regards to Search revenue.
 
-	
+
   * [Google Adwords](http://adwords.google.com): The first jumping-off point, with the least rish, most control, and widest (or narrowest if you select) reach of any of the other services. While it should never be the sole means of online-advertising, its a good cornerstone to start off with, and provides you with a wealth of analytics that make it easy to [optimise](http://www.adwordsprofessional.com/google-adwords-bids)
 
-	
+
   * [Youtube Adwords](https://ads.youtube.com/): Only open to the US at the minute, but all the advantages of mass market TV advertising, with the specificity of Adwords, and added interactivity. If you're a very visual business this is definatly a great idea.
 
-	
+
   * [Yahoo Overture](http://advertising.yahoo.com/): AdWord's less-popular cousin. If you're appearing in Google's first-page results, but not in Yahoo's, consider using this to spread your bets.
 
-	
+
   * [Facebook Advertising](http://www.facebook.com/advertising/): This one is definatly a judgement call on the part of businesses. Facebook can be a huge boon to revenue, but requires an angle. Personally, I bundle the 'vanilla' facebook advertising in with Yahoo and Google as PPC or PPM. What I think is really going to kick off are
 
-	
+
   * [Facebook Pages](http://www.facebook.com/advertising/?pages): Car Salesmen tell me "People buy cars with faces", so give your business a social 'face', that can also act as a nexus for consumer discussion over your product (risky but worth it) aswell as a viral jump off point ("Joe Bloggs is a fan of your Business"), not to mention the ability to have overtly public conversations with consumers.
 
-	
+
   * [Twitter](http://www.twitter.com):Coming out of left field with no real analogue, Twitter could be [Huge ](http://www.usnews.com/money/blogs/the-ticker/2009/04/21/why-twitter-advertising-could-be-a-huge-success)for advertisers in terms of interactivity; The saying 'the customer is always right' only makes sense if you give the customer a chance to speak and be listened to. Twitter, unlike Facebook, makes the conversation much more personal; when you reply to a customers complaint or praise directly and personally, instead of from a press release, it will raise that consumers view of your business to an almost friendly relationship instead of a faceless economic entity.
 
-	
+
   * [Youtube (Viral)](http://www.youtube.com): We've all seen them. Some of them are absolute [genius](http://www.youtube.com/watch?v=TnzFRV1LwIo) garnering millions of views or just plain [insulting ](http://www.youtube.com/watch?v=tX_3GEvF8RQ)garning the [scorn ](http://www.gearlive.com/news/article/sony-keeps-digging-with-the-worst-viral-marketing-campaign-ever-121206/)of thousands. Use with extreme caution, and don't make it major factor in your overall branding.
 
 To wind this up; Social Media is Social, keep it that way. Focus on using social networking sites to improve relations with potential / existing consumers, use Search/Comparison to pluck the 'maybe's and to push individual products or services. Its less 'catch and release' more 'catch and cultivate'

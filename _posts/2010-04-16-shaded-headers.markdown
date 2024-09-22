@@ -32,7 +32,7 @@ Basically, the operation is to layer the gradient image over the text _inside_ t
 
 {%highlight css%}
 
-     
+
      h1 > a,h2 > a {
      position:relative;
      }
@@ -43,12 +43,12 @@ Basically, the operation is to layer the gradient image over the text _inside_ t
      width:100%;
      height:31px;
      }
- 
-{%endhighlight%} 
+
+{%endhighlight%}
 
 If you are using a [thematic child theme](http://op111.net/53), the css file should be:
 
-    
+
 >   wp-content/themes/`<childname>`/style.css
 
 The relative position is important as it is what allows the gradient image to overlay the text.  Next thing to worry about is getting the `<span>` tag inside the `<a>` tag without lots of legwork.
@@ -70,8 +70,8 @@ Welcome to [JQuery](http://docs.jquery.com/How_jQuery_Works) gentlefolk; it can 
      }
      add_filter('thematic_head_scripts','shaded_headers');
 {%endhighlight%}
- 
- 
+
+
 
 And your done! This doesn't work for headers that aren't links, but I'm working on that (IANA JQuery Guru, help is you like!)
 

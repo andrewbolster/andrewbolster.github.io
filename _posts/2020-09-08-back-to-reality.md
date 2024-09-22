@@ -23,13 +23,13 @@ tags:
 title: Back to reality
 ---
 
-Realised it'd been a while, thought it was time for an update. I'm gonna try and make an effort to get closer to an ideal of something like #weeknotes as I've always been jealous of [Adrian's](http://www.mcqn.net/mcfilter/) ability to put this thoughts down and get them out the door in a sensible way... 
+Realised it'd been a while, thought it was time for an update. I'm gonna try and make an effort to get closer to an ideal of something like #weeknotes as I've always been jealous of [Adrian's](http://www.mcqn.net/mcfilter/) ability to put this thoughts down and get them out the door in a sensible way...
 
 Anyway, use the Table of Contents above to skip to bits you may care about.
 
 ## Farset Updates
 
-So, this was the actual reason for this update but it started a weird thought process that led to this blog. 
+So, this was the actual reason for this update but it started a weird thought process that led to this blog.
 
 Post renovation work at Farset has been the definition of a group effort; everyone's doing their bits to make small improvements as they go along (and while being COVID save...), and we've been terrible at collecting them and sharing those updates, so people could easily be forgiven for thinking that bugger all has happened since COVID.
 
@@ -37,7 +37,7 @@ Art has been essential in encouraging people to throw post-its around the space 
 
 ![2020-09-08 12.38.27](/img/2020/2020-09-08 12.38.27.jpg)
 
-I'm only gonna include stuff that I did today after not having been in the space for a month, but I encourage everyone contributing to take the credit and share what you do to fix and grow our wee space in these times. 
+I'm only gonna include stuff that I did today after not having been in the space for a month, but I encourage everyone contributing to take the credit and share what you do to fix and grow our wee space in these times.
 
 * We've got working calipers (and a stash of relevant batteries)
 
@@ -69,7 +69,7 @@ Not shown; all the other awesomeness others have done. This is just for my own s
 
 Previous interesting highlights not from todays work;
 
-* [Updated AV setup in the Event Space](https://discourse.farsetlabs.org.uk/t/event-space-streaming-av-setup/26) 
+* [Updated AV setup in the Event Space](https://discourse.farsetlabs.org.uk/t/event-space-streaming-av-setup/26)
 
 * We're getting a laser cutter but we're not talking too much about details till it's all confirmed
 
@@ -83,7 +83,7 @@ Previous interesting highlights not from todays work;
 
 ## Lockdown, Travel, Coronavirus, and Moving
 
-Everyone and their aunt has done a COVID lockdown stress post so here's some highlights for myself. 
+Everyone and their aunt has done a COVID lockdown stress post so here's some highlights for myself.
 
 * Got stuck with my partner during lockdown as it made more sense to stay at my place as I have better access to Deliveroo; haven't killed each-other yet, although it's been close a few times...
 * Work has migrated pretty well, some teething problems but nothing that can't be managed. Still enjoying the work and the opportunities, and pushing for them to take a more active role in the now estranged Belfast/ NI tech scene, encouraging people to submit personal talks to [NIDC](https://www.nidevconf.com/) (Come see mine!) etc and basically 'get out there' more, but with limited local management beyond team leads like me acting alone, getting sign off can be slower than I'd like.
@@ -93,7 +93,7 @@ Everyone and their aunt has done a COVID lockdown stress post so here's some hig
 
 * As you may know/remember, France was taken off the '[green list](https://www.bbc.co.uk/news/uk-53774955)' while we were over, but we were aware of this possibility and took the risk anyway; we got caught out by a feckless reactionary government response that was locking out countries while opening up schools and pubs. Good job :man_shrugging:
 
-* So, we returned when we'd planned to, and locked ourselves down as per the guidelines. Fortunately, I'd gotten an Index just before we left, so I had fun playing with [HL:Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/), and yes, it's as good as everyone says. Partner prefers [Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/) though 
+* So, we returned when we'd planned to, and locked ourselves down as per the guidelines. Fortunately, I'd gotten an Index just before we left, so I had fun playing with [HL:Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/), and yes, it's as good as everyone says. Partner prefers [Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/) though
 
   ![VID_20200727_233315-ANIMATION](/img/2020/VID_20200727_233315-ANIMATION.gif)
 

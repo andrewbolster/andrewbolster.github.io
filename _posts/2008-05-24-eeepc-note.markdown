@@ -47,16 +47,16 @@ Grub works wonderfully and straight out of the install i still have both the sta
 As for install, [use this](http://www.pendrivelinux.com/2008/05/15/usb-ubuntu-804-persistent-install-from-linux/)
 And for tweaking use [this](http://eee.ricey.co.uk/files/eee/RiceeeyTweak.sh) BUT to fix the sound you have to go back in and re fix alsa (the 700 tweak doesnt work for the 900)
 
-	
+
   * Edit /etc/modprobe.d/alsa-base and change the line “options snd-hda-intel model=3stack-dig”to “options snd-hda-intel model=auto”
 
-	
+
   * ALSO, run the following command:
 
-    
+
     sudo alsactl store
 
-	
+
   * Run:
 
 sudo alsactl restore

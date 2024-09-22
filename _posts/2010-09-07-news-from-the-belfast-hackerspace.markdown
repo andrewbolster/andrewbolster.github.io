@@ -48,10 +48,10 @@ Anywhere, where are we now?
 
 Currently we're trying to secure storage space from [QUBSU](http://twitter.com/QUBSU), as well as negotiating using The Space as an exhibition area, working with [Digital Circle](http://digitalcircle.ning.com/) to come to some partnership agreement, with two major event ideas;
 
-	
+
   1. Having a 'Hack Aid' (hopefully in conjunction with [Camara](http://camara.ie/web/), where interested parties bring in their obsolete computers and spare parts, which everyone would work together to turn into usable computers that would then be donated to charity. Personally I think this is brilliant because it could combine a wide variety of technical fields from electrical engineering, computer architecture, programming, Open Source Software, and a community spirit that I hope the Hackerspace will be able to continue.
 
-	
+
   2. Liaising with the [Northern Ireland IET Committee](http://www.theiet.org/local/uk/n-ireland/index.cfm) to take part in their proposed CyberSecurity week this coming year, with a series of activities involving the 'classical' conception of hacking, from wireless network intrusion (and intrusion detection!), network mapping, DDoS attacks, encryption and encryption attacks, as well as a wealth of informative talks and discussion on how to secure yourself online given these privacy and security threats.
 
 All in all I think its going quite well!

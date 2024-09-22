@@ -32,13 +32,13 @@ In a nutshell, [Click](http://pdos.csail.mit.edu/papers/click:tocs00/paper.pdf) 
 
 Requirements
 
-	
+
   * Already installed ns-3
 
-	
+
   * git
 
-	
+
   * ~/src directory
 
 # Get 'er dun
@@ -59,4 +59,3 @@ This should install everything under /usr/local/include/click, but leaves the s
 `./waf --run nsclick-simple-lan`
 
 Jobs a good one
-

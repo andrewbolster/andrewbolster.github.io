@@ -24,4 +24,3 @@ Source:[US Trade Representative Website](http://www.ustr.gov/about-us/press-offi
 
 [More Info](http://www.michaelgeist.ca/content/view/4949/125/)
 [Show your opposition to IP Dominion...](http://www.stopacta.info/alertbox)
-

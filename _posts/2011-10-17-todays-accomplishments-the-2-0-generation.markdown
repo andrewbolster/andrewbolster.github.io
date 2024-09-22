@@ -36,19 +36,19 @@ title: 'Today''s Accomplishments: The 2.0 Generation'
 ---
 
 
-	
+
   * Ordered Groceries ([Tesco Online](http://www.tesco.com/groceries/)),
 
-	
+
   * Ordered Case of Wine ([Virgin Wines](http://www.virginwines.co.uk/)),
 
-	
+
   * Planned PhD and Literature Review writing ([StackExchange](http://tex.stackexchange.com/questions/31103/starting-a-phd-any-guides-to-setting-up-a-system/))
 
-	
+
   * Read more papers ([Mendeley](http://www.mendeley.com/profiles/andrew-bolster/))
 
-	
+
   * Managed some Investments ([Zopa](http://uk.zopa.com/member/bolster))
 
 As I was walking back from our kitchen in the office, I realised that that 'lift coffee cup, walk to kitchen, make coffee cup, return to desk' was the most inefficient part of my working day; I can even justify writing this post as vaguely productive as I'm waiting for a download to complete...

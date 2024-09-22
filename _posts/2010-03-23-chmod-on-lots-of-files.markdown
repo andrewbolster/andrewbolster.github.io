@@ -26,23 +26,23 @@ I came across a permissions issue where, depending on how the files in question 
 
 So, first attempt was nice and easy.
 
-> 
+>
 
->     
+>
 >     $chown -R smbusr:smbusr *
-> 
-> 
+>
+>
 
 But this was taking a horrific amount of time, so I thought "There must be a better way".
 
 Chown does whatever you tell it to do, whether its needed or not. So why not check that first with 'find'.
 
-> 
+>
 
->     
+>
 >     $find . -user badnastyawkwarduser -exec chown -R smbusr:smbusr {} \;
-> 
-> 
+>
+>
 
 and it worked brilliantly!
 
