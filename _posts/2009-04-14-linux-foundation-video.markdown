@@ -9,5 +9,3 @@ tags:
 - Blog Post
 title: Linux foundation Video
 ---
-
-

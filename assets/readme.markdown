@@ -1,8 +1,8 @@
 ## Theme info
 
-Theme Name: the\_minimum  
-Description: A minimumlist theme for [jekyll](https://github.com/mojombo/jekyll).Theming is done on [Jekyll-Bootstrap](http://jekyllbootstrap.com/).  
-Author: Yuya Saito @ [\_layout](http://layouts-the.me/)  
+Theme Name: the\_minimum
+Description: A minimumlist theme for [jekyll](https://github.com/mojombo/jekyll).Theming is done on [Jekyll-Bootstrap](http://jekyllbootstrap.com/).
+Author: Yuya Saito @ [\_layout](http://layouts-the.me/)
 Version: 1.0
 
 ## About the \_minimum

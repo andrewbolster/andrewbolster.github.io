@@ -8,7 +8,7 @@
 >
 	<channel>
 		<title>{{ site.title | xml_escape }}</title>
-		<description>{% if site.tagline %}{{ site.tagline | xml_escape }}{% endif %}</description>		
+		<description>{% if site.tagline %}{{ site.tagline | xml_escape }}{% endif %}</description>
 		<sy:updatePeriod>{{ site.feed_update_period | default: "daily" | xml_escape }}</sy:updatePeriod>
 		<sy:updateFrequency>{{ site.feed_update_frequency | default: 1 | xml_escape }}</sy:updateFrequency>
 		<link>{{ site.production_url }}</link>

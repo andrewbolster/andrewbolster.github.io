@@ -47,4 +47,3 @@ If I'm back over Easter, the plan is to set up a new shiny eventcam setup in bot
 [^1]: Funnily enough this little-laptop-that-could has since been adopted by the space, simply to continue to let the uptime counter clock up. It was nearly up to 500 days on the trot before some hateful individual (jk) rebooted it without knowing what it is. One of the joys of a growing community!
 
 [^2]: the Decimate options are basically black magic, I just bounced through powers-of-two until I found ones that worked; mine say that you can have as many repeated frames as you like (0) that either don't vary by more than 524288 bits (not sure if this is just colour and/or luminosity), or if half (2) the frame changes by at least 512 (again, not entirely sure if that makes sense, but that's what the [man](http://www.mplayerhq.hu/DOCS/man/en/mplayer.1.html) pages say and that's what worked
-

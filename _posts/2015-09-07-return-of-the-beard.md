@@ -49,7 +49,7 @@ TL;DR for my own benefit in years to come:
 * Participated in VC negotiations and biz dev for a small tech firm
 * Spoke at [Ignite Liverpool](http://igniteliverpool.com/2015/08/andrew-bolster-a-rant-about-a-visitors-perspective-of-liverpool/) (The video doesn't do the animations justice...#cringe)
 * Drank my way around Manchester [with a load of beards](https://instagram.com/p/15vy9cyxSg/)
-* Secured funding for a Farset Labs [Raspberry Jam outreach programme](https://blog.farsetlabs.org.uk/getting-kids-excited-about-computer-science-in-northern-ireland/) 
+* Secured funding for a Farset Labs [Raspberry Jam outreach programme](https://blog.farsetlabs.org.uk/getting-kids-excited-about-computer-science-in-northern-ireland/)
 * Saw Dylan Moran Live
 * Presented at a defence conference
 * Attended a death metal gig in a suit
@@ -67,7 +67,7 @@ TL;DR for my own benefit in years to come:
 * Made some amazing friends I won't be able to get rid of for the rest of my days
 * Managed too many Undergrad, MSc and MEng projects
 
-That'll do. 
+That'll do.
 
 Thanks Liverpool! You've been a blast and I'll be back soon enough.
 

@@ -19,20 +19,18 @@ title: Stuff I've found interesting in the past month - 23/01/2011
 
 
   * [Still Unemployed 13](http://www.youtube.com/watch?v=RMZGs6IUReU&feature=autoshare)
-  
+
 
   * [Global Warming](http://www.youtube.com/watch?v=g-F8EO3qOVk&feature=autoshare)
-  
+
 
   * [NASA - The Frontier Is Everywhere](http://www.youtube.com/watch?v=oY59wZdCDo0&feature=autoshare)
-  
+
 
   * [Germaine Returns : Foamy The Squirrel](http://www.youtube.com/watch?v=lx6vFT4YbFI&feature=autoshare)
-  
+
 
   * [Bill Bailey - 'God, Jesus & the Holy Spirit...'](http://www.youtube.com/watch?v=k7J5Y3aOxhk&feature=autoshare)
-  
+
 
   * [Kittens In My Christmas Tree!](http://www.youtube.com/watch?v=QQd1I_-ZPzQ&feature=autoshare)
-  
-

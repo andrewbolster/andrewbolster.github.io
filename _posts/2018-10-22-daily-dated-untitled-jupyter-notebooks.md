@@ -25,14 +25,14 @@ So am very comfortable with just spinning up new notebooks all over the show. Ho
 
 ![](/img/untitled_hell.png)
 
-Less than informative and impossible to work out WTF I was doing. 
+Less than informative and impossible to work out WTF I was doing.
 
-Helpfully, there's a way to change it. 
+Helpfully, there's a way to change it.
 
 In your `jupyter_notebook_config.py` file ([Normally in `~/.jupyter`](https://jupyter-notebook.readthedocs.io/en/stable/config.html)), add the following somewhere sensible
 
 ```python
-import datetime #Somewhere near the top 
+import datetime #Somewhere near the top
 ...
 # around line 450, in the ContentsManager section
 c.ContentsManager.untitled_notebook = datetime.date.today().strftime("%Y%m%d")

@@ -40,19 +40,19 @@ typora-root-url: C:\Users\me\Documents\GitHub\andrewbolster.github.io\
 
 ## Intro
 
-Data Science is the current hotness. 
+Data Science is the current hotness.
 
 While those of us in these virtual rooms may make fun of the likes of Dominic Cummings for extolling a ‘Data Driven Approach’ to policy, the reality is that Data Science as a buzzword bingo term has survived and indeed thrived in a climate where ‘Artificial Intelligence’ is increasingly derided as being something that’s written more in PowerPoint than Python, ‘Machine Learning’ still gives people images of liquid metal exoskeletons crushing powdery puny human skulls, and those in management with long memories remember what kind of [mess](https://economistsview.typepad.com/economistsview/2008/12/quantitative-me.html) “Quantitative Analysis” got us into not too long ago...
 
 [![img](/img/2020/hqzDHa2mKqFaFwXYVScaExr0nA9wTxLEVaSr7fLl98SnsxoYa3OgtQPhx90rzyGIo90D2zboVcnwHCXk2hFsEQnJlv20EdhFgqd9uYW57DcngrRiO2NB7bFjj0lmZ3wiyo8VyP2Ocg)](https://twitter.com/matvelloso/status/1065778379612282885?lang=en)
 
-Way back in 2012, the Harvard Business Review described Data Science as [“The Sexiest Job of the 21st Century”](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), and since then has been appearing in job specs and linkedin posts and research funding applications and business startup prospecta more than ever. 
+Way back in 2012, the Harvard Business Review described Data Science as [“The Sexiest Job of the 21st Century”](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), and since then has been appearing in job specs and linkedin posts and research funding applications and business startup prospecta more than ever.
 
-You’re not really doing tech unless you’ve got a few pet Data Scientists under your wing. 
+You’re not really doing tech unless you’ve got a few pet Data Scientists under your wing.
 
 [![img](/img/2020/HdDYoDMx9A0qIoRJJF57EW5WHFNUfkZ8C5bcwb3e-ck4nntw_Ch_KAH8CzqLPU6FsUZLepfB-VzDcRsBM2DTeStdf5XS1rJVV1Nw1q9TDMiMIK30jRmUt-FuLvhbKj_q-dFu2CmJkhg)](https://nerdarchy.com/dd-ideas-artificer/)
 
-Like some kind of mythical creature, these Data Scientists sit somewhere between Wizards, Artificers, and Necromancers, breathing business intelligence into glass and copper to give the appearance of wisdom from a veritable onslaught of data, wielding swords of statistical [T-tests](https://en.wikipedia.org/wiki/Student%27s_t-test), shields made of the [Areas Under Curves](https://en.wikipedia.org/wiki/Receiver_operating_characteristic), and casting magicks of [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network). 
+Like some kind of mythical creature, these Data Scientists sit somewhere between Wizards, Artificers, and Necromancers, breathing business intelligence into glass and copper to give the appearance of wisdom from a veritable onslaught of data, wielding swords of statistical [T-tests](https://en.wikipedia.org/wiki/Student%27s_t-test), shields made of the [Areas Under Curves](https://en.wikipedia.org/wiki/Receiver_operating_characteristic), and casting magicks of [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network).
 
 ![img](/img/2020/iHRlCltQBUSLHxknWUF4-ctyA7E65b-tHfWU3Rc4Bt9KFtQCP3dJYGke5p9kGQh0sw3wzHvPwGXKwgwRdEFiZhcWnbGlzCntf54JWITuNCHfrG0wnHfiK6ktz1y_wxdTeQsdKQh-)
 
@@ -68,7 +68,7 @@ However, for an organisation attempting to leverage these mythical Data Scientis
 
 ## What's this about?
 
-In this talk we’ll walk through some of the philosophies I’ve arrived at as someone who started off as a lone-Data Scientist now transitioning to team leadership, and what tools I recommend to new hires (and intrigued colleagues) to understand complex production architectures. So, generally, what I wish I knew when I started with modern-ish Data Science workflow. 
+In this talk we’ll walk through some of the philosophies I’ve arrived at as someone who started off as a lone-Data Scientist now transitioning to team leadership, and what tools I recommend to new hires (and intrigued colleagues) to understand complex production architectures. So, generally, what I wish I knew when I started with modern-ish Data Science workflow.
 
 [![img](/img/2020/SZEIYRDajtVEkbGxR6_naemsIUJVvNwsnZVycJ-L3a0AHPqEBGgXqNbATppwTOadoNqW2ikgzD3eTM5YD_j1AmjbMshYevwS7Z_eqQkmOi-m1cKGoyUVVQKMvvwuphVpW6UyqI4p)](https://www.niceideas.ch/roller2/badtrash/entry/agile-landscape)
 
@@ -76,7 +76,7 @@ Also, a couple of dodgy stories from over the years of ‘Data Science Gone Wron
 
 This isn’t going to be a technical Data Science talk, we’re not opening up [Jupyter](/2018/10/daily-dated-untitled-jupyter-notebooks.html) or firing up [Spark](https://en.wikipedia.org/wiki/Apache_Spark) or [Tensorflow](https://www.tensorflow.org/tutorials) or whatever. We’re not even going to talk about [Perceptrons](https://en.wikipedia.org/wiki/Perceptron) or [Hidden neurons](https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute) or [homomorphic cryptography](https://hackernoon.com/exploring-decentralization-with-homomorphic-encryption-a8295755ba5f). This is about people, processes, how to establish a healthy data science culture.
 
-Anyway, who am I to talk about this stuff? 
+Anyway, who am I to talk about this stuff?
 
 ## Who am I ? (AKA you can skip this bit)
 
@@ -90,17 +90,17 @@ After that, and just in time for the financial crisis to make everyone question 
 
 More recently, I worked with a bunch of psychologists and marketers to teach machines how to understand human emotions using biometrics and wearable tech as the only Data Scientist.
 
-This being a small start-up, that meant I did anything that involved Data, so from storage and network administration to statistical analysis, real-time cloud architecture to academic writing, and everything in between. This also somehow involved throwing people down mountains and developing lie detecting underwear. Ahh the joys of Start Ups. 
+This being a small start-up, that meant I did anything that involved Data, so from storage and network administration to statistical analysis, real-time cloud architecture to academic writing, and everything in between. This also somehow involved throwing people down mountains and developing lie detecting underwear. Ahh the joys of Start Ups.
 
 After that I got to be a grown up Data Scientist working in at a cybersecurity firm specialising in real time network intrusion systems, playing with terabytes of historical and real time data trying to read the minds of hackers and script kiddies across the world who are throwing everything they can at some of the internet's biggest institutions. This was my first taste of being a Data Scientist who wasn’t working completely alone...
 
 # What about now? (AKA 'Start reading here')
 
-After two years in that I got pinched to build a new team within an established Cyber Security group called WhiteHat Security, that had recently been acquired by NTT Security; 
+After two years in that I got pinched to build a new team within an established Cyber Security group called WhiteHat Security, that had recently been acquired by NTT Security;
 
-We have 15 years of human expert trained data on if and how customer websites can be vulnerable to attack. We have teams of people working 24/7 to try and break peoples websites before ‘the bad guys’ do to prove that they’re vulnerable, and one way or another, we have those footprints of investigation, and the company wanted to start doing something with that data, so they needed a Data Science team. 
+We have 15 years of human expert trained data on if and how customer websites can be vulnerable to attack. We have teams of people working 24/7 to try and break peoples websites before ‘the bad guys’ do to prove that they’re vulnerable, and one way or another, we have those footprints of investigation, and the company wanted to start doing something with that data, so they needed a Data Science team.
 
-I’ve been there a year and this isn’t officially a sponsored talk so I won’t rant, but all I’ll say is I’m still really enjoying the work. Anyway, with all that in mind, I want to look at this ‘How do you spin-up Data Science’ from three perspectives. 
+I’ve been there a year and this isn’t officially a sponsored talk so I won’t rant, but all I’ll say is I’m still really enjoying the work. Anyway, with all that in mind, I want to look at this ‘How do you spin-up Data Science’ from three perspectives.
 
 1. Things that made previous “Data Science” roles suck
 2. Methods and approaches that I as an Individual contributor came to use to make my own life easier
@@ -112,9 +112,9 @@ For a change, and with a certain sense of Irony, Google itself has settled on a 
 
 > “a person employed to analyze and interpret complex digital data, [...], especially in order to assist a business in its decision-making.”
 
-To me, this definition encapsulates three of what I think are the four key elements of what the modern Data Science role is, and it’s all the sexy ones. 
+To me, this definition encapsulates three of what I think are the four key elements of what the modern Data Science role is, and it’s all the sexy ones.
 
-It says that Data Science sits in between Data Complexity, Business Context and Assistive Communication; 
+It says that Data Science sits in between Data Complexity, Business Context and Assistive Communication;
 
 ![img](/img/2020/zwN6hbU2O7Q9JapOib78IsuVUWoKfDAABSa7MEUjvtbhnYdILa7wA1scxcCToe3okzl74FVK6gsWrglr2_7Usp5-641GuKnonpEtGDl7ZZGRE1FyQl_pvp397DxUevaET--XlzUvN8A)
 
@@ -122,7 +122,7 @@ The obvious one is the **Complex Data**; you need to be familiar with how to acc
 
 A fairly common second highlight is the **Communications** aspect; at the end of the day, it’s your job to inform your internal and external customers with an appropriate amount of actionable information so that they can make an informed decision.
 
-But, more subtly than that, you need to be aware of what the **Business Context** as a whole is trying to accomplish, not just the direct requirements that may be foisted on you. Some people call this ‘[systems thinking](https://en.wikipedia.org/wiki/Systems_theory#Systems_thinking)’, I call it ‘caring about other people's work as well as your own’, but each to their own. 
+But, more subtly than that, you need to be aware of what the **Business Context** as a whole is trying to accomplish, not just the direct requirements that may be foisted on you. Some people call this ‘[systems thinking](https://en.wikipedia.org/wiki/Systems_theory#Systems_thinking)’, I call it ‘caring about other people's work as well as your own’, but each to their own.
 
 As we’ll see later, this is often more important on the ‘interpreting’ side than on the ‘communication’ side…
 
@@ -136,18 +136,18 @@ So, we have Google’s Defined Trifecta of Complexity, Communications and Contex
 
 Anyway, what’s this fourth theme?
 
-* <u>Continuity.</u> 
+* <u>Continuity.</u>
 
-Yes, it is a little bit of an alliterative backronym, but when I say Continuity, it has many meanings; 
+Yes, it is a little bit of an alliterative backronym, but when I say Continuity, it has many meanings;
 
-- Continuity of **operations** through automation and continuous testing. 
-- Continuity of **visibility** enforced by the construction of reproducible reports and continuous dashboarding pipelines. 
+- Continuity of **operations** through automation and continuous testing.
+- Continuity of **visibility** enforced by the construction of reproducible reports and continuous dashboarding pipelines.
 - Continuity of **meaning** by the explicit and near obsessive transparency of recording and sharing assumptions, decisions, experiments, and most importantly, failures.
 - Continuity of **capability** by having your Data Science operations actually survive your Data Science [team being hit by a bus](https://en.wikipedia.org/wiki/Bus_factor)
 
 So, in my contrived setup, we’ve now got **Complexity, Context, Communication and Continuity**.
 
-Great, after 10 minutes, we’ve got a definition. Ish. 
+Great, after 10 minutes, we’ve got a definition. Ish.
 
 Great, move on Bolster; What does this all mean for someone either getting into Data Science as a career or building out a new capability.
 
@@ -155,7 +155,7 @@ Great, move on Bolster; What does this all mean for someone either getting into 
 
 Before we get into the solutions, I’d like to share a couple of “WTF’s”, and then spend a little bit of time explaining where those WTFs actually came from.
 
-I’ll avoid naming names to protect the guilty, but here’s a few beauts in no particular order. I’ll let you be horrified by them en-masse then we can spend a bit of time going through them to understand how these came about. 
+I’ll avoid naming names to protect the guilty, but here’s a few beauts in no particular order. I’ll let you be horrified by them en-masse then we can spend a bit of time going through them to understand how these came about.
 
 ### Exhibit A. The “Thing”
 
@@ -167,29 +167,29 @@ This isn’t a bad thing. What was a bad thing, was the ‘thing’ table that t
 
 These were not ‘many to many’ relationships being maintained. No, my friends. This was to map a new global `thing_id`. A quick GitHub enterprise search for `thing_id`revealed the horror that had been unearthed. Almost every interaction in the company first queried this table to work out what on earth a given query was talking about, leading to a structure that, after some coaxing, leads [DataGrip](https://www.jetbrains.com/datagrip/) to spew out this entity relationship diagram.
 
- It’s easy to discount this as lazy engineering or an incorrect abstraction, but there are three things that, while they don’t justify leaving it that way, explain the history of how you could end up that way. 
+ It’s easy to discount this as lazy engineering or an incorrect abstraction, but there are three things that, while they don’t justify leaving it that way, explain the history of how you could end up that way.
 
 <u>Factor one</u>: long ago, there was no thing table; the company data architecture was built cleanly and there was no need for such hellishness.
 
 <u>Factor two</u>: long ago, certain database’s Foreign Key performance wasn’t particularly great, so doing multi-entity ‘one to many’ relationships wasn’t all that fast.
 
-<u>Factor three</u>: long ago, it was recognised that the company could expand some of it’s capabilities by acquiring a few other companies and integrating their data pipelines into theirs. 
+<u>Factor three</u>: long ago, it was recognised that the company could expand some of it’s capabilities by acquiring a few other companies and integrating their data pipelines into theirs.
 
 Now I think we can see the trouble. Long story short, an engineering department was under pressure to deliver on grand promises, and hacked together a solution that reused the previous clean data architecture in…. several different ways at once.
 
 ### Exhibit B. A Role by any other name
 
-I was looking to deploy a data pipeline to automate something that had just been a cron job for ages. While I was still upskilling in AWS, identity management appeared to be a massive pain in the behind, so I decided to reuse an existing execution role, `api_injest_ro`, and considering this was largely an ingest project, that made sense. I reviewed the decision with my direct superior, who saw no problem with it. 
+I was looking to deploy a data pipeline to automate something that had just been a cron job for ages. While I was still upskilling in AWS, identity management appeared to be a massive pain in the behind, so I decided to reuse an existing execution role, `api_injest_ro`, and considering this was largely an ingest project, that made sense. I reviewed the decision with my direct superior, who saw no problem with it.
 
-On deployment, their pipeline died instantly as the **entire** company’s global client base started routing traffic through their, totally incorrect, pipeline instead of their primary ingest node. 
+On deployment, their pipeline died instantly as the **entire** company’s global client base started routing traffic through their, totally incorrect, pipeline instead of their primary ingest node.
 
-This ‘isn’t really a story of a hack, it’s the story of subjectivity; one persons ingest is another persons… well, you know. 
+This ‘isn’t really a story of a hack, it’s the story of subjectivity; one persons ingest is another persons… well, you know.
 
 In this case, the role was not originally intended for API clients trying to read data from our own systems, rather it was intended for accepting data from external API clients sending data into our systems. *This intention was not documented anywhere*.
 
-The hack was a frankly clever piece of early cloud load balancing where traffic was routed around the places that responded <u>fastest</u> with the <u>least</u> amount of non-200 responses. 
+The hack was a frankly clever piece of early cloud load balancing where traffic was routed around the places that responded <u>fastest</u> with the <u>least</u> amount of non-200 responses.
 
-Guess what was the only thing our intrepid data scientists pipeline template did? 
+Guess what was the only thing our intrepid data scientists pipeline template did?
 
 ![img](/img/2020/lZPF89kmNyNrLJYL4KT7GHZ-4ORZQHRJ3Pljpp1KTKz3XFK5w0M1sH7_yCkEcDqMDZGEivWVldi8FiXkPEedkia8L5jV3GQz_bWOl_AlHAYfEs-tquiw1o7iFne1Pf_iznGCjH9w5YY)
 
@@ -197,9 +197,9 @@ Guess what was the only thing our intrepid data scientists pipeline template did
 
 ### Exhibit C: What’s the difference anyway?
 
-In another life, our friendly neighbourhood data scientist was doing a cohort analysis. 
+In another life, our friendly neighbourhood data scientist was doing a cohort analysis.
 
-Participants in two different groups were put under different forms of stimulation, and the question was, what was the quantitative difference in response between the two groups. 
+Participants in two different groups were put under different forms of stimulation, and the question was, what was the quantitative difference in response between the two groups.
 
 ![img](/img/2020/bEgdNFa21IlqDjkQWjYdyOylQAI2X8snLKRwCLmyosmkJ1TtoFDjzEpLov95GO3Y2gObzUmk9XGkUkSLX8JGiZxQFNu-fI7SR4mC4Y1e3Ia-Dq0hEZmNp7HYnxh_1wy-_GhLJ0LRisw)
 
@@ -209,11 +209,11 @@ Our scientist took the measurements, assessed the difference between the groups,
 
 > Group B’s response increased by 5% on average compared to Group A
 
-Time passes. The report is published, and then the calls start. 
+Time passes. The report is published, and then the calls start.
 
 “Your numbers don’t make any sense? How can you have such a substantial effect? It’s physically impossible for a person to respond that much? You must just be making it up!”
 
-Data Scientist goes to a website to read a completed report for the first time. 
+Data Scientist goes to a website to read a completed report for the first time.
 
 > “This product increases <characteristic> by 25%”
 
@@ -229,7 +229,7 @@ So, those are just a small sample of the challenges that face any data science t
 
 ### That’s nice and all but how do you actually do that?
 
-It’s been easy to stand up in conferences like this for years as an individual contributor, start-up data scientist, or solo-researcher and wax lyrical about how all the things that other people do is crap and it’d all be better if they just listened to me. It’s also fun. 
+It’s been easy to stand up in conferences like this for years as an individual contributor, start-up data scientist, or solo-researcher and wax lyrical about how all the things that other people do is crap and it’d all be better if they just listened to me. It’s also fun.
 
 However, how do you actually curate the kind of culture that I’m talking about? Both between a team, within an engineering division (your Data Science team *is* in your engineering division, right?), within a company and within a wider data ecosystem?
 
@@ -249,9 +249,9 @@ Well, I’ve been doing this for a year and I don’t think I’ve succeeded yet
 
 ![img](/img/2020/t6k_UM87pcFngC-TQkZEVvIM_H2-WPPFF9zN436GvyY5RhNZ1jEl49ZH3-qes4bFBUTbhn7EcfM8MQZPk-Tqt17x041mZbUEoGStnlI7Ad2oXQksK0_hBJ4jah77eXYm2wS7oqqDygc)
 
-**Defended empowerment**: part of my responsibility as a team lead is to give my team cover, both from management noise but also from vexatious questions; our team is doing great things because of the deep and wide knowledge embodied in it, and I don’t want to waste that strength answering questions from colleagues who haven’t read our reports or done any of their own research. 
+**Defended empowerment**: part of my responsibility as a team lead is to give my team cover, both from management noise but also from vexatious questions; our team is doing great things because of the deep and wide knowledge embodied in it, and I don’t want to waste that strength answering questions from colleagues who haven’t read our reports or done any of their own research.
 
-So I field those calls, and if I can’t point to a part of a report, document, or code that explains the question, I add it to my own to-do list to explain it and update the documentation, pending review from the original contributor. 
+So I field those calls, and if I can’t point to a part of a report, document, or code that explains the question, I add it to my own to-do list to explain it and update the documentation, pending review from the original contributor.
 
 So that’s it, that’s my principles for establishing and running a high performing Data Science team; get good diverse people, encourage their curiosity by giving them freedom to talk to anyone, encourage them to share their successes and their failures, and cover their ass from all the stuff that gets in the way, but make sure that their voice is heard at the highest levels as an equal partner.
 
@@ -259,22 +259,22 @@ So that’s it, that’s my principles for establishing and running a high perfo
 
 ![image-20201019130301677](/img/2020/image-20201019130301677.png)
 
-Just for those who wanted to get the Tools discussion, here’s my recommended stack; 
+Just for those who wanted to get the Tools discussion, here’s my recommended stack;
 
 - [Jupyter Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/) running in [Docker](https://docs.docker.com/get-docker/) with [folder mapping to userland](https://stackoverflow.com/questions/23439126/how-to-mount-a-host-directory-in-a-docker-container) for exploratory stuff, although my team are currently looking at moving all our exploratory analysis to [Azure](https://azure.microsoft.com/en-gb/), and [Azures Databricks](https://azure.microsoft.com/en-gb/services/databricks/) looks like a drop in replacement, with the added benefit of the team being able to work in their own environments if they have a preferred stack themselves.
 - [Metabase](https://www.metabase.com/) for exploratory data collation as a team (also does particularly well at introspecting on what should be foreign keys but aren’t)
 - [Jetbrains DataGrip](https://www.jetbrains.com/datagrip/) for, well, basically anything that it supports
 - If you don’t have a [data catalogue](https://www.alation.com/blog/what-is-a-data-catalog/) and a data glossary, you don’t have data. [Azure Data Catalog](https://docs.microsoft.com/en-us/azure/data-catalog/overview) is very good for both of these, including metadata tagging and the ability to make people outside your team ‘admins’ on particular terms. [AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/populate-data-catalog.html) does similar but is more internally focused
 - [Pandas](https://pandas.pydata.org/) goes without saying, but I would flag that [Plotly Express](https://plotly.com/python/plotly-express/) and it’s Jupyter integrations are looking awesome. If you’ve ever played with in notebook interactive graphing and found it frustrating, try it again.
-- And finally, a personal favourite; [`nbconflux`](https://github.com/Valassis-Digital-Media/nbconflux), an extension to push [Jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) up to [Atlassian Confluence](https://www.atlassian.com/software/confluence), so that people outside your analysis environments can work out what the hell you're talking about and what assumptions you made. 
+- And finally, a personal favourite; [`nbconflux`](https://github.com/Valassis-Digital-Media/nbconflux), an extension to push [Jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) up to [Atlassian Confluence](https://www.atlassian.com/software/confluence), so that people outside your analysis environments can work out what the hell you're talking about and what assumptions you made.
 
 ## Final Thoughts
 
-Data Science sits somewhere between Engineering, R&D, and Management. 
+Data Science sits somewhere between Engineering, R&D, and Management.
 
-Most people think it’s either magic or it’s going to steal their job or both. 
+Most people think it’s either magic or it’s going to steal their job or both.
 
-For all the talk of Data Science being about technology, so far, for me, I’d had to learn more about the human side than the technical side. 
+For all the talk of Data Science being about technology, so far, for me, I’d had to learn more about the human side than the technical side.
 
 But, as ever, your mileage may be non-deterministic.
 

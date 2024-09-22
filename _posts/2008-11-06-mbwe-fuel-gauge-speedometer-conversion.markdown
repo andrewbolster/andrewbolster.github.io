@@ -33,36 +33,36 @@ first, stop it displaying the "fuel" Stolen from [http://kyyhkynen.net/stuff/myb
 
 In order to prevent the service from starting during boot, edit /etc/init.d/S15wdc-fuel-gauge. Comment out this line:
 
->     
+>
 >     $FGD &
-> 
-> 
+>
+>
 Then stop the service:
 
->     
+>
 >     # /etc/init.d/S15wdc-fuel-gauge stop
-> 
-> 
+>
+>
 
-    
+
     <span style="font-size:130%;"><span style="font-family:Georgia,serif;">Once all thats done, this is my script (The ultimate in lazy)</span></span>
     <blockquote>#!/bin/bashINITIAL_RX=`cat /sys/class/net/eth0/device/net:eth0/statistics/rx_bytes`sleep 10FINAL_RX=`cat /sys/class/net/eth0/device/net:eth0/statistics/rx_bytes`DELTA_RX=`expr $FINAL_RX - $INITIAL_RX`KBPS_RX=`expr $DELTA_RX / 10240 `
-    
+
     let "RESULT = $KBPS_RX / 3"echo $RESULT > "/sys/devices/platform/wdc-leds/leds:wdc-leds:fuel-gauge/brightness"</blockquote>
     <span style="font-size:130%;"><span style="font-family:arial;">The 3 in there is the scaling factor between the kbps download and the number of lights on. </span><span style="font-family:arial;">Since I'm not often downloading any faster than about 400kbps, and when i am im not really worried about i</span></span>
-    
+
     <span style="font-size:130%;"><span style="font-family: arial;">0 to 100: lights one led (5 o’clock)</span>
-    
+
     <span style="font-family: arial;">100 to 150: lights two leds (5 and 7 o’clock)</span>
-    
+
     <span style="font-family: arial;">150 to 200: lights three leds (5, 7 and 9 o’clock)</span>
-    
+
     <span style="font-family: arial;">200 to 250: lights four leds (5, 7, 9 and 11 o’clock)</span>
-    
+
     <span style="font-family: arial;">250 to 280ish: lights five leds (5, 7, 9, 11 and 1 o’clock)</span>
-    
+
     <span style="font-family: arial;">280ish and more: lights all leds.</span></span>
-    
+
     <span style="font-size:130%;"><span style="font-family: arial;">I have the whole thing running as a cronjob every 5 minutes</span></span>,<span style="font-size:130%;"><span style="font-family: arial;"> <a href="http://unixhelp.ed.ac.uk/CGI/man-cgi?crontab+5">do that urself</a></span></span>
 
 \*[MBWE]: Western Digital My Book World Edition

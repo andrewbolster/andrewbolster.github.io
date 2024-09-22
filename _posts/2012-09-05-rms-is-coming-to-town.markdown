@@ -53,80 +53,80 @@ In 1999, Stallman called for development of a [free on-line encyclopedia](http:
 
 Stallman's writings on free software issues can be found in Free Software, Free Society ([GNU Press](http://shop.fsf.org/category/books)). He has received the following awards:
 
-> 
-> 
-	
+>
+>
+
 >   * 1986: Honorary life time membership in the Chalmers Computer Society
-> 
-	
+>
+
 >   * 1990: Receives a MacArthur Foundation Fellowship
-> 
-	
+>
+
 >   * 1990: The Association for Computing Machinery's Grace Murray Hopper Award "For pioneering work in the development of the extensible editor EMACS (Editing Macros)."
-> 
-	
+>
+
 >   * 1996: Honorary doctorate from Sweden's Royal Institute of Technology
-> 
-	
+>
+
 >   * 1998: Electronic Frontier Foundation's Pioneer award
-> 
-	
+>
+
 >   * 1999: Yuri Rubinsky Memorial Award
-> 
-	
+>
+
 >   * 2001: The Takeda Techno-Entrepreneurship Award for Social/Economic Well-Being
-> 
-	
+>
+
 >   * 2001: Honorary doctorate from the University of Glasgow
-> 
-	
+>
+
 >   * 2002: United States National Academy of Engineering membership
-> 
-	
+>
+
 >   * 2003: Honorary doctorate from the Vrije Universiteit Brussel
-> 
-	
+>
+
 >   * 2003: Honorary professorship from the Universidad Nacional de Ingeniería del Perú
-> 
-	
+>
+
 >   * 2004: Honorary doctorate from the Universidad Nacional de Salta, in Argentina
-> 
-	
+>
+
 >   * 2004: Honorary professorship from the Universidad Tecnológica del Perú
-> 
-	
+>
+
 >   * 2005: Fundazione Pistoletto prize
-> 
-	
+>
+
 >   * 2007: Honorary professorship from the Universidad Inca Garcilaso de la Vega, in Peru
-> 
-	
+>
+
 >   * 2007: First Premio Iternacional Extremadura al Conocimiento Libre
-> 
-	
+>
+
 >   * 2007: Honorary doctorate from the Universidad de Los Angeles de Chimbote, in Peru
-> 
-	
+>
+
 >   * 2007: Honorary doctorate from the University of Pavia
-> 
-	
+>
+
 >   * 2008: Honorary doctorate from the Universidad Nacional de Trujillo, in Peru
-> 
-	
+>
+
 >   * 2009: Honorary doctor of science degree from Lakehead University in Canada
-> 
-	
+>
+
 >   * 2011: Honorary doctorate from the Universidad Nacional de Córdoba, in Argentina
-> 
-	
+>
+
 >   * 2012: Honorary professorship from the Universidad César Vallejo de Trujillo, in Peru
-> 
-	
+>
+
 >   * 2012: Honorary doctorate from the Universidad Latinoamericana Cima de Tacna, in Peru
-> 
-	
+>
+
 >   * 2012: Honorary doctorate from the Universidad José Faustino Sanchez Carrió, in Peru.
-> 
+>
 
 Needless to say, this pillar of the international software community, whether you agree with him or not, is definitely not to be missed. All the guys from Farset Labs will be there, fresh from our [Synchronous Hackathon](http://farsetlabs.org.uk/blog/the-return-of-flacknite-the-syncronous-hackathon/) (Kindly Sponsored by [Instil](http://instil.co/))
 

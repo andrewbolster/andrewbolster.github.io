@@ -26,14 +26,14 @@ As any sane person would (who doesn't drive), they wanted to find somewhere clos
 > I'm moving to Belfast and trying to find somewhere to live. I don't drive so I'm looking for places close to public transport, but I can't seem to find any proper maps with the routes laid out. Translink's site has some route maps which look similar to a tube map (http://www.translink.co.uk/Documents/Services/metro/Metro_schematic2.pdf[1] ), but without knowing the streets or surrounding ares I'm struggling to piece the routes together from names alone. For Dublin I can use something like http://hittheroad.ie/[2] to see the routes mapped out properly, but i can't seem to find anything similar for Belfast.
 > Does such a thing exist?
 
-It took all my composure not to just respond with laughter. 
+It took all my composure not to just respond with laughter.
 
 There are several problems with this; it's an open data problem and relies on one of two things happening;
 
 * **The people who have the data, [give it out](https://dataissexy.wordpress.com/2014/04/26/is-ni-too-small-for-open-data-opendata/)**. This is extremely unlikely to happen in Translinks case and I and many others been [actively trying for about 4 years now](http://cimota.com/blog/2011/08/09/translink-just-close-the-doors-and-turn-off-the-lights/). In the same boat is Land and Property Services (LPS) not releasing accurate geocoding information for fecking anything (Interestingly on the bus/train routes angle, I tried to get Translink to submit to [Google Transit](http://maps.google.co.uk/intl/en/landing/transit/#dmy) in around 2008 but I was told that they couldn't because LPS couldn't tell them where their stops were. Go figure.)
 * **People filter/collect the data themselves and hope not to get sued**. The best NI Train [app](https://play.google.com/store/apps/details?id=AppZappy.NIRailAndBus) was 'instructed' to give preference to linking to the (shitty) Journey Planner as apparently the timetables of ~80% publicly funded travel is 'proprietary information'. God forbid all those 'competitors' get a leg up on your stellar service (hint; there are none).
 
-There was talk a few years ago about making some 'geo-checkin' app for people to manually crowd-source the actual bus and train times and locations, circumventing not only the timetable-theiving accusation but also the need for LPS info. 
+There was talk a few years ago about making some 'geo-checkin' app for people to manually crowd-source the actual bus and train times and locations, circumventing not only the timetable-theiving accusation but also the need for LPS info.
 
 Only problem is that you'd pretty much need every traveller in Belfast using it for at least a month before the variability of stops, times, buses, routes etc levelled out so that you could work out what the actual information was.
 
@@ -47,9 +47,9 @@ But the fundamental point, that is not new, or original, or even clever, is that
 
 All in all, this is not just strikingly... no.. blindingly obvious as a 'good thing', but it would also save money, save lives, save time, make the place more attractive to business and tourism, and be so bloody easy that the fact that it **hasn't** been done should be a major talking point outside of our wee development community who know **exactly** how easy this would be to pull off....
 
-Bloody hell, just look at the transit companies covered by [Google Transit at the minute](http://maps.google.co.uk/landing/transit/cities/index.html#Europe), Northern Ireland is literally the least connected part of the UK. 
+Bloody hell, just look at the transit companies covered by [Google Transit at the minute](http://maps.google.co.uk/landing/transit/cities/index.html#Europe), Northern Ireland is literally the least connected part of the UK.
 
-You can get from [Lands End to John O'Groats](https://maps.google.co.uk/maps/ms?ie=UTF8&oe=UTF8&msa=0&msid=102323256180048216474.00046d470c1ab6984cb90&dg=feature) in just over a day, walking a grand total of 26 minutes. 
+You can get from [Lands End to John O'Groats](https://maps.google.co.uk/maps/ms?ie=UTF8&oe=UTF8&msa=0&msid=102323256180048216474.00046d470c1ab6984cb90&dg=feature) in just over a day, walking a grand total of 26 minutes.
 
 ![Lands End Express](/img/2014/landsendexpress_700.png)
 
@@ -63,4 +63,3 @@ AAAAAAAARRRRRGGGHHHHHHHhhhhhhhh!
 `</rant>`
 
 TL;DR **Translink are bastards, LPS are just ignorant fools**
-

@@ -35,4 +35,3 @@ http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Download
 [Grab the tarball](http://github.com/etimbo/jquery-print-preview-plugin/tarball/master) containing source files and demo.
-
