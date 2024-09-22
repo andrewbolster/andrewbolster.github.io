@@ -19,9 +19,9 @@ title: 'TEDx: How it went and how it could have gone'
 {% include JB/setup %}
 <iframe width="420" height="315" src="//www.youtube.com/embed/ja_huuD-K-M" frameborder="0" allowfullscreen></iframe>
 
-So I did a [TEDx Belfast](http://www.tedxbelfast.com/), and had loads of fun (as you can probably see). 
+So I did a [TEDx Belfast](http://www.tedxbelfast.com/), and had loads of fun (as you can probably see).
 
-Check out the rest of the playlist [here](http://www.youtube.com/playlist?list=PLsRNoUx8w3rP1uwIpsZWqCHnhidBL_vNv), and I highly recommend fellow Dalriad, [Leon McCarron's](http://www.youtube.com/watch?v=-gWPrjgA-Ms&list=PLsRNoUx8w3rP1uwIpsZWqCHnhidBL_vNv&index=7) talk on adventuring, [Tony Gallagher's](http://www.youtube.com/watch?v=1IYoOkDLX5A&list=PLsRNoUx8w3rP1uwIpsZWqCHnhidBL_vNv&index=10) discussion of the benefits and future of shared education, and definitely check out two talks that must have been spying on my preparations; [Lisa McElherron](http://www.youtube.com/watch?v=T8GkTSjC7eY&list=PLsRNoUx8w3rP1uwIpsZWqCHnhidBL_vNv&index=8) talking about dissidents, and [Charo Lanao-Madden](http://www.youtube.com/watch?v=94gpXecfHjM&list=PLsRNoUx8w3rP1uwIpsZWqCHnhidBL_vNv&index=3) on the power of changing perspectives. 
+Check out the rest of the playlist [here](http://www.youtube.com/playlist?list=PLsRNoUx8w3rP1uwIpsZWqCHnhidBL_vNv), and I highly recommend fellow Dalriad, [Leon McCarron's](http://www.youtube.com/watch?v=-gWPrjgA-Ms&list=PLsRNoUx8w3rP1uwIpsZWqCHnhidBL_vNv&index=7) talk on adventuring, [Tony Gallagher's](http://www.youtube.com/watch?v=1IYoOkDLX5A&list=PLsRNoUx8w3rP1uwIpsZWqCHnhidBL_vNv&index=10) discussion of the benefits and future of shared education, and definitely check out two talks that must have been spying on my preparations; [Lisa McElherron](http://www.youtube.com/watch?v=T8GkTSjC7eY&list=PLsRNoUx8w3rP1uwIpsZWqCHnhidBL_vNv&index=8) talking about dissidents, and [Charo Lanao-Madden](http://www.youtube.com/watch?v=94gpXecfHjM&list=PLsRNoUx8w3rP1uwIpsZWqCHnhidBL_vNv&index=3) on the power of changing perspectives.
 
 Thanks go to Davy and everyone else involved in running this great event!
 
@@ -29,7 +29,7 @@ However, it wasn't all rosy...
 
 My talk didn't quite go as planned, since [someone](http://twitter.com/davysims) neglected to tell me that I'd been moved from the middle of the second block to near the end of the first block, and the lovely Anne McReynolds had to (unknowingly) break it to me as she was sitting up to kick off my introduction! Queue some frantic mic-ing up (Evidently, I can't work Britney Spears mics), and I pretty much went off script from there.
 
-In the interests of stimulating discussion, and critiquing myself, here's what I had 'planned' to say. 
+In the interests of stimulating discussion, and critiquing myself, here's what I had 'planned' to say.
 
 ---
 ---
@@ -50,11 +50,11 @@ In the interests of stimulating discussion, and critiquing myself, here's what I
 
 It's said that any sufficiently advanced technology is indistinguishable from magic. I would extend that and say that any sufficiently complex system is indistinguishable from magic.
 
-You know the individual components of the trick, you see the top hat, you see the 'sleight of hand' flicks, but you've got no tangible idea how the rabbit goes from under the floor to the hat, 
+You know the individual components of the trick, you see the top hat, you see the 'sleight of hand' flicks, but you've got no tangible idea how the rabbit goes from under the floor to the hat,
 
-or how bacterium almost perfectly model the japanese transport system, 
+or how bacterium almost perfectly model the japanese transport system,
 
-or how traffic jams happen on open roads, 
+or how traffic jams happen on open roads,
 
 or how the American economy sheds almost a trillion dollars in 6 minutes. These are some examples of the the emergent behaviours I'll be touching on tonight.
 
@@ -94,7 +94,7 @@ In terms of naturally arranged structures, the most famous structure of our wee 
 
 it cracked vertically causing the distinctive geometric profile that's still strong enough to support both the North Coast Economy and American tour groups,
 
-And finally as I mentioned earlier, the 2010 Flash Crash that in 6 minutes nearly crippled the American financial exchange system because several high frequency trading systems caught themselves in a feedback loop due to one hedge fund dropping a few million of a particular commodity. Interestingly the positive side of emergence appeared in this case where after the initial crash, the same high frequency interactions brought the market back on course within record time. 
+And finally as I mentioned earlier, the 2010 Flash Crash that in 6 minutes nearly crippled the American financial exchange system because several high frequency trading systems caught themselves in a feedback loop due to one hedge fund dropping a few million of a particular commodity. Interestingly the positive side of emergence appeared in this case where after the initial crash, the same high frequency interactions brought the market back on course within record time.
 
 But I realised that wasn't what you good people really were here for. This, like many other events in Northern Ireland, and indeed beyond, is about creating culture of innovation, exploration, producing "Ideas worth spreading". So here's my idea.
 
@@ -122,7 +122,7 @@ The saddest thing is that we can't measure a damned thing because in my opinion 
 
 Long after Farset Labs winds up, I believe this network will be a great foundation for the long term development of the Northern Irish technology sector, and was accomplished by literally doing nothing but leave a roof over the head and a fantastic network connection in the wall. But in my humble experience, today we do not live in an environment that ACCEPTS emergence.
 
-Everything must be planned and strategized and accounted for and modelled and projected against and politically de-sensitised. 
+Everything must be planned and strategized and accounted for and modelled and projected against and politically de-sensitised.
 
 If the founding membership of Farset Labs had been in any way 'planned' it would have been stacked full of people with perfect grades, hungry for success and bringing specific experiences and all those entrepreneurial ideals, a bespoke dynamic team with a mission statement and a plan and a growth trajectory they knew they had to maintain, and it would have been as much fun as cold porridge and probably a disaster.
 
@@ -141,5 +141,3 @@ I like to think about the road to the post-industrial Innovation or Knowledge Ec
 Basically, between the collapse of the shipping based economy, the prolonged Troubles, Thatcherite privateering, and the near continuous suckling on the teats of UK and European grants, I think it's time we got to the end game and let industrialism pass peacefully and accept what's coming in the brave new connected economy.
 
 My father had a brilliant phrase that I don't hear often enough, and that was that rather than living a good life for yourself, you should live life with a generosity of spirit for your fellow man. It's with that generosity of spirit that Farset Labs was built, and it's with that generosity of spirit, patience, and confidence in each other I think that Northern Ireland can really create a new culture and a new world for us all. Thank you.
-
-

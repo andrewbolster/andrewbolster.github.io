@@ -5,8 +5,8 @@
 	margin-left: auto;
 	margin-right: auto;
 	width: 960px;
-	
-	
+
+
 }
 
 /* Grid >> Children (Alpha ~ First, Omega ~ Last)
@@ -24,17 +24,17 @@
 
 /* Grid >> Global
 ----------------------------------------------------------------------------------------------------*/
- 
-.grid_1, 
-.grid_2, 
-.grid_3, 
-.grid_4, 
-.grid_5, 
-.grid_6, 
-.grid_7, 
-.grid_8, 
-.grid_9, 
-.grid_10, 
+
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
 .grid_11,
 .grid_12{
 	display:inline;

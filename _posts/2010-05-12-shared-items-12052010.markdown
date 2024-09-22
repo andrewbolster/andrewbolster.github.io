@@ -17,17 +17,15 @@ title: Shared Items - 12/05/2010
 
 
   * [Designing next steps](http://www.leemunroe.com/designing-next-steps/)
-  
+
 
   * [Surprise! It’s a hung Parliament.](http://emmasanderson.wordpress.com/2010/05/07/surprise-its-a-hung-parliament/)
-  
+
 
   * [What Sites Future Employers Are Checking When Looking at You [Job Search]](http://feeds.gawker.com/~r/lifehacker/full/~3/BwrkkZr-oqs/what-sites-future-employers-are-checking-when-looking-at-you)
-  
+
 
   * [Syslog Better Logging Tutorial](http://www.howtoforge.com/syslog-better-logging-tutorial)
-  
+
 
   * [Open Source Guacamole Puts VNC On the Web](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/E-ZVH2MYNY4/Open-Source-Guacamole-Puts-VNC-On-the-Web)
-  
-

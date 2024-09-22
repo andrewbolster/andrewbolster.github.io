@@ -33,4 +33,3 @@ While this may not be a life changing device, it is pretty darned close. The onl
 The iPad is a jack of all trades; ebooks, games, browsing, social media, media viewing and generation, and more stuff that I could never think of. The Kindle is an ebook reader, literally born and bred, with a infant browser incubating along side. When I'm reading something in an e-paper or an e-book that I have no idea about, I can pop over, spend 5 minutes familiarising myself with the wikipedia article, and go back. I can comfortably read google reader (save for the videos) at a bus stop or on the train. If I come across a truely inspiring piece of prose, I can [share it with my social network in situ](http://mashable.com/2010/04/29/kindle-facebook-twitter/).
 
 If it wasn't for the lack of native or google-docs text editing, (and the lack of SSH client), I would carry my laptop alot less than I do now.
-

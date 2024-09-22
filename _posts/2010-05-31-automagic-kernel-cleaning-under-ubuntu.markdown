@@ -20,7 +20,7 @@ title: Automagic Kernel Cleaning under Ubuntu
 ---
 
 
-Sick of having dozens of old kernels sitting under your /boot/ dir? Want a simpler boot-life? Well we've got the solution for you. 
+Sick of having dozens of old kernels sitting under your /boot/ dir? Want a simpler boot-life? Well we've got the solution for you.
 
 Just one course of [cleankernel](http://andrewbolster.info/scraps/cleankernel) once an upgrade cycle will remove all previous kernel entries from your bootloader and /boot/ dir.
 

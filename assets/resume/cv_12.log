@@ -211,10 +211,10 @@ File: dvipsnam.def 2014/04/23 v3.0j Driver-dependant file (DPC,SPQR)
 Package: fontspec 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2014/06/10 v5105 L3 programming layer (loader) 
+Package: expl3 2014/06/10 v5105 L3 programming layer (loader)
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2014/06/10 v5105 L3 programming layer (code) 
+Package: expl3 2014/06/10 v5105 L3 programming layer (code)
 L3 Module: l3bootstrap 2014/05/26 v4889 L3 Bootstrap code
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
@@ -350,12 +350,12 @@ LaTeX Info: Redefining \- on input line 49.
 
 *************************************************
 * LaTeX warning: "xparse/redefine-command"
-* 
+*
 * Redefining document command \oldstylenums with arg. spec. 'm' on line 144.
 *************************************************
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \liningnums with arg. spec. 'm' on line 148.
 .................................................
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
@@ -375,7 +375,7 @@ LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
 File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
 (/usr/local/texlive/2014/texmf-dist/tex/xelatex/xunicode/xunicode.sty
-File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many
 other characters in Unicode lower plane
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/tipa/t3enc.def
@@ -409,109 +409,109 @@ Package graphics Info: Driver file: xetex.def on input line 91.
 ))
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \fontspec with arg. spec. 'O{}mO{}' on line 41.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \setmainfont with arg. spec. 'O{}mO{}' on line 47.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \setsansfont with arg. spec. 'O{}mO{}' on line 53.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \setmonofont with arg. spec. 'O{}mO{}' on line 59.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \setmathrm with arg. spec. 'O{}mO{}' on line 68.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \setboldmathrm with arg. spec. 'O{}mO{}' on line
 . 72.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \setmathsf with arg. spec. 'O{}mO{}' on line 76.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \setmathtt with arg. spec. 'O{}mO{}' on line 80.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \newfontfamily with arg. spec. 'mO{}mO{}' on line
 . 99.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \newfontface with arg. spec. 'mO{}mO{}' on line
 . 103.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \defaultfontfeatures with arg. spec. 't+om' on
 . line 112.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \addfontfeatures with arg. spec. 'm' on line 170.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \newfontfeature with arg. spec. 'mm' on line 181.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \newAATfeature with arg. spec. 'mmmm' on line 189.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \newopentypefeature with arg. spec. 'mmm' on line
 . 197.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \aliasfontfeature with arg. spec. 'mm' on line
 . 226.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \aliasfontfeatureoption with arg. spec. 'mmm' on
 . line 228.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \newfontscript with arg. spec. 'mm' on line 233.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \newfontlanguage with arg. spec. 'mm' on line 259.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-. 
+.
 . Defining document command \DeclareFontsExtensions with arg. spec. 'm' on
 . line 279.
 .................................................
@@ -528,94 +528,94 @@ LaTeX Info: Redefining \upshape on input line 2208.
 \g__fontspec_family_Lato-Lig_int=\count136
 .................................................
 . fontspec info: "defining-font"
-. 
+.
 . Font family 'Lato-Lig(0)' created for font 'Lato-Lig' with options
 . [Ligatures=TeX,Color=primary,Path =
 . fonts/lato/,BoldItalicFont=Lato-RegIta,BoldFont=Lato-Reg,ItalicFont=Lato-LigI
 ta].
-. 
+.
 . This font family consists of the following shapes:
-. 
+.
 . * 'normal' with NFSS spec.:
-. 
+.
 . <->"[fonts/lato/Lato-Lig]/OT:script=latn;language=DFLT;mapping=tex-text;color
 =2B2B2BFF
 . ;"
-. 
+.
 . * 'small caps' with NFSS spec.:
-. 
+.
 . and font adjustment code:
-. 
-. 
+.
+.
 . * 'bold' with NFSS spec.:
-. 
+.
 . <->"[fonts/lato/Lato-Reg]/OT:script=latn;language=DFLT;mapping=tex-text;color
 =2B2B2BFF
 . ;"
-. 
+.
 . * 'bold small caps' with NFSS spec.:
-. 
+.
 . and font adjustment code:
-. 
-. 
+.
+.
 . * 'italic' with NFSS spec.:
-. 
+.
 . <->"[fonts/lato/Lato-LigIta]/OT:script=latn;language=DFLT;mapping=tex-text;co
 lor=2B2B2BFF
 . ;"
-. 
+.
 . * 'small caps' with NFSS spec.:
-. 
+.
 . and font adjustment code:
-. 
-. 
+.
+.
 . * 'bold italic' with NFSS spec.:
-. 
+.
 . <->"[fonts/lato/Lato-RegIta]/OT:script=latn;language=DFLT;mapping=tex-text;co
 lor=2B2B2BFF
 . ;"
-. 
+.
 . * 'bold small caps' with NFSS spec.:
-. 
+.
 . and font adjustment code:
-. 
+.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-. 
+.
 . Raleway-ExtraLight scale = 0.9567325044675999.
 .................................................
 \g__fontspec_family_Raleway-ExtraLight_int=\count137
 .................................................
 . fontspec info: "set-scale"
-. 
+.
 . Raleway-ExtraLight scale = 0.9567325044675999.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-. 
+.
 . Raleway-ExtraLight scale = 0.9567325044675999.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-. 
+.
 . Font family 'Raleway-ExtraLight(0)' created for font 'Raleway-ExtraLight'
 . with options [Ligatures=TeX,Scale=MatchLowercase,Mapping=tex-text,Path =
 . fonts/raleway/].
-. 
+.
 . This font family consists of the following shapes:
-. 
+.
 . * 'normal' with NFSS spec.:
-. 
+.
 . <->s*[0.9567325044675999]"[fonts/raleway/Raleway-ExtraLight]/OT:script=latn;l
 anguage=DFLT;mapping=tex-text;mapping=tex-text;"
-. 
+.
 . * 'small caps' with NFSS spec.:
-. 
+.
 . <->s*[0.9567325044675999]"[fonts/raleway/Raleway-ExtraLight]/OT:script=latn;l
 anguage=DFLT;mapping=tex-text;mapping=tex-text;+smcp;"
 . and font adjustment code:
-. 
+.
 .................................................
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/textpos/textpos.sty
@@ -710,7 +710,7 @@ LaTeX Font Info:    ... okay on input line 24.
 * paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
+* modes:
 * h-part:(L,W,R)=(35.56593pt, 543.16313pt, 35.56593pt)
 * v-part:(T,H,B)=(21.33955pt, 752.29088pt, 21.33955pt)
 * \paperwidth=614.295pt
@@ -759,7 +759,7 @@ Package hyperref Warning: Rerun to get /PageLabels entry.
 
 .................................................
 . fontspec info: "setup-math"
-. 
+.
 . Adjusting the maths setup (use [no-math] to avoid this).
 .................................................
 \symlegacymaths=\mathgroup4
@@ -826,69 +826,69 @@ ABD: EveryShipout initializing macros
 isodate: babel.sty, (n)german.sty have not been loaded
 .................................................
 . fontspec info: "defining-font"
-. 
+.
 . Font family 'Raleway-ExtraLight(1)' created for font 'Raleway-ExtraLight'
 . with options [Path = fonts/raleway/].
-. 
+.
 . This font family consists of the following shapes:
-. 
+.
 . * 'normal' with NFSS spec.:
 . <->"[fonts/raleway/Raleway-ExtraLight]/OT:script=latn;language=DFLT;"
-. 
+.
 . * 'small caps' with NFSS spec.:
 . <->"[fonts/raleway/Raleway-ExtraLight]/OT:script=latn;language=DFLT;+smcp;"
 . and font adjustment code:
-. 
+.
 .................................................
 \g__fontspec_family_Lato-Hai_int=\count148
 .................................................
 . fontspec info: "defining-font"
-. 
+.
 . Font family 'Lato-Hai(0)' created for font 'Lato-Hai' with options [Path =
 . fonts/lato/].
-. 
+.
 . This font family consists of the following shapes:
-. 
+.
 . * 'normal' with NFSS spec.:
 . <->"[fonts/lato/Lato-Hai]/OT:script=latn;language=DFLT;"
-. 
+.
 . * 'small caps' with NFSS spec.:
-. 
+.
 . and font adjustment code:
-. 
+.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-. 
+.
 . Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
 . fonts/lato/].
-. 
+.
 . This font family consists of the following shapes:
-. 
+.
 . * 'normal' with NFSS spec.:
 . <->"[fonts/lato/Lato-Lig]/OT:script=latn;language=DFLT;"
-. 
+.
 . * 'small caps' with NFSS spec.:
-. 
+.
 . and font adjustment code:
-. 
+.
 .................................................
 \g__fontspec_family_Raleway-Medium_int=\count149
 .................................................
 . fontspec info: "defining-font"
-. 
+.
 . Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
 . options [Path = fonts/raleway/].
-. 
+.
 . This font family consists of the following shapes:
-. 
+.
 . * 'normal' with NFSS spec.:
 . <->"[fonts/raleway/Raleway-Medium]/OT:script=latn;language=DFLT;"
-. 
+.
 . * 'small caps' with NFSS spec.:
 . <->"[fonts/raleway/Raleway-Medium]/OT:script=latn;language=DFLT;+smcp;"
 . and font adjustment code:
-. 
+.
 .................................................
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 35.
 
@@ -924,19 +924,19 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 \g__fontspec_family_Lato-Bol_int=\count150
 .................................................
 . fontspec info: "defining-font"
-. 
+.
 . Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
 . fonts/lato/].
-. 
+.
 . This font family consists of the following shapes:
-. 
+.
 . * 'normal' with NFSS spec.:
 . <->"[fonts/lato/Lato-Bol]/OT:script=latn;language=DFLT;"
-. 
+.
 . * 'small caps' with NFSS spec.:
-. 
+.
 . and font adjustment code:
-. 
+.
 .................................................
 
 
@@ -964,7 +964,7 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 274.
- ) 
+ )
 Here is how much of TeX's memory you used:
  21212 strings out of 493734
  392666 string characters out of 6146348

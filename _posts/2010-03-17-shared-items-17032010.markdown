@@ -24,17 +24,15 @@ title: Shared Items - 17/03/2010
 
 
   * [3 Cool Wordpress Plugins To Make Blogging Life Easier](http://feedproxy.google.com/~r/Makeuseof/~3/47csX0Qp-LU/)
-  
+
 
   * [Top 10 best practices for front-end web developers](http://www.catswhocode.com/blog/top-10-best-practices-for-front-end-web-developers)
-  
+
 
   * [7 Tips For Marketing Your Freelance Business Offline](http://feedproxy.google.com/~r/FreelanceSwitch/~3/LKtkaJE0OGI/)
-  
+
 
   * [6 Tips For A Social Media Friendly Logo Design](http://feedproxy.google.com/~r/Makeuseof/~3/je99poPIag4/)
-  
+
 
   * [Nsploit: Nmap grows some teeth](http://feedproxy.google.com/~r/securityaegis/igXu/~3/UetG8BnKr60/)
-  
-

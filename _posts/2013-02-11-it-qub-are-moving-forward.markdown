@@ -37,16 +37,16 @@ QUB Relevant: Mostly PGR or prospective PGR
 
 Just out of a great meeting with QUB Information Services regarding:
 
-	
+
   * Researcher/ Student webspace
 
-	
+
   * Email
 
-	
+
   * Wifi
 
-	
+
   * and VPN
 
 # Web Space
@@ -75,13 +75,13 @@ The whisper around is that there's a fair amount of money being ponied up for wh
 
 Notable mistakes that are hopefully being resolved by this proposed system are:
 
-	
+
   * EduRoam inclusion:[ Most European and World Wide institutions](http://monitor.eduroam.org/eduroam_map.php?type=all) use this system to use each other's wifi when at meetings or conferences. QUB has been left in the cold for a long time, often looking like the poor-neighbour, begging for waves... This is being tested at the minute and I've asked for a beta invite for a few areas, specifically [EEECS](http://www.qub.ac.uk/schools/eeecs/) since we're best placed to a) test it to destruction, b) make bug reports more expansive than "DA WEEFEES NO WORK", and c) we are all early adopters by nature anyway. 
 
-	
+
   * Backhaul: QUB_SEC always looped back to a single router in the Lanyon building (Well, the McClay actually, but still), making a massive bottleneck for data. It gets to the insane extremes that when I want to connect to my desktop in ECIT, from the café in ECIT, I have to go via the main site. This will hopefully be fixed, meaning that wifi will have local backhaul with centralised authentication, _hopefully_ meaning that it will be able to access localised resources (such as office desktops) as if you were in the local wired network.
 
-	
+
   * Crypto: IS are painfully aware of the hash (no pun intended) that was made of certificate authentication and the problems with[ 'Secure' W2](http://www.securew2.com/), and dealing with, you know, [people having their own hardware](http://en.wikipedia.org/wiki/Bring_your_own_device). This will hopefully be fixed next time around.
 
 # VPN

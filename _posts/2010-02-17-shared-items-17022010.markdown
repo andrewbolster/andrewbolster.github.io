@@ -19,14 +19,12 @@ title: Shared Items - 17/02/2010
 
 
   * [A Screw-In Coffin is Clever and Economical [Patents]](http://feeds.gawker.com/~r/gizmodo/full/~3/1q-6FCFQ6-w/a-screw+in-coffin-is-clever-and-economical)
-  
+
 
   * [Leaked Government report dismisses QUB’s calls for increasing student fees](http://www.thegown.org.uk/2010/02/16/leaked-government-report-dismisses-qubs-calls-for-increasing-student-fees/)
-  
+
 - Wow, they were actually pushing this?! Finally something good 'the government' has done.
   * [Treat Your Presentation like a Performance to Nail Timing and Delivery [Presentations]](http://feeds.gawker.com/~r/lifehacker/full/~3/Evopx3QYEkk/treat-your-presentation-like-a-performance-to-nail-timing-and-delivery)
-  
+
 
   * [Installing Kernel Security Updates Without Reboot With Ksplice Uptrack On Ubuntu 9.10 Desktop](http://www.howtoforge.com/installing-kernel-security-updates-without-reboot-with-ksplice-uptrack-on-ubuntu-9.10-desktop)
-  
-

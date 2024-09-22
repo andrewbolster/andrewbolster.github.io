@@ -31,7 +31,7 @@ I'm also maintaining this 'short' as part of my gradually accumulating ['python_
 
 # Transcript
 
-Evening folks, and I'm happy to be appearing in what we hope is the last virtual BLUG! We've all spent a long time toiling in our own little worlds in relative isolation over the course of this sequence of lockdowns, and its appropriate that now as we begin coming back together, that we're talking about projects that operate and complement across ecosystems. 
+Evening folks, and I'm happy to be appearing in what we hope is the last virtual BLUG! We've all spent a long time toiling in our own little worlds in relative isolation over the course of this sequence of lockdowns, and its appropriate that now as we begin coming back together, that we're talking about projects that operate and complement across ecosystems.
 
 [![python_ecosystem](https://fabienmaussion.info/acinn_python_workshop/figures/scipy_ecosystem.png)](https://fabienmaussion.info/scientific_programming/week_05/02-Scientific-Python.html)
 
@@ -41,7 +41,7 @@ However, in both my professional and hobbiest software engineering and data scie
 
 So when Phil mentioned about the theme being about crossplatform libraries and workflows, there was only one candidate that I could suggest, and that is the [Apache Arrow](https://arrow.apache.org/) project.
 
-On paper, and on spec, Arrow is fairly conventional as an in-memory data representation; it's got columnar storage for analytic lookups, leveraging CPU cache locality to maximise local throughput, with a fairly conventional bitmask/offset/value format for fast partial eliminations, and then these row-groups can be efficiently swapped in and out at will, or `mmap`ed directly from disk to minimise paging, blah blah blah. We've had hyper optimised data structures for as long as we've had data. 
+On paper, and on spec, Arrow is fairly conventional as an in-memory data representation; it's got columnar storage for analytic lookups, leveraging CPU cache locality to maximise local throughput, with a fairly conventional bitmask/offset/value format for fast partial eliminations, and then these row-groups can be efficiently swapped in and out at will, or `mmap`ed directly from disk to minimise paging, blah blah blah. We've had hyper optimised data structures for as long as we've had data.
 
 [![smid](https://arrow.apache.org/img/simd.png)](https://arrow.apache.org/overview/)
 
@@ -69,11 +69,11 @@ That also means that a common data format that lives in CPU cache, GPU shared me
 
 > "But, my data is too complicated for that"
 
-Possibly! and that's fine; Arrow is not well equiped for some common use cases, particularly anything transactional or non-idempotent, and there's still active work being done to establish a common graph implementation for instance, and just last week there was a paper released that demonstrated an almost-hardware POSIX interface to perform AWS Athena-like operations in local filesystems leveraging CephFS, Arrow and Parquet 
+Possibly! and that's fine; Arrow is not well equiped for some common use cases, particularly anything transactional or non-idempotent, and there's still active work being done to establish a common graph implementation for instance, and just last week there was a paper released that demonstrated an almost-hardware POSIX interface to perform AWS Athena-like operations in local filesystems leveraging CephFS, Arrow and Parquet
 
 [![cephfs](/img/2021/cephfs.png)](https://twitter.com/wesmckinn/status/1397912053898256384)
 
-At the core, and this probably should have come at the top, but still, the fundamental data type architecture on which the whole thing is set is beautifully simple; 
+At the core, and this probably should have come at the top, but still, the fundamental data type architecture on which the whole thing is set is beautifully simple;
 
 - Scalars:
     - Boolean
@@ -89,7 +89,7 @@ At the core, and this probably should have come at the top, but still, the funda
 
 _N.b., all values are nullable via a value offset bitmask_
 
-But anyway, to wrap things up, as a 'reverse summary slide', here's the things that I think make Arrow great: 
+But anyway, to wrap things up, as a 'reverse summary slide', here's the things that I think make Arrow great:
 
 * Solid stable community and governance model, with leading contributors from more than a dozen major OSS and industrial projects
 * In-memory model directly maps to transit model (no serialisation overhead)
@@ -100,14 +100,14 @@ But anyway, to wrap things up, as a 'reverse summary slide', here's the things t
 
 And that's it from me, if I haven't totally borked the timing, I should have a minute or two for questions, which I probably won't have the answers for.
 
-___ 
+___
 
 
 # [FAQ](https://arrow.apache.org/faq/)'s because Bolster doesn't know everything:
 
 ## ∆ Arrow vs Parquet
 
-Arrow -> In memory, with IPC/RPC/Streaming options, uncompressed, 
+Arrow -> In memory, with IPC/RPC/Streaming options, uncompressed,
 Parquet -> On disk, maximising compression, at expense of read speed
 
 ## ∆ Arrow File vs Parquet Files

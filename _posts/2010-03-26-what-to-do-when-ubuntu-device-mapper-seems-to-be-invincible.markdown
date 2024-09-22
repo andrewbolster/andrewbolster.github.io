@@ -37,23 +37,23 @@ Thanks to [wazoox](http://perlmonks.org/?node_id=292373) for eliminating a possi
 
 After a bit of experimenting, I tried
 
-> 
+>
 
->     
+>
 >     <code>$dmraid -r
 >     </code>
-> 
-> 
+>
+>
 
 so see what raid sets were set up, then did
 
-> 
+>
 
->     
+>
 >     <code>$dmraid -x
 >     </code>
-> 
-> 
+>
+>
 
 but was presented with
 
@@ -61,13 +61,13 @@ but was presented with
 
 Googled this and found [this forum post](http://ubuntuforums.org/showthread.php?p=8417410) that told me to do this;
 
-> 
+>
 
->     
+>
 >     <code>$dmraid -rE
 >     </code>
-> 
-> 
+>
+>
 
 And that went through, rebooted, hoped, waited (well, while i was waiting, set the bios back to AHCI), and repartitioned, and all of (this particular issue) was well again. Hope this helps someone else down the line!
 

@@ -32,11 +32,11 @@ Issac Asimov is primarily known for being one of the most prolific and impactful
 
 ![image-20201019104244483](/img/2020/image-20201019104244483.png)
 
-He first used the term in his 1941 story ‘[Liar!](https://en.wikipedia.org/wiki/Liar!_(short_story))’, about a robot called ‘Herbie’ that develops telepathic abilities, and can read people's thoughts. However, because the robot’s core operating principles, or, ‘programming’ still included the first law of robotics, that is, not to hurt people, Herbie starts lying to people to make them feel happy. 
+He first used the term in his 1941 story ‘[Liar!](https://en.wikipedia.org/wiki/Liar!_(short_story))’, about a robot called ‘Herbie’ that develops telepathic abilities, and can read people's thoughts. However, because the robot’s core operating principles, or, ‘programming’ still included the first law of robotics, that is, not to hurt people, Herbie starts lying to people to make them feel happy.
 
 This leads to Herbie leading a Robopsychologist called [Susan Calvin](https://en.wikipedia.org/wiki/Susan_Calvin) to believe that a co-worker fancies her, and when she finds out that this isn’t true and Herbie just told her this because Herbie knew the idea would make her feel better, she is very hurt.
 
-This ‘First Law’ is part of the [‘Three Laws of Robotics’](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics), which were officially codified the following year as: 
+This ‘First Law’ is part of the [‘Three Laws of Robotics’](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics), which were officially codified the following year as:
 
 1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 2. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
@@ -46,7 +46,7 @@ These simple ‘laws’ that were programmed into all robots, collided with the 
 
 > Robopsychology - “the study of the personalities and behaviour of intelligent machines”
 
-This is a field of research that today, doesn’t exist, but I first read about it in 2014 when I was on a packed commuter train in California just having just left Google’s Mountain View complex where I’d met a university friend who was a programmer there. 
+This is a field of research that today, doesn’t exist, but I first read about it in 2014 when I was on a packed commuter train in California just having just left Google’s Mountain View complex where I’d met a university friend who was a programmer there.
 
 ![img](/img/2020/RkUMAXrjqJ6W2XHLgUSnno2OaOz2Hsm6KZJ3rJ7-MMA8cCXF2_6UZ8-OSk9wT1Er-5BjLps3ZSLw-LUQ97PR8F7x0S_9ggIa6UEj--jzWx9oQ5pXx7xgL1GZC5F_uLNAPUIwCfWsuFY)
 
@@ -54,7 +54,7 @@ I had spent the previous 5 years in a Masters programme at [Queen's University B
 
 ![image-20201019104613554](/img/2020/image-20201019104613554.png)
 
-It focused on the overlap between two fields that, in my eyes, were obviously one bigger field; How to put lightning in glass to add numbers together, and how to turn adding numbers together into thinking. The physical world of computation and the virtual world of programming. And it fascinated me. 
+It focused on the overlap between two fields that, in my eyes, were obviously one bigger field; How to put lightning in glass to add numbers together, and how to turn adding numbers together into thinking. The physical world of computation and the virtual world of programming. And it fascinated me.
 
 I wasn’t a particularly stellar student, I asked lots of awkward questions and never did particularly well in exams, and I had just resigned myself to going down the ‘standard engineering route’ of ‘Get Degree, Join Big Company, Write Banking Software for 30 years, Retire’, but my discovery of this weird term ‘Robopsychology’ kicked me in the behind.
 
@@ -66,11 +66,11 @@ The research eventually became too classified for me to continue working on it b
 
 ![img](/img/2020/LndCkwguzD58UAxk89KawzdwQQ_2HcDmR7YfnQGQZeVCjrPjtSjTdRxtI4E_EIt16-0hnx28qDMUU0n4HjaoGMsukafJDrFIiwryq20jOlu3efuxldkmxm-fBszYqV_copfboZkKoa4)
 
-This interplay between how fixed, rule based, programmed systems like computers and robots, and the fuzzy, fluffy, mushy stuff that comes from people and communities, has driven my career since then. 
+This interplay between how fixed, rule based, programmed systems like computers and robots, and the fuzzy, fluffy, mushy stuff that comes from people and communities, has driven my career since then.
 
 [![img](/img/2020/bH66fOgnl46z2uM78mR9JWR63O3Kp1vCvRqvITcA2zy2me2rSN1rpNJetbhk9fI-M4Ke27TMOwvllYhJCRs8opLHPa4rWDfjVoJ6_XDp3G0Jocr1Lmqw3NBmmQ4G3lY3e8VH2XYKL3k)](https://www.broadcastnow.co.uk/tech/red-bull-creates-vr-showing-real-time-emotions-feedback/5122720.article)
 
-I spent two years developing smart watch applications that could tell how stressed you were, culminating in developing particularly shameful lie-detecting underwear, as well as a survey system for a deodorant manufacturer that only asked you questions about the product when it knew you were sweating. 
+I spent two years developing smart watch applications that could tell how stressed you were, culminating in developing particularly shameful lie-detecting underwear, as well as a survey system for a deodorant manufacturer that only asked you questions about the product when it knew you were sweating.
 
 During this time we developed systems to translate emotions from heart rates to words to colours to sounds and back again, a universal translator for emotions.
 
@@ -78,15 +78,15 @@ After that, I leapt back into cybersecurity, developing smart algorithms that wa
 
 ![img](/img/2020/sBxuOZAaD9QSRrXPLNHp7OwlB_lGzR0rDfsPfy6dvUenK4vNgk8_MVBaK4FEuFBgpVf3-Dk71Zz8eI9hzoFJ-j4C5dbkPHne6Ny7mDAdEahDordmIQy95IWxYFfRPj-b0-dbRZYqrBU)
 
-In my current role, I lead a team of Data Scientists, a term that didn’t really exist when I was on that train in California only 6 years ago. We develop and monitor intelligent systems that watch company websites for security vulnerabilities. My day job is to work out better ways to try and pretend to be a hacker and work out how to automate the boring bits of the professional [WhiteHat](https://www.whitehatsec.com/) hackers I work with. 
+In my current role, I lead a team of Data Scientists, a term that didn’t really exist when I was on that train in California only 6 years ago. We develop and monitor intelligent systems that watch company websites for security vulnerabilities. My day job is to work out better ways to try and pretend to be a hacker and work out how to automate the boring bits of the professional [WhiteHat](https://www.whitehatsec.com/) hackers I work with.
 
 When I was your age, those jobs didn’t exist. The internet as we know it today didn’t exist. We didn’t even know what we didn’t know. So when my careers teacher told me in 2004 that I should look at being an insurance adjuster “because you’re good with numbers”, she didn’t know that that job would basically be automated out of existence.
 
 So I ended up being a Data Scientist. Not because it’s what my careers teacher or parents or friends told me, it’s not because it was on some ‘skills and employability map’ or because of the output of some assessment tests. The job role simply didn’t exist.
 
-And I guarantee that most of you watching now will end up working in and creating jobs that simply don’t exist today. 
+And I guarantee that most of you watching now will end up working in and creating jobs that simply don’t exist today.
 
-That could be [bit-farming](https://www.bitfarming.co.za/) or [crypto-influencer](https://blackwellglobal.com/top-10-crypto-influencers/) or [quantum annealer](https://en.wikipedia.org/wiki/Quantum_annealing) or, indeed, [robopsychiatrist](https://www.therobotreport.com/synthetic-psychology-understanding-human-behavior-through-robotics/). So as you go through your studies, don’t allow yourself to fixate or judge yourself against what jobs are out there now. 
+That could be [bit-farming](https://www.bitfarming.co.za/) or [crypto-influencer](https://blackwellglobal.com/top-10-crypto-influencers/) or [quantum annealer](https://en.wikipedia.org/wiki/Quantum_annealing) or, indeed, [robopsychiatrist](https://www.therobotreport.com/synthetic-psychology-understanding-human-behavior-through-robotics/). So as you go through your studies, don’t allow yourself to fixate or judge yourself against what jobs are out there now.
 
 Your parents and your teachers and your friends genuinely want the best for you, so they will suggest and encourage you to follow certain paths, generally because it’s advice they wish they could give themselves 20 years ago based on their own experiences. But the thing is, the past 20 years was theirs, the next 20 years is yours.
 

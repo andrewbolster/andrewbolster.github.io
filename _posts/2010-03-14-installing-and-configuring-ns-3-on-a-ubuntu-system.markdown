@@ -45,14 +45,14 @@ Once thats all finished, grab the source using [Mercurial](http://mercurial.sele
 
 If you havent used Mercurial before, [check my post on the subject]({{ BASE_PATH }}/2010/03/ercurial-quick-start-cheatsheet/).
 
-> 
+>
 
->     
+>
 >     $ hg clone <a href="http://code.nsnam.org/ns-3-allinone">http://code.nsnam.org/ns-3-allinone </a>
-> 
-> 
+>
+>
 
->     
+>
 >     destination directory: ns-3-allinone
 >     requesting all changes
 >     adding changesets
@@ -61,44 +61,44 @@ If you havent used Mercurial before, [check my post on the subject]({{ BASE_PATH
 >     added 31 changesets with 45 changes to 7 files
 >     updating working directory
 >     7 files updated, 0 files merged, 0 files removed, 0 files unresolved
-> 
-> 
+>
+>
 
 Thats the easy bit done,  what you've downloaded is basically the instructions for downloading everything else about NS-3, all in python scripts.
 
 For safety I am not using the dev branch; Check the latest version [here](http://code.nsnam.org/)
 
-> 
+>
 
->     
+>
 >     $ ./download.py -n ns-3.10
-> 
-> 
+>
+>
 
 And that will output a whole pile of stuff that isnt too salient. Unless you're really bored...
 
 After which there is a python script that looks after the actual build process, so fire it off with a simple;
 
-> 
+>
 
->     
+>
 >     $ ./build.py --enable-examples --enable-tests
-> 
-> 
+>
+>
 
 And, again, lots of waiting (seriously, get coffee, on my VM it took just under 15 minutes) and lots of output.
 
 It is not made clear on the project wiki but this script also fires off the python [WAF ](http://code.google.com/p/waf/) script so its a complete end to end builder. What isn't included in the build script is the (very tidy) automated regression test suite, so just for completeness...
 
-> 
+>
 
->     
+>
 >     $ cd ns-3.7
 >     $./test.py
 >     [...]
 >     104 of 104 tests passed (104 passed, 0 skipped, 0 failed, 0 crashed, 0 valgrind errors)
-> 
-> 
+>
+>
 
 UPDATE : This final stage is no longer needed as the tests were rolled into the ./build.py script after version 3.9
 
