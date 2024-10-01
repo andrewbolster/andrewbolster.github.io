@@ -40,9 +40,11 @@ Public Speaking, Presentation Development, Collaboration Facilitation, Client Re
 
 ## Experience
 
-### Synopsys Software Integrity Group, Belfast (Via Acquisitions)
+### [Black Duck Software](http://blackduck.com/), Belfast
 
-#### Senior R&D Manager [Synopsys] (2022 - Present)
+#### Senior R&D Manager [[Black Duck Software](http://blackduck.com/)] (2024 - Present)
+
+#### Senior R&D Manager [Synopsys Software Integrity Group] (2022 - 2024)
 
 #### Data Science Engineering Manager [NTT Application Security] (2020 - 2022)
 
