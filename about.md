@@ -11,9 +11,9 @@ title: About
 # Biography
 
 [![Me](/img/bolster_780.png)](/img/bolster_orig.png)
-Head of Data Science @ Synopsys Software Integrity Group (Formerly WhiteHat Security) , recovering academic, former robo-psychiatrist, hackerspace founder, meetup organiser, and player-of-calendar-tetris.
+Head of Data Science @ [Black Duck Software](http://blackduck.com/), recovering academic, former robo-psychiatrist, hackerspace founder, meetup organiser, and player-of-calendar-tetris.
 
-Currently Senior R&D Manager (Data Science) at [Synopsys Software Integrity Group](https://www.synopsys.com/software-integrity.html), using advanced data mining and machine learning to detect, assess and remediate vulnerabilities and malware attacks on cloud infrastructure.
+Currently Senior R&D Manager (Data Science) at [Black Duck Software](http://blackduck.com/), using advanced data mining and machine learning to detect, assess and remediate vulnerabilities and malware attacks on cloud infrastructure.
 
 Previously a Data Scientist working in the fields of Affective Computing, Wearable Technologies and Cyber Security.
 
@@ -26,7 +26,7 @@ Recipient of the 2012 [Belfast Business Top 50](https://belfastmediagroup.com/to
 A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and [heavily caffinated German softdrinks](https://www.farsetlabs.org.uk/about/club-mate/).
 
 # Current Roles
-* Senior R&D Manager (Data Science) @ [Synopsys SIG](https://www.synopsys.com/software-integrity.html)
+* Senior R&D Manager (Data Science) @ [Black Duck Software](http://blackduck.com/)
 * Treasurer @ [BSides Belfast CIC](https://bsidesbelfast.org/)
 * Director @ [Northern Ireland Open Government Network](https://www.opengovernment.org.uk/networks/ni-ogn/)
 
