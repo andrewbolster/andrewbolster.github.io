@@ -5,7 +5,7 @@ title: Howdi, I'm Andrew, but most people call me Bolster
 {% include JB/setup %}
 
 
-* Senior R&D Manager (Data Science) at [Black Duck Software](http://blackduck.com/)
+* Senior R&D Manager (Data Science) at [Black Duck Software](https://blackduck.com/)
 * Director, Treasurer @ [BSides Belfast](https://bsidesbelfast.org)
 * among [other things](/about)
 

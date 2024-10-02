@@ -10,11 +10,11 @@ title: Now
 
 # Now
 
-Head of Data Science @ [Black Duck Software](http://blackduck.com/), trying to do data better.
+Head of Data Science @ [Black Duck Software](https://blackduck.com/), trying to do data better.
 
 ## Wants
 
-* [Sponsors for BSides Belfast 2024](https://bsidesbelfast.org/)
+* [Sponsors for BSides Belfast 2025](https://bsidesbelfast.org/)
 * [Attendees for InfoSecNI](https://infosecni.net/)
 * [Supporters for Farset Labs](https://www.farsetlabs.org.uk/support/donate/)
 

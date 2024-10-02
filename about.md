@@ -11,9 +11,9 @@ title: About
 # Biography
 
 [![Me](/img/bolster_780.png)](/img/bolster_orig.png)
-Head of Data Science @ [Black Duck Software](http://blackduck.com/), recovering academic, former robo-psychiatrist, hackerspace founder, meetup organiser, and player-of-calendar-tetris.
+Head of Data Science @ [Black Duck Software](https://blackduck.com/), recovering academic, former robo-psychiatrist, hackerspace founder, meetup organiser, and player-of-calendar-tetris.
 
-Currently Senior R&D Manager (Data Science) at [Black Duck Software](http://blackduck.com/), using advanced data mining and machine learning to detect, assess and remediate vulnerabilities and malware attacks on cloud infrastructure.
+Currently Senior R&D Manager (Data Science) at [Black Duck Software](https://blackduck.com/), using advanced data mining and machine learning to detect, assess and remediate vulnerabilities and malware attacks on cloud infrastructure.
 
 Previously a Data Scientist working in the fields of Affective Computing, Wearable Technologies and Cyber Security.
 
@@ -26,7 +26,7 @@ Recipient of the 2012 [Belfast Business Top 50](https://belfastmediagroup.com/to
 A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and [heavily caffinated German softdrinks](https://www.farsetlabs.org.uk/about/club-mate/).
 
 # Current Roles
-* Senior R&D Manager (Data Science) @ [Black Duck Software](http://blackduck.com/)
+* Senior R&D Manager (Data Science) @ [Black Duck Software](https://blackduck.com/)
 * Treasurer @ [BSides Belfast CIC](https://bsidesbelfast.org/)
 * Director @ [Northern Ireland Open Government Network](https://www.opengovernment.org.uk/networks/ni-ogn/)
 
@@ -36,6 +36,8 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * [PDF version](https://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
 
 # Speaking Engagements / Panels
+* 2024
+  * [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Building Beyond Buzzwords - Lecture
 * 2023
   * [BelTech 2023](https://www.beltech.co/) - Practical ML for Cyber Security - Speaker
   * [SISTEM2023](https://sistemconf.com/) - Practical ML for Cyber Security - Speaker
@@ -90,6 +92,13 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 # Press/Publications/Podcasts
 * 2024
+  * [Panic over new ChatGPT that ‘reasons’ as expert warns of terror AI raids that steal cash from ‘huge numbers’ of victims](https://www.thesun.ie/tech/13839797/ai-chatgpt-1o-artificial-intelligence-cyber-crime/) - The Sun - Commentary/Interview
+  * [What is WRAP and how can it help train AI more efficiently? ](https://www.itpro.com/technology/artificial-intelligence/what-is-wrap-ai) - ITPro - Commentary/Interview
+  * [Microsoft Copilot could have serious vulnerabilities after researchers reveal data leak issues in RAG systems](https://www.itpro.com/technology/artificial-intelligence/microsoft-copilot-could-have-serious-vulnerabilities-after-researchers-reveal-data-leak-issues-in-rag-systems) - ITPro - Commentary/Interview
+  * [Unmasking the ChatGPT Threat: How AI Raiders are Stealing Cash from Thousands!](https://centralrecorder.com/unmasking-the-chatgpt-threat-how-ai-raiders-are-stealing-cash-from-thousands/) - Central Recorder - Commentary/Interview
+  * [AI Scientist LLM goes rogue: Creators warn of "significant risks" and "safety concerns"](https://www.thestack.technology/ai-scientist-llm-goes-rogue/) - The Stack - Commentary/Interview
+  * [Hackers are trying to exploit a new critical MOVEit vulnerability – here’s what you need to know](https://www.itpro.com/security/a-new-critical-moveit-vulnerability-is-being-exploited-by-hackers-heres-what-you-need-to-know) - ITPro - Commentary/Interview
+  * [Data Privacy Day 2024](https://www.itsecurityguru.org/2024/01/26/data-privacy-day-2024-part-2/) - ITSecurityGuru - Commentary/Interview
   * [Zero-Click GenAI Worm Spreads Malware, Poisoning Models](https://www.darkreading.com/application-security/zero-click-genai-worm-malware-poisoning-models) - DarkReading - Commentary/Interview
   * [Generative KI hat enorme Auswirkungen auf Softwareentwicklung und Softwaresicherheit ](https://ap-verlag.de/generative-ki-hat-enorme-auswirkungen-auf-softwareentwicklung-und-softwaresicherheit/86448/) - ManageIt - Guest Publication of [Blog Post](/2024/02/generative-ai-impact-on-software-development-and-security)
   * [Generative AI has a huge impact on software development and software security](https://www.teiss.co.uk/artificial-intelligence/generative-ai-software-development-and-security) - Teiss - Guest Publication of [Blog Post](/2024/02/generative-ai-impact-on-software-development-and-security)
