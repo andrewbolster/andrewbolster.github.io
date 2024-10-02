@@ -40,9 +40,9 @@ Public Speaking, Presentation Development, Collaboration Facilitation, Client Re
 
 ## Experience
 
-### [Black Duck Software](http://blackduck.com/), Belfast
+### [Black Duck Software](https://blackduck.com/), Belfast
 
-#### Senior R&D Manager [[Black Duck Software](http://blackduck.com/)] (2024 - Present)
+#### Senior R&D Manager [[Black Duck Software](https://blackduck.com/)] (2024 - Present)
 
 #### Senior R&D Manager [Synopsys Software Integrity Group] (2022 - 2024)
 
