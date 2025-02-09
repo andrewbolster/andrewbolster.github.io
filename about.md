@@ -91,7 +91,17 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 
 # Press/Publications/Podcasts
+* 2025
+  * [ChatGPT Search Is Now Free To Use Without An Account—Is It Safe?](https://www.forbes.com/sites/kateoflahertyuk/2025/02/07/chatgpt-search-is-now-free-to-use-without-an-account-is-it-safe/) - Forbes - Commentary
+  * [Blackstone defends data centre investment vision amid DeepSeek AI disruption](https://www.techerati.com/news-hub/blackstone-defends-data-centre-investment-vision-amid-deepseek-ai-disruption/) - Techerati - Commentary
+  * [DeepSeek and Cybersecurity: What Tech Pros Should Know](https://www.dice.com/career-advice/deepseek-and-cybersecurity-what-tech-pros-should-know) - Dice - Commentary
+  * [DeepSeek rise leads to $1 trillion loss for US tech giants](https://www.techerati.com/news-hub/deepseek-rise-leads-to-1-trillion-loss-for-us-tech-giants/) - Techerati - Commentary
+  * [What is DeepSeek and what is all the fuss about?](https://www.securityinfowatch.com/cybersecurity/article/55263769/what-is-deepseek-and-what-is-all-the-fuss-about) - SecurityInfoWatch - Commentary
+  * [ChatGPT o1: AI That Thinks, Lies, And Deceives Like A Human](https://medium.datadriveninvestor.com/chatgpt-o1-ai-that-thinks-lies-and-deceives-like-a-human-1a9574474ed0) - DataDrivenInvestor - Commentary
+  * [CISA Launches AI Sharing Playbook](https://insight.scmagazineuk.com/cisa-launches-ai-sharing-playbook) - SCMagazine - Commentary
 * 2024
+  * [ChatGPT Two Years On: Experts Weigh In](https://www.itsecurityguru.org/2024/12/11/chatgpt-two-years-on-experts-weigh-in/) - ITSecurityGuru - Commentary/Interview
+  * [Unmasking the ChatGPT Threat: How AI Raiders are Stealing Cash from Thousands!](https://centralrecorder.com/unmasking-the-chatgpt-threat-how-ai-raiders-are-stealing-cash-from-thousands/) - Central Recorder - Commentary/Interview
   * [Panic over new ChatGPT that ‘reasons’ as expert warns of terror AI raids that steal cash from ‘huge numbers’ of victims](https://www.thesun.ie/tech/13839797/ai-chatgpt-1o-artificial-intelligence-cyber-crime/) - The Sun - Commentary/Interview
   * [What is WRAP and how can it help train AI more efficiently? ](https://www.itpro.com/technology/artificial-intelligence/what-is-wrap-ai) - ITPro - Commentary/Interview
   * [Microsoft Copilot could have serious vulnerabilities after researchers reveal data leak issues in RAG systems](https://www.itpro.com/technology/artificial-intelligence/microsoft-copilot-could-have-serious-vulnerabilities-after-researchers-reveal-data-leak-issues-in-rag-systems) - ITPro - Commentary/Interview
