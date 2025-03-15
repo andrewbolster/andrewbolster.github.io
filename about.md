@@ -21,8 +21,6 @@ Completed PhD Research at The University of Liverpool (formerly at Queen’s Uni
 
 Founding (former) director of [Farset Labs](https://farsetlabs.org.uk), Northern Ireland’s [First Hackerspace]({{ BASE_PATH }}/2011/04/why-belfast-needs-a-hackerspace/), located in Weavers Court Business Park, Belfast, [developed]({{ BASE_PATH }}/2010/06/great-hopes/) while I was finishing off a Masters in Electronics and Software Engineering at QUB. [Farset Labs](https://farsetlabs.org.uk) now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders.
 
-Recipient of the 2012 [Belfast Business Top 50](https://belfastmediagroup.com/top50/15955-2/) for my work at Farset Labs, the QUB [T G Christie Award](https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ScholarshipsAwards/ScholarshipsAwardsHandbook/ScholarshipsandBursaries/PostgraduateScholarshipsAwards/FacultyofEngineeringandPhysicalSciences/) for Most Promising Postgraduate, and The Liggard Prize for Best Communications Engineering Masters Project. Also an [IET Excellence Grant](https://conferences.theiet.org/achievement/-documents/brochure-2010.cfm) recipient and a National Finalist in the IET Present Around the World competition, presenting on information theory of social networks in 2010  
-
 A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and [heavily caffinated German softdrinks](https://www.farsetlabs.org.uk/about/club-mate/).
 
 # Current Roles
