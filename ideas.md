@@ -10,7 +10,7 @@ title: Ideas
 
 - [ ] Convert this blog to Hugo
 - [ ] Write more blogs about epaper
-- [ ] Finish homeassistant
+- [X] Finish homeassistant
 - [X] Plan for a mortgage
 - [X] Buy Apartment
 - [ ] Build out my own 'data lake' of personal stuff along with a home airflow instance
