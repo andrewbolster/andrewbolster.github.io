@@ -16,6 +16,9 @@ draft:
 publish:
 	bundle exec jekyll publish _drafts/*
 
+serve:
+	bundle exec jekyll serve --drafts
+
 # Compile LESS to CSS with source maps
 compile-css:
 	lessc style.less style.css -m=always
