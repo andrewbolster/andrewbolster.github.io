@@ -43,7 +43,7 @@ DeepSeek's (rumoured) use of OpenAI "Chain of Thought" (Which I commented on bef
 
 ~~Naturally, several people have been asking me when we're putting DeepSeek on the LLM Gateway, and the short answer is no, we’re not deploying any self-hosted / open models at the moment.~~ (We put it on the internal LLM gateway once it was supported in Azure AI Foundry as a self service model).
 
-As for running it locally with LLAMA, this is totally fine under our LLM Guidelines; and Deepseek-coder is one of the more performant models on my 32GB 2021 M1 Pro, so go have fun, but no, we’ve no current plans to self-host a model through the LLM Gateway.
+As for running it locally with ollama, this is totally fine under our LLM Guidelines; and Deepseek-coder is one of the more performant models on my 32GB 2021 M1 Pro, so go have fun, but no, we’ve no current plans to self-host a model through the LLM Gateway.
 
 As a related side note, to me this all shows that while innovations are still happening in the foundational and reasoning modelling space, the best place that we can invest our time to make the most of these is in domain-specific data collection, representation, and modelling to make the most of these natural language systems, and that’s where the Data Science group are spending the majority of our resources.
 
