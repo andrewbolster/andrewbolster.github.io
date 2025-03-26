@@ -40,6 +40,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :teacher: [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Data Governance for Data Scientists - Guest Lecture
   * :speech_balloon: [The Human Factor: Redefining Cybersecurity In The Age Of AI](https://www.forbes.com/sites/tonybradley/2025/03/21/the-human-factor-redefining-cybersecurity-in-the-age-of-ai/) - Forbes - Commentary
   * :speech_balloon: [ChatGPT Search Is Now Free To Use Without An Account—Is It Safe?](https://www.forbes.com/sites/kateoflahertyuk/2025/02/07/chatgpt-search-is-now-free-to-use-without-an-account-is-it-safe/) - Forbes - Commentary
+  * :speech_balloon: [AI Agents Will Cut Account Exploit Time](https://informationsecuritybuzz.com/ai-agents-wil-cut-account-exploit-time/) - Information Security Buzz - Commentary
   * :speech_balloon: [New AI “Agents” Could Help Bad Actors Launch Attacks](https://informationsecuritybuzz.com/new-ai-agents-could-help-bad-actors-launch-attacks/) - Information Security Buzz - Commentary
   * :speech_balloon: [AI Agents on Autopilot: OpenAI’s Operator Can Be Exploited for Cyberattacks](https://securitybuzz.com/cybersecurity-news/ai-agents-on-autopilot-openais-operator-can-be-exploited-for-cyberattacks/) - SecurityBuzz - Commentary
   * :speech_balloon: [Blackstone defends data centre investment vision amid DeepSeek AI disruption](https://www.techerati.com/news-hub/blackstone-defends-data-centre-investment-vision-amid-deepseek-ai-disruption/) - Techerati - Commentary
@@ -48,7 +49,6 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon:[What is DeepSeek and what is all the fuss about?](https://www.securityinfowatch.com/cybersecurity/article/55263769/what-is-deepseek-and-what-is-all-the-fuss-about) - SecurityInfoWatch - Commentary
   * :speech_balloon:[ChatGPT o1: AI That Thinks, Lies, And Deceives Like A Human](https://medium.datadriveninvestor.com/chatgpt-o1-ai-that-thinks-lies-and-deceives-like-a-human-1a9574474ed0) - DataDrivenInvestor - Commentary
   * :speech_balloon: [CISA Launches AI Sharing Playbook](https://insight.scmagazineuk.com/cisa-launches-ai-sharing-playbook) - SCMagazine - Commentary
-  * :speech_balloon: [AI Agents Will Cut Account Exploit Time](https://informationsecuritybuzz.com/ai-agents-wil-cut-account-exploit-time/) - Information Security Buzz - Commentary
 
 * 2024
   * :speaking_head: [Northern Ireland Developers Conference](https://x.com/NIDevConf/status/1852335288846033070) - Building Beyond Buzzwords: Productioninsing AI in Cybersecurity - Speaker
