@@ -1,3 +1,4 @@
+.PHONY: install update draft publish serve resume compile-css all
 # Install dependencies
 install:
 	gem install bundler
@@ -18,6 +19,13 @@ publish:
 
 serve:
 	bundle exec jekyll serve --drafts
+
+resume:
+	docker run --rm \
+	    --platform linux/amd64 \
+		--volume "$$(pwd):/data" \
+		--user $$(id -u):$$(id -g) \
+		pandoc/extra resume/index.md -o resume/AndrewBolster.pdf --template eisvogel --listings
 
 # Compile LESS to CSS with source maps
 compile-css:
