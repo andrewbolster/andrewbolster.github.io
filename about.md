@@ -48,6 +48,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon:[What is DeepSeek and what is all the fuss about?](https://www.securityinfowatch.com/cybersecurity/article/55263769/what-is-deepseek-and-what-is-all-the-fuss-about) - SecurityInfoWatch - Commentary
   * :speech_balloon:[ChatGPT o1: AI That Thinks, Lies, And Deceives Like A Human](https://medium.datadriveninvestor.com/chatgpt-o1-ai-that-thinks-lies-and-deceives-like-a-human-1a9574474ed0) - DataDrivenInvestor - Commentary
   * :speech_balloon: [CISA Launches AI Sharing Playbook](https://insight.scmagazineuk.com/cisa-launches-ai-sharing-playbook) - SCMagazine - Commentary
+  * :speech_balloon: [AI Agents Will Cut Account Exploit Time](https://informationsecuritybuzz.com/ai-agents-wil-cut-account-exploit-time/) - Information Security Buzz - Commentary
 
 * 2024
   * :speaking_head: [Northern Ireland Developers Conference](https://x.com/NIDevConf/status/1852335288846033070) - Building Beyond Buzzwords: Productioninsing AI in Cybersecurity - Speaker
