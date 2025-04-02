@@ -50,7 +50,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon: [CISA Launches AI Sharing Playbook](https://insight.scmagazineuk.com/cisa-launches-ai-sharing-playbook) - SCMagazine - Commentary
 
 * 2024
-  * :speaking_head: [Northern Ireland Developers Conference](https://x.com/NIDevConf/status/1852335288846033070) - Building Beyond Buzzwords: Productioninsing AI in Cybersecurity - Speaker
+  * :speaking_head: :movie_camera: [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=0v3dBt65POI) - Building Beyond Buzzwords: Productioninsing AI in Cybersecurity - Speaker
   * :teacher: [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Building Beyond Buzzwords: Productioninsing AI in Cybersecurity - Guest Lecture
   * :speech_balloon: [Zero-Click GenAI Worm Spreads Malware, Poisoning Models](https://www.darkreading.com/application-security/zero-click-genai-worm-malware-poisoning-models) - DarkReading - Commentary/Interview
   * :speech_balloon: [Panic over new ChatGPT that ‘reasons’ as expert warns of terror AI raids that steal cash from ‘huge numbers’ of victims](https://www.thesun.ie/tech/13839797/ai-chatgpt-1o-artificial-intelligence-cyber-crime/) - The Sun - Commentary/Interview

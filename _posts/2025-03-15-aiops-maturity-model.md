@@ -17,7 +17,7 @@ date: 2025-03-15 13:54 +0000
 
 This document outlines an AIOps Maturity Model to help organizations assess and improve their Machine Learning Operations capabilities. It came from my own frustration that there weren't any models that fit the real experience of end-to-end data science and operations relationships that covered _both_ 'conventional' ML, _and_ practically discussing LLM based systems and how completly differently you have to think about them.
 
-This was originally published internally around May '24 and then presented at [NIDC](https://x.com/Bolster/status/1860336184221642896) as an 'Eye Test Model', and I promised that I'd eventualy publish it; this is it, dusted off and tidied up for public consumption.
+This was originally published internally around May '24 and then presented at [NIDC](https://www.youtube.com/watch?v=0v3dBt65POI) as an 'Eye Test Model', and I promised that I'd eventualy publish it; this is it, dusted off and tidied up for public consumption.
 
 The model is structured across six key capability areas and five maturity levels, providing a roadmap for organizations to evolve their AIOps practices. This model is based on the reference materials listed below, and is far from original in any way, and probably alread out of date.
 
