@@ -1,7 +1,7 @@
 .PHONY: install update draft publish serve resume compile-css all
 # Install dependencies
 install:
-	gem install bundler
+	gem install bundler --user-install
 	bundle install
 
 # Update dependencies

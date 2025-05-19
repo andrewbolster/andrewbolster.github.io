@@ -16,11 +16,11 @@ photo: /img/bolster.png
 
 [{{ page.email }}](mailto:{{ page.email }}) | [{{ page.site }}]({{ page.site }})
 
-Data Science Leader and Systems Researcher with a wide range of experience across technical, business, and entrepreneurial fields.
+Data Science Leader and AI Systems Researcher with a wide range of experience across technical, business, and entrepreneurial fields.
 
-Specific interests in and around cybersecurity, distributed systems, ‘trust’ in asymmetric risk environments, ML/SME co-design, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
+Specific interests in and around intelligent decision support systems, cybersecurity, ‘trust’ in asymmetric risk environments, ML/SME co-design, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
 
-PhD Research at the University of Liverpool as part of a Anglo-French Defence Programme around Trusted Autonomous Submarines for Defence Applications.
+Ph.D. Research at the University of Liverpool as part of a Anglo-French Defence Programme around Trusted Autonomous Submarines for Defence Applications.
 
 Experienced Speaker, Panelist and commentator, with appearances at Regional and National events from TEDx and All-Island Innovation Conferences to representing the Northern Ireland technology and business communities in international trade-delegations.
 
@@ -35,7 +35,7 @@ Experienced Speaker, Panelist and commentator, with appearances at Regional and 
 
 Led and managed a team of Data Scientists, driving cross-product initiatives across WhiteHat, Polaris, and Black Duck product lines. Focus areas included MLOps for automated vulnerability verification, dynamic payload generation, churn modeling, security metric evaluation, and NLP-based customer feedback analysis.
 
-Acted as the primary stakeholder for LLM approval and AI/GenAI projects across Black Duck, ensuring alignment with organizational goals and compliance standards.
+Acted as the primary stakeholder for LLM approval and AI/GenAI projects across Black Duck, ensuring alignment with organizational goals and compliance standards. Authored new Data Mobility Standard and Data Governance policies, establishing a framework for data handling and usage across the organization.
 
 Key responsibilities included:
 - Setting strategic research priorities and upskilling the team to foster continuous innovation.
@@ -46,7 +46,7 @@ Key responsibilities included:
 - Partnering with compliance and legal to advance data product / AI development and ensure alignment with regulatory requirements and customer committements.
 - Leading on AI/ML/Data related press and thought leadership activities, including speaking at conferences, university guest lectures, and regular press contributions in outlets such as Forbes and DarkReading.
 
-Served as the "Data Tzar," overseeing data privacy, confidentiality, mobility, and cataloging. Chaired the AI tools review board and led the delivery of AI/LLM-driven tools and capabilities across the organization.
+Serve as "Data Tzar," overseeing data privacy, confidentiality, mobility, and cataloging. Chaired the AI tools review board and led the delivery of AI/LLM-driven tools and capabilities across the organization.
 
 Delivered and monitored production-grade Machine Learning and LLM based solutions, providing accessible documentation and explanations of advanced statistical and data science practices. Worked closely with the Chief Architect to define architectural standards for ML projects.
 
@@ -156,5 +156,5 @@ Focused on High Performance Computing and Digital Communications. Served as Stud
 
 ## Core Proficiencies
 
-Data Architecture, Data Science, LLMOps, MLOps, Data Governance, Workforce Management, Client Facing Presentations, Advocacy and Thought Leadership, Developer Enablement, Compliance and Security, Cross functional collaboration, AI/ML, 
+Data Architecture, Data Science, LLMOps, MLOps, Data Governance, Workforce Management, Client Facing Presentations, Advocacy and Thought Leadership, Developer Enablement, Compliance and Security, Cross functional collaboration, AI/ML,
 PyData Stack, Cross-Cloud and On-Prem
