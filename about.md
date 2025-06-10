@@ -38,19 +38,20 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 # Engagements and Publications
 * 2025
   * :teacher: [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Data Governance for Generative AI - Guest Lecture
-  * :speaking_head: [Dublin Tech Summit](https://www.dublintechsummit.com/) - Building Beyond Buzzwords: Productionising AI in Cybersecurity - Speaker
-  * :speech_balloon: [Degenerative AI: ChatGPT jailbreaking, the NSFW underground and an emerging global threat](https://www.machine.news/degenerative-ai-jailbreaking-chatgpt-sora-openai/) - Machine News - Commentary
   * :speech_balloon: [The Human Factor: Redefining Cybersecurity In The Age Of AI](https://www.forbes.com/sites/tonybradley/2025/03/21/the-human-factor-redefining-cybersecurity-in-the-age-of-ai/) - Forbes - Commentary
   * :speech_balloon: [ChatGPT Search Is Now Free To Use Without An Account—Is It Safe?](https://www.forbes.com/sites/kateoflahertyuk/2025/02/07/chatgpt-search-is-now-free-to-use-without-an-account-is-it-safe/) - Forbes - Commentary
   * :speech_balloon: [AI Agents Will Cut Account Exploit Time](https://informationsecuritybuzz.com/ai-agents-wil-cut-account-exploit-time/) - Information Security Buzz - Commentary
   * :speech_balloon: [New AI “Agents” Could Help Bad Actors Launch Attacks](https://informationsecuritybuzz.com/new-ai-agents-could-help-bad-actors-launch-attacks/) - Information Security Buzz - Commentary
+  * :speech_balloon: :movie_camera: [Infosecurity Europe 2025](https://www.youtube.com/watch?v=DsFfcwuStBQ) "How Do We Manage The Risks Introdced By Agents?" - Interviewee
+  * :speaking_head: [Dublin Tech Summit](https://blackduck.sharefile.com/d-s90c8d381915f4aa5976e310aa41d557b) - Building Beyond Buzzwords: Productionising AI in Cybersecurity - Speaker
+  * :speech_balloon: [Degenerative AI: ChatGPT jailbreaking, the NSFW underground and an emerging global threat](https://www.machine.news/degenerative-ai-jailbreaking-chatgpt-sora-openai/) - Machine News - Commentary
   * :speech_balloon: [Vibe Coding: What Autonomous Code Means for AppSec](https://www.reversinglabs.com/blog/vibe-coding-what-autonomous-code-means-for-appsec) - ReversingLabs - Commentary
   * :speech_balloon: [AI Agents Are Weaponizing at Speed: Gartner Warns of 50% Faster Exploits by 2027](https://securitybuzz.com/cybersecurity-news/ai-agents-are-weaponizing-at-speed-gartner-warns-of-50-faster-exploits-by-2027/) - SecurityBuzz - Commentary
+  * :speech_balloon: [AI Agents on Autopilot: OpenAI’s Operator Can Be Exploited for Cyberattacks](https://securitybuzz.com/cybersecurity-news/ai-agents-on-autopilot-openais-operator-can-be-exploited-for-cyberattacks/) - SecurityBuzz - Commentary
   * :speech_balloon: [Vibe Coding: What Automating Development Means for AppSec](https://securityboulevard.com/2025/04/vibe-coding-what-automating-development-means-for-appsec/) - Security Boulevard - Commentary
   * :speech_balloon: [Why SLMs Could Be a Big Deal for Businesses Looking for an Edge](https://www.computerweekly.com/feature/Why-SLMs-could-be-a-big-deal-for-businesses-looking-for-an-edge) - Computer Weekly - Commentary
   * :speech_balloon: [Why SLMs Could Be a Big Deal for Businesses Looking for an Edge (World of Software)](https://worldofsoftware.org/why-slms-could-be-a-big-deal-for-businesses-looking-for-an-edge-computer-weekly/) - World of Software - Commentary
   * :speech_balloon: [Dlaczego SLM Może Być Wielką Sprawą Dla Firm Szukających Przewagi](https://cyberfeed.pl/dlaczego-slm-moze-byc-wielka-sprawa-dla-firm-szukajacych-przewagi/) - CyberFeed - Commentary
-  * :speech_balloon: [AI Agents on Autopilot: OpenAI’s Operator Can Be Exploited for Cyberattacks](https://securitybuzz.com/cybersecurity-news/ai-agents-on-autopilot-openais-operator-can-be-exploited-for-cyberattacks/) - SecurityBuzz - Commentary
   * :speech_balloon: [DeepSeek and Cybersecurity: What Tech Pros Should Know](https://www.dice.com/career-advice/deepseek-and-cybersecurity-what-tech-pros-should-know) - Dice - Commentary
   * :speech_balloon: [Blackstone defends data centre investment vision amid DeepSeek AI disruption](https://www.techerati.com/news-hub/blackstone-defends-data-centre-investment-vision-amid-deepseek-ai-disruption/) - Techerati - Commentary
   * :speech_balloon: [DeepSeek rise leads to $1 trillion loss for US tech giants](https://www.techerati.com/news-hub/deepseek-rise-leads-to-1-trillion-loss-for-us-tech-giants/) - Techerati - Commentary
@@ -69,9 +70,8 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon: [ChatGPT Two Years On: Experts Weigh In](https://www.itsecurityguru.org/2024/12/11/chatgpt-two-years-on-experts-weigh-in/) - ITSecurityGuru - Commentary/Interview
   * :speech_balloon: [Unmasking the ChatGPT Threat: How AI Raiders are Stealing Cash from Thousands!](https://centralrecorder.com/unmasking-the-chatgpt-threat-how-ai-raiders-are-stealing-cash-from-thousands/) - Central Recorder - Commentary/Interview
   * :speech_balloon: [What is WRAP and how can it help train AI more efficiently? ](https://www.itpro.com/technology/artificial-intelligence/what-is-wrap-ai) - ITPro - Commentary/Interview
-  * :speech_balloon: [Microsoft Copilot could have serious vulnerabilities after researchers reveal data leak issues in RAG systems](https://www.itpro.com/technology/artificial-intelligence/microsoft-copilot-could-have-serious-vulnerabilities-after-researchers-reveal-data-leak-issues-in-rag-systems) - ITPro - Commentary/Interview
-  * :speech_balloon: [Unmasking the ChatGPT Threat: How AI Raiders are Stealing Cash from Thousands!](https://centralrecorder.com/unmasking-the-chatgpt-threat-how-ai-raiders-are-stealing-cash-from-thousands/) - Central Recorder - Commentary/Interview
   * :speech_balloon: [AI Scientist LLM goes rogue: Creators warn of "significant risks" and "safety concerns"](https://www.thestack.technology/ai-scientist-llm-goes-rogue/) - The Stack - Commentary/Interview
+  * :speech_balloon: [Microsoft Copilot could have serious vulnerabilities after researchers reveal data leak issues in RAG systems](https://www.itpro.com/technology/artificial-intelligence/microsoft-copilot-could-have-serious-vulnerabilities-after-researchers-reveal-data-leak-issues-in-rag-systems) - ITPro - Commentary/Interview
   * :speech_balloon: [Hackers are trying to exploit a new critical MOVEit vulnerability – here’s what you need to know](https://www.itpro.com/security/a-new-critical-moveit-vulnerability-is-being-exploited-by-hackers-heres-what-you-need-to-know) - ITPro - Commentary/Interview
   * :speech_balloon: [Data Privacy Day 2024](https://www.itsecurityguru.org/2024/01/26/data-privacy-day-2024-part-2/) - ITSecurityGuru - Commentary/Interview
 

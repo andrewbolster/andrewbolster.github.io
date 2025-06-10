@@ -5,24 +5,56 @@
 
 -------------------------------------------------------------- */
 
-@import url("http://fonts.googleapis.com/css?family=Roboto:500,700,400");
+@import url("https://fonts.googleapis.com/css?family=Roboto:500,700,400");
+
+/* Critical settings to remove browser headers and footers */
+@page {
+  size: auto;
+  margin: 0mm 0mm 20pt 0mm !important;
+  padding: 0mm !important;
+}
+
+/* Additional browser-specific settings to remove headers/footers */
+html {
+  background-color: #FFFFFF;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 body {
-width:100% !important;
-line-height: 1.45;
-font-family: Roboto, serif;
-color: #000;
-background: none;
-font-size: 14pt; }
+  width: 100% !important;
+  line-height: 1.45;
+  font-family: Roboto, serif;
+  color: #000;
+  background: none;
+  font-size: 14pt;
+  margin: 0 !important;
+  padding: 10mm 10mm 30mm 10mm !important;  /* padding for the content with extra bottom padding */
+  -webkit-print-color-adjust: exact !important;
+  print-color-adjust: exact !important;
+  height: auto !important;
+  overflow: visible !important;
+}
 
 /* Headings */
 h1,h2,h3,h4,h5,h6 { page-break-after:avoid; }
 h1{font-size:19pt;}
 h2{font-size:17pt;}
-h3{font-size:15pt;}
+h3{
+  font-size:15pt;
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
+  orphans: 5;
+}
+h3 + * {
+  page-break-before: avoid !important;
+  break-before: avoid !important;
+}
 h4,h5,h6{font-size:14pt;}
 
 
-p, h2, h3 { orphans: 3; widows: 3; }
+p, h2 { orphans: 3; widows: 3; }
+h3 { orphans: 5; widows: 5; }
 p {page-break-inside: avoid;}
 
 code { font: 12pt Courier, monospace; }
@@ -62,7 +94,8 @@ img,tr,p {page-break-inside: avoid;}
 {display:none;}
 */
 /** Resume print style sheet. Attempts to make the page similar, but better looking on paper. */
-body, p, ul, h4 { margin: 0; padding: 0 2.8em 0 0; }
+body, p, ul { margin: 0; padding: 0 2.8em 0 0; }
+h4 { margin: 0; padding: 0 1em 0 0; }
 
 body { background-color: white; color: black; font-family: Futura;}
 
@@ -75,7 +108,14 @@ body { background-color: white; color: black; font-family: Futura;}
 #resume h1:first-child { font-size: 210%; }
 #resume h2 { font-size: 150% }
 #resume h3 { margin-top: 0.6em; font-size: 130%; margin-bottom: 0; }
-#resume h4 { margin-top: 0.4em; font-size: 115%; margin-bottom: 0; text-align: right; }
+#resume h4 {
+  margin-top: 0.2em;
+  margin-bottom: 0;
+  font-size: 115%;
+  text-align: left;
+  font-style: italic;
+  padding: 0;
+}
 #resume p { margin: 0.6em 0; line-height: 1.3em; text-align: justify; }
 #resume blockquote { border: 0 !important; margin: 0.5em 0 !important; padding-left: 0.6em !important; }
 #resume blockquote p { margin: 0.2em 0; }
@@ -87,21 +127,32 @@ body { background-color: white; color: black; font-family: Futura;}
 #resume pre { margin: 1em 0; font-size: 12px; border: 1px solid #dedede; padding: .5em; line-height: 1.5em; overflow: auto; }
 #resume pre code { padding: 0; font-size: 12px; border: none; }
 #resume code { font-size: 12px; padding: 0 .2em; border: 1px solid #dedede; }
-#resume img { display: none; }
+#resume img { max-width: 20% !important; height: auto !important; float: right !important; margin: 0 0 1em 1em !important; }
+#resume > p:first-of-type img { display: block !important; }
 #resume blockquote { margin: 1em 0; border-left: 5px solid #ddd; padding-left: .6em; }
 #resume dt { font-weight: bold; margin-left: 1em; }
 #resume dd { margin-left: 2em; margin-bottom: 1em; }
 #resume h1,h2,h3,h4,h5,h6 { font-family: Garamond; break-after: avoid}
-#resume h4 + p { break-after: avoid; break-before:avoid}
+#resume h4 + p { break-after: avoid; break-before:avoid; margin-top: 0.1em; }
+#resume h3 + h4 { margin-top: 0.5em !important; }
 #resume h2 {
   color: black;
   text-shadow: none;
   box-shadow: none;
   background: none;
   padding-bottom: 0em;
+  margin-bottom: 0.125em !important; /* Reduced spacing after h2 by 50% */
   text-decoration: underline;
   text-align: left;
   border-bottom: 2px solid #dedede;
+}
+#resume h3 {
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
+  page-break-after: avoid !important;
+  break-after: avoid !important;
+  margin-top: 20pt !important;
+  padding-bottom: 2.5pt !important; /* Halved spacing after h3 */
 }
 #andrew-bolster + ul li {display: inline}
 #andrew-bolster + ul { list-style-type: none}
@@ -109,5 +160,103 @@ body { background-color: white; color: black; font-family: Futura;}
 #andrew-bolster + ul li:last-child:after{ content:""}
 
 #fi-print {display: none}
+
+/* Final print mode fixes */
+@media print {
+  /* Hide any navigation, footers, or other site elements */
+  header, footer, nav, aside, .site-header, .site-footer, .navigation {
+    display: none !important;
+  }
+
+  /* Prevent h3 sections from being split across pages */
+  #resume h3 {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+
+  /* Reduced spacing after h2 headings by 50% */
+  #resume h2 {
+    margin-bottom: 0.125em !important;
+    padding-bottom: 0 !important;
+  }
+
+  /* Adjust spacing for elements that follow h2 */
+  #resume h2 + * {
+    margin-top: 0.25em !important;
+  }
+
+  /* Keep h3 headings with their following content */
+  #resume h3 + * {
+    page-break-before: avoid !important;
+    break-before: avoid !important;
+  }
+
+  /* Style h4 elements for print */
+  #resume h4 {
+    font-style: italic !important;
+    margin-top: 0.1em !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Fix table page breaks */
+  table, tr, td, th, tbody, thead, tfoot {
+    page-break-inside: avoid !important;
+  }
+
+  /* Ensure links are not underlined and show no URL */
+  a[href]:after {
+    content: none !important;
+  }
+}
+
+/* Browser-specific overrides to remove headers and footers */
+@media print {
+  /* Firefox specific */
+  @-moz-document url-prefix() {
+    @page {
+      margin: 0mm 0mm 20pt 0mm !important;
+      size: auto;
+    }
+  }
+
+  /* Chrome/Safari/Edge specific */
+  @media print and (-webkit-min-device-pixel-ratio:0) {
+    @page {
+      margin: 0mm 0mm 20pt 0mm !important;
+      size: auto;
+    }
+  }
+
+  /* Header/footer suppression without limiting content */
+  html, body {
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  /* Ensure content is visible but hide images */
+  #resume {
+    background-color: #fff !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 10mm 10mm 30mm 10mm !important; /* Added extra bottom padding */
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  /* Show profile photo in print mode */
+  #resume img,
+  #resume > p:first-of-type img {
+    max-width: 20% !important;
+    height: auto !important;
+    float: right !important;
+    margin: 0 0 1em 1em !important;
+    display: block !important;
+    page-break-inside: avoid !important;
+  }
+}
 
 /*# sourceMappingURL=print.css.map */

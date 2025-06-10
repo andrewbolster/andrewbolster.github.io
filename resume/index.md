@@ -14,9 +14,9 @@ photo: /img/bolster.png
 
 # Andrew Bolster Ph.D. MEng
 
-[{{ page.email }}](mailto:{{ page.email }}) | [{{ page.site }}]({{ page.site }})
+[{{ page.email }}](mailto:{{ page.email }}) | [{{ page.site }}]({{ page.site }}) | LinkedIn: [andrewbolster](https://www.linkedin.com/in/andrewbolster) | Belfast, UK
 
-Data Science Leader and AI Systems Researcher with a wide range of experience across technical, business, and entrepreneurial fields.
+Data Science Leader and AI Systems Practitioner with a wide range of experience across technical, business, and entrepreneurial fields.
 
 Specific interests in and around intelligent decision support systems, cybersecurity, ‘trust’ in asymmetric risk environments, ML/SME co-design, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
 

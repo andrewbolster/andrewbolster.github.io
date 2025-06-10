@@ -286,18 +286,20 @@ font-weight: bold;}
   margin-top: 1em; /* Adjust the margin as needed */
 }
 
-  /* Remove any unnecessary padding or margins */
+  /* Browser compatibility for removing headers and footers */
+  @page {
+    size: auto;
+    margin: 10mm;
+  }
+
   html {
     margin: 0;
     padding: 0;
   }
-  @page {
-    size: A4;
-    margin: 0.5em, 0, 0.5em, 0;
-  }
+
   body {
-    margin: 1cm;
-    padding: 0;
+    margin: 0;
+    padding: 10mm;
   }
   /* Left Align for h1 */
   #resume h2 {
@@ -459,5 +461,37 @@ font-weight: bold;}
   #resume h2 {
     margin-top: 0.8em;
     padding: 0.2em 0.5em 0.5em 0.5em;
+  }
+}
+
+/* Chrome/Safari/Edge specific rule to hide headers and footers */
+@media print {
+  /* Firefox specific */
+  @-moz-document url-prefix() {
+    @page {
+      margin: 10mm;
+      size: auto;
+    }
+    body {
+      margin: 0;
+      padding: 10mm;
+    }
+  }
+
+  /* webkit browsers */
+  @media print and (-webkit-min-device-pixel-ratio:0) {
+    @page {
+      margin: 10mm;
+      size: auto;
+    }
+    body {
+      margin: 0;
+      padding: 10mm;
+    }
+  }
+
+  /* Suppress the browser's built-in headers and footers */
+  html {
+    height: 99%; /* This is a hack to prevent some browsers from showing headers/footers */
   }
 }
