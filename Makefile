@@ -4,6 +4,9 @@ install:
 	gem install bundler --user-install
 	bundle install
 
+precommit:
+	pre-commit run --all-files
+
 # Update dependencies
 update:
 	bundle update
