@@ -1,6 +1,7 @@
 ---
 date: 2024-01-17 13:50 +0000
 layout: post
+categories: [Data Science, Tutorial]
 tags:
 - Kernel Management
 - JupyterLab
@@ -8,6 +9,8 @@ tags:
 - conda
 - Notebook
 - Python
+- tutorial
+- workflow
 title: Jupyter Environment Management for Dummies
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Deepseek
-category: AI
+categories: [AI, Commentary]
 tags:
 - DeepSeek
 - OpenAI
@@ -9,6 +9,8 @@ tags:
 - AI
 - Open Source
 - Innovation
+- market impact
+- competition
 date: 2025-03-16 13:02 +0000
 ---
 [!["I can't believe ChatGPT lost its job to AI"](/img/2025/deepseek.png)](https://x.com/tekbog/status/1883973153145381064)

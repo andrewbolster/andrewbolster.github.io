@@ -1,6 +1,7 @@
 ---
 date: 2024-02-28 11:38 +0000
 layout: post
+categories: [Community, Personal]
 tags:
 - Community
 - Volunteering
@@ -12,6 +13,8 @@ tags:
 - Charity
 - Membership
 - Farewell
+- Belfast
+- Northern Ireland
 title: Farewell Farset
 ---
 
