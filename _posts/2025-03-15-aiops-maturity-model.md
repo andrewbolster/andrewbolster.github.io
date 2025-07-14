@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AIOps Maturity Model
+categories: [AI, DevOps, Data Science]
 tags:
 - AIOps
 - MLOps
@@ -8,7 +9,8 @@ tags:
 - Machine Learning
 - Data Science
 - DevOps
-category: AI
+- operations
+- organizational development
 date: 2025-03-15 13:54 +0000
 ---
 # AIOps Maturity Model
