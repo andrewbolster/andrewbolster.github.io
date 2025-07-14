@@ -1,6 +1,7 @@
 ---
 date: 2024-02-19 12:54 +0000
 layout: post
+categories: [AI, Software Engineering, Security]
 tags:
 - ML
 - Generative AI
@@ -13,6 +14,7 @@ tags:
 - DevSecOps
 - Application Security Posture Management
 - Software Development
+- cybersecurity
 title: 'Generative AI: Impact on Software Development and Security'
 ---
 

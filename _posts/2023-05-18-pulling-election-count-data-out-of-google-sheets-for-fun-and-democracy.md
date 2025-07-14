@@ -1,6 +1,7 @@
 ---
 date: 2023-05-18 14:43 +0100
 layout: post
+categories: [Data Science, Politics]
 tags:
 - Elections
 - Google Sheets
@@ -8,6 +9,9 @@ tags:
 - Web Development
 - Data Analysis
 - Python
+- Northern Ireland
+- democracy
+- civic data
 title: Pulling Election Count data out of Google Sheets for fun and democracy
 ---
 
