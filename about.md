@@ -40,6 +40,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :teacher: [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Data Governance for Generative AI - Guest Lecture
   * :speech_balloon: [The Human Factor: Redefining Cybersecurity In The Age Of AI](https://www.forbes.com/sites/tonybradley/2025/03/21/the-human-factor-redefining-cybersecurity-in-the-age-of-ai/) - Forbes - Commentary
   * :speech_balloon: [ChatGPT Search Is Now Free To Use Without An Account—Is It Safe?](https://www.forbes.com/sites/kateoflahertyuk/2025/02/07/chatgpt-search-is-now-free-to-use-without-an-account-is-it-safe/) - Forbes - Commentary
+  * :speech_balloon: [AI Appreciation Day: What the Experts Have to Say](https://informationsecuritybuzz.com/ai-appreciation-day-what-the-experts-have-to-say/) - Information Security Buzz - Commentary
   * :speech_balloon: [AI Agents Will Cut Account Exploit Time](https://informationsecuritybuzz.com/ai-agents-wil-cut-account-exploit-time/) - Information Security Buzz - Commentary
   * :speech_balloon: [New AI “Agents” Could Help Bad Actors Launch Attacks](https://informationsecuritybuzz.com/new-ai-agents-could-help-bad-actors-launch-attacks/) - Information Security Buzz - Commentary
   * :speech_balloon: :movie_camera: [Infosecurity Europe 2025](https://www.youtube.com/watch?v=DsFfcwuStBQ) "How Do We Manage The Risks Introdced By Agents?" - Interviewee
