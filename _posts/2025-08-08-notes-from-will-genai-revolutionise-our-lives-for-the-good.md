@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Notes from "Will GenAI Revolutionise our Lives for the Good?"
-categories: [AI, Commentary]
+categories:
+- AI
+- Commentary
 tags:
 - AI
 - Generative AI
@@ -24,6 +26,7 @@ tags:
 - Farset Labs
 - Belfast
 - debate
+date: 2025-08-08 17:25 +0100
 ---
 I was fortunate enough to be invited to participate in a debate raising money for [Farset Labs](https://www.farsetlabs.org.uk), a cause obviously close to my cold cynical heart.
 
