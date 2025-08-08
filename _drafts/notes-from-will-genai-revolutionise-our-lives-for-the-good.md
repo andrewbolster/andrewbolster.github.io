@@ -1,8 +1,31 @@
 ---
 layout: post
 title: Notes from "Will GenAI Revolutionise our Lives for the Good?"
+categories: [AI, Commentary]
+tags:
+- AI
+- Generative AI
+- LLM
+- artificial intelligence
+- machine learning
+- OpenAI
+- AI winter
+- AI bubble
+- technology criticism
+- Ian Goodfellow
+- GANs
+- NVIDIA
+- Sam Altman
+- Dario Amodei
+- deepfakes
+- AI ethics
+- AI hype
+- technological determinism
+- Farset Labs
+- Belfast
+- debate
 ---
-I was forunate enough to be invited to participate in a debate raising money for [Farset Labs](https://www.farsetlabs.org.uk), a cause obviously close to my cold cynical heart.
+I was fortunate enough to be invited to participate in a debate raising money for [Farset Labs](https://www.farsetlabs.org.uk), a cause obviously close to my cold cynical heart.
 
 [Will GenAI Revolutionise Our Lives For The Good In The Next 5 Years](https://lu.ma/d94zscul) is _top tier troll-bait_ from Garth and Art, and I'm very grateful to have shared the stage with the 5 other speakers. Even the lanky english one. I was particularly impressed by my teammates in their very human-led approach to this question (although everyone was great!)
 
@@ -34,9 +57,9 @@ This data hungry adversarial loop has continued to swallow every piece of text, 
 
 As an aside, it's now believed that [Nvidia and nvidia alone represents around 10% of the US's economy](https://www.wheresyoured.at/the-haters-gui/). All for probabilistically recalling what is the most likely next word in some ancient stackexchange thread with the most conventional, average, answer.
 
-So now we have giant models training smaller models to generate more data that people can chuck on the internet or in the office as their own perls of wisdom; copying and pasting their boses email to get the bullet point version, when that same boss just fed the bullet points into their fancy assistant that's being priced below cost to get [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman) through the next funding round before he has to demonstrate any actual economic viability, all while burning [multiple countries worth of water, CO2 and funding](https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence), to such a ridiculous degree that in the past 6 months, [more was spent on building datacentres than the entire US consumer economy](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a)…
+So now we have giant models training smaller models to generate more data that people can chuck on the internet or in the office as their own pearls of wisdom; copying and pasting their bosses email to get the bullet point version, when that same boss just fed the bullet points into their fancy assistant that's getting [more and more expensive and limited](https://www.msn.com/en-us/news/technology/claude-pro-ai-subscribers-face-new-weekly-usage-caps/ar-AA1JA7ma) but being priced below cost to get [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman) through the next funding round before he has to demonstrate any actual economic viability, all while burning [multiple countries worth of water, CO2 and funding](https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence), to such a ridiculous degree that in the past 6 months, [more was spent on building datacentres than the entire US consumer economy](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a)…
 
-All of this without any of the features or capabilities that we as a society, culture and economy actually value; do you think you’re employed to just write code, or build powerpoints, or write research reports? No, you’re employed to perform to the best of your experience, earned through education and success and failure. You’re employed for your agency and, ultimately for your responsibility to take the hit if you screw up; and then the organisation learns how to hire, or more optimistically, mentor, better. These models have no embodied experience, no curiosity, no guilt, no pride, no shame, no culpability, and despite appearances, no ‘Sentience’.
+All of this without any of the features or capabilities that we as a society, culture and economy actually value; do you think you’re employed to just write code, or build powerpoints, or write research reports? No, you’re employed to perform to the best of your experience, earned through education and success and failure. You're employed for your agency and, ultimately for your [responsibility](/2025/07/being-a-dorc-in-the-age-of-generative-ai) to take the hit if you screw up; and then the organisation learns how to hire, or more optimistically, mentor, better. These models have no embodied experience, no curiosity, no guilt, no pride, no shame, no culpability, and despite appearances, no ‘Sentience’.
 
 Generative AI isn't some kind of revolutionary technology that will take the world by storm or unleash a wave of sentient terminators or 'Her'-style friends and partners; at best, it is the end state of a direction of research that's been going since [Andrey Markov](https://en.wikipedia.org/wiki/Andrey_Markov) was analysing Russian poetry just before World War 1, and we've long since ran out of new human data to feed the beast.
 
@@ -100,6 +123,6 @@ Thank you.
 * Geopolitical chain between *AI-NVidia-TSMC-Taiwan-China + ASML potentially being a trigger
 * Environmental impact of data centres in general
 * Token Inflation (i.e. tokens get cheaper but models get more long winded)
-* Sycophancy/'You're absolutly correct, I am a stupid twat!' 'guilt-less' responses
-* Scaling of fraud and its impacts on non-tech-saavy (Your grandma doesn't know what an emdash is and thinks bullet points are clever)
-* "To Catch A Thief": So your Agent is watched by a Supervisor who is prompted by a Planner; how are you evalling all of those?
+* Sycophancy/'You're absolutely correct, I am a stupid twat!' 'guilt-less' responses
+* Scaling of fraud and its impacts on non-tech-savvy (Your grandma doesn't know what an emdash is and thinks bullet points are clever)
+* "To Catch A Thief": So your Agent is watched by a Supervisor who is prompted by a Planner; how are you evaluating all of those?
