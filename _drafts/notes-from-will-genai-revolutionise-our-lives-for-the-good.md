@@ -4,11 +4,13 @@ title: Notes from "Will GenAI Revolutionise our Lives for the Good?"
 ---
 I was forunate enough to be invited to participate in a debate raising money for [Farset Labs](https://www.farsetlabs.org.uk), a cause obviously close to my cold cynical heart.
 
-[Will GenAI Revolutionise Our Lives For The Good In The Next 5 Years](https://lu.ma/d94zscul) is _top tier troll-bait_ from Garth and Art, so below is the _super long and definitely not 5-minutes_ version of my contribution that I _was_ going to do until the morning of the event...
+[Will GenAI Revolutionise Our Lives For The Good In The Next 5 Years](https://lu.ma/d94zscul) is _top tier troll-bait_ from Garth and Art, and I'm very grateful to have shared the stage with the 5 other speakers. Even the lanky english one. I was particularly impressed by my teammates in their very human-led approach to this question (although everyone was great!)
+
+Anyway, first up, my initial braindump; would have probably run to around 10 minutes, and was more 'information' than 'punch'.
 
 # The Original
 
-I'm Andrew Bolster, I earned a masters in electronics and software engineering from [Queen's University Belfast](https://www.qub.ac.uk/) just as the economy collapsed around us in the late naughties, specialising in GPU engineering and algorithmic optimisation project under Dr Alastair McKinley of Analytics Engines and now SciLeads fame, then I defected to the [University of Liverpool](https://www.liverpool.ac.uk/) with Prof Alan Marshall to earn my PhD in Electrical Engineering, focusing on the trust and collaboration of autonomous intelligent multi-agent systems in constrained environments as part of a joint UK/French defence collaboration, just at the height of 'Brexit fever'.
+I'm Andrew Bolster, I earned a masters in electronics and software engineering from [Queen's University Belfast](https://www.qub.ac.uk/) just as the economy collapsed around us in the late naughties, specialising in GPU engineering and algorithmic optimisation project under Dr Alastair McKinley of Analytics Engines and now SciLeads fame, then I defected to the [University of Liverpool](https://www.liverpool.ac.uk/) with Prof Alan Marshall to earn my PhD in Electrical Engineering, focusing on the [trust and collaboration of autonomous intelligent multi-agent systems](/2017/09/human-factors-in-autonomous-systems) in constrained environments as part of a joint UK/French defence collaboration, just at the height of 'Brexit fever'.
 
 Since then, I've been a data scientist in various roles in bioinformatics, empathic computing (along with <some jab at ben>), and particularly in the past decade, in cybersecurity, assessing and stewarding the intelligent application of decision theory on data driven, high value low risk systems for various multinationals and survived several acquisitions and carveouts, now running the Data Science team at [Black Duck Software](https://www.blackduck.com/).
 
@@ -16,7 +18,7 @@ That overly detailed introduction is to say; I have been thinking about, interro
 
 And with that, let's talk about what these magical black box generative AI’s actually are; the latest and probably last gasp of a 200+ year drive to automate away labour, love and liberty in exchange for increased shareholder value, and that we’re not at the beginning of a revolution, rather at the edge of a collapse.
 
-But let's start off with something simple; who has had the experience of buying something on amazon only to then be recommended 6 near identical things afterwards? And those recommendations to follow you through for many days or weeks; Auld Jeff has our collective and individual purchase habits going back nearly two decades, and these ‘recommendations’ are still little more than keyword associations rather than introducing anything new or salient or joyful into the shopping experience. If Auld Jeff hasn’t been able to replace a conversation or a recommendation from a friend who knows you in his giant data-sucking walled garden, I have little hope for these Agentic AI workflows meaningfully replacing anything. And certainly not for upwards of $200 a month.
+But let's start off with something simple; who has had the experience of buying something on amazon only to then be recommended 6 near identical things afterwards? And those recommendations to follow you through for many days or weeks; Auld Jeff has our collective and individual purchase habits going back nearly two decades, and these [‘recommendations’](https://medium.com/enrique-dans/why-amazons-recommendation-system-is-a-disaster-2f8fdc970d3) are still little more than keyword associations rather than introducing anything new or salient or joyful into the shopping experience. If Auld Jeff hasn’t been able to replace a conversation or a recommendation from a friend who knows you in his giant data-sucking walled garden, I have little hope for these Agentic AI workflows meaningfully replacing anything. And certainly not for upwards of $200 a month.
 
 But where did this all come from anyway? Arguably, we can go right back to [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) with his [Difference Engine](https://en.wikipedia.org/wiki/Difference_engine), which really started the nasty collision in peoples minds of 'oh shit, that object can do the thing that people do, what if object do more like people do!?'. Charlie started off with Maths. Or, I should say, [Lady Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) made the mechanics of the Difference Engine do the fancy maths that blew peoples minds.
 
@@ -44,6 +46,9 @@ It's been a wild ride over the past couple of decades in the Machine Learning sp
 
 Thank you.
 
+---
+Next up is the 'last minute' (i.e. the morning of the event) rewrite that I sprung on my team mates, slightly undercutting the main 'AI==Bad' thesis of the overall discussion and pivoting more to declare 'the end of AI!'; it's not 100% what I actually believe ([Context Collapse](https://en.wikipedia.org/wiki/Context_collapse) and [Dead Internet Theory](https://en.wikipedia.org/wiki/Dead_Internet_theory) are real, but they're more socially relevant than technically relevant; and I do believe that there's a big Nvidia-centred bubble that could go pop if Sam or Dario need to take a down-round... ), but this was more punchy and fun!
+
 # The Alternate (and Delivered) Bombastic Version
 
 Hello folks; So far we’ve tackled the good, the bad and the ugly of the question before us; assessing the ‘our’ ness of the question, the ‘goodness’ of the AI. But before we wrap up tonight, I want to take another word in this boondoogle of a question to task; Revolutionise.
@@ -70,13 +75,13 @@ Since then, it's been [cat pictures](https://www.bbc.com/news/technology-1859535
 
 Employees copy and paste coiffeured press releases spread by sycophantic C-suites into claude desktop to compress them down to actionable bullet points; which bear absolutely no resemblance to the bullet points that the MBA-brained middle manager mewed into Microsoft Copilot in the first place.
 
-In the meantime, these services are priced below cost to get [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman), [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei) and the rest of the Context Collapse Cabal through the next funding round before they have to demonstrate any actual economic viability, all while burning [multiple countries worth of water, CO2 and funding](https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence), to such a ridiculous degree that in the past 6 months in the US, [spending on building datacentres contributed to more 'growth' than the entire consumer economy](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a)…
+In the meantime, despite these services getting [more and more expensive and limited](https://www.msn.com/en-us/news/technology/claude-pro-ai-subscribers-face-new-weekly-usage-caps/ar-AA1JA7ma), these are priced waaaaaay below cost to get [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman), [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei) and the rest of the Context Collapse Cabal through the next funding round before they have to demonstrate any actual economic viability, all while burning [multiple countries worth of water, CO2 and funding](https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence), to such a ridiculous degree that in the past 6 months in the US, [spending on building datacentres contributed to more 'growth' than the entire consumer economy](https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a)…
 
 All of this without any of the features or capabilities that we as a society, culture and economy actually value; do you think you’re employed to just write code, or build powerpoints, or write research reports?
 
 No, you’re employed to perform to the best of your experience, earned through education and life; success and failure; taste and discernment.
 
-You’re employed for your agency and, ultimately for your responsibility to take the hit if you screw up; and then the organisation learns how to hire, or more optimistically, mentor, better.
+You’re employed for your agency and, ultimately for your [responsibility](/2025/07/being-a-dorc-in-the-age-of-generative-ai) to take the hit if you screw up; and then the organisation learns how to hire, or more optimistically, mentor, better.
 
 These models have no embodied experience, no curiosity, no guilt, no pride, no shame, no culpability, and despite appearances, no 'Sentience'. And we've long past ran out of anything else to train them on that isn't already compromised by covert computational content.
 
@@ -87,3 +92,14 @@ Now, all that's left is a speculative bubble with every "AI" company on the plan
 It's been a wild ride over the past couple of decades in the Machine Learning space, but to me, it looks more like [the end of the line](https://en.wikipedia.org/wiki/AI_winter) than a new frontier.
 
 Thank you.
+
+## What I/We skipped
+
+(AKA what I might turn into a bigger talk)
+
+* Geopolitical chain between *AI-NVidia-TSMC-Taiwan-China + ASML potentially being a trigger
+* Environmental impact of data centres in general
+* Token Inflation (i.e. tokens get cheaper but models get more long winded)
+* Sycophancy/'You're absolutly correct, I am a stupid twat!' 'guilt-less' responses
+* Scaling of fraud and its impacts on non-tech-saavy (Your grandma doesn't know what an emdash is and thinks bullet points are clever)
+* "To Catch A Thief": So your Agent is watched by a Supervisor who is prompted by a Planner; how are you evalling all of those?
