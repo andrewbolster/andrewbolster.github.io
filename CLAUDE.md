@@ -224,3 +224,27 @@ git push
 - Cross-reference claims with multiple sources when possible
 - Prefer stable links (archive.org) over potentially ephemeral news articles
 - Document research process for transparency
+
+### About.md Entry Structure
+When updating the "Engagements and Publications" section in about.md, follow this established structure:
+
+**Format**: `:emoji: [Title/Content](link) - Venue/Publication - Type`
+
+**Entry Types and Patterns**:
+- **Speaking Engagements**: `:speaking_head: Talk Title - [Event/Conference](link) - Speaker`
+- **Interviews**: `:movie_camera: [Article/Video Title](link) - Publication @ Venue - Interview`
+- **Guest Lectures**: `:teacher: Lecture Topic - [Institution/Course](link) - Guest Lecture`
+- **Commentary**: `:speech_balloon: [Article Title](link) - Publication - Commentary`
+- **Authored Articles**: `:fountain_pen: [Article Title](link) - Publication - Author`
+- **Panel/Discussion**: `:microphone: Event Topic - [Event](link) - Panellist`
+
+**Link Placement Guidelines**:
+- For **articles/content**: Link goes on the title/content
+- For **events/talks**: Link can go on either the title (if materials available) or venue (if no specific materials)
+- **Dual linking**: Both title and venue can be linked when appropriate (e.g., `[Talk Title](materials-link) - [Conference](event-link) - Speaker`)
+
+**Additional Notes**:
+- Use multiple emojis when appropriate (e.g., `:speech_balloon: :movie_camera:` for video interviews)
+- Include venue context with `@` when relevant (e.g., "Publication @ Event")
+- By default, new entries are added to the top of the year, but can be moved around by the user based on impact and grouping preferences
+- Only include published/confirmed engagements with verifiable links
