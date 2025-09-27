@@ -37,14 +37,16 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 # Engagements and Publications
 * 2025
-  * :teacher: [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Data Governance for Generative AI - Guest Lecture
+  * :speaking_head: Building Beyond Buzzwords: Real AI, Real Security - [Gartner Security & Risk Management Summit 2025](https://www.gartner.com/en/conferences/emea/security-risk-management-uk) - Speaker
+  * :movie_camera: [AI scaling requires data governance framework integration](https://www.bankinfosecurity.com/ai-scaling-requires-data-governance-framework-integration-a-29526) - Bank Info Security (ISMG) @ Gartner SRM - Interview
+  * :teacher: Data Governance for Generative AI - [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Guest Lecture
   * :speech_balloon: [The Human Factor: Redefining Cybersecurity In The Age Of AI](https://www.forbes.com/sites/tonybradley/2025/03/21/the-human-factor-redefining-cybersecurity-in-the-age-of-ai/) - Forbes - Commentary
   * :speech_balloon: [ChatGPT Search Is Now Free To Use Without An Account—Is It Safe?](https://www.forbes.com/sites/kateoflahertyuk/2025/02/07/chatgpt-search-is-now-free-to-use-without-an-account-is-it-safe/) - Forbes - Commentary
   * :speech_balloon: [AI Appreciation Day: What the Experts Have to Say](https://informationsecuritybuzz.com/ai-appreciation-day-what-the-experts-have-to-say/) - Information Security Buzz - Commentary
   * :speech_balloon: [AI Agents Will Cut Account Exploit Time](https://informationsecuritybuzz.com/ai-agents-wil-cut-account-exploit-time/) - Information Security Buzz - Commentary
   * :speech_balloon: [New AI “Agents” Could Help Bad Actors Launch Attacks](https://informationsecuritybuzz.com/new-ai-agents-could-help-bad-actors-launch-attacks/) - Information Security Buzz - Commentary
-  * :speech_balloon: :movie_camera: [Infosecurity Europe 2025](https://www.youtube.com/watch?v=DsFfcwuStBQ) "How Do We Manage The Risks Introdced By Agents?" - Interviewee
-  * :speaking_head: [Dublin Tech Summit](https://blackduck.sharefile.com/d-s90c8d381915f4aa5976e310aa41d557b) - Building Beyond Buzzwords: Productionising AI in Cybersecurity - Speaker
+  * :speech_balloon: :movie_camera: ["How Do We Manage The Risks Introduced By Agents?"](https://www.youtube.com/watch?v=DsFfcwuStBQ) - [Infosecurity Europe 2025](https://www.infosecurityeurope.com/) - Interview
+  * :speaking_head: [Building Beyond Buzzwords: Productionising AI in Cybersecurity](https://blackduck.sharefile.com/d-s90c8d381915f4aa5976e310aa41d557b) - [Dublin Tech Summit](https://dublintechsummit.tech/) - Speaker
   * :speech_balloon: [Agentic AI is facing an identity crisis and no one knows how to solve it](https://www.machine.news/agentic-ai-is-facing-an-identity-crisis-and-no-one-knows-how-to-solve-it/) - Machine News - Commentary
   * :speech_balloon: [Degenerative AI: ChatGPT jailbreaking, the NSFW underground and an emerging global threat](https://www.machine.news/degenerative-ai-jailbreaking-chatgpt-sora-openai/) - Machine News - Commentary
   * :speech_balloon: [Vibe Coding: What Autonomous Code Means for AppSec](https://www.reversinglabs.com/blog/vibe-coding-what-autonomous-code-means-for-appsec) - ReversingLabs - Commentary
@@ -63,8 +65,8 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 
 * 2024
-  * :speaking_head: :movie_camera: [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=0v3dBt65POI) - Building Beyond Buzzwords: Productioninsing AI in Cybersecurity - Speaker
-  * :teacher: [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Building Beyond Buzzwords: Productioninsing AI in Cybersecurity - Guest Lecture
+  * :speaking_head: :movie_camera: [Building Beyond Buzzwords: Productioninsing AI in Cybersecurity](https://www.youtube.com/watch?v=0v3dBt65POI) - [Northern Ireland Developers Conference](https://www.nidevconf.com/) - Speaker
+  * :teacher: Building Beyond Buzzwords: Productioninsing AI in Cybersecurity - [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Guest Lecture
   * :speech_balloon: [Zero-Click GenAI Worm Spreads Malware, Poisoning Models](https://www.darkreading.com/application-security/zero-click-genai-worm-malware-poisoning-models) - DarkReading - Commentary/Interview
   * :speech_balloon: [Panic over new ChatGPT that ‘reasons’ as expert warns of terror AI raids that steal cash from ‘huge numbers’ of victims](https://www.thesun.ie/tech/13839797/ai-chatgpt-1o-artificial-intelligence-cyber-crime/) - The Sun - Commentary/Interview
   * :speech_balloon: [Generative KI hat enorme Auswirkungen auf Softwareentwicklung und Softwaresicherheit ](https://ap-verlag.de/generative-ki-hat-enorme-auswirkungen-auf-softwareentwicklung-und-softwaresicherheit/86448/) - ManageIt - Guest Publication of [Blog Post](/2024/02/generative-ai-impact-on-software-development-and-security)
@@ -85,7 +87,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon: [To improve cybersecurity, is an annual one-month awareness pep rally enough?](https://archive.ph/F74BH) - NerdForTech - Commentary
   * :speech_balloon: [Over 800k Flagstar Bank Customers Impacted by Third Data Breach Since 2021](https://archive.ph/77VVc) - itsecurityguru - Commentary
   * :speech_balloon: [TP-Link Smart Bulb Users at Risk of WiFi Password Theft](https://archive.is/YCEQu) - HackRead - Commentary
-  *:speech_balloon:  [TP-Link Smart Bulb Spills Wi-Fi Passwords](https://archive.is/877Vp) - Infosecurity Magazine - Commentary
+  * :speech_balloon: [TP-Link Smart Bulb Spills Wi-Fi Passwords](https://archive.is/877Vp) - Infosecurity Magazine - Commentary
   * :speech_balloon: [We’re getting poisoned by bad software. Why not talk about it that way?](https://medium.com/nerd-for-tech/were-getting-poisoned-by-bad-software-why-not-talk-about-it-that-way-b1de6d2b5a0e) - NerdForTech - Commentary
   * :speech_balloon: [Is your smart light bulb giving passwords to hackers?](https://archive.is/xD1Xp) - Cult of Mac - Commentary
   * :speech_balloon: [Officials Point To Russia After Electoral Commission Hack](https://archive.is/bWSoS) - Silicon.co.uk - Commentary
@@ -114,13 +116,13 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speaking_head: [Northern Ireland Developers Conference](https://www.nidevconf.com/sessions/andrewbolster/) - Data Art: Creative collisions and getting out of your comfort zone [:movie_camera:](https://www.youtube.com/watch?v=Ku2FX9osMXA) [:notebook:](/2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.html) - Speaker
   * :speaking_head:/:teacher: [PyBelfast](https://www.meetup.com/PyBelfast/events/258065529/) - The Joys of Python 3 [:notebook:](https://github.com/andrewbolster/nb_presentations/blob/master/2019-01%20PyBelfast/)
 * 2018
-  * :speaking_head:[PyConIE](http://schedule.pycon18.python.ie/#9boRtJSlTmVHQOwVM9) - An Idiots Guide to (Open) Data Science [:movie_camera:](https://www.youtube.com/watch?v=he78D6jwmxE) [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-11%20PyconIE) - Speaker
+  * :speaking_head: [PyConIE](http://schedule.pycon18.python.ie/#9boRtJSlTmVHQOwVM9) - An Idiots Guide to (Open) Data Science [:movie_camera:](https://www.youtube.com/watch?v=he78D6jwmxE) [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-11%20PyconIE) - Speaker
   * :speaking_head:/:teacher:[PyBelfast](https://www.meetup.com/PyBelfast/events/254682565/) - Scalable Analytics with Dask [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-10%20Dask)
   * :teacher: [University of Ulster PgDip/MSc Digital Media Communications](https://www.ulster.ac.uk/courses/201819/digital-media-communication-15967) - Guest Lecturer
   * :teacher: [University of Ulster MSc Data Science](https://www.ulster.ac.uk/courses/201819/data-science-16111) - Guest Lecturer [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-10%20UU%20Magee)
   * :speaking_head:/:microphone: [DigitalDNA/AINI](https://www.meetup.com/Artificial-Intelligence-Northern-Ireland/events/251265424/) - Unfeeling Fire; Autonomy in Defence - Speaker and Panellist
-  * :speaking_head: [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=mtrIEW2nCMc):movie_camera: [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-6%20NIDC) - An Idiots Guide to (Open) Data Science - Speaker
-  * :speaking_head:[Machine Learning BASH](https://www.meetup.com/devbash/events/249025552/) HODL-AI: Live Coding RNN on the Blockchain [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-04%20Bash) - Speaker
+  * :speaking_head: [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=mtrIEW2nCMc) :movie_camera: [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-6%20NIDC) - An Idiots Guide to (Open) Data Science - Speaker
+  * :speaking_head: [HODL-AI: Live Coding RNN on the Blockchain](https://github.com/andrewbolster/nb_presentations/tree/master/2018-04%20Bash) - [Machine Learning BASH](https://www.meetup.com/devbash/events/249025552/) - Speaker
   * :speaking_head: [BelFOSS](https://www.youtube.com/watch?v=5LhKXL0oDnc):movie_camera: - The Ballad Of Farset Labs: Redux - Speaker
   * :speaking_head: [Cambridge House Grammar School - Annual Awards Ceremony](http://www.cambridgehouse.org.uk/news.php) - Guest Speaker
   * :microphone: / :radio: [Drive105 - For Arts Sake with Eileen Walsh](http://www.drive105.co.uk/the-drive105-team) - Radio Interviewee
@@ -153,11 +155,11 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   *  :newspaper: [Becoming an Expert](http://news.liv.ac.uk/2014/06/02/becoming-an-expert-andrew-bolster-on-suspicious-submarines/) Andrew Bolster on Suspicious Submarines - University of Liverpool - Appearance
   *  :scientist: [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697) - Association for the Advancement of Artificial Intelligence Spring Symposium - Author
   * :speaking_head: [Liverpool Social Media Cafe](http://how-why-diy.com/2015/12/21/video-inspiration-from-the-king-of-gifs/):movie_camera: - The Ballad of Farset Labs - Speaker
-  * :speaking_head: [InterTradeIreland All-Island Innovation Conference](http://www.ucd.ie/innovation/newsevents/events/2014/september/intertradeireland2014all-islandinnovationconference/) Permitting the Creative Insanity of Your Community - Speaker
+  * :speaking_head: Permitting the Creative Insanity of Your Community - [InterTradeIreland All-Island Innovation Conference](http://www.ucd.ie/innovation/newsevents/events/2014/september/intertradeireland2014all-islandinnovationconference/) - Speaker
 * 2013
-  *  :newspaper: [Experimenting with ICT in Belfast ](http://www.agendani.com/experimenting-with-ict-in-belfast/)- AgendaNI - Appearance
+  *  :newspaper: [Experimenting with ICT in Belfast ](http://www.agendani.com/experimenting-with-ict-in-belfast/) - AgendaNI - Appearance
   *  :movie_camera: [Tech Britain Coverage](http://techbritain.com/videos/watch/43) - TechBritain - Interview
-  *  :studio_microphone: [Global Game Jam Hits Belfast ](http://www.followingthenerd.com/video-games/global-game-jam-hits-belfast/?utm_source=rss&utm_medium=rss&utm_campaign=global-game-jam-hits-belfast)- Following The Nerd - Appearance
+  *  :studio_microphone: [Global Game Jam Hits Belfast ](http://www.followingthenerd.com/video-games/global-game-jam-hits-belfast/?utm_source=rss&utm_medium=rss&utm_campaign=global-game-jam-hits-belfast) - Following The Nerd - Appearance
   *  :newspaper: [Global Game Jam: Belfast to take part for first time](http://www.bbc.co.uk/news/uk-northern-ireland-21142798) - BBC News - Interview
   *  :newspaper: [Belfast Hub for Global Games Jam](http://www.newsletter.co.uk/news/business/local-businesses/belfast-hub-for-global-games-jam-1-4705625) - Newsletter - Appearance
   *  :newspaper: [Weekend hackathon set for Belfast](http://www.ulsterbusiness.com/articles/2013/01/18/weekend-hackathon-set-for-belfast) - Ulster Business
@@ -168,8 +170,8 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speaking_head: Blick Shared Studios [Creative Camp](http://www.creativecamp2013.com/) - Speaker
 * 2012
   * :speaking_head:/:judge: Bank of Ireland [Junior Dragons Den Regional Heat](http://www.allaboutbusiness.org.uk/denlive/junior) - Speaker
-  * :speaking_head: Northern Ireland Science Park - [Generation Innovation Awards Ceremony 2012](http://www.nisp.co.uk/top-entrepreneurs-inspire-next-generation/) - Speaker
-  * :newspaper: [Imagining a Digital Future ](http://www.ulsterbusiness.com/articles/2012/12/17/imagining-a-digital-future)- Ulster Business - Appearance
+  * :speaking_head: [Generation Innovation Awards Ceremony 2012](http://www.nisp.co.uk/top-entrepreneurs-inspire-next-generation/) - Northern Ireland Science Park - Speaker
+  * :newspaper: [Imagining a Digital Future ](http://www.ulsterbusiness.com/articles/2012/12/17/imagining-a-digital-future) - Ulster Business - Appearance
   * :speech_balloon: [Northern Ireland economy needs to make space for technological innovation and creativity](http://www.businessfirstonline.co.uk/?p=10387) - BusinessFirstOnline - Interview
   * :studio_microphone: [The Tech Show (Podcast)](http://eamonnmallie.com/2012/11/tech-show-podcast-episode-26/) - iChrisTaylor - Guest
   * :newspaper: [Top entrepreneurs inspire next generation](http://www.belfasttelegraph.co.uk/business/news/top-entrepreneurs-inspire-next-generation-28998741.html) - Appearance
