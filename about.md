@@ -45,6 +45,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon: [New AI “Agents” Could Help Bad Actors Launch Attacks](https://informationsecuritybuzz.com/new-ai-agents-could-help-bad-actors-launch-attacks/) - Information Security Buzz - Commentary
   * :speech_balloon: :movie_camera: [Infosecurity Europe 2025](https://www.youtube.com/watch?v=DsFfcwuStBQ) "How Do We Manage The Risks Introdced By Agents?" - Interviewee
   * :speaking_head: [Dublin Tech Summit](https://blackduck.sharefile.com/d-s90c8d381915f4aa5976e310aa41d557b) - Building Beyond Buzzwords: Productionising AI in Cybersecurity - Speaker
+  * :speech_balloon: [Agentic AI is facing an identity crisis and no one knows how to solve it](https://www.machine.news/agentic-ai-is-facing-an-identity-crisis-and-no-one-knows-how-to-solve-it/) - Machine News - Commentary
   * :speech_balloon: [Degenerative AI: ChatGPT jailbreaking, the NSFW underground and an emerging global threat](https://www.machine.news/degenerative-ai-jailbreaking-chatgpt-sora-openai/) - Machine News - Commentary
   * :speech_balloon: [Vibe Coding: What Autonomous Code Means for AppSec](https://www.reversinglabs.com/blog/vibe-coding-what-autonomous-code-means-for-appsec) - ReversingLabs - Commentary
   * :speech_balloon: [AI Agents Are Weaponizing at Speed: Gartner Warns of 50% Faster Exploits by 2027](https://securitybuzz.com/cybersecurity-news/ai-agents-are-weaponizing-at-speed-gartner-warns-of-50-faster-exploits-by-2027/) - SecurityBuzz - Commentary
