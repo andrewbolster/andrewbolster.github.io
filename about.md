@@ -124,7 +124,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speaking_head: [Northern Ireland Developers Conference](https://www.youtube.com/watch?v=mtrIEW2nCMc) :movie_camera: [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-6%20NIDC) - An Idiots Guide to (Open) Data Science - Speaker
   * :speaking_head: [HODL-AI: Live Coding RNN on the Blockchain](https://github.com/andrewbolster/nb_presentations/tree/master/2018-04%20Bash) - [Machine Learning BASH](https://www.meetup.com/devbash/events/249025552/) - Speaker
   * :speaking_head: [BelFOSS](https://www.youtube.com/watch?v=5LhKXL0oDnc):movie_camera: - The Ballad Of Farset Labs: Redux - Speaker
-  * :speaking_head: [Cambridge House Grammar School - Annual Awards Ceremony](http://www.cambridgehouse.org.uk/news.php) - Guest Speaker
+  * :speaking_head: [Cambridge House Grammar School - Annual Awards Ceremony](https://www.cambridgehouse.org.uk/news.php) - Guest Speaker
   * :microphone: / :radio: [Drive105 - For Arts Sake with Eileen Walsh](http://www.drive105.co.uk/the-drive105-team) - Radio Interviewee
   * :newspaper: [Moving to Belfast? Here are 10 people you need to know](https://www.siliconrepublic.com/people/belfast-tech-influencers-people-to-follow) - SiliconRepublic - Listee
 * 2017
@@ -136,21 +136,21 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :scientist: [Dynamic Model of Athletes' Emotions Based on Wearable Devices - International Conference on Applied Human Factors and Ergonomics](https://www.researchgate.net/publication/317689071_Dynamic_Model_of_Athletes%27_Emotions_Based_on_Wearable_Devices) - Author
 
 * 2016
-  * :scientist: [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](http://bolster.online/bolster/16_UComms_bolster_preprint.pdf) - Author
-  * :scientist: [Physical Behaviours for Trust Assessment in Autonomous Underwater MANETs - Submitted to The 13th IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), Brasilia, Brasil](http://bolster.online/bolster/16_MASS_bolster_preprint.pdf) - Author
+  * :scientist: [Analytical Metric Weight Generation for Multi-Domain Trust in Autonomous Underwater MANETs - Invited paper for Underwater Communications Security session at IEEE UComms 2016, Lerici, Italy](https://bolster.online/bolster/16_UComms_bolster_preprint.pdf) - Author
+  * :scientist: [Physical Behaviours for Trust Assessment in Autonomous Underwater MANETs - Submitted to The 13th IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS), Brasilia, Brasil](https://bolster.online/bolster/16_MASS_bolster_preprint.pdf) - Author
   * :microphone: [BelTech](http://beltech2016.com/schedule/speakers.html) - Innovation Engineering - Panellist
   * :speaking_head: [Open Data Day](http://belfast.theodi.org/2016/02/12/open-data-day-2016-belfast/) - Community Use of Open Data - Speaker
 * 2015
-  * :scientist: [Single and Multi-metric Trust Management Frameworks for Use in Underwater Autonomous Networks. In Trustcom/BigDataSE/ISPA, 2015 IEEE, Helsinki, Finland](http://doi.org/10.1109/Trustcom.2015.435) - Author
+  * :scientist: [Single and Multi-metric Trust Management Frameworks for Use in Underwater Autonomous Networks. In Trustcom/BigDataSE/ISPA, 2015 IEEE, Helsinki, Finland](https://doi.org/10.1109/Trustcom.2015.435) - Author
   * :fountain_pen: [How The Future Gigabit Internet Is Likely To Play Out](http://www.makeuseof.com/tag/future-gigabit-internet-likely-play/) - MakeUseOf - Author
-  * :newspaper: [Raspberry Pi Farset Labs 'jams' teach kids how to code computers](http://www.bbc.co.uk/news/uk-northern-ireland-31625354) - BBC - Interview
+  * :newspaper: [Raspberry Pi Farset Labs 'jams' teach kids how to code computers](https://www.bbc.co.uk/news/uk-northern-ireland-31625354) - BBC - Interview
   * :newspaper: [Big Data Is Big Business In Northern Ireland](http://www.nispconnect.org/techwatch/big-data-is-big-business-in-northern-ireland/) - TechWatch - Interview
 
   * :speaking_head: [Ignite Liverpool](http://igniteliverpool.com/2015/08/andrew-bolster-a-rant-about-a-visitors-perspective-of-liverpool/):movie_camera: - A Rant About A Visitors Perspective of Liverpool - Speaker
 * 2014
   * :scientist: [Analysis of Trust Interfaces in Autonomous and Semi-Autonomous Collaborative MHPC Operations](), The Technical Cooperation Program, Technical Report TR-C3I-06-2014, May 14, 2014, Portsmouth, UK *not publically available* - Author
-  *  :scientist: [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697), AAAI Spring Symposium Series, Palo Alto CA, USA - Author
-  *  :fountain_pen: [How to Optical and Quantum Computers work?](http://www.makeuseof.com/tag/optical-quantum-computers-work/) - MakeUseOf - Author
+  *  :scientist: [A Multi-Vector Trust Framework for Autonomous Systems](https://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697), AAAI Spring Symposium Series, Palo Alto CA, USA - Author
+  *  :fountain_pen: [How to Optical and Quantum Computers work?](https://www.makeuseof.com/tag/optical-quantum-computers-work/) - MakeUseOf - Author
   *  :fountain_pen: [GPS III: Where Are We? And Where Are We Going?](http://www.makeuseof.com/tag/gps-iii-going/) - MakeUseOf - Author
   *  :newspaper: [Becoming an Expert](http://news.liv.ac.uk/2014/06/02/becoming-an-expert-andrew-bolster-on-suspicious-submarines/) Andrew Bolster on Suspicious Submarines - University of Liverpool - Appearance
   *  :scientist: [A Multi-Vector Trust Framework for Autonomous Systems](http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/7697) - Association for the Advancement of Artificial Intelligence Spring Symposium - Author
