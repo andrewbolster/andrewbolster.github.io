@@ -40,6 +40,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speaking_head: Building Beyond Buzzwords: Real AI, Real Security - [Gartner Security & Risk Management Summit 2025](https://www.gartner.com/en/conferences/emea/security-risk-management-uk) - Speaker
   * :movie_camera: [AI scaling requires data governance framework integration](https://www.bankinfosecurity.com/ai-scaling-requires-data-governance-framework-integration-a-29526) - Bank Info Security (ISMG) @ Gartner SRM - Interview
   * :teacher: Data Governance for Generative AI - [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Guest Lecture
+  * :speech_balloon: [Open Source "b3" Benchmark to Boost LLM Security for Agents](https://www.infosecurity-magazine.com/news/open-source-b3-benchmark-security/) - Infosecurity Magazine - Commentary
   * :speech_balloon: [The Human Factor: Redefining Cybersecurity In The Age Of AI](https://www.forbes.com/sites/tonybradley/2025/03/21/the-human-factor-redefining-cybersecurity-in-the-age-of-ai/) - Forbes - Commentary
   * :speech_balloon: [ChatGPT Search Is Now Free To Use Without An Account—Is It Safe?](https://www.forbes.com/sites/kateoflahertyuk/2025/02/07/chatgpt-search-is-now-free-to-use-without-an-account-is-it-safe/) - Forbes - Commentary
   * :speech_balloon: [AI Appreciation Day: What the Experts Have to Say](https://informationsecuritybuzz.com/ai-appreciation-day-what-the-experts-have-to-say/) - Information Security Buzz - Commentary
