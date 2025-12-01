@@ -30,7 +30,12 @@ So a file with no contents and a completly different title was still screwing th
 
 So what's the difference between it and any other file?
 
-{% gist 8520058 %}
+```bash
+➜  _posts git:(master) ✗ file 2014-01-20-schreibdochmal_19_01_14.md
+2014-01-20-schreibdochmal_19_01_14.md: exported SGML document, UTF-8 Unicode (with BOM) text, with very long lines
+➜  _posts git:(master) ✗ file 2014-01-11-the-making-of-a-timelapse.md
+2014-01-11-the-making-of-a-timelapse.md: ASCII text, with very long lines
+```
 
 Wut?...
 
@@ -38,6 +43,8 @@ Funnily enough this is hinted as a problem in [this stack overflow post](http://
 
 Long story short, can be fixed by [this answer](http://stackoverflow.com/questions/1068650/using-awk-to-remove-the-byte-order-mark)
 
-{% gist 8520118 %}
+```bash
+awk '{if(NR==1)sub(/^\xef\xbb\xbf/,"");print}' INFILE > OUTFILE
+```
 
 Hopefully this helps someone along later on.

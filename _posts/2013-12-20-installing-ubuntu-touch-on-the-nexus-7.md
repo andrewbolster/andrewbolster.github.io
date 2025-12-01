@@ -33,6 +33,11 @@ So without further ado, the assumption: If you're thinking of putting Ubuntu on 
 
 Once that's all wrapped up, onto the meat.
 
-{% gist 8057017 %}
+```bash
+sudo add-apt-repository ppa:phablet-team/tools
+sudo apt-get update
+sudo aptitude -y install phablet-tools android-tools-adb android-tools-fastboot
+phablet-flash ubuntu-system --channel devel --bootstrap
+```
 
 Job done! Hopefully Cyanogenmod can take some inspiration for this.
