@@ -10,7 +10,7 @@ title: Now
 
 # Now
 
-Head of Data Science @ [Black Duck Software](https://blackduck.com/), trying to do data better.
+Senior R&D Manager @ [Black Duck Software](https://blackduck.com/), driving data to make AI work.
 
 ## Wants
 

@@ -13,11 +13,19 @@ title: About
 <a href="/img/bolster_orig.png" target="_blank">
   <img src="/img/bolster_orig.png" alt="Andrew Bolster" style="float: right; margin: 0 0 1em 1em; width: 300px;"/>
 </a>
-Data Leader @ [Black Duck Software](https://blackduck.com/), recovering academic, former robo-psychiatrist, hackerspace founder, meetup organiser, and player-of-calendar-tetris.
+**Senior R&D Manager (Data Science) @ [Black Duck Software](https://blackduck.com/)**, recovering academic, former robo-psychiatrist, hackerspace founder, meetup organiser, and player-of-calendar-tetris.
 
-Previously a Data Scientist/Academic working in the fields of Affective Computing, Wearable Technologies, Trust and Reputation, Autonomous Systems and Cyber Security.
+*Driving data to make AI work.*
 
-Currently Senior R&D Manager (Data Science) at [Black Duck Software](https://blackduck.com/), using advanced generative AI, data mining and machine learning to detect, assess, and remediate vulnerabilities and malware attacks on cloud and on-prem infrastructure for fortun 500 companies and global brands. LLM Operationalisation Lead, and 'Data Tzar'.
+Leading enterprise AI platform operations serving 500+ internal R&D users, with platforms scaling to 30+ billion tokens monthly and £600k resource responsibility spanning team operations and AI infrastructure. Regular strategic collaboration with CEO/CIO/CISO on data governance policy development that directly impacts product contract terms and organizational AI adoption frameworks.
+
+Previously a Data Scientist/Academic working in the fields of Affective Computing, Wearable Technologies, Trust and Reputation, Autonomous Systems and Cyber Security. Now focused on the practical reality of productionising AI in cybersecurity - doing the hard boring plumbing, so the sexy innovation is easy.
+
+**Current work spans enterprise-scale AI operations**: comprehensive security analysis covering tens of millions of findings with over a million scan events monthly, crisis leadership enabling autonomous platform performance during organizational transitions, and cross-functional AI enablement through systematic training programs and organizational maturity frameworks.
+
+**Active in global AI regulatory landscape**: proactive alignment with evolving NIST AI Framework, EU AI Act, Cyber Resilience Act and [related regulatory developments](https://www.securitymagazine.com/articles/102047-trump-administration-issues-new-ai-executive-order), working directly with strategic advisory, legal, and customer-facing audit teams to ensure organizational compliance and industry best practices. Regular commentary on [AI governance frameworks](https://www.bankinfosecurity.com/ai-scaling-requires-data-governance-framework-integration-a-29526) and regulatory approaches across different jurisdictions.
+
+**Industry recognition as Top R&D External Media Contributor** through thought leadership across [Forbes](https://www.forbes.com/sites/tonybradley/2025/03/21/the-human-factor-redefining-cybersecurity-in-the-age-of-ai/), [InfoSecurity Magazine](https://www.infosecurity-magazine.com/news-features/what-is-vibe-coding-collins-word/), and major industry publications. Regular speaking at conferences including Gartner Security & Risk Management Summit, with multi-year university guest lecturer developing AI governance curricula. Developed "Building Beyond Buzzwords" philosophy bridging academic research and enterprise implementation reality.
 
 Completed PhD Research at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](https://ecit.qub.ac.uk) Institute) investigating [Trust and Reputation in Marine Communications for Autonomous Systems of Systems](https://github.com/andrewbolster/thesis/releases/tag/v1.0) under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](https://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
 
@@ -36,6 +44,8 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * [PDF version](https://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
 
 # Engagements and Publications
+* 2026
+  * :speech_balloon: [73% of CISOs more likely to consider AI-enabled security solution](https://www.csoonline.com/article/4120218/73-of-cisos-more-likely-to-consider-ai-enabled-security-solution.html) - CSO Online - Commentary
 * 2025
   * :speaking_head: Building Beyond Buzzwords: Real AI, Real Security - [Gartner Security & Risk Management Summit 2025](https://www.gartner.com/en/conferences/emea/security-risk-management-uk) - Speaker
   * :movie_camera: [AI scaling requires data governance framework integration](https://www.bankinfosecurity.com/ai-scaling-requires-data-governance-framework-integration-a-29526) - Bank Info Security (ISMG) @ Gartner SRM - Interview
