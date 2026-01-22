@@ -20,7 +20,7 @@ photo: /img/bolster.png
 
 Data Science and AI Governance Leader with a wide range of experience across technical, business, and entrepreneurial fields.
 
-Specific interests in and around intelligent decision support systems, cybersecurity, ‘trust’ in asymmetric risk environments, ML/SME co-design, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
+Specific interests in and around intelligent decision support systems, cybersecurity, 'trust' in asymmetric risk environments, ML/AI driven SME Decision Support and Advisory systems, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
 
 Ph.D. Research at the University of Liverpool as part of a Anglo-French Defence Programme around Trusted Autonomous Submarines for Defence Applications.
 
@@ -46,7 +46,7 @@ Key responsibilities included:
 - Contributed to strategic due diligence for large-scale acquisitions and divestments, including WhiteHat integration into Synopsys and Black Duck divestment from Synopsys.
 - Building and mentoring team members in ML/AI methodologies and technology stacks.
 - Collaborating with cross-functional leaders to identify and solve business challenges using Data Science with a clear path to productionisation.
-- Partnering with cybersecurity experts to co-design ML/SME features and improve feedback, risk, onboarding, and training processes.
+- Partnering with cybersecurity experts to develop ML/AI driven SME Decision Support and Advisory systems that improve feedback, risk, onboarding, and training processes.
 - Partnering with compliance and legal to advance data product / AI development and ensure alignment with regulatory requirements and customer committements, including proactive alignment with evolving NIST AI Framework, EU AI Act, and Cyber Resilience Act.
 - Leading on AI/ML/Data related press and thought leadership activities as Top R&D External Media Contributor, including speaking at conferences, university guest lectures, and regular press contributions in outlets such as Forbes and InfoSecurity Magazine.
 
