@@ -14,9 +14,11 @@ photo: /img/bolster.png
 
 # Andrew Bolster Ph.D. MEng
 
+*Driving data to make AI work*
+
 [{{ page.email }}](mailto:{{ page.email }}) | [{{ page.site }}]({{ page.site }}) | LinkedIn: [andrewbolster](https://www.linkedin.com/in/andrewbolster) | Belfast, UK
 
-Data Science Leader and AI Systems Practitioner with a wide range of experience across technical, business, and entrepreneurial fields.
+Data Science and AI Governance Leader with a wide range of experience across technical, business, and entrepreneurial fields.
 
 Specific interests in and around intelligent decision support systems, cybersecurity, ‘trust’ in asymmetric risk environments, ML/SME co-design, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
 
@@ -33,22 +35,24 @@ Experienced Speaker, Panelist and commentator, with appearances at Regional and 
 #### Data Science Engineering Manager [NTT Application Security] (2020 - 2022)
 #### Data Science Team Lead [WhiteHat Security] (2019 - 2020)
 
-Led and managed a team of Data Scientists, driving cross-product initiatives across WhiteHat, Polaris, and Black Duck product lines. Focus areas included MLOps for automated vulnerability verification, dynamic payload generation, churn modeling, security metric evaluation, and NLP-based customer feedback analysis.
+Led enterprise AI governance frameworks that break through historical organizational silos, unlocking hidden value across operational, product, and sales data from multiple acquired entities, enabling 500+ internal R&D users to innovate at unprecedented scale. Through strategic collaboration with CEO/CIO/CISO on unified data governance policy development, established cross-organizational frameworks directly impacting product contract terms and creating holistic visibility across formerly standalone products and companies. Managed £600k resource responsibility with platforms scaling to 30+ billion tokens monthly.
 
-Acted as the primary stakeholder for LLM approval and AI/GenAI projects across Black Duck, ensuring alignment with organizational goals and compliance standards. Authored new Data Mobility Standard and Data Governance policies, establishing a framework for data handling and usage across the organization.
+Managed team of Data Scientists driving cross-product initiatives across WhiteHat, Polaris, and Black Duck product lines. Focus areas included MLOps for automated vulnerability verification, dynamic payload generation, churn modeling, security metric evaluation, and NLP-based customer feedback analysis. Acted as the primary stakeholder for LLM approval and AI/GenAI projects across Black Duck, ensuring alignment with organizational goals and compliance standards. Authored new Data Mobility Standard and Data Governance policies, establishing a framework for data handling and usage across the organization.
 
 Key responsibilities included:
 - Setting strategic research priorities and upskilling the team to foster continuous innovation.
 - Establishing and scaling a Data Science capability within an established cybersecurity organization.
+- Led organizational adaptation through multiple restructuring cycles while maintaining team performance and platform stability.
+- Contributed to strategic due diligence for large-scale acquisitions and divestments, including WhiteHat integration into Synopsys and Black Duck divestment from Synopsys.
 - Building and mentoring team members in ML/AI methodologies and technology stacks.
 - Collaborating with cross-functional leaders to identify and solve business challenges using Data Science with a clear path to productionisation.
 - Partnering with cybersecurity experts to co-design ML/SME features and improve feedback, risk, onboarding, and training processes.
-- Partnering with compliance and legal to advance data product / AI development and ensure alignment with regulatory requirements and customer committements.
-- Leading on AI/ML/Data related press and thought leadership activities, including speaking at conferences, university guest lectures, and regular press contributions in outlets such as Forbes and DarkReading.
+- Partnering with compliance and legal to advance data product / AI development and ensure alignment with regulatory requirements and customer committements, including proactive alignment with evolving NIST AI Framework, EU AI Act, and Cyber Resilience Act.
+- Leading on AI/ML/Data related press and thought leadership activities as Top R&D External Media Contributor, including speaking at conferences, university guest lectures, and regular press contributions in outlets such as Forbes and InfoSecurity Magazine.
 
 Serve as "Data Tzar," overseeing data privacy, confidentiality, mobility, and cataloging. Chaired the AI tools review board and led the delivery of AI/LLM-driven tools and capabilities across the organization.
 
-Delivered and monitored production-grade Machine Learning and LLM based solutions, providing accessible documentation and explanations of advanced statistical and data science practices. Worked closely with the Chief Architect to define architectural standards for ML projects.
+Delivered comprehensive security analysis covering tens of millions of findings with over a million scan events monthly, through production-grade Machine Learning and LLM based solutions. Provided accessible documentation and explanations of advanced statistical and data science practices. Worked closely with the Chief Architect to define architectural standards for ML projects.
 
 Additionally, served as the UK Home Office Immigration Liaison ensuring compliance with immigration policies and procedures, UK R&D Tax Credit submission coordinator, sat on the UK Culture team, Fire Warden and First Aider.
 
