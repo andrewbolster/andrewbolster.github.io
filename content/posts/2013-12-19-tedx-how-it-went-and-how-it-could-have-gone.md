@@ -16,7 +16,6 @@ tags:
 title: 'TEDx: How it went and how it could have gone'
 ---
 
-{% include JB/setup %}
 <iframe width="420" height="315" src="//www.youtube.com/embed/ja_huuD-K-M" frameborder="0" allowfullscreen></iframe>
 
 So I did a [TEDx Belfast](http://www.tedxbelfast.com/), and had loads of fun (as you can probably see).

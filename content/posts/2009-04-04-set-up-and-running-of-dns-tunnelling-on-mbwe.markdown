@@ -80,7 +80,7 @@ For debian based, its
 > apt-get install build-essential
 
 
-  5. Download the dns2tcp tarfile from  [dns2tcp](http://www.hsc.fr/ressources/outils/dns2tcp/index.html.en) and untar it  in a sensible place like /opt/src or /usr/src ({%highlight bash%}tar -xvzf <tarfile> or gunzip -c <tarfile> | tar xvf - {%endhighlight%} depending on your environment)
+  5. Download the dns2tcp tarfile from  [dns2tcp](http://www.hsc.fr/ressources/outils/dns2tcp/index.html.en) and untar it  in a sensible place like /opt/src or /usr/src (```bashtar -xvzf <tarfile> or gunzip -c <tarfile> | tar xvf - ``` depending on your environment)
 
 
   6. READ THE INSTALL AND README DOCUMENTS, I know they both suck, just read them.

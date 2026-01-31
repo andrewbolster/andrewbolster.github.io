@@ -15,7 +15,6 @@ tags:
 title: Git Split Repository With Commit History
 ---
 
-{% include JB/setup %}
 
 Thesis submitted, Viva cleared (with minor corrections) but this post isn't about all that...
 

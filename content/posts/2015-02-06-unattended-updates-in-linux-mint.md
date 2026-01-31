@@ -15,7 +15,6 @@ tags:
 title: Unattended Updates in Linux Mint
 ---
 
-{% include JB/setup %}
 
 There's several very valid tutorials and guides around about getting [Ubuntu](https://help.ubuntu.com/community/AutomaticSecurityUpdates), [Debian](https://wiki.debian.org/UnattendedUpgrades) and [Mint](http://community.linuxmint.com/tutorial/view/1217) to automatically update and upgrade, but they don't do much explaining/checking.
 

@@ -20,7 +20,6 @@ tags:
 title: Return of the Beard
 ---
 
-{% include JB/setup %}
 
 So today is my last official day in the University of Liverpool office. Time for a bit of reflection.
 

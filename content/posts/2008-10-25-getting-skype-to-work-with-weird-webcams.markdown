@@ -37,9 +37,9 @@ Need to install lib32v4l-0 and lib32v4l-dev (i think the -dev is unnessary but i
 look in your library directories (/usr/lib/ or /usr/lib32/) for v4l1compat.so,
 
 eg " find /usr/lib\* -name '\*v4lcompat.so' "
-{%highlight bash%}
+```bash
 # LD_PRELOAD=/path/to/v4l1compat.so skype
-{%endhighlight%}
+```
 this, obv, preloads that library forcing skype to use teh right interface library.
 
 If my explanation is wrong please correct me

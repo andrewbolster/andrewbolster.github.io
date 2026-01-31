@@ -35,7 +35,7 @@ This has carried on for months now and as I find myself sitting on the command l
 
 `sudo vim /usr/bin/sendkindle`
 
-{%highlight bash%}
+```bash
 #!/bin/bash
 # Depends on package sendemail
 $FROMEMAIL=#An email address connected to your kindle account
@@ -44,7 +44,7 @@ $USER=#Gmail username in this case, but if you are an apps user, remember to inc
 $PASSWORD=#I dont think I have to explain this`
 
 sendemail -f $FROMEMAIL -t $USERNAME@free.kindle.com -u "Convert" -m "Sent automatically by sendemail." -s smtp.gmail.com:587 -xu $USER -xp $PASSWORD -a "$1" -o tls=yes
-{%endhighlight%}
+```
 
 The `-otls=yes` is important as most tutorials that talk about using Gmail either neglect to mention it or deal with much more advanced configurations than this.
 

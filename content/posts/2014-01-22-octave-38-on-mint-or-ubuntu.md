@@ -16,7 +16,6 @@ tags:
 title: Octave 3.8 on Mint (or Ubuntu)
 ---
 
-{% include JB/setup %}
 
 My work has be flittering between Python and Matlab recently, and lets say I'm not a massive fan of Matlab at the best of time, and VM matlab isn't the most performant thing in the world.
 

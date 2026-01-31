@@ -13,7 +13,6 @@ tags:
 title: IPython Websocket Failure on Chrome
 ---
 
-{% include JB/setup %}
 
 [IPython](http://ipython.org/) is an amazing tool, and in particular [IPython Notebook](http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/Notebook/Index.ipynb), which is easily the best 'python scratch-pad' I've ever used.
 
@@ -66,7 +65,7 @@ Long story short, **enable HTTPS and generate a self-signed cert**
 
 And in either your customised profile or in the `ipython_notebook_config.py` file in `~/ipython/profile_nbdefault/`
 
-{% highlight python %}
+```python
 # The full path to an SSL/TLS certificate file.
 c.NotebookApp.certfile = u'$WHEREVER_YOU_PUT/mycert.pem'
-{% endhighlight %}
+```

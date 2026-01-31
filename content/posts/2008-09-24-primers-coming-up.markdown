@@ -52,28 +52,28 @@ Anyway, to the point. 
 
 login to the server thusly
 
-{% highlight bash%}
+```bash
 client# ssh user@server -X
-{%endhighlight%}
+```
 
 then when you get a shell check to see if DISPLAY isnt already set (some servers are good enough to do this for you)
 
-{% highlight bash%}
+```bash
 server# echo $DISPLAY
-{%endhighlight%}
+```
 
 if your lucky it'll say localhost:10.0 otherwise it'll probably say :0.0 or something similar
 
 If your in this unlucky situation, just enter
 
-{% highlight bash%}
+```bash
 server# DISPLAY=localhost:10:0
-{%endhighlight%}
+```
 
 then try it out, by running the clock and forking it into the background (&)
 
-{% highlight bash%}
+```bash
 server# xclock &
-{%endhighlight%}
+```
 
 Job done. Later

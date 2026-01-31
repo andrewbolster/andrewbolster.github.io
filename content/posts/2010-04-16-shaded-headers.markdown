@@ -30,7 +30,7 @@ Going from top to tail, this is how i have my gradients set up.  Download the gr
 
 Basically, the operation is to layer the gradient image over the text _inside_ the `<a>` tag's that are children of `<h1>`/`<h2>` ([hence the '>' in the CSS selector](http://www.w3.org/TR/css3-selectors/#child-combinators)), so that the gradient image itself is still a link. Don't worry about how the `<span>` tag gets there yet...  In whichever css file you are using add the following block of css.
 
-{%highlight css%}
+```css
 
 
      h1 > a,h2 > a {
@@ -44,7 +44,7 @@ Basically, the operation is to layer the gradient image over the text _inside_ t
      height:31px;
      }
 
-{%endhighlight%}
+```
 
 If you are using a [thematic child theme](http://op111.net/53), the css file should be:
 
@@ -55,7 +55,7 @@ The relative position is important as it is what allows the gradient image to ov
 
 Welcome to [JQuery](http://docs.jquery.com/How_jQuery_Works) gentlefolk; it can do magic for your bloodpressure.  To keep it simple, add this function into your 'functions.php' (if you know you already have a JQuery script declaration, then you know enough to remove the relevant bit from below, if you don't, ask in the comments)
 
-{%highlight javascript%}
+```javascript
      function shaded_headers() {
      echo <<<END
      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
@@ -69,7 +69,7 @@ Welcome to [JQuery](http://docs.jquery.com/How_jQuery_Works) gentlefolk; it can 
      END;
      }
      add_filter('thematic_head_scripts','shaded_headers');
-{%endhighlight%}
+```
 
 
 

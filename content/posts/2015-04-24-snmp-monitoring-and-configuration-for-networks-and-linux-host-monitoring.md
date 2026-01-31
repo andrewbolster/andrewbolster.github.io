@@ -14,7 +14,6 @@ tags:
 title: SNMP Monitoring and Configuration for Networks and Linux Host Monitoring
 ---
 
-{% include JB/setup %}
 
 *TL:DR*: Setting up Observium to perform autodiscovery with dynamic DNS, and sample snmp configs to manage Linux servers
 
@@ -41,19 +40,19 @@ But, it means that we have and expect to have devices flowing in and out of the 
 
 
 ### server:/etc/cron.d/observium_discoverer
-{% highlight bash %}
+```bash
 13   *    * * *    root    host -t axfr anrg.liv.ac.uk  | awk '$4 ~ "^A$" {print $1}' > /dev/shm/devices 2> /dev/null; /opt/observium/add_device.php /dev/shm/devices >> /dev/null 2>&1
-{% endhighlight %}
+```
 
 ## Solution 2:
 Required Packages:
 
-{% highlight bash %}
+```bash
 sudo aptitude install snmpd lm-sensors snmp-mibs-downloader
-{% endhighlight %}
+```
 
 ### clients:/etc/default/snmpd
-{% highlight bash %}
+```bash
 # This file controls the activity of snmpd and snmptrapd
 
 # Don't load any MIBs by default.
@@ -74,10 +73,10 @@ TRAPDRUN=yes
 
 # snmptrapd options (use syslog).
 TRAPDOPTS='-Lsd -p /var/run/snmptrapd.pid'
-{% endhighlight %}
+```
 
 ### clients:/etc/snmp/snmpd.conf
-{% highlight bash %}
+```bash
 agentAddress  udp:161
 view   systemonly  included   .1.3.6.1.2.1.1
 view   systemonly  included   .1.3.6.1.2.1.25.1
@@ -94,7 +93,7 @@ iquerySecName   internalUser
 rouser          internalUser
 
 master          agentx
-{% endhighlight %}
+```
 
 ## Problems Experienced following other instructions (AKA Google Search Foo)
 

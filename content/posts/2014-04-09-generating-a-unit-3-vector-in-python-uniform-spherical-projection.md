@@ -14,7 +14,6 @@ tags:
 title: Generating a unit 3 vector in Python (Uniform Spherical Projection)
 ---
 
-{% include JB/setup %}
 
 Quick one more as a reminder to me than anything else.
 

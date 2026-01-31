@@ -16,7 +16,6 @@ tags:
 title: Installing Ubuntu Touch on the Nexus 7
 ---
 
-{% include JB/setup %}
 
 
 I'm always amazed by Canonical. Particularly their documentation.

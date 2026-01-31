@@ -16,7 +16,6 @@ tags:
 title: FIX:CUDA on Debian Jessie
 ---
 
-{% include JB/setup %}
 
 
 Hopefully a super quick one (while I'm procrastinating from procrastinating).

@@ -13,7 +13,6 @@ tags:
 title: The Making of a Timelapse
 ---
 
-{% include JB/setup %}
 
 Starting in May 2012 (a few weeks after we 'opened') I set up an eventcam in [Farset Labs](http://farsetlabs.org.uk), and I don't think I ever officially explained it...
 

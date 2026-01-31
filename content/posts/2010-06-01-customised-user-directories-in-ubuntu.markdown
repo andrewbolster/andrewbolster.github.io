@@ -25,7 +25,7 @@ I've been doing alot of messing around in Ubuntu recently and there are lots of 
 
 Dead easy, there is a .config directory under your $HOME dir, containing several files. The one we need is user-dirs.dirs , and it looks something like this.
 
-{%highlight bash%}
+```bash
 # This file is written by xdg-user-dirs-update
 # If you want to change or add directories, just edit the line you're
 # interested in. All local changes will be retained on the next run
@@ -41,11 +41,11 @@ XDG_DOCUMENTS_DIR="$HOME/Documents"
 XDG_MUSIC_DIR="$HOME/Music"
 XDG_PICTURES_DIR="$HOME/Pictures"
 XDG_VIDEOS_DIR="$HOME/Videos"
-{%endhighlight%}
+```
 
 And this is what I changed mine to
 
-{%highlight bash%}
+```bash
 # This file is written by xdg-user-dirs-update
 # If you want to change or add directories, just edit the line you're
 # interested in. All local changes will be retained on the next run
@@ -61,7 +61,7 @@ XDG_DOCUMENTS_DIR="$HOME/Dropbox/Documents"
 XDG_MUSIC_DIR="$HOME/Music"
 XDG_PICTURES_DIR="$HOME/Dropbox/Photos"
 XDG_VIDEOS_DIR="$HOME/Videos"
-{%endhighlight%}
+```
 
 Changed desktop directory to home
 Made the Documents and Pictures directories reference the relevent [Dropbox]({{ BASE_PATH }}/2010/01/ubuntu-windows-sharing-a-dropbox-folder-on-ntfs/) folders

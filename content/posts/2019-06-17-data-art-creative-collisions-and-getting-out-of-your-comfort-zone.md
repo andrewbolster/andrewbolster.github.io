@@ -15,7 +15,7 @@ title: 'Data Art: Creative Collisions and Getting out of your comfort zone'
 
 _Approximate Script from my #NIDevConf19 talk a few weeks ago_
 
-{% include youtubePlayer.html id="Ku2FX9osMXA" %}
+{{< youtube "Ku2FX9osMXA" >}}
 
 # Introduction
 
@@ -130,7 +130,7 @@ Outside of classical government or community group activities, the tech world is
 
 [The Climate Fixathon](https://fixathon.io/) is a 4 week remote hackathon for tech professionals to use their skills to help prevent climate breakdown. I’m technically spoiling Steven’s big reveal that was supposed to be at their meetup next week, but with a room like this why not take the opportunity to promote! Anyway, it’ll run from the 15th of July and is built around three pillars; raising awareness, taking action, and enabling facilitation platforms. And in the context of my challenge from the beginning? Yes, participating in the Fixathon would count!
 
-{% include youtubePlayer.html id="_ihIYoZB4OI" %}
+{{< youtube "_ihIYoZB4OI" >}}
 
 Beyond the normal “public sector” operations, there are also really awesome collaborations and prototypes coming out of related sectors like tourism, and while I know you all came here for nice art stuff, not the boring public stuff, I just wanted to show one system that’s been developed locally as a collaboration between the tourist board and a VR/AR startup called [Virtual Visit Tours](https://www.virtualvisittours.com/), and I believe was just installed in W5 as part of their new exhibition space. They took hundreds of a mix of 360 and stereo videos to create an AR experience that can transport you from any place with a flat floor, to one of a dozen or so tourist sites across the province.
 
@@ -159,17 +159,17 @@ Because they were able to customise the musical structure around her to her own 
 
 Another related project with a PhD researcher called Alex, who’s working with another disabled musician with profound multiple disabilities called Eoin, and they’ve been co-developing a virtual guitar, based on a sip/blow switch you can see Alex holding on the right there, which is used to select “chords” of notes, and then arduino powered wireless wearable sensor on Eoins right hand to “strum” the virtual notes.
 
-{% include youtubePlayer.html id="rcSUfAEhkMc" %}
+{{< youtube "rcSUfAEhkMc" >}}
 
 As part of the VRIMM project, we’re bringing strands of this work together, along with workshops both for artists and technologists to share experience and knowledge in things like electronics, embedded programming, games design, musical theory, and music production techniques to create a community of people designing and building devices and systems that can take some of the capabilities of something like the EXA that Marie-Louise used, and make it more accessible, both in terms of price and interoperability. And if anyone wants to get involved in that madness, I’ll be in the project room after lunch playing with some of it!
 
 But moving slightly away from the musical side of things into the visual arts;
 
-{% include youtubePlayer.html id="jQGa0-lc2JY" %}
+{{< youtube "jQGa0-lc2JY" >}}
 
 One of the very first “in your face” tech/art crossovers I got to experience in Belfast was when an [ex-theoretical physicist cum-sonic artist](http://robinprice.net/bio/) asked if he could take over the workshop in Farset for a while to build some monstrous lightshow with 5000 LEDs and a load of sensors, all to build an interactive ping pong table that’s been touring around the world.
 
-{% include youtubePlayer.html id="Af2rUNKEe08" %}
+{{< youtube "Af2rUNKEe08" >}}
 
 ![alt_text](/img/2019/NIDC/robin-sensor.jpg "One of these was $10 from China, guess")
 

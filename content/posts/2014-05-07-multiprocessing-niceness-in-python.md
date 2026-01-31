@@ -15,7 +15,6 @@ tags:
 title: Multiprocessing Niceness in Python
 ---
 
-{% include JB/setup %}
 
 Quick and dirty one that tripped me up.
 
@@ -23,7 +22,7 @@ Recently I've been doing lots of [multiprocessing](https://docs.python.org/2/lib
 
 In an effort to make sure that my machine was still useable during these runs, I changed the ['niceness'](http://en.wikipedia.org/wiki/Nice_(Unix)) value of the spawned processes... or so I thought.
 
-{% highlight python %}
+```python
 import os
 ...
 def thread_mask(args):
@@ -35,7 +34,7 @@ def thread_mask(args):
     os.nice(5)
 
     return long_simulation(args)
-{% endhighlight %}
+```
 
 First part is a handy way to make sure that your subprocess simulations actually use different random numbers.... which for [Monte Carlo style simulation](http://en.wikipedia.org/wiki/Monte_Carlo_method) is pretty damned important...
 
@@ -47,8 +46,8 @@ This means that after a few repeated iterations of this simulation, my processes
 
 Simple enough fix however; swap the `os.nice(5)` call with:
 
-{% highlight python %}
+```python
     # Be Nice
     niceness=os.nice(0)
     os.nice(5-niceness)
-{% endhighlight %}
+```

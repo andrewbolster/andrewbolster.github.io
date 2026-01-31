@@ -17,7 +17,6 @@ tags:
 title: Data Wrangling for UK Internet Usage
 ---
 
-{% include JB/setup %}
 This post is a little different from my usual fare;
 
 Basically, there was a tweet from [MATRIX NI](http://matrixni.org) that caught
@@ -60,7 +59,7 @@ Lets kick things off with a few 'preambles'.
 
 **In [1]:**
 
-{% highlight python %}
+```python
 import pandas as pd
 import plotly.plotly as py
 import statsmodels as sm
@@ -72,7 +71,7 @@ import cufflinks as cf # Awesome Pandas/Plot.ly integration module https://githu
 
 py.sign_in('bolster', 'XXXXXXX')
 
-{% endhighlight %}
+```
 
 ![png](/notebooks/data-wrangling-for-uk-internet-usage_files/data-wrangling-for-uk-internet-usage_2_0.png)
 
@@ -91,12 +90,12 @@ headers... this is incorrect...
 
 **In [3]:**
 
-{% highlight python %}
+```python
 df = pd.read_excel("/home/bolster/Downloads/rftiatables152015q1_tcm77-405031.xls", sheetname="4b")
 df=df.dropna(axis=1,how="all")
 df=df.dropna(axis=0,how="all")
 df.head()
-{% endhighlight %}
+```
 
 
 
@@ -249,10 +248,10 @@ automatically updated)
 
 **In [4]:**
 
-{% highlight python %}
+```python
 df.drop(df.index[[0, -3,-2,-1]], inplace=True)
 df.head()
-{% endhighlight %}
+```
 
 
 
@@ -405,10 +404,10 @@ NaN's
 
 **In [5]:**
 
-{% highlight python %}
+```python
 df.iloc[0].fillna(method="ffill", inplace=True)
 df.head()
-{% endhighlight %}
+```
 
 
 
@@ -564,11 +563,11 @@ names.
 
 **In [6]:**
 
-{% highlight python %}
+```python
 df = df.T
 df.columns = df.iloc[0]
 df.head()
-{% endhighlight %}
+```
 
 
 
@@ -731,11 +730,11 @@ df.head()
 
 **In [7]:**
 
-{% highlight python %}
+```python
 df.drop(df.index[[0]], inplace=True)
 df.columns = ["Internet Use","Date"] + [s.strip() for s in df.columns[2:].tolist()] # Some idiots put spaces at the end of their cells
 df.head()
-{% endhighlight %}
+```
 
 
 
@@ -898,12 +897,12 @@ df.head()
 
 **In [8]:**
 
-{% highlight python %}
+```python
 q_map = {"Q1":"March","Q2":"June","Q3":"September","Q4":"December"}
 def _yr_q_parse(yq): return yq[0], q_map[yq[1]]
 def _yr_q_join(s): return " ".join(_yr_q_parse(s.split(" ")))
 df['Date'] = pd.to_datetime(df['Date'].apply(_yr_q_join))
-{% endhighlight %}
+```
 
 Finally, set the Date to be the primary index (i.e. the row identifier), convert
 all the values from boring "objects" to "floats", give the column range a name
@@ -912,13 +911,13 @@ the average internet use statistics between 2013 and 2015
 
 **In [9]:**
 
-{% highlight python %}
+```python
 df.set_index(['Date','Internet Use'],inplace=True)
 df.sortlevel(inplace=True)
 df=df.astype(float)
 df.columns.name="Region"
 df.groupby(level='Internet Use').mean().T
-{% endhighlight %}
+```
 
 
 
@@ -1255,7 +1254,7 @@ programmatically, and if someone has a cleverer way to do this, lemme know.
 
 **In [10]:**
 
-{% highlight python %}
+```python
 def last_index_of(li, val):
     return (len(li) - 1) - li[::-1].index(val)
 
@@ -1277,7 +1276,7 @@ regions = ["UK",
 
 df_regional_use = df[regions]
 df_regional_use = df_regional_use[non_dup_indexes_of_columns(df_regional_use,"West Midlands")]# Dammit West Midlands...
-{% endhighlight %}
+```
 
 Now we can plot the regional internet uses using Plot.ly, meaning that these
 graphs both look good in my IPython Notebook where I'm editing this, and
@@ -1285,7 +1284,7 @@ hopefully on the blog when this goes up....
 
 **In [11]:**
 
-{% highlight python %}
+```python
 df_regional_use_means = df_regional_use.groupby(level='Internet Use').mean().T
 
 cols = ['Never used','Used over 3 months ago']
@@ -1293,7 +1292,7 @@ cols = ['Never used','Used over 3 months ago']
 df_regional_use_means[cols].sort(columns=cols).iplot(kind="bar",
     filename='Internet Region Use Means Bar',world_readable=True, theme="pearl",
     title="Average Digital Illiteracy by Region (2013-2015)", xTitle="Region", yTitle="%")
-{% endhighlight %}
+```
 
 
 
@@ -1314,13 +1313,13 @@ volativility)
 
 **In [12]:**
 
-{% highlight python %}
+```python
 df_regional_use_stddevs = df_regional_use.groupby(level='Internet Use').std().T
 
 df_regional_use_stddevs[cols].sort(columns=cols).iplot(kind="bar",
     filename='Internet Region Use Std Bar',world_readable=True, theme="pearl",
     title="Standard Deviation in UK Digital Illiteracy since 2013", xTitle="Period", yTitle="Std Dev (Variability)")
-{% endhighlight %}
+```
 
 
 
@@ -1336,7 +1335,7 @@ sense of 'trend'
 
 **In [13]:**
 
-{% highlight python %}
+```python
 df_regional_never = df_regional_use.xs("Never used", level="Internet Use")
 df_regional_never_pct_change = ((df_regional_never/df_regional_never.iloc[0])-1)
 
@@ -1346,7 +1345,7 @@ df_regional_never_pct_change = ((df_regional_never/df_regional_never.iloc[0])-1)
 df_regional_never_pct_change.iplot(filename='Internet Region Never Pct Change',world_readable=True, theme="pearl",
                                    title="Reduction in UK Digital Illiteracy since 2013",
                                    xTitle="Period", yTitle="%")
-{% endhighlight %}
+```
 
 
 
@@ -1365,13 +1364,13 @@ have just done a linear regression but that's not really that interesting.
 
 **In [25]:**
 
-{% highlight python %}
+```python
 cycle,trend = sm.tsa.filters.hp_filter.hpfilter(df_regional_never_pct_change)
 
 trend.iplot(filename='Internet Region Never Pct Change Reg',world_readable=True, theme="pearl",
                                    title="Reduction in UK Digital Illiteracy since 2013",
                                    xTitle="Period", yTitle="%")
-{% endhighlight %}
+```
 
 
 

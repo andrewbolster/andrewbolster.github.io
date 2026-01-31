@@ -34,7 +34,7 @@ Most of the ancillary code is more platform dependant, such as working with the 
 
 PLEASE read up about NMEA sentence structure before continuing
 
-{% highlight Cpp %}
+```Cpp
 typedef    struct message
    {
        //date
@@ -54,11 +54,11 @@ typedef    struct message
        char lng_ref;
 
    }message;
-{%endhighlight%}
+```
 
 Since NMEA sentences are comma separated values, I kinda cheated and iterated thru the string, replacing the commas with terminating characters and recording the next positions as character pointers.
 
-{% highlight Cpp %}
+```Cpp
 for(i=0;i<BUFFERSIZE;i++){
  if(end)buffer[i]=0;        //wipe the rest of the sentence
 
@@ -87,7 +87,7 @@ for(i=0;i<BUFFERSIZE;i++){
  }
 }
 
-{%endhighlight%}
+```
 
 The first character(dollar sign) is ignored because it is never needed beyond this point.
 
@@ -98,7 +98,7 @@ the chr2 hex function simply converts two ASCII characters to their Hex value eq
 AddToList, strangly enough, adds the pointer passed to it to a wordlist, which is an array of character pointers.
 
 Now we have a list of pointers, because i used a character pointer array, and ended all the strings with nulls, we essentially now have individual strings for each part of the NMEA sentence, that can be addressed directly. eg:
-{% highlight Cpp %}
+```Cpp
 {        //GPRMC
            getTime(words[1],&incoming);
            getDate(words[9],&incoming);
@@ -106,7 +106,7 @@ Now we have a list of pointers, because i used a character pointer array, and en
            getLng(words[5],&incoming,*words[5+1]);
 }
 
-{%endhighlight%}
+```
 In this instance, the get functions all take two arguments, what to read from, and where to put it.
 
 For anyone whos interested the full code is [here](http://bolster.homelinux.net:81/projects/gps/GPS.c)

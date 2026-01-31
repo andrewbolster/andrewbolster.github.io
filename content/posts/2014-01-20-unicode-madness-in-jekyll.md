@@ -14,7 +14,6 @@ tags:
 title: Unicode Madness in Jekyll
 ---
 
-{% include JB/setup %}
 
 Ok so this was a weird one.
 

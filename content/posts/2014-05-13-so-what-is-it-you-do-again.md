@@ -21,7 +21,6 @@ tags:
 title: So, what is it you do again?
 ---
 
-{% include JB/setup %}
 
 _Update:_ I got asked to do a simplified version of this post for the University of Liverpool, it lives [here](http://news.liv.ac.uk/2014/06/02/becoming-an-expert-andrew-bolster-on-suspicious-submarines/) ([Backup](/uploads/2014/becominganexpert.pdf))
 

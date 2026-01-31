@@ -15,7 +15,6 @@ tags:
 title: Translink, it's things like this that remind me why you suck so hard
 ---
 
-{% include JB/setup %}
 
 `<rant>`
 

@@ -15,7 +15,6 @@ tags:
 title: I do not understand credit markets
 ---
 
-{% include JB/setup %}
 
 After 20+ years with [Ulster Bank](http://www.ulsterbank.co.uk) (All hail Henry Hippo), and with countless computer, customer service, overdraft, and credit card problems, I'm jumping ship to [Santander](http://www.santander.co.uk) on the advice of my friends, colleagues and family. It hasn't gone so well.
 

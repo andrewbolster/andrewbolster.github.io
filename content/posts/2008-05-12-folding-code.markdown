@@ -26,7 +26,7 @@ note: the espeak adjustments are just personal preference, so change them at wil
 
 Its kinda a cheat cus it calls itself but isnt recursive. I'm just lazy
 
-{% highlight bash %}
+```bash
   #!/usr/bin/env bash
   case "$1" in
   "-v")
@@ -44,7 +44,7 @@ Its kinda a cheat cus it calls itself but isnt recursive. I'm just lazy
    exit
    ;;
   esac
-{%endhighlight%}
+```
 
 it doesnt look very pretty on the console but i think it sounds alright.
 

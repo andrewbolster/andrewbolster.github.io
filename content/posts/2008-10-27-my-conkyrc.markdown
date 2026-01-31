@@ -46,7 +46,7 @@ WARNING I'm lazy so im not telling you why or how this all works. Work it out yo
 
 
 The Guts (The Guts)
-{%highlight bash%}
+```bash
 cat .conkyrc
 use_xft yes
 xftfont verdana:size=8
@@ -94,5 +94,5 @@ ${font Radio Space:size=14}${time %A %d %Y}
     ${font Radio Space:size=55}${time %H:%M}
 ${color F8DF58}${font FreeSans:size=10}${color0}TODO:${color1}
 ${color F8DF58}${font FreeSans:size=10}${execi 30 cat /home/USERNAME/Desktop/todo}
-{%endhighlight%}
+```
 Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!
