@@ -73,7 +73,7 @@ WantedBy=multi-user.target
 
 Then test it by rebooting repeatedly until you develop any kind of confidence in yourself.
 
-Note: The `Restart=on-failure` will not restart the service if it cleanly exits, like `sys.exit(0)`, and `RestartSec=10` will wait for 10 seconds before relaunching the service, which will prevent the service being permenantly killed if by the interval handler.
+Note: The `Restart=on-failure` will not restart the service if it cleanly exits, like `sys.exit(0)`, and `RestartSec=10` will wait for 10 seconds before relaunching the service, which will prevent the service being permanently killed if by the interval handler.
 
 
 # Sources:
