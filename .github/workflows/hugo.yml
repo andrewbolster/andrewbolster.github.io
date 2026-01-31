@@ -6,6 +6,10 @@ on:
   push:
     branches: ["master"]
 
+  # Run on pull requests to test the build
+  pull_request:
+    branches: ["master"]
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -64,8 +68,9 @@ jobs:
         with:
           path: ./public
 
-  # Deployment job
+  # Deployment job - only runs on master, not on PRs
   deploy:
+    if: github.ref == 'refs/heads/master'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
