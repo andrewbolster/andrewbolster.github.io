@@ -1,5 +1,5 @@
 ---
-date: 2021-06-01 11:54 +0100
+date: 2021-06-01T11:54:00+01:00
 layout: post
 tags:
 - Data Ecosystem

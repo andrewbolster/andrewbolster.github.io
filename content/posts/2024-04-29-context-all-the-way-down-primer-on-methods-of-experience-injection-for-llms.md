@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Context all the way down": Primer on methods of Experience injection for LLMs'
-date: 2024-04-29 20:58 +0000
+date: 2024-04-29T20:58:00+00:00
 categories: [AI, Software Engineering, Commentary]
 tags: [LLMs, AI, Machine Learning, Natural Language Processing, RAG, fine-tuning, training, RLHF, production systems]
 ---

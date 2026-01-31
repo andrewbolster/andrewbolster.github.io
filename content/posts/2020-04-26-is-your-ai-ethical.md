@@ -1,5 +1,5 @@
 ---
-date: 2020-04-26 21:16 +0100
+date: 2020-04-26T21:16:00+01:00
 layout: post
 tags:
 - Ethical AI

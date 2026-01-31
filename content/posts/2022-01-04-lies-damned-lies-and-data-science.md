@@ -1,5 +1,5 @@
 ---
-date: 2022-01-04 18:49 +0000
+date: 2022-01-04T18:49:00+00:00
 layout: post
 tags: []
 title: Lies, Damned Lies, and Data Science

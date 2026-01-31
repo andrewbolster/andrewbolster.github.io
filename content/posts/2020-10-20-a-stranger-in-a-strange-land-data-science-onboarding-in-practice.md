@@ -1,5 +1,5 @@
 ---
-date: 2020-10-20 11:03 +0100
+date: 2020-10-20T11:03:00+01:00
 layout: post
 tags:
 - Machine Learning

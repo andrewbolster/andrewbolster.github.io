@@ -1,5 +1,5 @@
 ---
-date: 2020-10-19 11:34 +0100
+date: 2020-10-19T11:34:00+01:00
 layout: post
 tags:
 - science fiction

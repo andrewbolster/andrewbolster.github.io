@@ -7,8 +7,9 @@ theme = "PaperMod"
 enableEmoji = true
 
 # Pagination
-paginate = 10
-paginatePath = "page"
+[pagination]
+  pagerSize = 10
+  path = "page"
 
 # Preserve Jekyll permalink structure: /:year/:month/:title.html
 [permalinks]

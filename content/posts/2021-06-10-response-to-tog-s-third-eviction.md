@@ -1,5 +1,5 @@
 ---
-date: 2021-06-10 13:18 +0100
+date: 2021-06-10T13:18:00+01:00
 layout: post
 tags:
 - technology

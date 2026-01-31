@@ -19,7 +19,7 @@ tags:
 categories:
 - AI
 - Development
-date: 2025-12-01 12:21 +0000
+date: 2025-12-01T12:21:00+00:00
 ---
 ## Introduction
 

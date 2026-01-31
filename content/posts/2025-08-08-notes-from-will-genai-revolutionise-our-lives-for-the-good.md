@@ -26,7 +26,7 @@ tags:
 - Farset Labs
 - Belfast
 - debate
-date: 2025-08-08 17:25 +0100
+date: 2025-08-08T17:25:00+01:00
 ---
 [![](/img/2025/genai-debate-header.jpg)](/img/2025/genai-debate-header.jpg)
 

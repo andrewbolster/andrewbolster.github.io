@@ -19,7 +19,7 @@ tags:
 - ethics
 - decision making
 - agency
-date: 2025-07-14 14:16 +0100
+date: 2025-07-14T14:16:00+01:00
 ---
 Lots of people have written about the impact of [generative AI](/2024/02/19/generative-ai-impact-on-software-development-and-security) on the world of software engineering, and while I write this I'm fighting with [CoPilot](https://github.com/features/copilot) to stop filling out the rest of the sentence. Gimme a second...
 

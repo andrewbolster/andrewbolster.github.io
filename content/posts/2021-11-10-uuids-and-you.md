@@ -1,5 +1,5 @@
 ---
-date: 2021-11-10 18:00 +0000
+date: 2021-11-10T18:00:00+00:00
 layout: post
 tags:
 - Database Architecture

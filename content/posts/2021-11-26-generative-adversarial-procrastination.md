@@ -1,5 +1,5 @@
 ---
-date: 2021-11-26 15:07 +0000
+date: 2021-11-26T15:07:00+00:00
 layout: post
 tags:
 - Data Science

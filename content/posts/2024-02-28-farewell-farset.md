@@ -1,5 +1,5 @@
 ---
-date: 2024-02-28 11:38 +0000
+date: 2024-02-28T11:38:00+00:00
 layout: post
 categories: [Community, Personal]
 tags:

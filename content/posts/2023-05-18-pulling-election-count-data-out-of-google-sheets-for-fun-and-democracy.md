@@ -1,5 +1,5 @@
 ---
-date: 2023-05-18 14:43 +0100
+date: 2023-05-18T14:43:00+01:00
 layout: post
 categories: [Data Science, Politics]
 tags:

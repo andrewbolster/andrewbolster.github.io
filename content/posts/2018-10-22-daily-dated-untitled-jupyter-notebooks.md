@@ -1,6 +1,6 @@
 ---
 category: hotfix
-date: 2018-10-22 12:29 +0100
+date: 2018-10-22T12:29:00+01:00
 layout: post
 tags:
 - data-analysis
