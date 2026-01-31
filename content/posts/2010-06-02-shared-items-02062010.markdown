@@ -1,0 +1,44 @@
+---
+author: admin
+categories:
+- Link-Roll
+comments: true
+date: 2010-06-02 05:00:10+00:00
+layout: post
+slug: shared-items-02062010
+tags:
+- Science
+- Guidelines
+- OPINION
+- Creationism
+- Environment
+- BP Leak
+- Ulster
+- Android Market
+- Technology
+- Investors
+- Oil Industry
+- Conspiracy Theories
+- Business
+- Developers
+- Apple
+- Global Warming
+- AppStore
+title: Shared Items - 02/06/2010
+---
+
+
+  * [Apple Blindsides More AppStore Developers](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2lq-MjCcJHA/Apple-Blindsides-More-AppStore-Developers)
+
+- Making me feel slightly better about not jumping on the AppStore bandwagon; I know that Android Market is the same animal, but you can be sure that this kind of creeping guidelines are going to seriously alienate alot of developers and edgy investors.
+  * [Science](http://cimota.com/blog/2010/05/31/science/)
+
+
+  * [Senasational Claims By Matt Simmons About The BP Leak](http://feedproxy.google.com/~r/TheBigPicture/~3/GYyHOBfTHQ0/)
+
+- Disregarding the possible conspiracy theories* you could create on this topic, this might be the final nail in oil's coffin - at least in the US.
+
+*) war on terrorism = stop buying oil from rogue nations
+*) global warming = stop relying on oil from rogue nations
+*) ...
+  * [OPINION: Ulster Says No to Creationism](http://www.thegown.org.uk/2010/05/31/opinion-ulster-says-no-to-creationism/)

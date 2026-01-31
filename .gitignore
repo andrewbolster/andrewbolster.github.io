@@ -1,10 +1,34 @@
+# Hugo build output
+public/
+resources/
+
+# Jekyll legacy (can be removed after migration)
 _site/
-*.swp
-Gemfile.lock
 .jekyll-metadata
+.jekyll-cache/
+
+# Editor files
+*.swp
+*~
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Resume build artifacts
 resume/*.aux
 resume/*.bcf
 resume/*.log
 resume/*.out
 resume/*.xml
-.DS_Store
+resume/*.pdf
+
+# Ruby (legacy)
+Gemfile.lock
+.bundle/
+vendor/
+
+# Hugo module cache
+go.sum

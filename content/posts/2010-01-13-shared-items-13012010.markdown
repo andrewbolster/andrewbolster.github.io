@@ -1,0 +1,38 @@
+---
+author: admin
+comments: true
+date: 2010-01-13 07:00:17+00:00
+layout: post
+slug: shared-items-13012010
+tags:
+- Photography
+- Technology
+- Business
+- Web Development
+- Updates
+- Students
+title: Shared Items - 13/01/2010
+---
+
+
+  * [ChromiumOS Zero Boots Faster, Offers Automatic Updates [Updates]](http://feeds.gawker.com/~r/lifehacker/full/~3/bPfXAV2aV10/chromiumos-zero-boots-faster-offers-automatic-updates)
+
+11/01/2010
+  * [Make Your Mockup in Markup](http://feedproxy.google.com/~r/24ways/~3/HR5axw-Qyjw/make-your-mockup-in-markup)
+
+24/12/2009
+  * [10 Innovative Ways To Use Twitter For Business](http://feedproxy.google.com/~r/Makeuseof/~3/A4YyvQ9M4vw/)
+
+09/01/2010
+  * [6 Digital Photography Websites With Free Tutorials](http://feedproxy.google.com/~r/Makeuseof/~3/YAfP4VYZr7I/)
+
+08/01/2010
+  * [Use Better Tools to Be a Better Student in 2010 [Students]](http://feeds.gawker.com/~r/lifehacker/full/~3/7BRoA_tMugA/use-better-tools-to-be-a-better-student-in-2010)
+
+06/01/2010
+  * [Doing It Wrong](http://www.tbray.org/ongoing/When/201x/2010/01/02/Doing-It-Wrong)
+
+02/01/2010
+  * [Terrorball](http://lefarkins.blogspot.com/2010/01/terrorball.html)
+
+04/01/2010
