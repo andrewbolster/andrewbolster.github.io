@@ -41,7 +41,8 @@ enableEmoji = true
   keywords = ["blog", "data science", "AI", "technology", "Northern Ireland"]
 
   # Profile/home info
-  profileMode = false
+  [params.profileMode]
+    enabled = false
 
   # PaperMod specific
   env = "production"

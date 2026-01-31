@@ -24,7 +24,7 @@ Farset Labs started as a [Google Group](https://groups.google.com/g/belfast-hack
 
 Over the past decade-and-a-bit, I'd easily say that Farset Labs has been the keystone of my life and my career, and I'm pretty sure that (before the renovations in 2019) you'd find my blood, sweat, and definitely tears staining various parts of the building.
 
-I could (and do) spend days talking about the weird and mostly wonderful stories of the place, from a IoT party-bus infront of city hall, smoking BBC Micros, musical plants, Gaeilge robots, remote controlled wheel-chair-iots, treatening childrens lives with drones, and more, but to get those you gotta take me for a drink.
+I could (and do) spend days talking about the weird and mostly wonderful stories of the place, from a IoT party-bus infront of city hall, smoking BBC Micros, musical plants, Gaeilge robots, remote controlled wheel-chair-iots, threatening childrens lives with drones, and more, but to get those you gotta take me for a drink.
 
 But it's not been without its pain, and at this point, I'm no longer in a position to give the organisation the time, care, and patience it deserves. For the past long while, I've been more of a hinderance than an aid. Stories are great, but being the old curmudgeon in the corner doesn't help anyone.
 

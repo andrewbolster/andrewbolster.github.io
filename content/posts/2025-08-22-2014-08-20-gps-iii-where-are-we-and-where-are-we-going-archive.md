@@ -17,7 +17,7 @@ tags:
 - military technology
 - civilian technology
 - Block III satellites
-date: 2025-08-22 03:16 -0400
+date: 2014-08-20T00:00:00-04:00
 ---
 > **Archival Note**: This post preserves an article I originally wrote for MakeUseOf way back in August 2014 while I was at The University of Liverpool doing my PhD. The original published version is at [MakeUseOf: GPS III: Where Are We? And Where Are We Going?](https://www.makeuseof.com/tag/gps-iii-going/). They probably still own everything but this is from my original 'manuscript'.
 ---

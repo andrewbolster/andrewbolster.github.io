@@ -21,7 +21,7 @@ Anyway, EmonPi has a built in [mosquitto](https://mosquitto.org/) broker, which 
 
 On the other side, I had a relatively easy job getting [Mosquitto set up via Docker on our Synology NAS](https://hub.docker.com/_/eclipse-mosquitto) (also [NodeRed](https://nodered.org/), but that's for another day), however I had no idea how to connect the two.
 
-I was expecting the kind of intricate surgury to 'replace' a core part of emonpi's architecture with an 'off-device' broker, and all the failure that that would entail, but helpfully, the MQTT protocol has a concept of "bridgeing", where you can effectively make one Broker 'publish' all it's topics on another broker. [Super Easy, Barely an Inconvenience](http://www.steves-internet-guide.com/mosquitto-bridge-configuration/).
+I was expecting the kind of intricate surgery to 'replace' a core part of emonpi's architecture with an 'off-device' broker, and all the failure that that would entail, but helpfully, the MQTT protocol has a concept of "bridging", where you can effectively make one Broker 'publish' all it's topics on another broker. [Super Easy, Barely an Inconvenience](http://www.steves-internet-guide.com/mosquitto-bridge-configuration/).
 
 TL;DR
 Create a file called `bridge_over_the_river_que.conf`\* in the mosquitto/config/conf.d/ folder on the *source* device (in this case the emon pi), with the following contents \*

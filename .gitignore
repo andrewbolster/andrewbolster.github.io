@@ -32,3 +32,6 @@ vendor/
 
 # Hugo module cache
 go.sum
+*.lock
+*.tar.gz
+hugo_stats.json
