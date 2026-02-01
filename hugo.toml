@@ -68,8 +68,11 @@ enableEmoji = true
     name = "github"
     url = "https://github.com/andrewbolster"
   [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/bolster"
+    name = "x"
+    url = "https://x.com/bolster"
+  [[params.socialIcons]]
+    name = "bluesky"
+    url = "https://bsky.app/profile/bolster.bsky.social"
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://linkedin.com/in/andrewbolster"

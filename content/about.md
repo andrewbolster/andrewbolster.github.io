@@ -5,8 +5,6 @@ url: /about/
 hideMeta: true
 ---
 
-# Biography
-
 <a href="/img/bolster_orig.png" target="_blank">
   <img src="/img/bolster_orig.png" alt="Andrew Bolster" style="float: right; margin: 0 0 1em 1em; width: 300px;"/>
 </a>
