@@ -1,18 +1,12 @@
 {{- define "main" }}
 
 <article class="post-single resume-page">
-  <header class="post-header">
-    <h1 class="post-title">{{ .Title }}</h1>
-  </header>
-
   <div class="post-content resume-content">
     {{- .Content }}
   </div>
 
-  <footer class="post-footer resume-footer">
-    <div class="resume-print-notice">
-      <button onclick="window.print()" class="print-button">Print / Save as PDF</button>
-    </div>
+  <footer class="post-footer resume-footer no-print">
+    <button onclick="window.print()" class="print-button">Print / Save as PDF</button>
   </footer>
 </article>
 

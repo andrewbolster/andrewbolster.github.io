@@ -4,13 +4,14 @@ url: /resume/
 layout: resume
 hideMeta: true
 ---
+
+<div class="resume-header">
+
 ![](/img/bolster.png)
 
 # Andrew Bolster Ph.D. MEng
 
 *Driving data to make AI work*
-
-[andrew@bolster.online](mailto:andrew@bolster.online) | [bolster.online](https://bolster.online) | LinkedIn: [andrewbolster](https://www.linkedin.com/in/andrewbolster) | Belfast, UK
 
 Data Science and AI Governance Leader with a wide range of experience across technical, business, and entrepreneurial fields.
 
@@ -19,6 +20,11 @@ Specific interests in and around intelligent decision support systems, cybersecu
 Ph.D. Research at the University of Liverpool as part of a Anglo-French Defence Programme around Trusted Autonomous Submarines for Defence Applications.
 
 Experienced Speaker, Panelist and commentator, with appearances at Regional and National events from TEDx and All-Island Innovation Conferences to representing the Northern Ireland technology and business communities in international trade-delegations.
+
+</div>
+
+<div class="resume-two-column">
+<div class="resume-main">
 
 ## Experience (2013 - Present)
 
@@ -94,24 +100,6 @@ Coordinated research between Information Management and Naval Systems department
 
 Culminated in significant contribution to a Five-Eyes Autonomy Exchange project.
 
-<!-- ### PC Engines GmbH, Zurich, Switzerland ![](/img/PC-Engines.png)
-
-#### IAESTE placed Embedded Engineer (2011)
-
-Implemented and prototypes next generation embedded computing platforms and contributing to the Coreboot, SerialICE and FlashROM Open Source Projects.
-
-### Navigator Blue, Belfast, UK ![](/img/blu.png)
-
-#### Technical Consultant (PT 2009-2010)
-
-Provided strategic insights on emerging technologies like Google Analytics, RFID, and geo-location for targeted advertising. Delivered reports on social media marketing growth and contributed to tender presentations for a leading marketing firm.
-
-### Ericsson LMI, Athlone, ROI ![](/img/ericsson.png)
-
-#### Software Test Engineer (2008 - 2009)
-
-Implemented an Agile, unit-tested, and CI-driven product release cycle for global 4G test infrastructure, reducing pre-deployment testing from three days to under an hour with automated reporting. Conducted server-side performance benchmarking for multi-gigabyte aggregation applications using MySQL and Erlang. Contributed to deployment planning and automated testing for a SPARC to Solaris x86 migration, significantly improving speed and confidence in the process. -->
-
 ## Education
 
 ### University of Liverpool, UK ![](/img/livuni.png)
@@ -140,8 +128,24 @@ This five-year Extended Engineering course was designed to produce well-qualifie
 
 Focused on High Performance Computing and Digital Communications. Served as Student Representative throughout my time at Queen's, culminating in a chairmanship during my final year, and participated in the IET's Younger Members Committee.
 
+</div>
+<div class="resume-sidebar">
 
-## Professional Associations and Accreditations
+## Contact
+
+[andrew@bolster.online](mailto:andrew@bolster.online)
+
+[bolster.online](https://bolster.online)
+
+[LinkedIn: andrewbolster](https://www.linkedin.com/in/andrewbolster)
+
+Belfast, UK
+
+## Core Proficiencies
+
+Data Architecture, Data Science, LLMOps, MLOps, Data Governance, Workforce Management, Client Facing Presentations, Advocacy and Thought Leadership, Developer Enablement, Compliance and Security, Cross functional collaboration, AI/ML, PyData Stack, Cross-Cloud and On-Prem
+
+## Professional Associations
 
 * ILM - [Level 5 Diploma in Leadership and Management](https://www.credly.com/badges/b28e2129-34d9-40b8-a725-5ab12c533ed0/linked_in_profile)
 * Royal Statistical Society - [Fellow](https://rss.org.uk/my-rss/fellows-directory/fellow/?id=6615)
@@ -152,7 +156,5 @@ Focused on High Performance Computing and Digital Communications. Served as Stud
 * Open Rights Group - Member
 * Farset Labs - Member
 
-## Core Proficiencies
-
-Data Architecture, Data Science, LLMOps, MLOps, Data Governance, Workforce Management, Client Facing Presentations, Advocacy and Thought Leadership, Developer Enablement, Compliance and Security, Cross functional collaboration, AI/ML,
-PyData Stack, Cross-Cloud and On-Prem
+</div>
+</div>

@@ -1,7 +1,7 @@
 /* Resume-specific styles */
 
 .resume-page {
-    max-width: 900px;
+    max-width: 960px;
     margin: 0 auto;
 }
 
@@ -10,22 +10,66 @@
     line-height: 1.6;
 }
 
-/* Header styling - name and contact */
-.resume-content > h1:first-of-type {
+/* ============================================
+   HEADER SECTION (full width)
+   ============================================ */
+.resume-header {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--primary);
+}
+
+.resume-header h1 {
     font-size: 2rem;
     margin-bottom: 0.25rem;
-    border-bottom: 2px solid var(--primary);
-    padding-bottom: 0.5rem;
+    margin-top: 0;
 }
 
-.resume-content > p:first-of-type {
+.resume-header > p:first-of-type {
     font-style: italic;
-    color: var(--secondary);
-    margin-bottom: 0.5rem;
+    color: var(--primary);
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
 }
 
-/* Section headers */
-.resume-content h2 {
+.resume-header p {
+    margin-bottom: 0.75rem;
+}
+
+/* Profile image in header */
+.resume-header img[src*="bolster.png"] {
+    float: right;
+    width: 120px;
+    height: auto;
+    margin: 0 0 1rem 1.5rem;
+    border-radius: 50%;
+    border: 3px solid var(--primary);
+}
+
+/* ============================================
+   TWO-COLUMN LAYOUT
+   ============================================ */
+.resume-two-column {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+    align-items: start;
+}
+
+.resume-main {
+    grid-column: 1;
+}
+
+.resume-sidebar {
+    grid-column: 2;
+    position: sticky;
+    top: 80px;
+}
+
+/* ============================================
+   MAIN CONTENT STYLES
+   ============================================ */
+.resume-main h2 {
     font-size: 1.3rem;
     color: var(--primary);
     border-bottom: 1px solid var(--tertiary);
@@ -34,61 +78,97 @@
     margin-bottom: 0.75rem;
 }
 
+.resume-main h2:first-child {
+    margin-top: 0;
+}
+
 /* Job titles and companies */
-.resume-content h3 {
+.resume-main h3 {
     font-size: 1.1rem;
     margin-top: 1.25rem;
     margin-bottom: 0.25rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
 }
 
-.resume-content h3 img {
-    height: 24px;
-    width: auto;
-    vertical-align: middle;
-}
-
-.resume-content h4 {
-    font-size: 1rem;
-    font-weight: 600;
-    color: var(--secondary);
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-}
-
-/* Compact lists */
-.resume-content ul {
-    margin: 0.5rem 0;
-    padding-left: 1.25rem;
-}
-
-.resume-content li {
-    margin-bottom: 0.25rem;
-}
-
-/* Profile image */
-.resume-content > p:first-of-type img,
-.resume-content img[src*="bolster.png"] {
+.resume-main h3 img {
     float: right;
-    width: 120px;
-    height: auto;
-    margin: 0 0 1rem 1rem;
-    border-radius: 50%;
-}
-
-/* Company logos inline */
-.resume-content h3 img,
-.resume-content h5 img {
-    float: right;
-    height: 30px;
+    height: 28px;
     width: auto;
     margin-left: 0.5rem;
     border-radius: 4px;
 }
 
-/* Print button */
+.resume-main h4 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--secondary);
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+}
+
+/* Compact lists in main */
+.resume-main ul {
+    margin: 0.5rem 0;
+    padding-left: 1.25rem;
+}
+
+.resume-main li {
+    margin-bottom: 0.25rem;
+}
+
+/* ============================================
+   SIDEBAR STYLES
+   ============================================ */
+.resume-sidebar {
+    font-size: 0.9rem;
+    background: var(--code-bg);
+    padding: 1rem;
+    border-radius: 8px;
+    border-left: 3px solid var(--primary);
+}
+
+.resume-sidebar h2 {
+    font-size: 1rem;
+    color: var(--primary);
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--tertiary);
+}
+
+.resume-sidebar h2:first-child {
+    margin-top: 0;
+}
+
+.resume-sidebar p {
+    margin-bottom: 0.5rem;
+}
+
+.resume-sidebar ul {
+    margin: 0.5rem 0;
+    padding-left: 1rem;
+    list-style: none;
+}
+
+.resume-sidebar li {
+    margin-bottom: 0.35rem;
+    font-size: 0.85rem;
+}
+
+.resume-sidebar li::before {
+    content: "•";
+    color: var(--primary);
+    margin-right: 0.5rem;
+}
+
+/* Contact links in sidebar */
+.resume-sidebar a {
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+/* ============================================
+   PRINT BUTTON
+   ============================================ */
 .print-button {
     background: var(--primary);
     color: white;
@@ -109,6 +189,29 @@
     border-top: 1px solid var(--tertiary);
 }
 
+.no-print {
+    /* Will be hidden in print */
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+@media (max-width: 768px) {
+    .resume-two-column {
+        grid-template-columns: 1fr;
+    }
+
+    .resume-sidebar {
+        grid-column: 1;
+        position: static;
+        margin-top: 1.5rem;
+    }
+
+    .resume-header img[src*="bolster.png"] {
+        width: 100px;
+    }
+}
+
 /* ============================================
    PRINT STYLES
    ============================================ */
@@ -119,6 +222,7 @@
     .toc,
     .print-button,
     .resume-footer,
+    .no-print,
     .post-nav-links,
     #theme-toggle,
     .top-link {
@@ -127,13 +231,13 @@
 
     /* Reset page margins */
     @page {
-        margin: 0.5in;
+        margin: 0.4in;
         size: A4;
     }
 
     body {
-        font-size: 11pt;
-        line-height: 1.4;
+        font-size: 10pt;
+        line-height: 1.35;
         color: #000 !important;
         background: #fff !important;
     }
@@ -145,7 +249,37 @@
     }
 
     .resume-content {
-        font-size: 10pt;
+        font-size: 9pt;
+    }
+
+    /* Keep two-column in print */
+    .resume-two-column {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        gap: 1rem;
+    }
+
+    .resume-sidebar {
+        position: static;
+        background: #f5f5f5 !important;
+        padding: 0.5rem;
+        border-left: 2px solid #4B0082;
+        print-color-adjust: exact;
+        -webkit-print-color-adjust: exact;
+    }
+
+    /* Header */
+    .resume-header {
+        margin-bottom: 0.75rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .resume-header h1 {
+        font-size: 16pt;
+    }
+
+    .resume-header img[src*="bolster.png"] {
+        width: 70px;
     }
 
     /* Ensure links are readable */
@@ -154,58 +288,60 @@
         text-decoration: none;
     }
 
-    a[href^="http"]::after {
+    /* Only show URLs for external links in main content */
+    .resume-main a[href^="http"]::after {
         content: " (" attr(href) ")";
-        font-size: 8pt;
+        font-size: 7pt;
         color: #666;
     }
 
-    /* Don't show URL for internal links */
+    /* Don't show URL for internal/mail/sidebar links */
     a[href^="/"]::after,
     a[href^="#"]::after,
-    a[href^="mailto"]::after {
-        content: "";
+    a[href^="mailto"]::after,
+    .resume-sidebar a::after {
+        content: "" !important;
     }
 
     /* Headers */
-    .resume-content h1 {
-        font-size: 18pt;
-    }
-
-    .resume-content h2 {
-        font-size: 14pt;
-        page-break-after: avoid;
-    }
-
-    .resume-content h3 {
+    .resume-main h2 {
         font-size: 12pt;
         page-break-after: avoid;
+        margin-top: 0.75rem;
     }
 
-    .resume-content h4 {
-        font-size: 11pt;
+    .resume-main h3 {
+        font-size: 10pt;
+        page-break-after: avoid;
+    }
+
+    .resume-main h4 {
+        font-size: 9pt;
+    }
+
+    .resume-sidebar h2 {
+        font-size: 9pt;
+    }
+
+    .resume-sidebar li {
+        font-size: 8pt;
     }
 
     /* Keep sections together */
-    .resume-content h2,
-    .resume-content h3,
-    .resume-content h4 {
+    .resume-main h2,
+    .resume-main h3,
+    .resume-main h4 {
         page-break-after: avoid;
     }
 
-    .resume-content p,
-    .resume-content li {
+    .resume-main p,
+    .resume-main li {
         page-break-inside: avoid;
     }
 
-    /* Profile image smaller for print */
-    .resume-content img[src*="bolster.png"] {
-        width: 80px;
-    }
-
     /* Company logos */
-    .resume-content h3 img {
-        height: 20px;
+    .resume-main h3 img {
+        height: 18px;
         print-color-adjust: exact;
         -webkit-print-color-adjust: exact;
     }
@@ -214,45 +350,5 @@
     p {
         orphans: 3;
         widows: 3;
-    }
-}
-
-/* ============================================
-   TWO-COLUMN LAYOUT (optional, via class)
-   ============================================ */
-.resume-two-column {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 2rem;
-}
-
-.resume-two-column .resume-main {
-    grid-column: 1;
-}
-
-.resume-two-column .resume-sidebar {
-    grid-column: 2;
-    font-size: 0.9rem;
-}
-
-.resume-two-column .resume-sidebar h2 {
-    font-size: 1.1rem;
-}
-
-@media (max-width: 768px) {
-    .resume-two-column {
-        grid-template-columns: 1fr;
-    }
-
-    .resume-two-column .resume-sidebar {
-        grid-column: 1;
-        border-top: 1px solid var(--tertiary);
-        padding-top: 1rem;
-    }
-}
-
-@media print {
-    .resume-two-column {
-        grid-template-columns: 2fr 1fr;
     }
 }
