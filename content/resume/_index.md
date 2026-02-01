@@ -1,6 +1,8 @@
 ---
 title: Resume
 url: /resume/
+layout: resume
+hideMeta: true
 ---
 ![](/img/bolster.png)
 
