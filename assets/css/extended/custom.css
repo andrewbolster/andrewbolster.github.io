@@ -1,0 +1,59 @@
+/* Custom color scheme using Indigo (#4B0082) as accent */
+
+/* Light mode */
+:root {
+    --primary: #4B0082;           /* Indigo - main accent */
+    --primary-hover: #380062;     /* Darker indigo for hover states */
+    --secondary: #6B5B95;         /* Muted purple - secondary text */
+    --tertiary: #E8E0F0;          /* Light lavender - borders/backgrounds */
+    --code-bg: #F5F0FA;           /* Very light purple for code blocks */
+}
+
+/* Dark mode */
+.dark {
+    --primary: #9D7FEA;           /* Lighter indigo for dark backgrounds */
+    --primary-hover: #B49AF5;     /* Even lighter for hover */
+    --secondary: #A99BBD;         /* Muted lavender - secondary text */
+    --tertiary: #2D2640;          /* Dark purple - borders/backgrounds */
+    --code-bg: #1E1A26;           /* Deep purple for code blocks */
+}
+
+/* Link styling */
+a {
+    color: var(--primary);
+}
+
+a:hover {
+    color: var(--primary-hover);
+}
+
+/* Post title links */
+.post-entry .entry-link {
+    border-bottom-color: var(--primary);
+}
+
+/* Tag styling */
+.post-tags a {
+    background: var(--tertiary);
+    color: var(--primary);
+}
+
+.post-tags a:hover {
+    background: var(--primary);
+    color: white;
+}
+
+/* Selection highlight */
+::selection {
+    background: var(--primary);
+    color: white;
+}
+
+/* Scrollbar (webkit browsers) */
+::-webkit-scrollbar-thumb {
+    background: var(--primary);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--primary-hover);
+}
