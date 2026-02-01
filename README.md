@@ -1,27 +1,43 @@
-## Stuff Bolster Always Forgets
+# andrewbolster.github.io
 
-`bundle install`
+Personal blog and portfolio for Andrew Bolster - [andrewbolster.info](https://andrewbolster.info)
 
-`bundle update`
+## Quick Start
 
-`bundle exec jekyll draft "<TITLE>"`
+```bash
+# Install Hugo and initialize theme
+make install
 
-`bundle exec jekyll publish _drafts/*`
+# Run development server with drafts
+make serve
 
-`lessc style.less style.css -m=always`
+# Create a new post
+make draft
 
-Also, this actually [works](https://www.poornerd.com/2020/05/19/installing-and-running-ruby-with-jekyll-on-vs-codespaces.html) in [CodeSpaces](https://github.com/features/codespaces) for the next time you get pissed off at the thought of syncing to a machine with a decent markdown editor....
+# Build for production
+make build
+```
 
+## Tech Stack
 
-## Theme info
+- **Static Site Generator**: [Hugo](https://gohugo.io/)
+- **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+- **Hosting**: GitHub Pages via GitHub Actions
+- **Preview**: Netlify Deploy Previews
 
-Theme Name: the\_program  
-Description: A minimumlist theme for [jekyll](https://github.com/mojombo/jekyll). Theming is done on [Jekyll-Bootstrap](http://jekyllbootstrap.com/).  
-Author: Yuya Saito @ cssradar@gmail.com  
-Demo URL: http://layouts-the.me.s3-website-us-east-1.amazonaws.com/themes/the-program/
+## Project Structure
 
-## Code I didn't write
+```
+content/
+├── posts/          # Blog posts (2007-present)
+├── about.md        # About page
+├── resume/         # Resume
+├── now.md          # Now page
+└── ideas.md        # Ideas page
 
-- [Jekyll-Bootstrap](http://jekyllbootstrap.com/)  / [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-- [Modernizr](http://www.modernizr.com/) / MIT/BSD license
-- [HTML5 Boilerplate](http://html5boilerplate.com/): [The Unlicense](http://unlicense.org) (aka: Public Domain)
+static/             # Images and assets
+themes/PaperMod/    # Theme (git submodule)
+hugo.toml           # Site configuration
+```
+
+See [CLAUDE.md](CLAUDE.md) for detailed development instructions.
