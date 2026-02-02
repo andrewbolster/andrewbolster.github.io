@@ -13,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.146.0
+      HUGO_VERSION: 0.155.2
     steps:
       - name: Install Hugo CLI
         run: |
@@ -41,3 +41,7 @@ jobs:
         run: |
           echo "Build completed successfully"
           echo "Generated $(find public -name '*.html' | wc -l) HTML files"
+          echo "Site structure:"
+          ls -la public/
+          echo "Sample pages found:"
+          find public -name '*.html' | head -5
