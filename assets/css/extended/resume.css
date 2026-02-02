@@ -252,20 +252,19 @@
         font-size: 9pt;
     }
 
-    /* Keep two-column in print */
+    /* Single column for print */
     .resume-two-column {
-        display: grid;
-        grid-template-columns: 2fr 1fr;
-        gap: 1rem;
+        display: block;
     }
 
     .resume-sidebar {
         position: static;
-        background: #f5f5f5 !important;
-        padding: 0.5rem;
-        border-left: 2px solid #4B0082;
-        print-color-adjust: exact;
-        -webkit-print-color-adjust: exact;
+        background: none !important;
+        padding: 0;
+        border-left: none;
+        margin-top: 1rem;
+        border-top: 1px solid #ccc;
+        padding-top: 0.5rem;
     }
 
     /* Header */
