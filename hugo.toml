@@ -109,24 +109,24 @@ enableEmoji = true
 # Main menu
 [menu]
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
-    weight = 10
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 20
+    weight = 10
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
     url = "/resume/"
-    weight = 30
+    weight = 20
   [[menu.main]]
     identifier = "now"
     name = "Now"
     url = "/now/"
+    weight = 30
+  [[menu.main]]
+    identifier = "ideas"
+    name = "Ideas"
+    url = "/ideas/"
     weight = 40
   [[menu.main]]
     identifier = "archive"

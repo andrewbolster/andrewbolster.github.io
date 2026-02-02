@@ -1,7 +1,11 @@
-/* Custom color scheme using Indigo (#4B0082) as accent */
+/* Custom styling with Indigo (#4B0082) accent */
 
-/* Light mode */
 :root {
+    /* Wider content area for technical blog with code (default: 720px) */
+    --main-width: 900px;
+    --nav-width: 1024px;
+
+    /* Light mode colors */
     --primary: #4B0082;           /* Indigo - main accent */
     --primary-hover: #380062;     /* Darker indigo for hover states */
     --secondary: #6B5B95;         /* Muted purple - secondary text */
