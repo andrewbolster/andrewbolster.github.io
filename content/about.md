@@ -2,18 +2,27 @@
 title: About
 date: 2008-08-19
 url: /about/
+layout: about
 hideMeta: true
+profile:
+  image: /img/bolster_orig.png
+  imageTitle: Andrew Bolster
+  imageWidth: 150
+  imageHeight: 150
+  title: Andrew Bolster
+  subtitle: "Senior R&D Manager (Data Science) · Recovering Academic · Hackerspace Founder"
+  buttons:
+    - name: Resume
+      url: /resume/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/andrewbolster
+    - name: GitHub
+      url: https://github.com/andrewbolster
 ---
-
-<a href="/img/bolster_orig.png" target="_blank">
-  <img src="/img/bolster_orig.png" alt="Andrew Bolster" style="float: right; margin: 0 0 1em 1em; width: 300px;"/>
-</a>
-
-**Senior R&D Manager (Data Science) @ [Black Duck Software](https://blackduck.com/)**, recovering academic, former robo-psychiatrist, hackerspace founder, meetup organiser, and player-of-calendar-tetris.
 
 *Driving data to make AI work.*
 
-Leading enterprise AI platform operations serving 500+ internal R&D users, with platforms scaling to 30+ billion tokens monthly and £600k resource responsibility spanning team operations and AI infrastructure. Regular strategic collaboration with CEO/CIO/CISO on data governance policy development that directly impacts product contract terms and organizational AI adoption frameworks.
+Leading enterprise AI platform operations at [Black Duck Software](https://blackduck.com/) serving 500+ internal R&D users, with platforms scaling to 30+ billion tokens monthly and £600k resource responsibility spanning team operations and AI infrastructure. Regular strategic collaboration with CEO/CIO/CISO on data governance policy development that directly impacts product contract terms and organizational AI adoption frameworks.
 
 Previously a Data Scientist/Academic working in the fields of Affective Computing, Wearable Technologies, Trust and Reputation, Autonomous Systems and Cyber Security. Now focused on the practical reality of productionising AI in cybersecurity - doing the hard boring plumbing, so the sexy innovation is easy.
 
@@ -29,17 +38,13 @@ Founding (former) director of [Farset Labs](https://farsetlabs.org.uk), Northern
 
 A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and [heavily caffinated German softdrinks](https://www.farsetlabs.org.uk/about/club-mate/).
 
-# Current Roles
+## Current Roles
+
 * Senior R&D Manager (Data Science) @ [Black Duck Software](https://blackduck.com/)
 * Treasurer @ [BSides Belfast CIC](https://bsidesbelfast.org/)
 * Director @ [Northern Ireland Open Government Network](https://www.opengovernment.org.uk/networks/ni-ogn/)
 
-# ETC
-* [My Resume](/resume/)
-* [My Linkedin Profile](https://www.linkedin.com/in/andrewbolster)
-  * [PDF version](https://www.linkedin.com/profile?viewProfilePDF=&key=41510103)
-
-# Engagements and Publications
+## Engagements and Publications
 * 2026
   * :speech_balloon: [73% of CISOs more likely to consider AI-enabled security solution](https://www.csoonline.com/article/4120218/73-of-cisos-more-likely-to-consider-ai-enabled-security-solution.html) - CSO Online - Commentary
 * 2025

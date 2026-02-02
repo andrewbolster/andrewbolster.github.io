@@ -61,3 +61,22 @@ a:hover {
 ::-webkit-scrollbar-thumb:hover {
     background: var(--primary-hover);
 }
+
+/* About page with profile header */
+.about-page .profile {
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.about-page .about-content {
+    text-align: left;
+}
+
+.about-page .about-content > p:first-child {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: var(--primary);
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
