@@ -59,7 +59,8 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon: [ChatGPT Search Is Now Free To Use Without An Account—Is It Safe?](https://www.forbes.com/sites/kateoflahertyuk/2025/02/07/chatgpt-search-is-now-free-to-use-without-an-account-is-it-safe/) - Forbes - Commentary
   * :speech_balloon: [AI Appreciation Day: What the Experts Have to Say](https://informationsecuritybuzz.com/ai-appreciation-day-what-the-experts-have-to-say/) - Information Security Buzz - Commentary
   * :speech_balloon: [AI Agents Will Cut Account Exploit Time](https://informationsecuritybuzz.com/ai-agents-wil-cut-account-exploit-time/) - Information Security Buzz - Commentary
-  * :speech_balloon: [New AI “Agents” Could Help Bad Actors Launch Attacks](https://informationsecuritybuzz.com/new-ai-agents-could-help-bad-actors-launch-attacks/) - Information Security Buzz - Commentary
+  * :speech_balloon: [New AI "Agents" Could Help Bad Actors Launch Attacks](https://informationsecuritybuzz.com/new-ai-agents-could-help-bad-actors-launch-attacks/) - Information Security Buzz - Commentary
+  * :speech_balloon: [AI Appreciation Day: Celebrating Progress, Embracing Responsibility](https://www.itsecurityguru.org/2025/07/16/ai-appreciation-day-celebrating-progress-embracing-responsibility/) - ITSecurityGuru - Commentary
   * :speech_balloon: :movie_camera: ["How Do We Manage The Risks Introduced By Agents?"](https://www.youtube.com/watch?v=DsFfcwuStBQ) - [Infosecurity Europe 2025](https://www.infosecurityeurope.com/) - Interview
   * :speaking_head: [Building Beyond Buzzwords: Productionising AI in Cybersecurity](https://blackduck.sharefile.com/d-s90c8d381915f4aa5976e310aa41d557b) - [Dublin Tech Summit](https://dublintechsummit.tech/) - Speaker
   * :speech_balloon: [Agentic AI is facing an identity crisis and no one knows how to solve it](https://www.machine.news/agentic-ai-is-facing-an-identity-crisis-and-no-one-knows-how-to-solve-it/) - Machine News - Commentary
@@ -71,12 +72,17 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon: [Why SLMs Could Be a Big Deal for Businesses Looking for an Edge](https://www.computerweekly.com/feature/Why-SLMs-could-be-a-big-deal-for-businesses-looking-for-an-edge) - Computer Weekly - Commentary
   * :speech_balloon: [Why SLMs Could Be a Big Deal for Businesses Looking for an Edge (World of Software)](https://worldofsoftware.org/why-slms-could-be-a-big-deal-for-businesses-looking-for-an-edge-computer-weekly/) - World of Software - Commentary
   * :speech_balloon: [Dlaczego SLM Może Być Wielką Sprawą Dla Firm Szukających Przewagi](https://cyberfeed.pl/dlaczego-slm-moze-byc-wielka-sprawa-dla-firm-szukajacych-przewagi/) - CyberFeed - Commentary
+  * :speech_balloon: [Chinese AI App DeepSeek Rattles Tech Markets](https://www.technewsworld.com/story/chinese-ai-app-deepseek-rattles-tech-markets-179551.html) - TechNewsWorld - Commentary
+  * :speech_balloon: [AI aggregator OmniGPT reportedly breached, leaking sensitive user data online](https://siliconangle.com/2025/02/12/ai-aggregator-omnigpt-reportedly-breached-sensitive-user-data-leaked-online/) - SiliconANGLE - Commentary
+  * :speech_balloon: [OpenAI Codex CLI patch closes major supply chain vulnerability](https://www.developer-tech.com/news/openai-codex-cli-patch-closes-major-supply-chain-vulnerability/) - Developer-Tech - Commentary
   * :speech_balloon: [DeepSeek and Cybersecurity: What Tech Pros Should Know](https://www.dice.com/career-advice/deepseek-and-cybersecurity-what-tech-pros-should-know) - Dice - Commentary
   * :speech_balloon: [Blackstone defends data centre investment vision amid DeepSeek AI disruption](https://www.techerati.com/news-hub/blackstone-defends-data-centre-investment-vision-amid-deepseek-ai-disruption/) - Techerati - Commentary
   * :speech_balloon: [DeepSeek rise leads to $1 trillion loss for US tech giants](https://www.techerati.com/news-hub/deepseek-rise-leads-to-1-trillion-loss-for-us-tech-giants/) - Techerati - Commentary
+  * :speech_balloon: [What is DeepSeek — and what does it mean for your business?](https://www.techfinitive.com/features/what-is-deepseek-and-what-does-it-mean-for-your-business/) - TechFinitive - Commentary
   * :speech_balloon: [What is DeepSeek and what is all the fuss about?](https://www.securityinfowatch.com/cybersecurity/article/55263769/what-is-deepseek-and-what-is-all-the-fuss-about) - SecurityInfoWatch - Commentary
   * :speech_balloon:[ChatGPT o1: AI That Thinks, Lies, And Deceives Like A Human](https://medium.datadriveninvestor.com/chatgpt-o1-ai-that-thinks-lies-and-deceives-like-a-human-1a9574474ed0) - DataDrivenInvestor - Commentary
   * :speech_balloon: [CISA Launches AI Sharing Playbook](https://insight.scmagazineuk.com/cisa-launches-ai-sharing-playbook) - SCMagazine - Commentary
+  * :speech_balloon: [Bad actors exploit X's Grok to run 'racy' malvertising campaign](https://www.scworld.com/news/bad-actors-exploit-xs-grok-to-run-racy-malvertising-campaign) - SC World - Commentary
 
 
 * 2024
