@@ -1,6 +1,5 @@
 ---
 date: 2020-02-18T16:40:00+00:00
-layout: post
 tags:
 - 'Farset Labs'
 - IoT

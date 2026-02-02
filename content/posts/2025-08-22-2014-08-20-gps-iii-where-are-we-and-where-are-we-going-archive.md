@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'GPS III: Where Are We? And Where Are We Going? [Archive]'
 categories:
 - Technology

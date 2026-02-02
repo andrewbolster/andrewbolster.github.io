@@ -1,6 +1,5 @@
 ---
 category: presentation
-layout: post
 tags:
 - AI
 - 'Autonomous Systems'

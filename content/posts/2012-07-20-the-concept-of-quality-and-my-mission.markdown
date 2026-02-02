@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2012-07-20 08:10:41+00:00
-layout: post
 slug: the-concept-of-quality-and-my-mission
 tags:
 - 'Personal development'

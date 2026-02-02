@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2011-09-29 11:52:23+00:00
-layout: post
 slug: force-32-bit-installs-on-64-bit-systems-debrpm
 tags:
 - Debian

@@ -1,11 +1,9 @@
 ---
-author: admin
 categories:
 - Commentary
 - Instructional
 comments: false
 date: 2009-03-29 20:01:02+00:00
-layout: post
 slug: the-omleritto
 tags:
 - Food

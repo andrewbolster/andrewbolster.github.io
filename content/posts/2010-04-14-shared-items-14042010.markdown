@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Link-Roll
 comments: true
 date: 2010-04-14 05:22:12+00:00
-layout: post
 slug: shared-items-14042010
 tags:
 - 'Google Chrome'

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2010-03-31 14:47:46+00:00
-layout: post
 slug: 4-dimensional-game-promises-to-be-a-mind-frak
 tags:
 - Gaming

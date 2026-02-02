@@ -1,6 +1,5 @@
 ---
 date: 2020-06-23T14:32:00+01:00
-layout: post
 tags:
 - Bash
 - Git

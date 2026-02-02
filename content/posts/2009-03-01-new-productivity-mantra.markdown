@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: false
 date: 2009-03-01 00:43:19+00:00
-layout: post
 slug: new-productivity-mantra
 tags:
 - Career

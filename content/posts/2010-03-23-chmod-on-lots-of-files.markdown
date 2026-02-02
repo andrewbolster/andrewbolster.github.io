@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-03-23 22:42:20+00:00
-layout: post
 slug: chmod-on-lots-of-files
 tags:
 - Bash

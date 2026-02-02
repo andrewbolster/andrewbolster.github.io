@@ -1,6 +1,5 @@
 ---
 date: 2023-05-18T14:43:00+01:00
-layout: post
 categories: [Data Science, Politics]
 tags:
 - 'Data Science'

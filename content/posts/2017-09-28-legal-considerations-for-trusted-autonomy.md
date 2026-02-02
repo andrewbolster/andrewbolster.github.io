@@ -1,6 +1,5 @@
 ---
 date: 2017-09-28 18:02:12+0100
-layout: post
 tags:
 - AI
 - 'Autonomous Systems'

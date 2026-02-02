@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2012-04-30 17:07:44+00:00
-layout: post
 slug: ns-3-click-integration
 tags:
 - Linux

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2011-07-28 10:22:56+00:00
-layout: post
 slug: the-road-to-coreboot-part-the-first-introduction
 tags:
 - AMD
@@ -17,9 +15,9 @@ title: 'The Road to Coreboot, Part the First: Introduction'
 ---
 
 
-![Coreboot Logo](http://www.coreboot.org/images/0/0d/Chip_cb.png)
+![Coreboot Logo](https://coreboot.org/assets/images/banner.svg)
 
-So as part of my [IAESTE](http://iaeste.ch) placement with [PC Engines](http://www.pcengines.ch/), I'm investigating the possibility of them making a new board based around the AMD [Fusion](fusion.amd.com) series of APU's  (CPU+(something else, usually GPU) on single die) and for that board to work with the Open Source [Coreboot](http://www.coreboot.org/) BIOS. This is my story.
+So as part of my [IAESTE](http://iaeste.ch) placement with [PC Engines](http://www.pcengines.ch/), I'm investigating the possibility of them making a new board based around the AMD [Fusion](https://en.wikipedia.org/wiki/AMD_Fusion) series of APU's  (CPU+(something else, usually GPU) on single die) and for that board to work with the Open Source [Coreboot](http://www.coreboot.org/) BIOS. This is my story.
 
 Disclaimer
 

@@ -1,6 +1,5 @@
 ---
 date: 2020-05-22T14:35:00+01:00
-layout: post
 tags:
 - 'Data Science'
 - Ethics

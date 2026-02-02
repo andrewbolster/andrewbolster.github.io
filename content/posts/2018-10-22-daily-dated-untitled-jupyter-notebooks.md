@@ -1,7 +1,6 @@
 ---
 category: hotfix
 date: 2018-10-22T12:29:00+01:00
-layout: post
 tags:
 - 'Data Science'
 - Education

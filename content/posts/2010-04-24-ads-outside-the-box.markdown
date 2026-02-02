@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2010-04-24 11:16:51+00:00
-layout: post
 slug: ads-outside-the-box
 tags:
 - Marketing

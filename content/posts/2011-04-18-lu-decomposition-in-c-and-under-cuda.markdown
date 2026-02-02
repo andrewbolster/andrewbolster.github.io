@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2011-04-18 13:00:23+00:00
-layout: post
 slug: lu-decomposition-in-c-and-under-cuda
 tags:
 - C/C++
@@ -19,7 +17,7 @@ As part of any major project, it occasionally happens that you assume something 
 
 In my case it was solving small linear systems, of the form Ax=B, where A is an nxn matrix, B is a n vector. This is a problem that's been solved in libraries such as [LAPACK](http://www.netlib.org/lapack/), [LINPACK](http://www.netlib.org/linpack/), [BLAS](http://www.netlib.org/blas/), etc etc.
 
-The issue appears when you're trying to do this stuff within a specific hardware environment ([CUDA]({{ BASE_PATH }}/tag/cuda/)), and you cannot call host functions from the device, and the [cuBLAS](http://www.gsic.titech.ac.jp/~ccwww/tebiki/tesla_e/tesla5_e.html) libraries cater only to large matrices processed in parallel
+The issue appears when you're trying to do this stuff within a specific hardware environment ([CUDA](//tag/cuda/)), and you cannot call host functions from the device, and the [cuBLAS](http://www.gsic.titech.ac.jp/~ccwww/tebiki/tesla_e/tesla5_e.html) libraries cater only to large matrices processed in parallel
 
 Anyway, without going into architectural specifics, say for whatever reason you needed a small dense matrix solver, including [LU Decomposition](http://en.wikipedia.org/wiki/LU_decomposition) with maximal (or complete) [pivoting](http://en.wikipedia.org/wiki/Pivot_element#Partial_and_complete_pivoting) for numerical stability, here it comes.
 

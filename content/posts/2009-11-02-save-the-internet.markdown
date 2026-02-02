@@ -1,8 +1,6 @@
 ---
-author: admin
 comments: true
 date: 2009-11-02 13:33:24+00:00
-layout: post
 slug: save-the-internet
 tags:
 - Cybersecurity

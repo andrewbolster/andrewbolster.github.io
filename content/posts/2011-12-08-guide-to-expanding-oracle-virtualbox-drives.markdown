@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2011-12-08 12:01:43+00:00
-layout: post
 slug: guide-to-expanding-oracle-virtualbox-drives
 tags:
 - Linux

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Uni
 comments: true
 date: 2012-06-12 09:32:15+00:00
-layout: post
 slug: litreview-an-overview-on-behaviour-based-methods-for-auv-control
 tags:
 - 'Autonomous Systems'

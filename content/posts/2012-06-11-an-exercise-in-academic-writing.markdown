@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Uni
 comments: true
 date: 2012-06-11 16:14:38+00:00
-layout: post
 slug: an-exercise-in-academic-writing
 tags:
 - PhD
@@ -29,7 +27,7 @@ Now, depending on your academic background, these may sound exactly the same. Th
 
 # I was completely wrong to try to be lazy later
 
-Over the course of the four hours, I came to realise that for all of my ['I'm going to write my literature review now so I don't have to do it later' ]({{ BASE_PATH }}/2011/09/phd-diary-an-introduction-and-a-little-light-reading/)was complete and utter bollocks. But, if I can quote from the documentation of the course...
+Over the course of the four hours, I came to realise that for all of my ['I'm going to write my literature review now so I don't have to do it later' ](//2011/09/phd-diary-an-introduction-and-a-little-light-reading/)was complete and utter bollocks. But, if I can quote from the documentation of the course...
 
 > With a large and long project, it is important [...] to monitor progress
 

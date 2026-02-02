@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: false
 date: 2009-05-22 11:42:11+00:00
-layout: post
 slug: lenovo-x61-tablet-hard-drive-near-disaster
 tags:
 - Lenovo
@@ -37,4 +35,4 @@ Fair enough, I'm one of those unlucky people, no worries, I'm sure i can just se
 
 Now, maybe i just wasnt paying attention and the firmware DID get updated while i wasnt looking, but either way its a very strange "Success" message....
 
-UPDATE: Problem got an awful lot worse but Lenovo treated me right, detailed [here ]({{ BASE_PATH }}/?p=151)
+UPDATE: Problem got an awful lot worse but Lenovo treated me right, detailed [here ](//?p=151)

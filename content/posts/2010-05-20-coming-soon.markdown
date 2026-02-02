@@ -1,11 +1,9 @@
 ---
-author: admin
 categories:
 - Commentary
 - Uni
 comments: true
 date: 2010-05-20 11:21:37+00:00
-layout: post
 slug: coming-soon
 tags:
 - Drupal

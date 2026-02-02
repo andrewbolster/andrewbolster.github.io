@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: false
 date: 2009-05-13 01:01:46+00:00
-layout: post
 slug: staggering-unproductivity
 tags:
 - Career

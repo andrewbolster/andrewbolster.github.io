@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Bolstering Claude Code: A Personal Development Environment Configuration Guide'
 description: A comprehensive guide to configuring Claude Code with Model Context Protocols
   (MCPs) for enhanced AI-assisted development workflows

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2013-07-06 09:56:58+00:00
-layout: post
 slug: ssh-persistence-redux-multiple-sites-and-crontab-laziness
 tags:
 - Cybersecurity
@@ -43,7 +41,7 @@ Because I'm lazy, I wrapped autossh into a little lazy script I call `ssh_tunnel
     export AUTOSSH_GATETIME AUTOSSH_DEBUG AUTOSSH_PATH
     autossh -2 -fN -i $ID_FILE -R '*':11122:localhost:22 -R '*':11188:localhost:8888 $*
 
-To initiate the connection, (assuming you've already got [passwordless-login]({{ BASE_PATH }}/2011/12/guide-to-persistent-reverse-ssh-shells-and-port-forwards/) sorted to that particular host) it's just a case of `ssh_tunnel username@remote.host`
+To initiate the connection, (assuming you've already got [passwordless-login](//2011/12/guide-to-persistent-reverse-ssh-shells-and-port-forwards/) sorted to that particular host) it's just a case of `ssh_tunnel username@remote.host`
 
 Now the connection is set up between the remote host machine and the "protected host", which we'll assume is not externally accessible normally. So to get back from the remote host to the protected host through whatever is in between, ssh into the remote host, and go
 

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Link-Roll
 comments: true
 date: 2010-12-23 09:11:25+00:00
-layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23122010
 tags:
 - Film

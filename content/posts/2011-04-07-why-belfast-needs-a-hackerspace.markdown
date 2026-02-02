@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2011-04-07 17:24:08+00:00
-layout: post
 slug: why-belfast-needs-a-hackerspace
 tags:
 - Cybersecurity

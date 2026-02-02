@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: false
 date: 2009-07-13 08:49:40+00:00
-layout: post
 slug: delayed-post-how-i-installed-windows-7-from-usb-hdd
 tags:
 - Laptop
@@ -18,7 +16,7 @@ title: 'Delayed Post: How I Installed Windows 7 From USB HDD'
 ---
 
 
-As was noted in my [LENOVO ROCKS]({{ BASE_PATH }}/?p=151) post, I recieved a virgin hard drive for a laptop with no disk drives.
+As was noted in my [LENOVO ROCKS](//?p=151) post, I recieved a virgin hard drive for a laptop with no disk drives.
 
 This is a problem that has been[ long solved in Linux Distros](http://www.google.com/search?q=linux%20install%20from%20USB&hl=en&safe=off&num=100&output=search&tbs=tl:1&tbo=1) but is not so good for Windows, but i did find[ this brilliant guide by Sandip](http://www.blogsdna.com/2016/how-to-install-windows-7-from-usb-drive-without-windows-7-iso-dvd.htm) from earlier this year, i just wanted to point out a few difference that i made to the process that i think make it slightly more transparent whats going on.
 

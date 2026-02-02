@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Link-Roll
 comments: true
 date: 2010-02-24 06:09:49+00:00
-layout: post
 slug: shared-items-24022010
 tags:
 - Bash

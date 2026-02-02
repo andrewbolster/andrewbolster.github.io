@@ -1,7 +1,6 @@
 ---
 category: ''
 description: ''
-layout: post
 tags:
 - 'Customer Service'
 - Cybersecurity

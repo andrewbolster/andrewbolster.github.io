@@ -15,7 +15,7 @@ enableGitInfo = true
   path = "page"
 
 # Clean URL structure without .html extensions
-uglyURLs = true
+uglyURLs = false
 canonifyURLs = true
 [permalinks]
   posts = "/:year/:month/:title"
@@ -39,6 +39,13 @@ canonifyURLs = true
     ordered = false
     startLevel = 2
 
+# Cascade settings for all posts
+[cascade]
+  [cascade.params]
+    ShowToc = true
+    UseHugoToc = true
+    TocOpen = false
+
 # Site parameters
 [params]
   author = "Andrew Bolster"
@@ -60,6 +67,7 @@ canonifyURLs = true
   ShowCodeCopyButtons = true
   ShowWordCount = false
   ShowRssButtonInSectionTermList = true
+  ShowToc = true
   UseHugoToc = true
   disableSpecialTitleChars = true
 
@@ -83,7 +91,7 @@ canonifyURLs = true
     url = "https://linkedin.com/in/andrewbolster"
   [[params.socialIcons]]
     name = "rss"
-    url = "/index.xml"
+    url = "/feed.rss"
 
   # Profile image
   [params.profileImage]
@@ -166,6 +174,7 @@ canonifyURLs = true
   [outputFormats.RSS]
     mediaType = "application/rss+xml"
     baseName = "feed"
+    suffixes = ["rss", "xml"]
 
 # Sitemap configuration
 [sitemap]

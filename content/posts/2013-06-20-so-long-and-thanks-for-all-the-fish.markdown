@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2013-06-20 06:07:13+00:00
-layout: post
 slug: so-long-and-thanks-for-all-the-fish
 tags:
 - 'Autonomous Systems'

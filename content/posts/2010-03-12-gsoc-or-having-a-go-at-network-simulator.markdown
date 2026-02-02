@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Uni
 comments: true
 date: 2010-03-12 15:03:03+00:00
-layout: post
 slug: gsoc-or-having-a-go-at-network-simulator
 tags:
 - Academia

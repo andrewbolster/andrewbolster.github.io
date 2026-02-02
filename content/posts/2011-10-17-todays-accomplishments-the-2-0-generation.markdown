@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2011-10-17 11:42:01+00:00
-layout: post
 slug: todays-accomplishments-the-2-0-generation
 tags:
 - Finance

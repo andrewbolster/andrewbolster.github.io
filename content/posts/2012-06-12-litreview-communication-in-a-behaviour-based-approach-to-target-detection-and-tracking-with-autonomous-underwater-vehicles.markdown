@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Uni
 comments: true
 date: 2012-06-12 11:10:16+00:00
-layout: post
 slug: litreview-communication-in-a-behaviour-based-approach-to-target-detection-and-tracking-with-autonomous-underwater-vehicles
 tags:
 - 'Autonomous Systems'

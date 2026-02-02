@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2011-04-14 11:48:01+00:00
-layout: post
 slug: cuda-compute-20-error-and-other-issues
 tags:
 - C/C++

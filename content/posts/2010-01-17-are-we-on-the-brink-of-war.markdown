@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2010-01-17 17:04:40+00:00
-layout: post
 slug: are-we-on-the-brink-of-war
 tags:
 - 'Application Security'

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-06-01 12:31:11+00:00
-layout: post
 slug: customised-user-directories-in-ubuntu
 tags:
 - Bash
@@ -62,4 +60,4 @@ XDG_VIDEOS_DIR="$HOME/Videos"
 ```
 
 Changed desktop directory to home
-Made the Documents and Pictures directories reference the relevent [Dropbox]({{ BASE_PATH }}/2010/01/ubuntu-windows-sharing-a-dropbox-folder-on-ntfs/) folders
+Made the Documents and Pictures directories reference the relevent [Dropbox](//2010/01/ubuntu-windows-sharing-a-dropbox-folder-on-ntfs/) folders

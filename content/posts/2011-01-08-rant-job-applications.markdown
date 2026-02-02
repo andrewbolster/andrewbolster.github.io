@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2011-01-08 14:44:03+00:00
-layout: post
 slug: rant-job-applications
 tags:
 - Career

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: false
 date: 2008-05-24 12:06:00+00:00
-layout: post
 slug: eeepc-note
 tags:
 - Cybersecurity

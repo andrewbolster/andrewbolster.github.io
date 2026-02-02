@@ -1,6 +1,5 @@
 ---
 date: 2019-11-21T14:09:00+00:00
-layout: post
 tags:
 - Microcontrollers
 - Python

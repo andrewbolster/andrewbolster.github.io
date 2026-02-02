@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2011-02-12 18:21:53+00:00
-layout: post
 slug: bolsters-code-related-rants-an-ongoing-collection
 tags:
 - Opinion

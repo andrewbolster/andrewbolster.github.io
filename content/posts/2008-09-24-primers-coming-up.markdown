@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: false
 date: 2008-09-24 22:25:00+00:00
-layout: post
 slug: primers-coming-up
 tags:
 - Bash

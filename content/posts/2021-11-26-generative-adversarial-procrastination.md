@@ -1,6 +1,5 @@
 ---
 date: 2021-11-26T15:07:00+00:00
-layout: post
 tags:
 - 'Data Science'
 - 'Machine Learning'
@@ -20,7 +19,7 @@ However, I'm still surprisingly productive in my own way; I've contributed to th
 
 So I'm a workaholic right? Christ no. This morning I got out of bed at around noon after getting caught up on [BlindBoy](https://play.acast.com/s/blindboy) and [Robert Evans podcasts](https://open.spotify.com/show/0rOatMqaG3wB5BF4AdsrSX)
 
-Must be one of those 'mono-taskers'? Nope; I currently have 2 different IDE's open, 12 text documents in various stages of progress and [currently 55 tabs open](/2021/07/counting-tabs-and-background-tasks-taunting-goodharts-demon.html), along with 3 different 'in flight' books, one has been 'in-flight' for over a year...
+Must be one of those 'mono-taskers'? Nope; I currently have 2 different IDE's open, 12 text documents in various stages of progress and [currently 55 tabs open](/2021/07/counting-tabs-and-background-tasks-taunting-goodharts-demon/), along with 3 different 'in flight' books, one has been 'in-flight' for over a year...
 
 You must take great notes and plan everything and have a schedule for all the things? Nope, used to do that, and it's more trouble than it's worth. These days probably around 75+% of my 'working time' is 'unstructured' (including the 'semi-structured' bits I talk about below)
 

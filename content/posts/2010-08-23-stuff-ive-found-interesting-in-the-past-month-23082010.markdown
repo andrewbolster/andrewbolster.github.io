@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Link-Roll
 comments: true
 date: 2010-08-23 09:04:08+00:00
-layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23082010
 tags:
 - Automation

@@ -1,7 +1,6 @@
 ---
 category: ''
 description: ''
-layout: post
 tags:
 - AI
 - 'Autonomous Systems'
@@ -140,14 +139,14 @@ We’re also working on a few more that aren’t ready for primetime, and in the
 
 In a simple port protection scenario, where nodes are patrolling around a series of waypoints around an area, We can demonstrate this selective power through a series of frankly horrible graphs that if anything justify the abstraction of such metrics into a trust value.
 
-[![Behaviour Metric Comparison](/img/Behaviour Metric Comparison_700.png)](/img/Behaviour Metric Comparison.png)
+[![Behaviour Metric Comparison](/img/Behaviour%20Metric%20Comparison_700.png)](/img/Behaviour%20Metric%20Comparison.png)
 
 
 Each vertical of this chart shows a different behaviour; with the baseline waypointing behaviour in the middle, flanked on the left by the malicious “Shadow” behaviour and on the right by the benign but sub-optimal “Slowcoach” behaviour. The per-node metrics as described are shown in the horizontal, with Internode Heading Deviation at the top, Speed in the Middle and Distance Deviation at the bottom.
 
 Green shaded regions are correctly detected per-metric deviations, and Red shaded areas highlight sections of the graph where a per-metric “false positive” would have been reported, i.e. a normal node deviating outside the limits of that metric. Looking at it, it’s a mess.
 
-[![Behaviour Fusion](/img/Behaviour Fusion_700.png)](/img/Behaviour Fusion.png)
+[![Behaviour Fusion](/img/Behaviour%20Fusion_700.png)](/img/Behaviour%20Fusion.png)
 
 This second graph shows the proportional deviation from the average of each metric rather than the raw values for the first three row, which is significantly clearer as to who is misbehaviour, especially in the case of the Inter node distance deviation, which shows the yellow and blue nodes respectively as being outliers.  Applying the trust assessment as described previously, to the bottom row, of the chart, we can see the benefit of the exponential window on the false positive rate.
 

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2011-10-05 14:43:50+00:00
-layout: post
 slug: vim-latex-suite-install-on-ubuntu
 tags:
 - Linux

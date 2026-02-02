@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-03-14 23:39:09+00:00
-layout: post
 slug: installing-and-configuring-ns-3-on-a-ubuntu-system
 tags:
 - Linux
@@ -18,7 +16,8 @@ title: Installing and Configuring NS-3 on a Ubuntu System
 ---
 
 
-[caption id="" align="alignright" width="240" caption="An Example of network simulation using NS"][![Network Simulated by NS](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)[/caption]
+[![](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)
+**
 
 [NS-3](http://www.nsnam.org/) Appears to have a staggeringly steep learning curve so I hope these posts help out someone else (or me, when i forget all this in a month).
 
@@ -30,7 +29,7 @@ That will take a while to install so go get coffee.
 
 Once thats all finished, grab the source using [Mercurial](http://mercurial.selenic.com/) (it was installed in the command above). For tidyness, I do all of this under ~/src (If this was a multi-user system I would suggest working under /usr/src and performing the relevant steps as root or under [sudo](http://xkcd.com/149/))
 
-If you havent used Mercurial before, [check my post on the subject]({{ BASE_PATH }}/2010/03/ercurial-quick-start-cheatsheet/).
+If you havent used Mercurial before, [check my post on the subject](//2010/03/ercurial-quick-start-cheatsheet/).
 
 >
 

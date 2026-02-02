@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Link-Roll
 comments: true
 date: 2011-06-23 09:03:56+00:00
-layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23062011
 tags:
 - 'Doctor Who'

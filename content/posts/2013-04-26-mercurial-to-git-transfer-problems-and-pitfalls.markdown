@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2013-04-26 11:26:17+00:00
-layout: post
 slug: mercurial-to-git-transfer-problems-and-pitfalls
 tags:
 - Bitbucket

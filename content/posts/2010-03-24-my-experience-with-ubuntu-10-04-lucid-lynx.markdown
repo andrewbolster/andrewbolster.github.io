@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2010-03-24 16:39:16+00:00
-layout: post
 slug: my-experience-with-ubuntu-10-04-lucid-lynx
 tags:
 - Linux

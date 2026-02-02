@@ -1,6 +1,5 @@
 ---
 date: 2020-03-04T11:10:00+00:00
-layout: post
 tags:
 - 'Data Science'
 - 'Machine Learning'

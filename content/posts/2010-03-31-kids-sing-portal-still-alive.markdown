@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2010-03-31 13:37:20+00:00
-layout: post
 slug: kids-sing-portal-still-alive
 tags:
 - Gaming

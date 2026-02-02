@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Link-Roll
 comments: true
 date: 2011-08-23 09:00:44+00:00
-layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23082011
 tags:
 - Comedy

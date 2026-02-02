@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2012-04-10 17:52:11+00:00
-layout: post
 slug: k8055-usb-python-twitter-irc-space-indicator-as-a-os-service
 tags:
 - 'Farset Labs'
@@ -17,7 +15,8 @@ title: 'K8055 USB + Python + Twitter + IRC: Space Indicator as a OS Service'
 ---
 
 
-[caption id="attachment_768" align="alignright" width="231" caption="Big Red Button, Does what it says on the tin"][![]({{ BASE_PATH}}/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)]({{ BASE_PATH}}/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)[/caption]
+[![](/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)](/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)
+**
 
 After a long time in the oven, [Farset Labs is up and running](http://farsetlabs.org.uk/blog/2012/03/launch-day-hackathon/). Unforanately we don't have any of the crazy equipment yet, since we're broke.
 
@@ -102,7 +101,7 @@ Simple enough, but a process fruaght with stupid mistakes, such as:
   1. Download and install [python wrappers](http://python-k8055.sourceforge.net/) for the [Velleman K8055 USB interface board](http://www.velleman.eu/products/view/?country=be&lang=en&id=351346)
 
 
-  2. Copy our customised (but highly customisable) python script that talks to IRC, [Twitter]({{ BASE_PATH }}/2012/04/python-oauth2-for-twitter-status-updates/), and the interface board
+  2. Copy our customised (but highly customisable) python script that talks to IRC, [Twitter](//2012/04/python-oauth2-for-twitter-status-updates/), and the interface board
 
 
   3. Copy and install the Ubuntu Upstart conf file to use the script as a service

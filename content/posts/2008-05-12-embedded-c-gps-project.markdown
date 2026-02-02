@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: false
 date: 2008-05-12 13:10:00+00:00
-layout: post
 slug: embedded-c-gps-project
 tags:
 - C/C++

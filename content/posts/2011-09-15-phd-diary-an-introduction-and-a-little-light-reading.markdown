@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Uni
 comments: true
 date: 2011-09-15 14:31:10+00:00
-layout: post
 slug: phd-diary-an-introduction-and-a-little-light-reading
 tags:
 - Academia
@@ -16,7 +14,8 @@ title: 'PhD Diary: An Introduction and A Little Light Reading'
 ---
 
 
-[caption id="" align="alignright" width="600" caption="Sometimes I worry about the accuracy of webcomics..."][![PhD Ponzi Scheme](http://www.phdcomics.com/comics/archive/phd030909s.gif)](http://www.phdcomics.com/comics.php?f=1144)[/caption]
+[![](http://www.phdcomics.com/comics/archive/phd030909s.gif)](http://www.phdcomics.com/comics.php?f=1144)
+**
 
 So today is the start of the rest of your life. Seems kind of appropriate today. Had a meeting with my PhD Supervisor to start to develop my project. Of course at this point it would help to explain what the project is, but I can't right now, so shush.
 

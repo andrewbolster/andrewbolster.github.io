@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On Deepseek
 categories: [AI, Commentary]
 tags:

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: false
 date: 2009-02-28 18:08:38+00:00
-layout: post
 slug: convergence
 tags:
 - Desktop

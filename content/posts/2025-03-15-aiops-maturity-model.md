@@ -1,5 +1,4 @@
 ---
-layout: post
 title: AIOps Maturity Model
 categories: [AI, DevOps, Data Science]
 tags:

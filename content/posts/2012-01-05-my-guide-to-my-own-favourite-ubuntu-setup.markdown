@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2012-01-05 17:29:31+00:00
-layout: post
 slug: my-guide-to-my-own-favourite-ubuntu-setup
 tags:
 - Dropbox

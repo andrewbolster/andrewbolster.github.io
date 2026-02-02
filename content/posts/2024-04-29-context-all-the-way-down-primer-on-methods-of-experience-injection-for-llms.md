@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Context all the way down": Primer on methods of Experience injection for LLMs'
 date: 2024-04-29T20:58:00+00:00
 categories: [AI, Software Engineering, Commentary]

@@ -1,6 +1,5 @@
 ---
 date: 2020-09-08T16:22:00+01:00
-layout: post_toc
 tags:
 - Community
 - 'Data Science'
@@ -26,35 +25,35 @@ Post renovation work at Farset has been the definition of a group effort; everyo
 
 Art has been essential in encouraging people to throw post-its around the space with ideas for people to pick up. I didn't take photos of all of them but here's the 'master panel' in the entrance way.
 
-![2020-09-08 12.38.27](/img/2020/2020-09-08 12.38.27.jpg)
+![2020-09-08 12.38.27](/img/2020/2020-09-08%2012.38.27.jpg)
 
 I'm only gonna include stuff that I did today after not having been in the space for a month, but I encourage everyone contributing to take the credit and share what you do to fix and grow our wee space in these times.
 
 * We've got working calipers (and a stash of relevant batteries)
 
-  ![2020-09-08 12.53.51](/img/2020/2020-09-08 12.53.51-1599575484372.jpg)
+  ![2020-09-08 12.53.51](/img/2020/2020-09-08%2012.53.51-1599575484372.jpg)
 
 * Coat trees in both desk-spaces (which are 'gentrified' according to one member :joy:)
 
-  ![2020-09-08 12.00.49](/img/2020/2020-09-08 12.00.49.jpg)
+  ![2020-09-08 12.00.49](/img/2020/2020-09-08%2012.00.49.jpg)
 
 * Managed to unpack, blade, stash and label the Circular Saw that we'd ordered before I left (Do not attempt to use unless you really know what you're doing, do not work alone, etc, etc.)
 
-  ![2020-09-08 12.55.48](/img/2020/2020-09-08 12.55.48.jpg)
+  ![2020-09-08 12.55.48](/img/2020/2020-09-08%2012.55.48.jpg)
 
-* As part of our newly-ratified [Guest policy](https://www.farsetlabs.org.uk/coronavirus), got a nicely hazard taped visitors book with appropriate warnings![2020-09-08 11.13.51](/img/2020/2020-09-08 11.13.51.jpg)![2020-09-08 11.13.46](/img/2020/2020-09-08 11.13.46.jpg)
+* As part of our newly-ratified [Guest policy](https://www.farsetlabs.org.uk/coronavirus), got a nicely hazard taped visitors book with appropriate warnings![2020-09-08 11.13.51](/img/2020/2020-09-08%2011.13.51.jpg)![2020-09-08 11.13.46](/img/2020/2020-09-08%2011.13.46.jpg)
 
 * A Dremel-esque workstation got set up on the workbench (mostly just to match with it's friendly drill press)
 
-  ![2020-09-08 12.56.10](/img/2020/2020-09-08 12.56.10.jpg)
+  ![2020-09-08 12.56.10](/img/2020/2020-09-08%2012.56.10.jpg)
 
 * Fixed the heights of the rolling drawers we'd ordered ages ago to see if they fit under the workbenches (they do) so will take a proposal to the board about getting a load more to help with organising the workshop
 
-  ![2020-09-08 12.46.17](/img/2020/2020-09-08 12.46.17.jpg)
+  ![2020-09-08 12.46.17](/img/2020/2020-09-08%2012.46.17.jpg)
 
 * Put the clock up in the downstairs coworking space (all the other spaces already had one from a previous pass)
 
-  ![2020-09-08 13.07.48](/img/2020/2020-09-08 13.07.48.jpg)
+  ![2020-09-08 13.07.48](/img/2020/2020-09-08%2013.07.48.jpg)
 
 Not shown; all the other awesomeness others have done. This is just for my own sake and because doing updates in our Slack doesn't exactly provide much visibility for the outside
 
@@ -70,7 +69,7 @@ Previous interesting highlights not from todays work;
 
 * A couple of cast-able screens that we're not entirely sure where to mount yet (ideas welcome)
 
-  ![2020-07-23 17.58.27](/img/2020/2020-07-23 17.58.27.jpg)
+  ![2020-07-23 17.58.27](/img/2020/2020-07-23%2017.58.27.jpg)
 
 ## Lockdown, Travel, Coronavirus, and Moving
 

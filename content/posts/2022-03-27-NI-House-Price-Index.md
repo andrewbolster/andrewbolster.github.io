@@ -1,6 +1,5 @@
 ---
 date: 2022-03-27T19:49:00+00:00
-layout: post
 tags:
 - 'Data Science'
 title: Wrangling NI House Price Index Data

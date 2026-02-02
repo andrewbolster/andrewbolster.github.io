@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2011-06-09 09:57:00+00:00
-layout: post
 slug: change-kindle-network-provider
 tags:
 - Books

@@ -1,7 +1,6 @@
 ---
 category: ''
 description: ''
-layout: post
 tags:
 - 'Web Development'
 title: The Making of a Timelapse

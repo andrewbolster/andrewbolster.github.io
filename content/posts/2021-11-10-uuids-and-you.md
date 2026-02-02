@@ -1,6 +1,5 @@
 ---
 date: 2021-11-10T18:00:00+00:00
-layout: post
 tags:
 - 'Web Development'
 title: UUIDs and You

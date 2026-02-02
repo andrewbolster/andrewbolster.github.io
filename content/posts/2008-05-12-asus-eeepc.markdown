@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: false
 date: 2008-05-12 20:00:00+00:00
-layout: post
 slug: asus-eeepc
 tags:
 - EeePC

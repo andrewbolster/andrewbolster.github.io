@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2013-05-03 08:14:50+00:00
-layout: post
 slug: fix-dell-laptops-and-workstations-not-rebooting-restarting-system
 tags:
 - Linux

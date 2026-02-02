@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Link-Roll
 comments: true
 date: 2010-03-24 06:02:47+00:00
-layout: post
 slug: shared-items-24032010
 tags:
 title: Shared Items - 24/03/2010

@@ -1,8 +1,6 @@
 ---
-author: admin
 comments: false
 date: 2007-12-16 23:34:00+00:00
-layout: post
 slug: introduction
 tags:
 - AMD

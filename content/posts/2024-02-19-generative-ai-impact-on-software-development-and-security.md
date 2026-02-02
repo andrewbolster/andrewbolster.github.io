@@ -1,6 +1,5 @@
 ---
 date: 2024-02-19T12:54:00+00:00
-layout: post
 categories: [AI, Software Engineering, Security]
 tags:
 - AI

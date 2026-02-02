@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2011-12-08 13:41:41+00:00
-layout: post
 slug: guide-to-persistent-reverse-ssh-shells-and-port-forwards
 tags:
 - Bash

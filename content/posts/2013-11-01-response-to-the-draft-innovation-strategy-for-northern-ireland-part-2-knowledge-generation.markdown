@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2013-11-01 18:20:21+00:00
-layout: post
 slug: response-to-the-draft-innovation-strategy-for-northern-ireland-part-2-knowledge-generation
 tags:
 - Creativity
@@ -21,7 +19,7 @@ title: Response to the Draft Innovation Strategy for Northern Ireland - Part 2 -
 ---
 
 
-See [Part 1]({{ BASE_PATH }}/2013/10/response-to-the-draft-innovation-strategy-for-northern-ireland-part-1/) for an introduction to this series.
+See [Part 1](//2013/10/response-to-the-draft-innovation-strategy-for-northern-ireland-part-1/) for an introduction to this series.
 
 # Response to Part 1
 
@@ -117,7 +115,7 @@ Recognising the global nature both of the Knowledge Economy as a whole, and of t
 
 ## Enhancing Northern Ireland's World-Class Research Base
 
-This is an interesting section for me as an ex-ECIT researcher (reasons for leaving are [here]({{ BASE_PATH }}/2013/06/so-long-and-thanks-for-all-the-fish/)), which boasts [CSIT](http://csit.qub.ac.uk), the UK's largest cyber-security university lab, and I had the pleasure of working with some really talented and truly "world-class" researchers.
+This is an interesting section for me as an ex-ECIT researcher (reasons for leaving are [here](//2013/06/so-long-and-thanks-for-all-the-fish/)), which boasts [CSIT](http://csit.qub.ac.uk), the UK's largest cyber-security university lab, and I had the pleasure of working with some really talented and truly "world-class" researchers.
 
 The main take away from this section is the intention to double the number of DEL funded PhD studentships to 1000 by 2020 (I assume this is per annum but this isn't stated clearly), and specifically focusing 60% of these new studentships in "areas of economic relevance". Can't agree with that enough, however, the fly in the ointment in my experience is that it is extremely difficult to entice undergraduates just about to leave 3-4 years of studentship into postgraduate work when on the free market their current skills would net them a very healthy salary compared to the (tax free) sub-£15k salary most students get.
 
@@ -157,7 +155,7 @@ There's another recognition of the 'limited growth in annual student numbers" in
 
 I really want this to mean that government through various channels, are going to work towards the more effective goal of tacking what is widely considered the single biggest problem that Northern Ireland has with "innovation", being "risk aversion", and boiling this in to the education system will undoubtedly have long term benefits for everyone involved, even if it does increase the rate of occasional pain points. Maybe something like this should be printed off as a poster for every classroom in the province. That'd be something.
 
-[![Failure-as-a-path-to-success]({{ BASE_PATH}}/uploads/2013/11/Failure-as-a-path-to-success-300x296.jpg)]({{ BASE_PATH}}/uploads/2013/11/Failure-as-a-path-to-success.jpg)
+[![Failure-as-a-path-to-success](/uploads/2013/11/Failure-as-a-path-to-success-300x296.jpg)](/uploads/2013/11/Failure-as-a-path-to-success.jpg)
 
 ## Conclusion
 

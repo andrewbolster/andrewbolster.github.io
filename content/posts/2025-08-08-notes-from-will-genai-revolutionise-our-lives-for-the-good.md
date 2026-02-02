@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Notes from "Will GenAI Revolutionise our Lives for the Good?"
 categories:
 - AI
@@ -23,7 +22,7 @@ Anyway, first up, my initial braindump; would have probably run to around 10 min
 
 # The Original
 
-I'm Andrew Bolster, I earned a masters in electronics and software engineering from [Queen's University Belfast](https://www.qub.ac.uk/) just as the economy collapsed around us in the late naughties, specialising in GPU engineering and algorithmic optimisation project under Dr Alastair McKinley of Analytics Engines and now SciLeads fame, then I defected to the [University of Liverpool](https://www.liverpool.ac.uk/) with Prof Alan Marshall to earn my PhD in Electrical Engineering, focusing on the [trust and collaboration of autonomous intelligent multi-agent systems](/2017/09/human-factors-in-autonomous-systems) in constrained environments as part of a joint UK/French defence collaboration, just at the height of 'Brexit fever'.
+I'm Andrew Bolster, I earned a masters in electronics and software engineering from [Queen's University Belfast](https://www.qub.ac.uk/) just as the economy collapsed around us in the late naughties, specialising in GPU engineering and algorithmic optimisation project under Dr Alastair McKinley of Analytics Engines and now SciLeads fame, then I defected to the [University of Liverpool](https://www.liverpool.ac.uk/) with Prof Alan Marshall to earn my PhD in Electrical Engineering, focusing on the [trust and collaboration of autonomous intelligent multi-agent systems](/2017/09/human-factors-related-to-trusted-operation-of-autonomous-systems/) in constrained environments as part of a joint UK/French defence collaboration, just at the height of 'Brexit fever'.
 
 Since then, I've been a data scientist in various roles in bioinformatics, empathic computing (along with my honoured adversary, Mr Ben Bland), and particularly in the past decade, in cybersecurity, assessing and stewarding the intelligent application of decision theory on data driven, high value low risk systems for various multinationals and survived several acquisitions and carveouts, now running the Data Science team at [Black Duck Software](https://www.blackduck.com/).
 

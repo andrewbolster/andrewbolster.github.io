@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-04-28 19:37:30+00:00
-layout: post
 slug: see-programming-abstractions-assignment-1
 tags:
 - C/C++

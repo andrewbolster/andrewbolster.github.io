@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Link-Roll
 comments: true
 date: 2011-03-23 10:29:04+00:00
-layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23032011
 tags:
 - Music

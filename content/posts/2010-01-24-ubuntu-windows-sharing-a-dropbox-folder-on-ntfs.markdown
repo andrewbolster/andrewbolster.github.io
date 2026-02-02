@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-01-24 07:25:40+00:00
-layout: post
 slug: ubuntu-windows-sharing-a-dropbox-folder-on-ntfs
 tags:
 - Linux

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: false
 date: 2009-07-12 10:53:35+00:00
-layout: post
 slug: best-laid-plans-of-mice-and-men
 tags:
 - Automation

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2011-09-29 19:48:37+00:00
-layout: post
 slug: through-the-drinking-glass
 tags:
 - Gaming

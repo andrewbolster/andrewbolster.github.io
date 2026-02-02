@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: false
 date: 2009-03-03 18:46:14+00:00
-layout: post
 slug: on-education-and-employability
 tags:
 - Career

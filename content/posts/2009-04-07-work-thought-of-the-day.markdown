@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: false
 date: 2009-04-07 11:31:57+00:00
-layout: post
 slug: work-thought-of-the-day
 tags:
 - 'Web post'

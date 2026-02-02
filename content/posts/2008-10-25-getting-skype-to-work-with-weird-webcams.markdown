@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: false
 date: 2008-10-25 21:45:00+00:00
-layout: post
 slug: getting-skype-to-work-with-weird-webcams
 tags:
 - Linux

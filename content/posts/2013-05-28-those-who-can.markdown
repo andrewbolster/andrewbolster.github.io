@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2013-05-28 12:08:23+00:00
-layout: post
 slug: those-who-can
 tags:
 - Education

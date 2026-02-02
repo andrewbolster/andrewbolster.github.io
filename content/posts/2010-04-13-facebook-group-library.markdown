@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2010-04-13 23:17:09+00:00
-layout: post
 slug: facebook-group-library
 tags:
 - Personal

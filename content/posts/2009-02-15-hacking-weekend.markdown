@@ -1,11 +1,9 @@
 ---
-author: admin
 categories:
 - Commentary
 - Instructional
 comments: false
 date: 2009-02-15 20:05:33+00:00
-layout: post
 slug: hacking-weekend
 tags:
 - Cybersecurity

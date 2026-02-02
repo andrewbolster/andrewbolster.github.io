@@ -1,6 +1,5 @@
 ---
 date: 2020-02-17T15:28:00+00:00
-layout: post
 tags:
 - Microcontrollers
 - 'Raspberry Pi'

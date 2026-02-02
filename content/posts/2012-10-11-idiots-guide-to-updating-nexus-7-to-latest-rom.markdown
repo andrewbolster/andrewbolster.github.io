@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2012-10-11 16:24:11+00:00
-layout: post
 slug: idiots-guide-to-updating-nexus-7-to-latest-rom
 tags:
 - Android

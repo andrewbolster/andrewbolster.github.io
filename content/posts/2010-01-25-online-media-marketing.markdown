@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2010-01-25 22:08:39+00:00
-layout: post
 slug: online-media-marketing
 tags:
 - 'Google Adwords'

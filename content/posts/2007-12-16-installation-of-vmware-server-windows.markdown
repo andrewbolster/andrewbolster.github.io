@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: false
 date: 2007-12-16 23:50:00+00:00
-layout: post
 slug: installation-of-vmware-server-windows
 tags:
 - Cybersecurity

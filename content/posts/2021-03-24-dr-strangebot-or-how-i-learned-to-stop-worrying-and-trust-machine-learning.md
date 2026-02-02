@@ -1,6 +1,5 @@
 ---
 date: 2021-03-24T06:06:00+00:00
-layout: post
 tags:
 - AI
 - Cybersecurity

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-04-17 21:13:04+00:00
-layout: post
 slug: add-a-twitter-anywhere-hovercard-to-links-containing-tweeps
 tags:
 - JavaScript

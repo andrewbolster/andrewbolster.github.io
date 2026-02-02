@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-03-06 12:19:10+00:00
-layout: post
 slug: any-port-in-a-storm
 tags:
 - Cybersecurity

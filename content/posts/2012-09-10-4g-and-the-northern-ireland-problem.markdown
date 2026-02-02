@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2012-09-10 18:56:21+00:00
-layout: post
 slug: 4g-and-the-northern-ireland-problem
 tags:
 - IoT

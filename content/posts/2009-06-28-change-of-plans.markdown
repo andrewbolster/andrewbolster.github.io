@@ -1,8 +1,6 @@
 ---
-author: admin
 comments: false
 date: 2009-06-28 11:39:20+00:00
-layout: post
 slug: change-of-plans
 tags:
 - Bash

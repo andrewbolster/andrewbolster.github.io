@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2012-04-10 15:46:08+00:00
-layout: post
 slug: python-oauth2-for-twitter-status-updates
 tags:
 - Python

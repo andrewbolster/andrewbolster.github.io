@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Uni
 comments: true
 date: 2010-03-10 09:49:40+00:00
-layout: post
 slug: so-what-can-you-do-with-32-million-passwords
 tags:
 - 'Application Security'

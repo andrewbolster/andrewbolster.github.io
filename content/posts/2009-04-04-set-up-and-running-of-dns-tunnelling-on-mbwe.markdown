@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: false
 date: 2009-04-04 23:14:32+00:00
-layout: post
 slug: set-up-and-running-of-dns-tunnelling-on-mbwe
 tags:
 - Cryptography

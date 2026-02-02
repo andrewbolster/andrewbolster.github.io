@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2011-07-19 09:25:18+00:00
-layout: post
 slug: galepx-language-settings-in-linux
 tags:
 title: GalepX Language settings in Linux

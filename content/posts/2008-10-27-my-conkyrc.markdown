@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: false
 date: 2008-10-27 19:15:00+00:00
-layout: post
 slug: my-conkyrc
 tags:
 - Automation

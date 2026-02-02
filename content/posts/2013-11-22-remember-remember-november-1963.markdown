@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2013-11-22 13:50:22+00:00
-layout: post
 slug: remember-remember-november-1963
 tags:
 - 'Doctor Who'

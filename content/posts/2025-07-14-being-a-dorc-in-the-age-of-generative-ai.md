@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Being a DORC in the age of Generative AI
 categories:
 - AI
@@ -13,11 +12,11 @@ tags:
 - 'software development'
 date: 2025-07-14T14:16:00+01:00
 ---
-Lots of people have written about the impact of [generative AI](/2024/02/19/generative-ai-impact-on-software-development-and-security) on the world of software engineering, and while I write this I'm fighting with [CoPilot](https://github.com/features/copilot) to stop filling out the rest of the sentence. Gimme a second...
+Lots of people have written about the impact of [generative AI](/2024/02/generative-ai-impact-on-software-development-and-security/) on the world of software engineering, and while I write this I'm fighting with [CoPilot](https://github.com/features/copilot) to stop filling out the rest of the sentence. Gimme a second...
 
 ...
 
-That's better. Anyway. This is just a blurb/brain-dump of a shower-thought. Don't come to me for deep insightful stuff about the productivity gains about [Generative AI](/2024/02/19/generative-ai-impact-on-software-development-and-security) in Software Development, or whether it will be the end of 'Juniors' in software engineering, or how we're going to _grow_ juniors in future.
+That's better. Anyway. This is just a blurb/brain-dump of a shower-thought. Don't come to me for deep insightful stuff about the productivity gains about [Generative AI](/2024/02/generative-ai-impact-on-software-development-and-security/) in Software Development, or whether it will be the end of 'Juniors' in software engineering, or how we're going to _grow_ juniors in future.
 
 I'm just gonna rant about how I've been thinking about my own place and direction in all of this, and over the past few days/weeks/months, I've landed on "Being a DORC", Discernment, Ownership, Responsibility and Credit. And as I'll hopefully explain, it's as much about your own sanity and the sanity of your peers and colleagues as it is about 'doing good software', with or without 'AI'.
 
@@ -31,7 +30,7 @@ Make a call and move on; if new evidence comes in and shows that you were incorr
 
 # Ownership
 
-When glorified [lava lamps](https://blog.cloudflare.com/randomness-101-lavarand-in-production/) are piping hot, steaming, 'decisions' out of near-infinitely deep latticeworks of maths, it's tempting to imagine a world where every decision gets made by these 'perfect' machines. This not only forgets how these machines got so good in the first place ([Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) is basically [Pavlovian BDSM for Vectors](/2024/04/29/context-all-the-way-down-primer-on-methods-of-experience-injection-for-llms)), but also forgets how the entire post-modern capitalist project works.
+When glorified [lava lamps](https://blog.cloudflare.com/randomness-101-lavarand-in-production/) are piping hot, steaming, 'decisions' out of near-infinitely deep latticeworks of maths, it's tempting to imagine a world where every decision gets made by these 'perfect' machines. This not only forgets how these machines got so good in the first place ([Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) is basically [Pavlovian BDSM for Vectors](/2024/04/context-all-the-way-down-primer-on-methods-of-experience-injection-for-llms/)), but also forgets how the entire post-modern capitalist project works.
 If you're fortunate enough to be put in any kind of 'decision making position', it's tempting to think that you're there because you're _so great_.
 The cold reality is that you're there to _own_ the outcome of your decisions, Right or Wrong.
 That means that if you made the call, you should follow that call through the sausage-machine of development and do your best to help other poor souls who are downstream of your 'decisions'.
@@ -47,7 +46,7 @@ And without agency, they have no capacity to be held responsible for their actio
 
 # Credit
 
-Speaking of teams; a lot of this rant has been 'me me me', because fortunately for you, there's only one seat available to the one-man-show that is my internal monologue. But a critical part of this whole '[GenAI](/2024/02/19/generative-ai-impact-on-software-development-and-security) to revolutionize X in Y years' is remembering where all this came from.
+Speaking of teams; a lot of this rant has been 'me me me', because fortunately for you, there's only one seat available to the one-man-show that is my internal monologue. But a critical part of this whole '[GenAI](/2024/02/generative-ai-impact-on-software-development-and-security/) to revolutionize X in Y years' is remembering where all this came from.
 
 * [Bayes theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) is from 1763.
 * The '[Least Squares](https://en.wikipedia.org/wiki/Least_squares)' method of approximation is from 1805.

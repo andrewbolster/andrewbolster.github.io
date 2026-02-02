@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2009-11-25 14:06:32+00:00
-layout: post
 slug: peter-mandelson-tv-producer-spin-doctor-politician-tosser
 tags:
 - Cybersecurity

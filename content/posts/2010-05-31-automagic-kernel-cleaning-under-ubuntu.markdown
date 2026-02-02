@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-05-31 14:29:03+00:00
-layout: post
 slug: automagic-kernel-cleaning-under-ubuntu
 tags:
 - Bash

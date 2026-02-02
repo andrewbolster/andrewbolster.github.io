@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2013-10-23 20:37:45+00:00
-layout: post
 slug: response-to-the-draft-innovation-strategy-for-northern-ireland-part-1
 tags:
 - Entrepreneurship
@@ -60,7 +58,7 @@ Ok, so TT isn't perfect, but if you squint a bit, it actually does sum up my int
 
 My sentiment is quite simple...
 
-[![256621-funny-gifs-citizen-kane-clapping]({{ BASE_PATH}}/uploads/2013/10/256621-funny-gifs-citizen-kane-clapping.gif)]This sentiment was slightly tarnished by a little post-word for this section...
+[![256621-funny-gifs-citizen-kane-clapping](/uploads/2013/10/256621-funny-gifs-citizen-kane-clapping.gif)]This sentiment was slightly tarnished by a little post-word for this section...
 
 > Where reference is made to "we" in the strategy that should be read as the NI Executive in partnership with relevant stakeholders
 
@@ -99,4 +97,4 @@ I suppose in some spirit this is supposed to be a generalised document, but to m
 
 This is taking longer than I expected so I'll take this up after TEDx Belfast tomorrow, but my impression so far is that this strategy doesn't have any meat yet, and is not proposing the kind of sweeping revolutionary (rather than evolutionary) policy and attitudinal changes needed needed. This is the low hanging fruit of the "innovation" buzzword. It's boxticking and incremental adjustment. The past 30 years of public sector economic reliance aren't going to be fixed with public sector thinking...
 
-[Part 2 Continues the Ramble]({{ BASE_PATH }}/2013/11/response-to-the-draft-innovation-strategy-for-northern-ireland-part-2-knowledge-generation/)
+[Part 2 Continues the Ramble](//2013/11/response-to-the-draft-innovation-strategy-for-northern-ireland-part-2-knowledge-generation/)

@@ -9,7 +9,7 @@ Senior R&D Manager @ [Black Duck Software](https://blackduck.com/), driving data
 
 ## Wants
 
-* [Sponsors for BSides Belfast 2025](https://bsidesbelfast.org/)
+* [Sponsors for BSides Belfast 2026](https://bsidesbelfast.org/)
 * [Attendees for InfoSecNI](https://infosecni.net/)
 * [Supporters for Farset Labs](https://www.farsetlabs.org.uk/support/donate/)
 

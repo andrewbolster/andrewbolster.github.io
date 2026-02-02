@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-04-16 16:25:46+00:00
-layout: post
 slug: shaded-headers
 tags:
 - CSS
@@ -21,7 +19,7 @@ So, as you can see the blog is sporting a new, cleaner look. Nothing better than
 
 I started off my experimentation by going through [WebDesignerWall's walkthrough](http://www.webdesignerwall.com/tutorials/css-gradient-text-effect/) on the subject of text effects, but the limitation that I came across was that if you use their implimentation, any links (`<a\>`) in the header are lost 'under' the span.
 
-Going from top to tail, this is how i have my gradients set up.  Download the gradient files ([white background]({{ BASE_PATH }}/wp-content/themes/penguincafe/img/gradient-white.png) / [black background]({{ BASE_PATH }}/wp-content/themes/penguincafe/img/gradient-dark.png)) and place them in whatever accessible image directory you are using. (If you get lost, [bloggingtips.com do a great overview](http://www.bloggingtips.com/2007/12/21/file-paths-in-your-wordpress-css-and-theme-files/))
+Going from top to tail, this is how i have my gradients set up.  Download the gradient files ([white background](//wp-content/themes/penguincafe/img/gradient-white.png) / [black background](//wp-content/themes/penguincafe/img/gradient-dark.png)) and place them in whatever accessible image directory you are using. (If you get lost, [bloggingtips.com do a great overview](http://www.bloggingtips.com/2007/12/21/file-paths-in-your-wordpress-css-and-theme-files/))
 
 Basically, the operation is to layer the gradient image over the text _inside_ the `<a>` tag's that are children of `<h1>`/`<h2>` ([hence the '>' in the CSS selector](http://www.w3.org/TR/css3-selectors/#child-combinators)), so that the gradient image itself is still a link. Don't worry about how the `<span>` tag gets there yet...  In whichever css file you are using add the following block of css.
 

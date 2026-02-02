@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-03-13 12:24:47+00:00
-layout: post
 slug: ercurial-quick-start-cheatsheet
 tags:
 - Linux

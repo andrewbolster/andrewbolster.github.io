@@ -1,6 +1,5 @@
 ---
 date: 2021-07-22T10:58:00+00:00
-layout: post
 tags:
 - API
 - Firefox

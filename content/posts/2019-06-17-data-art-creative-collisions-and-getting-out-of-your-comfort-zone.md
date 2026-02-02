@@ -1,6 +1,5 @@
 ---
 date: 2019-06-17T16:57:00+01:00
-layout: post
 tags:
 - Community
 - Creativity

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-03-12 15:37:50+00:00
-layout: post
 slug: line-parsing-reminder-duplicate-removal
 tags:
 - Bash

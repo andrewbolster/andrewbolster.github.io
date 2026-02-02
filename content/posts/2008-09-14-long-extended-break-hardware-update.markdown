@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: false
 date: 2008-09-14 14:13:00+00:00
-layout: post
 slug: long-extended-break-hardware-update
 tags:
 - Bash

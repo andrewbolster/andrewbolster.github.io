@@ -1,8 +1,6 @@
 ---
-author: admin
 comments: false
 date: 2008-05-12 19:51:00+00:00
-layout: post
 slug: folding-code
 tags:
 - Bash

@@ -1,11 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2010-07-17 17:42:11+00:00
-layout: post
-slug: belfast_hackerspac
 tags:
 - Academia
 - Belfast

@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: false
 date: 2008-11-06 19:20:00+00:00
-layout: post
 slug: mbwe-fuel-gauge-speedometer-conversion
 tags:
 - Bash

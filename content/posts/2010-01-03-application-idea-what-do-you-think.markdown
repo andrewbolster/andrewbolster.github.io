@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2010-01-03 20:18:55+00:00
-layout: post
 slug: application-idea-what-do-you-think
 tags:
 - Android
@@ -17,7 +15,7 @@ title: 'Application Idea: What do you think?'
 ---
 
 
-As part of the whole [New Years Resolutions]({{ BASE_PATH }}/2009/12/new-years-resolutions/) plan, I'm gonna get started on the OSS development thing.
+As part of the whole [New Years Resolutions](//2009/12/new-years-resolutions/) plan, I'm gonna get started on the OSS development thing.
 
 The Gist: Cross Platform Mobile application to collect international data on cell reception.
 

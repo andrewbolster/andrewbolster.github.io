@@ -1,6 +1,5 @@
 ---
 date: 2020-10-19T11:34:00+01:00
-layout: post
 tags:
 - AI
 - 'Data Science'
@@ -16,7 +15,7 @@ typora-root-url: C:\Users\me\Documents\GitHub\andrewbolster.github.io\
 
 > This talk was originally prepared for [NI Raspberry Jam's Kids Track](https://hopin.to/events/ni-raspberry-jam-nidc), associated with the full [Northern Ireland Developers Conference](https://www.nidevconf.com/), held in lockdown and pre-recorded in the McKee Room in [Farset Labs](https://www.farsetlabs.org.uk/)
 
-[![Actual Recording of This Transcript](/../../../../../../../../img/2020/0.jpg)](https://www.youtube.com/watch?v=Z1c4KAESO0s)
+[![Actual Recording of This Transcript](/img/2020/0.jpg)](https://www.youtube.com/watch?v=Z1c4KAESO0s)
 
 ![image-20201019102913292](/img/2020/image-20201019102913292.png)
 

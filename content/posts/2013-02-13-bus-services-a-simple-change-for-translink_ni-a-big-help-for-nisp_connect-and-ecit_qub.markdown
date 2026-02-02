@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2013-02-13 16:00:09+00:00
-layout: post
 slug: bus-services-a-simple-change-for-translink_ni-a-big-help-for-nisp_connect-and-ecit_qub
 tags:
 - 'Northern Ireland'

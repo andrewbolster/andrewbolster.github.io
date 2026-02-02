@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Link-Roll
 comments: true
 date: 2010-10-23 09:02:26+00:00
-layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23102010-2
 tags:
 - Event

@@ -33,7 +33,7 @@ Previously a Data Scientist/Academic working in the fields of Affective Computin
 
 Completed PhD Research at The University of Liverpool (formerly at Queen’s University Belfast’s [ECIT](https://ecit.qub.ac.uk) Institute) investigating [Trust and Reputation in Marine Communications for Autonomous Systems of Systems](https://github.com/andrewbolster/thesis/releases/tag/v1.0) under the joint Anglo-French Defence Research Group, established at the [2010 Anglo-French Summit](https://en.wikipedia.org/wiki/The_Lancaster_House_Treaties_%282010%29)
 
-Founding (former) director of [Farset Labs](https://farsetlabs.org.uk), Northern Ireland’s [Hackerspace](/2011/04/why-belfast-needs-a-hackerspace.html), [developed](/2010/06/great-hopes.html) while I was finishing off a Masters in Electronics and Software Engineering at QUB. [Farset Labs](https://farsetlabs.org.uk) now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders.
+Founding (former) director of [Farset Labs](https://farsetlabs.org.uk), Northern Ireland's [Hackerspace](/2011/04/why-belfast-needs-a-hackerspace/), [developed](/2010/06/great-hopes/) while I was finishing off a Masters in Electronics and Software Engineering at QUB. [Farset Labs](https://farsetlabs.org.uk) now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders.
 
 A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies involving Christoph Waltz, Stanley Kubrick, Ridley Scott, or Quentin Tarantino, and [heavily caffinated German softdrinks](https://www.farsetlabs.org.uk/about/club-mate/).
 
@@ -113,22 +113,22 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :teacher: [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - Practical ML for Cyber Security - Lecture
   * :speaking_head: [AI NI 17 - AI in Cyber Security, Healthcare & Data Science Success Stories](https://www.meetup.com/artificial-intelligence-northern-ireland/events/288857241/) - Practical ML for Cyber Security - Speaker
 * 2021
-  * :teacher: [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - [Lies, Damned Lies, and Statistics](/2022/01/lies-damned-lies-and-data-science.html) - Guest Lecturer
-  * :zap: [BLUG Technical: Universal screwdrivers](https://www.meetup.com/belfast-lug/events/278413010/) - [Apache Arrow in 5-10 Mins](/2021/06/apache-arrow-in-5-10-mins.html) - Lightning Talk
+  * :teacher: [University of Ulster MSc Data Analytics](https://www.ulster.ac.uk/courses/202223/data-science-28302) - [Lies, Damned Lies, and Statistics](/2022/01/lies-damned-lies-and-data-science/) - Guest Lecturer
+  * :zap: [BLUG Technical: Universal screwdrivers](https://www.meetup.com/belfast-lug/events/278413010/) - [Apache Arrow in 5-10 Mins](/2021/06/apache-arrow-in-5-10-mins/) - Lightning Talk
   * :studio_microphone: [WhyNI](https://www.ensorecruitment.com/why-ni-andrew-bolster-farset-labs/) - Enzo Recruitment - Podcast Guest
   * :studio_microphone: [Unattested Pod](https://unattested.club/040/) - Podcast Guest
   * :fountain_pen: [Dr StrangeBot: or how I learned to stop worrying and trust machine learning](https://services.global.ntt/en-gb/insights/blog/dr-strangebot-or-how-i-learned-to-stop-worrying-and-trust-machine-learning) - NTT - Author
 
 * 2020
-  * :speaking_head: [Northern Ireland Developers Conference: Kids Track](/2020/10/tell-me-about-your-programmer.html) - Tell me about your Programmer - Robopsychologist and other careers that don't exist (yet) [:movie_camera:](https://www.youtube.com/watch?v=9DZ58ulwdYE) - Speaker
-  * :speaking_head: [Northern Ireland Developers Conference](/2020/10/a-stranger-in-a-strange-land-data-science-onboarding-in-practice.html) - A Stranger in a Strange Land: Data Science Onboarding In Practice [:movie_camera:](https://www.youtube.com/watch?v=kIbTzis2zAE) - Speaker
+  * :speaking_head: [Northern Ireland Developers Conference: Kids Track](/2020/10/tell-me-about-your-programmer-robopsychologist-and-other-careers-that-dont-exist-yet/) - Tell me about your Programmer - Robopsychologist and other careers that don't exist (yet) [:movie_camera:](https://www.youtube.com/watch?v=9DZ58ulwdYE) - Speaker
+  * :speaking_head: [Northern Ireland Developers Conference](/2020/10/a-stranger-in-a-strange-land-data-science-onboarding-in-practice/) - A Stranger in a Strange Land: Data Science Onboarding In Practice [:movie_camera:](https://www.youtube.com/watch?v=kIbTzis2zAE) - Speaker
   * :microphone: [BelTech](https://www.youtube.com/watch?v=M9izw50NVv4&feature=youtu.be&t=5860) - AI Explainability - Panellist
-  * :speaking_head: [DevBash](/2020/05/pragmatic-data-science.html) - Pragmatic Data Science - Speaker
+  * :speaking_head: [DevBash](/2020/05/pragmatic-data-science-when-unstoppable-math-meets-immovable-ethics/) - Pragmatic Data Science - Speaker
   * :fountain_pen: [Is Your AI Ethical?](https://www.rtinsights.com/is-your-ai-ethical/) - RTInsights - Author
   * :fountain_pen: [The Importance of Active Learning in Data Science and Engineering](https://www.cybersecurity-insiders.com/the-importance-of-active-learning-in-the-data-science-and-engineering/) - Cybersecurity Insider - Author
 * 2019
   * :speaking_head: [PyConIE](https://pyvideo.org/pycon-ireland-2019/pycon-ireland-2019-planning-your-hackerspace-with-python-andrew-bolster.html) - Planning Your Hackerspace With Python [:movie_camera:](https://www.youtube.com/watch?v=hiXdxl6oJCY) - Speaker
-  * :speaking_head: [Northern Ireland Developers Conference](https://www.nidevconf.com/sessions/andrewbolster/) - Data Art: Creative collisions and getting out of your comfort zone [:movie_camera:](https://www.youtube.com/watch?v=Ku2FX9osMXA) [:notebook:](/2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.html) - Speaker
+  * :speaking_head: [Northern Ireland Developers Conference](https://www.nidevconf.com/sessions/andrewbolster/) - Data Art: Creative collisions and getting out of your comfort zone [:movie_camera:](https://www.youtube.com/watch?v=Ku2FX9osMXA) [:notebook:](/2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone/) - Speaker
   * :speaking_head:/:teacher: [PyBelfast](https://www.meetup.com/PyBelfast/events/258065529/) - The Joys of Python 3 [:notebook:](https://github.com/andrewbolster/nb_presentations/blob/master/2019-01%20PyBelfast/)
 * 2018
   * :speaking_head: [PyConIE](http://schedule.pycon18.python.ie/#9boRtJSlTmVHQOwVM9) - An Idiots Guide to (Open) Data Science [:movie_camera:](https://www.youtube.com/watch?v=he78D6jwmxE) [:notebook:](https://github.com/andrewbolster/nb_presentations/tree/master/2018-11%20PyconIE) - Speaker

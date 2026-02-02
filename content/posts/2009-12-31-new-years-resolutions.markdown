@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2009-12-31 21:38:17+00:00
-layout: post
 slug: new-years-resolutions
 tags:
 - Finance

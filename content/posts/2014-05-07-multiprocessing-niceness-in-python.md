@@ -1,7 +1,6 @@
 ---
 category: code diary
 description: ''
-layout: post
 tags:
 - Linux
 - Python

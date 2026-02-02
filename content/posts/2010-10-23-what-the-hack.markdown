@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2010-10-23 09:16:06+00:00
-layout: post
 slug: what-the-hack
 tags:
 - Community

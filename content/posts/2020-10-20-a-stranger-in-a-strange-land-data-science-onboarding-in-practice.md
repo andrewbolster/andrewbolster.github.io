@@ -1,6 +1,5 @@
 ---
 date: 2020-10-20T11:03:00+01:00
-layout: post
 tags:
 - AI
 - AWS
@@ -57,7 +56,7 @@ In this talk we’ll walk through some of the philosophies I’ve arrived at as 
 
 Also, a couple of dodgy stories from over the years of ‘Data Science Gone Wrong’, that will probably get some questions asked, and hopefully not of me.
 
-This isn’t going to be a technical Data Science talk, we’re not opening up [Jupyter](/2018/10/daily-dated-untitled-jupyter-notebooks.html) or firing up [Spark](https://en.wikipedia.org/wiki/Apache_Spark) or [Tensorflow](https://www.tensorflow.org/tutorials) or whatever. We’re not even going to talk about [Perceptrons](https://en.wikipedia.org/wiki/Perceptron) or [Hidden neurons](https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute) or [homomorphic cryptography](https://hackernoon.com/exploring-decentralization-with-homomorphic-encryption-a8295755ba5f). This is about people, processes, how to establish a healthy data science culture.
+This isn’t going to be a technical Data Science talk, we’re not opening up [Jupyter](/2018/10/daily-dated-untitled-jupyter-notebooks/) or firing up [Spark](https://en.wikipedia.org/wiki/Apache_Spark) or [Tensorflow](https://www.tensorflow.org/tutorials) or whatever. We’re not even going to talk about [Perceptrons](https://en.wikipedia.org/wiki/Perceptron) or [Hidden neurons](https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute) or [homomorphic cryptography](https://hackernoon.com/exploring-decentralization-with-homomorphic-encryption-a8295755ba5f). This is about people, processes, how to establish a healthy data science culture.
 
 Anyway, who am I to talk about this stuff?
 
@@ -69,7 +68,7 @@ I eventually turned that “skillset” into something of a trade, by studying [
 
 As part of this I got to test the launch of 4G networks in China from the grey comfort of an office in [Athlone](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/ireland), I moonlit as a technology consultant for a [marketing and advertising firm](http://navigatorblue.com/) in Belfast, used massive clusters of GPUs to optimise cable internet delivery, and spent a summer developing BIOSs for [embedded computers](https://www.pcengines.ch/) in Switzerland.
 
-After that, and just in time for the financial crisis to make everyone question their career choices, I continued down the academic culvert to do a PhD, stealing shamelessly from the [sociologists](/2017/09/human-factors-in-autonomous-systems.html) to make their “science” vaguely useful by teaching autonomous military submarines how to trust each-other.
+After that, and just in time for the financial crisis to make everyone question their career choices, I continued down the academic culvert to do a PhD, stealing shamelessly from the [sociologists](/2017/09/human-factors-related-to-trusted-operation-of-autonomous-systems/) to make their “science” vaguely useful by teaching autonomous military submarines how to trust each-other.
 
 More recently, I worked with a bunch of psychologists and marketers to teach machines how to understand human emotions using biometrics and wearable tech as the only Data Scientist.
 

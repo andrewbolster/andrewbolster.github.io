@@ -1,6 +1,5 @@
 ---
 date: 2024-02-28T11:38:00+00:00
-layout: post
 categories: [Community, Personal]
 tags:
 - Belfast
@@ -14,7 +13,7 @@ title: Farewell Farset
 
 Today, I'm no longer the Treasurer of Farset Labs, and in the next few days, I'll officially have left the board of trustees of the charity that I helped form over 13 years ago.
 
-Farset Labs started as a [Google Group](https://groups.google.com/g/belfast-hackspace-working-group/c/KJw3A8uAdXA) that I started in [2010](/2010/07/belfast_hackerspac). It took until 2012 to get our act together, along with some entertaining hackathons riding on the backs of our friends at Dragonslayers.
+Farset Labs started as a [Google Group](https://groups.google.com/g/belfast-hackspace-working-group/c/KJw3A8uAdXA) that I started in [2010](/2010/07/belfast-hackerspace-anyone/). It took until 2012 to get our act together, along with some entertaining hackathons riding on the backs of our friends at Dragonslayers.
 
 Over the past decade-and-a-bit, I'd easily say that Farset Labs has been the keystone of my life and my career, and I'm pretty sure that (before the renovations in 2019) you'd find my blood, sweat, and definitely tears staining various parts of the building.
 

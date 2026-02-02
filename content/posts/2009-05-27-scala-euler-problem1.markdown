@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: false
 date: 2009-05-27 13:44:10+00:00
-layout: post
 slug: scala-euler-problem1
 tags:
 - GitHub

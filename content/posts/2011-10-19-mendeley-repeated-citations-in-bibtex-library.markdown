@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Instructional
 comments: true
 date: 2011-10-19 08:58:30+00:00
-layout: post
 slug: mendeley-repeated-citations-in-bibtex-library
 tags:
 - latex

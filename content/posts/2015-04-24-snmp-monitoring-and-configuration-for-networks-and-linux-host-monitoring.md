@@ -1,7 +1,6 @@
 ---
 category: ''
 description: ''
-layout: post
 tags:
 - Linux
 title: SNMP Monitoring and Configuration for Networks and Linux Host Monitoring

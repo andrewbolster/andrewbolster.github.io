@@ -1,6 +1,5 @@
 ---
 date: 2024-01-17T13:50:00+00:00
-layout: post
 categories: [Data Science, Tutorial]
 tags:
 - Anaconda

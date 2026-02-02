@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Uni
 comments: false
 date: 2008-05-13 19:47:00+00:00
-layout: post
 slug: another-uni-project
 tags:
 - C/C++

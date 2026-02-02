@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Uni
 comments: true
 date: 2013-02-11 13:04:43+00:00
-layout: post
 slug: it-qub-are-moving-forward
 tags:
 - Academia

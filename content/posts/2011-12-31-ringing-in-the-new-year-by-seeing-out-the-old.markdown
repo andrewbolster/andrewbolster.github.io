@@ -1,10 +1,8 @@
 ---
-author: admin
 categories:
 - Commentary
 comments: true
 date: 2011-12-31 17:15:38+00:00
-layout: post
 slug: ringing-in-the-new-year-by-seeing-out-the-old
 tags:
 - Academia
@@ -45,7 +43,7 @@ title: Ringing in the New Year by seeing out the old
   * Got selected to be one of the two UK projects within a Joint UK/FR Defence PhD Programme, which I accepted,
 
 
-  * Saw fantastic growth in [QUESTS](http://quests.society.qub.ac.uk/) and the [Hacker^H^H^H^H^H^HMakerspace]({{ BASE_PATH }}/2011/04/why-belfast-needs-a-hackerspace/), including the beginning of a [Major project](http://quests.society.qub.ac.uk/index.php/2011/heliests-eeecs-funding-request-submitted/), which we got [EEECS](http://www.qub.ac.uk/schools/eeecs/) Funding for and are also hoping to get [QAF](http://www.qub.ac.uk/home/Alumni/SupportQueens/DonatingtoQueens/QueensAnnualFund/) funding for QUESTS in general,
+  * Saw fantastic growth in [QUESTS](http://quests.society.qub.ac.uk/) and the [Hacker^H^H^H^H^H^HMakerspace](//2011/04/why-belfast-needs-a-hackerspace/), including the beginning of a [Major project](http://quests.society.qub.ac.uk/index.php/2011/heliests-eeecs-funding-request-submitted/), which we got [EEECS](http://www.qub.ac.uk/schools/eeecs/) Funding for and are also hoping to get [QAF](http://www.qub.ac.uk/home/Alumni/SupportQueens/DonatingtoQueens/QueensAnnualFund/) funding for QUESTS in general,
 
 
   * We are on track to get a actual space for the Makerspace circa Summer 2012,
@@ -87,4 +85,4 @@ Going forward, I'm not going to make a load of promises I won't keep. Thanks to 
 
 I plan on only two things;  [KISS](http://en.wikipedia.org/wiki/KISS_principle), and...
 
-[![]({{ BASE_PATH}}/uploads/2011/12/tumblr_lvbbgb3iQ41qm70hpo4_400-257x300.jpg)]({{ BASE_PATH}}/uploads/2011/12/tumblr_lvbbgb3iQ41qm70hpo4_400.jpg)
+[![](/uploads/2011/12/tumblr_lvbbgb3iQ41qm70hpo4_400-257x300.jpg)](/uploads/2011/12/tumblr_lvbbgb3iQ41qm70hpo4_400.jpg)
