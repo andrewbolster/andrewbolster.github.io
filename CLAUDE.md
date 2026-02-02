@@ -4,55 +4,43 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Jekyll-based personal blog and portfolio website for Andrew Bolster. The site is hosted on GitHub Pages and uses the "the-minimum" theme with custom modifications. The site contains blog posts dating back to 2007, covering topics including technology, academia, data science, and Northern Ireland tech community activities.
+This is a Hugo-based personal blog and portfolio website for Andrew Bolster. The site is hosted on GitHub Pages using the PaperMod theme. The site contains blog posts dating back to 2007, covering topics including technology, academia, data science, and Northern Ireland tech community activities.
 
 ## Development Commands
 
 ### Dependencies and Setup
 ```bash
-# Install Ruby dependencies
-bundle install
+# Install Hugo and initialize theme
+make install
 
-# Update dependencies
-bundle update
-
-# Install bundler for user
-gem install bundler --user-install
+# Update theme submodule
+make update
 ```
 
 ### Content Creation
 ```bash
 # Create a new draft post
-bundle exec jekyll draft "<TITLE>"
-# Or use the Makefile
 make draft
 
-# Publish all drafts
-bundle exec jekyll publish _drafts/*
-# Or use the Makefile  
-make publish
+# In Hugo, remove 'draft: true' from front matter to publish
+# Preview drafts locally with: make serve
 ```
 
 ### Development Server
 ```bash
-# Serve the site locally with drafts included
-bundle exec jekyll serve --drafts
-# Or use the Makefile
+# Serve the site locally with drafts
 make serve
+# This runs: hugo server --buildDrafts --buildFuture --navigateToChanged
 ```
 
-### Styling
+### Building
 ```bash
-# Compile LESS to CSS with source maps
-lessc style.less style.css -m=always
-# Or use the Makefile
-make compile-css
-```
+# Build the production site
+make build
+# This runs: hugo --gc --minify
 
-### Resume Generation
-```bash
-# Generate PDF resume using Docker and Pandoc
-make resume
+# Clean generated files
+make clean
 ```
 
 ### Pre-commit Hooks
@@ -63,87 +51,124 @@ make precommit
 
 ## Architecture
 
-### Jekyll Structure
-- **_config.yml**: Main Jekyll configuration with site metadata, plugins, and theme settings
-- **_layouts/**: Layout templates that delegate to theme files
-- **_includes/**: Reusable template components and theme includes
-- **_posts/**: Blog posts in Markdown format (dating from 2007-2025)
-- **_drafts/**: Unpublished draft posts
-- **_site/**: Generated static site (excluded from git)
+### Hugo Structure
+- **hugo.toml**: Main Hugo configuration with site metadata and theme settings
+- **content/posts/**: Blog posts in Markdown format (dating from 2007-2025)
+- **content/**: Static pages (about.md, resume/, now.md, ideas.md)
+- **static/**: Images, assets, and other static files
+- **themes/PaperMod/**: PaperMod theme (git submodule)
+- **archetypes/**: Templates for new content
+- **public/**: Generated static site (excluded from git)
 
-### Styling
-- Uses LESS preprocessing for CSS
-- Main stylesheet: `assets/css/style.less`
-- Theme-based styling with custom color scheme
-- Responsive design with mobile considerations
-
-### Theme Integration
-- Uses Jekyll-Bootstrap framework
-- Theme: "the-minimum"
-- Custom modifications in `_includes/theme/` and `_layouts/`
-- Asset management through Jekyll-Bootstrap's ASSET_PATH system
+### Theme
+- Uses PaperMod theme (https://github.com/adityatelange/hugo-PaperMod)
+- Installed as git submodule in `themes/PaperMod/`
+- Configuration in `hugo.toml`
 
 ### Content Types
-- **Blog posts**: Technical writing, tutorials, opinion pieces
-- **Resume**: Markdown-based resume with PDF generation
-- **Static pages**: About, archive, categories, tags
-- **Media**: Images, notebooks, and other assets in organized directories
+- **Blog posts**: Technical writing, tutorials, opinion pieces in `content/posts/`
+- **Resume**: Markdown-based resume in `content/resume/`
+- **Static pages**: About, now, ideas, archives, search
+- **Media**: Images and assets in `static/img/` and `static/uploads/`
 
-### Plugins and Features
-- GitHub Pages compatible plugins
-- Emoji support via jemoji
-- Gist integration
-- Mentions and redirects
+### Features
+- Emoji support (GitHub-style shortcodes)
+- Syntax highlighting with Chroma
+- Built-in search
+- Tag and category taxonomies
+- RSS feed generation
 - Sitemap generation
-- Syntax highlighting with Rouge
-- Analytics integration (Google Analytics)
-- Comments via Disqus
+- Google Analytics 4 integration
 
 ## File Organization
 
 ### Posts Structure
-Posts follow Jekyll naming convention: `YYYY-MM-DD-title.extension`
+Posts follow Hugo naming convention: `YYYY-MM-DD-title.md`
 - Markdown files with YAML front matter
 - Categories and tags for organization
-- Asset files organized by year in `img/` and `uploads/`
+- Asset files organized by year in `static/img/`
 
-### Media Management
-- `img/`: Images organized by year and topic
-- `uploads/`: Additional assets and files
-- `assets/`: CSS, JavaScript, and other web assets
-- `icons/`: Site icons and logos
+### URL Structure
+Posts use permalink pattern: `/:year/:month/:title.html`
+- Example: `/2024/02/my-post-title.html`
+- Preserves legacy Jekyll URL structure for SEO
 
-### Generated Content
-- Feed files (Atom and RSS)
-- Sitemap and robots.txt
-- Category and tag index pages
-- Archive pages
+### Static Assets
+- `static/img/`: Images organized by year and topic
+- `static/uploads/`: Additional assets and files
+- `static/assets/`: CSS, JavaScript, and fonts
+- `static/icons/`: Site icons and logos
 
 ## Development Notes
 
 ### Local Development
-- Uses Ruby bundler for dependency management
-- Jekyll serve with `--drafts` for development
-- LESS compilation required for styling changes
-- Pre-commit hooks available for code quality
+- Hugo Extended required for SCSS processing
+- `hugo server -D` for development with drafts
+- Hot reload enabled by default
 
 ### Deployment
-- Automated deployment to GitHub Pages
+- GitHub Actions workflow in `.github/workflows/hugo.yml`
+- Netlify configuration in `netlify.toml`
 - Custom domain: andrewbolster.info
 - SSL enforcement configured
 
 ### Content Guidelines
-- Posts support Kramdown markdown syntax
+- Posts support CommonMark/GFM markdown syntax
 - Code blocks with syntax highlighting
-- Image optimization recommended
+- Raw HTML allowed in markdown (unsafe mode enabled)
 - Front matter required for all posts
+
+## Hugo Gotchas and Common Issues
+
+This section documents issues discovered during the Jekyll-to-Hugo migration and ongoing maintenance.
+
+### Date Format Requirements
+Hugo requires ISO 8601 date format in front matter. Non-standard formats will cause build failures.
+- **Bad**: `date: 2019-05-17 08:42 +0100`
+- **Good**: `date: 2019-05-17T08:42:00+01:00`
+
+### Tags with Special Characters
+Netlify cannot deploy files with `#` or `?` in filenames. Tags containing these characters will cause deployment failures.
+- **Bad**: `- '#OnionPulitzer'`, `- 'C#'`, `- 'Ludum Dare #17'`
+- **Good**: `- OnionPulitzer`, `- CSharp`, `- Ludum Dare 17`
+
+### Markdown After Raw HTML Blocks
+Goldmark (Hugo's markdown renderer) requires a blank line between raw HTML and markdown content. Without it, markdown following HTML is rendered as literal text.
+```markdown
+<!-- BAD: markdown not rendered -->
+<img src="image.png"/>
+**This text appears as literal asterisks**
+
+<!-- GOOD: blank line separates HTML from markdown -->
+<img src="image.png"/>
+
+**This text is properly bold**
+```
+
+### PaperMod Configuration
+The `profileMode` parameter must be a table, not a boolean:
+- **Bad**: `profileMode = false`
+- **Good**: `[params.profileMode]` with `enabled = false`
+
+### Hugo Version and GLIBC
+Modern Hugo versions (0.146.0+) require GLIBC 2.32+. For Netlify deployment:
+- Use `[images] build = "ubuntu-22.04"` in `netlify.toml` for GLIBC 2.35
+- Older Netlify images (Ubuntu 20.04/Focal) have GLIBC 2.31 which is insufficient
+
+### Building Hugo from Source
+If pre-built binaries aren't available, build from source with Go:
+```bash
+cd /tmp && git clone --depth 1 --branch v0.146.0 https://github.com/gohugoio/hugo.git
+cd hugo && GOPROXY=direct CGO_ENABLED=1 go build -tags extended -o hugo .
+```
 
 ## Common Tasks
 
 ### Adding a New Post
-1. Create draft: `make draft` or `bundle exec jekyll draft "Title"`
-2. Edit in `_drafts/`
-3. Publish: `make publish` or `bundle exec jekyll publish _drafts/post-name.md`
+1. Create draft: `make draft` (prompts for title)
+2. Edit the new file in `content/posts/`
+3. Remove `draft: true` from front matter when ready to publish
+4. Commit and push to trigger deployment
 
 ### Content Enhancement Workflow
 When working with Claude Code to enhance blog posts:
@@ -167,7 +192,7 @@ When working with Claude Code to enhance blog posts:
 - When adding links to both formal and informal versions, maintain consistency
 
 #### Categorization and Tagging
-- Review recent posts in `_posts/` folder to understand existing patterns
+- Review recent posts in `content/posts/` folder to understand existing patterns
 - Categories: typically 2-3 broad categories (e.g., [AI, Commentary])
 - Tags: comprehensive, including:
   - Technology terms (AI, LLM, machine learning)
@@ -182,11 +207,10 @@ When ready to publish from a feature branch:
 # 1. Commit all changes
 git commit -am "Final edits and enhancements"
 
-# 2. Publish draft to _posts/
-make publish
+# 2. Remove draft: true from front matter if present
 
-# 3. Commit published post
-git add _posts/YYYY-MM-DD-*.md _drafts/
+# 3. Commit and push
+git add content/posts/YYYY-MM-DD-*.md
 git commit -m "Publish: [Post Title]"
 
 # 4. Merge to master and deploy
@@ -195,19 +219,13 @@ git merge [feature-branch]
 git push
 ```
 
-### Modifying Styles
-1. Edit `assets/css/style.less` or related LESS files
-2. Compile: `make compile-css`
-3. Test locally: `make serve`
-
 ### Resume Updates
-1. Edit `resume/index.md`
-2. Generate PDF: `make resume`
+1. Edit `content/resume/_index.md`
 
 ### Theme Customization
-- Override theme files in `_includes/theme/`
-- Modify layouts in `_layouts/`
-- Customize variables in LESS files
+- Override theme files by creating matching paths in project root
+- Example: `layouts/_default/single.html` overrides theme's single.html
+- PaperMod documentation: https://adityatelange.github.io/hugo-PaperMod/
 
 ## Best Practices for Claude Code
 

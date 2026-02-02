@@ -1,0 +1,13 @@
+{{- define "main" }}
+
+<article class="post-single resume-page">
+  <div class="post-content resume-content">
+    {{- .Content }}
+  </div>
+
+  <footer class="post-footer resume-footer no-print">
+    <button onclick="window.print()" class="print-button">Print / Save as PDF</button>
+  </footer>
+</article>
+
+{{- end }}{{/* end main */}}

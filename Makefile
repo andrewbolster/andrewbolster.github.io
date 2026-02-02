@@ -1,38 +1,51 @@
-.PHONY: install update draft publish serve resume compile-css all
-# Install dependencies
-install:
-	gem install bundler --user-install
-	bundle install
+.PHONY: install update draft publish serve build clean precommit all
 
+# Install Hugo (assumes brew on macOS, or provides instructions)
+install:
+	@echo "Installing Hugo..."
+	@if command -v brew >/dev/null 2>&1; then \
+		brew install hugo; \
+	elif command -v apt-get >/dev/null 2>&1; then \
+		sudo apt-get update && sudo apt-get install -y hugo; \
+	elif command -v snap >/dev/null 2>&1; then \
+		sudo snap install hugo --channel=extended; \
+	else \
+		echo "Please install Hugo manually: https://gohugo.io/installation/"; \
+		exit 1; \
+	fi
+	@echo "Initializing git submodules for theme..."
+	git submodule update --init --recursive
+
+# Run pre-commit hooks
 precommit:
 	pre-commit run --all-files
 
-# Update dependencies
+# Update theme submodule
 update:
-	bundle update
+	git submodule update --remote --merge
 
-# Draft a new post
+# Create a new draft post
 draft:
 	@read -p "Enter the title of the draft: " title; \
-	bundle exec jekyll draft "$$title"
+	hugo new content/posts/$$(date +%Y-%m-%d)-$$(echo "$$title" | tr '[:upper:]' '[:lower:]' | tr ' ' '-').md
 
-# Publish all drafts
+# Publish drafts (move from draft: true to draft: false)
+# In Hugo, drafts are controlled by front matter, not directory location
 publish:
-	bundle exec jekyll publish _drafts/*
+	@echo "In Hugo, remove 'draft: true' from front matter to publish."
+	@echo "Alternatively, use: hugo server -D to preview drafts locally."
 
+# Serve the site locally with drafts
 serve:
-	bundle exec jekyll serve --drafts
+	hugo server --buildDrafts --buildFuture --navigateToChanged
 
-resume:
-	docker run --rm \
-	    --platform linux/amd64 \
-		--volume "$$(pwd):/data" \
-		--user $$(id -u):$$(id -g) \
-		pandoc/extra resume/index.md -o resume/AndrewBolster.pdf --template eisvogel --listings
+# Build the production site
+build:
+	hugo --gc --minify
 
-# Compile LESS to CSS with source maps
-compile-css:
-	lessc style.less style.css -m=always
+# Clean generated files
+clean:
+	rm -rf public resources
 
 # Default target
-all: install update compile-css
+all: install build

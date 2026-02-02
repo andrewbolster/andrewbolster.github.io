@@ -1,0 +1,14 @@
+{{- $gitInfo := .Page.GitInfo -}}
+<div class="last-modified" style="margin-bottom: 1rem; padding: 0.5rem 0; font-size: 0.9rem; color: var(--secondary); border-bottom: 1px solid var(--border);">
+  {{- if $gitInfo -}}
+  <a href="https://github.com/andrewbolster/andrewbolster.github.io/commit/{{ $gitInfo.Hash }}"
+     target="_blank" rel="noopener noreferrer"
+     title="View commit {{ $gitInfo.AbbreviatedHash }}: {{ $gitInfo.Subject }}">
+    Last updated: {{ .Page.Lastmod.Format "January 2, 2006" }}
+  </a>
+  {{- else -}}
+  <time datetime="{{ .Page.Lastmod }}" title="{{ .Page.Lastmod }}">
+    Last updated: {{ .Page.Lastmod.Format "January 2, 2006" }}
+  </time>
+  {{- end -}}
+</div>

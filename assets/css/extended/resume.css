@@ -1,0 +1,472 @@
+/* Resume-specific styles */
+
+.resume-page {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.resume-content {
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+/* ============================================
+   HEADER SECTION (full width)
+   ============================================ */
+.resume-header {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--primary);
+}
+
+.resume-header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+    margin-top: 0;
+}
+
+.resume-header > p:first-of-type {
+    font-style: italic;
+    color: var(--primary);
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+}
+
+.resume-header p {
+    margin-bottom: 0.75rem;
+}
+
+/* Profile image in header */
+.resume-header img[src*="bolster.png"] {
+    float: right;
+    width: 120px;
+    height: auto;
+    margin: 0 0 1rem 1.5rem;
+    border-radius: 50%;
+    border: 3px solid var(--primary);
+}
+
+/* ============================================
+   TWO-COLUMN LAYOUT
+   ============================================ */
+.resume-two-column {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+    align-items: start;
+}
+
+.resume-main {
+    grid-column: 1;
+}
+
+.resume-sidebar {
+    grid-column: 2;
+    position: sticky;
+    top: 80px;
+}
+
+/* ============================================
+   MAIN CONTENT STYLES
+   ============================================ */
+.resume-main h2 {
+    font-size: 1.3rem;
+    color: var(--primary);
+    border-bottom: 1px solid var(--tertiary);
+    padding-bottom: 0.25rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.resume-main h2:first-child {
+    margin-top: 0;
+}
+
+/* Job titles and companies */
+.resume-main h3 {
+    font-size: 1.1rem;
+    margin-top: 1.25rem;
+    margin-bottom: 0.25rem;
+}
+
+.resume-main h3 img {
+    float: right;
+    height: 28px;
+    width: auto;
+    margin-left: 0.5rem;
+    border-radius: 4px;
+}
+
+.resume-main h4 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--secondary);
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+}
+
+/* Compact lists in main */
+.resume-main ul {
+    margin: 0.5rem 0;
+    padding-left: 1.25rem;
+}
+
+.resume-main li {
+    margin-bottom: 0.25rem;
+}
+
+/* ============================================
+   SIDEBAR STYLES
+   ============================================ */
+.resume-sidebar {
+    font-size: 0.9rem;
+    background: var(--code-bg);
+    padding: 1rem;
+    border-radius: 8px;
+    border-left: 3px solid var(--primary);
+}
+
+.resume-sidebar h2 {
+    font-size: 1rem;
+    color: var(--primary);
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--tertiary);
+}
+
+.resume-sidebar h2:first-child {
+    margin-top: 0;
+}
+
+.resume-sidebar p {
+    margin-bottom: 0.5rem;
+}
+
+.resume-sidebar ul {
+    margin: 0.5rem 0;
+    padding-left: 1rem;
+    list-style: none;
+}
+
+.resume-sidebar li {
+    margin-bottom: 0.35rem;
+    font-size: 0.85rem;
+}
+
+.resume-sidebar li::before {
+    content: "•";
+    color: var(--primary);
+    margin-right: 0.5rem;
+}
+
+/* Contact section links need block styling for vertical layout */
+.resume-sidebar #contact ~ p a {
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+/* Professional association links should be inline to prevent extended underlines */
+.resume-sidebar #professional-associations ~ ul a {
+    display: inline;
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+    line-height: 1.3;
+}
+
+/* ============================================
+   PRINT STYLES
+   ============================================ */
+@media print {
+    /* Force white background and black text everywhere */
+    * {
+        background: white !important;
+        color: black !important;
+        box-shadow: none !important;
+        border-color: black !important;
+    }
+
+    /* Hide web-only elements */
+    header.header,
+    footer.footer,
+    .toc,
+    .print-button,
+    .resume-footer,
+    .no-print,
+    .post-nav-links,
+    #theme-toggle,
+    .top-link {
+        display: none !important;
+    }
+
+    /* Page setup */
+    @page {
+        size: A4;
+        margin: 0.75in;
+    }
+
+    /* Body reset */
+    body {
+        font-family: Georgia, 'Times New Roman', serif !important;
+        font-size: 12pt !important;
+        line-height: 1.5 !important;
+        background: white !important;
+        color: black !important;
+    }
+
+    /* Container */
+    .resume-page {
+        width: 100% !important;
+        max-width: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        background: white !important;
+    }
+
+    .resume-content {
+        background: white !important;
+    }
+
+    /* Header - simplified for print */
+    .resume-header {
+        background: white !important;
+        border-bottom: 2px solid black !important;
+        padding-bottom: 12pt !important;
+        margin-bottom: 16pt !important;
+        page-break-after: avoid !important;
+    }
+
+    .resume-header h1 {
+        font-size: 20pt !important;
+        font-weight: bold !important;
+        color: black !important;
+        margin: 0 0 6pt 0 !important;
+        background: white !important;
+    }
+
+    .resume-header p {
+        background: white !important;
+        color: black !important;
+        margin: 4pt 0 !important;
+    }
+
+    .resume-header > p:first-of-type {
+        font-style: italic !important;
+        font-size: 12pt !important;
+    }
+
+    .resume-header img {
+        width: 80px !important;
+        height: 80px !important;
+        float: right !important;
+        margin: 0 0 12pt 12pt !important;
+        border: 2px solid black !important;
+        border-radius: 50% !important;
+    }
+
+    /* Simple single column layout */
+    .resume-two-column {
+        display: block !important;
+        width: 100% !important;
+        background: white !important;
+    }
+
+    .resume-main {
+        display: block !important;
+        width: 100% !important;
+        background: white !important;
+    }
+
+    /* Sidebar appears at the end as simple content */
+    .resume-sidebar {
+        display: block !important;
+        width: 100% !important;
+        margin-top: 16pt !important;
+        padding: 0 !important;
+        border: none !important;
+        background: white !important;
+        font-size: 10pt !important;
+        line-height: 1.3 !important;
+        page-break-inside: avoid !important;
+    }
+
+
+    /* Force Education section to new page */
+    .resume-main h2#education {
+        page-break-before: always !important;
+        margin-top: 0 !important;
+    }
+
+    /* Main content headings */
+    .resume-main h2 {
+        font-size: 16pt !important;
+        font-weight: bold !important;
+        color: black !important;
+        background: white !important;
+        border-bottom: 1px solid black !important;
+        padding-bottom: 4pt !important;
+        margin: 16pt 0 8pt 0 !important;
+    }
+
+    .resume-main h2:first-child {
+        margin-top: 0 !important;
+    }
+
+    .resume-main h3 {
+        font-size: 13pt !important;
+        font-weight: bold !important;
+        color: black !important;
+        background: white !important;
+        margin: 12pt 0 4pt 0 !important;
+    }
+
+    .resume-main h3 img {
+        float: right !important;
+        height: 16pt !important;
+        margin-left: 8pt !important;
+    }
+
+    .resume-main h4 {
+        font-size: 11pt !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+        color: black !important;
+        background: white !important;
+        margin: 2pt 0 4pt 0 !important;
+    }
+
+    .resume-main p {
+        font-size: 11pt !important;
+        line-height: 1.4 !important;
+        color: black !important;
+        background: white !important;
+        margin: 6pt 0 !important;
+        text-align: justify !important;
+    }
+
+    .resume-main ul {
+        margin: 6pt 0 !important;
+        padding-left: 16pt !important;
+        background: white !important;
+    }
+
+    .resume-main li {
+        font-size: 11pt !important;
+        line-height: 1.4 !important;
+        color: black !important;
+        background: white !important;
+        margin-bottom: 3pt !important;
+    }
+
+    /* Sidebar - only visible on first page */
+    .resume-sidebar h2 {
+        font-size: 12pt !important;
+        font-weight: bold !important;
+        color: black !important;
+        background: white !important;
+        border-bottom: 1px solid black !important;
+        padding-bottom: 1pt !important;
+        margin: 8pt 0 4pt 0 !important;
+    }
+
+    .resume-sidebar h2:first-child {
+        margin-top: 0 !important;
+    }
+
+    .resume-sidebar p {
+        font-size: 10pt !important;
+        line-height: 1.2 !important;
+        color: black !important;
+        background: white !important;
+        margin: 2pt 0 !important;
+    }
+
+    .resume-sidebar ul {
+        margin: 2pt 0 !important;
+        padding-left: 0 !important;
+        list-style: none !important;
+        background: white !important;
+    }
+
+    .resume-sidebar li {
+        font-size: 10pt !important;
+        line-height: 1.2 !important;
+        color: black !important;
+        background: white !important;
+        margin: 1pt 0 !important;
+        padding-left: 8pt !important;
+    }
+
+    .resume-sidebar li::before {
+        content: "• " !important;
+        color: black !important;
+        margin-left: -8pt !important;
+        margin-right: 4pt !important;
+    }
+
+    /* Links - functional but invisible */
+    a,
+    a:visited,
+    a:hover {
+        color: black !important;
+        background: white !important;
+        text-decoration: none !important;
+        border: none !important;
+    }
+
+    a::after {
+        content: "" !important;
+    }
+
+    /* Remove any remaining theme artifacts */
+    .resume-sidebar {
+        border-radius: 0 !important;
+        box-shadow: none !important;
+    }
+}
+
+/* ============================================
+   PRINT BUTTON
+   ============================================ */
+.print-button {
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.print-button:hover {
+    background: var(--primary-hover);
+}
+
+.resume-footer {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--tertiary);
+}
+
+.no-print {
+    /* Will be hidden in print */
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+@media (max-width: 768px) {
+    .resume-two-column {
+        grid-template-columns: 1fr;
+    }
+
+    .resume-sidebar {
+        grid-column: 1;
+        position: static;
+        margin-top: 1.5rem;
+    }
+
+    .resume-header img[src*="bolster.png"] {
+        width: 100px;
+    }
+}
