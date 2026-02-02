@@ -22,7 +22,7 @@ When you want to spin up an experimental environment and get it tied in to your 
 
 ```bash
 # Create the conda environment with $NAME and ipykernel as the main dependency
-conda create --name $NAME ipykernel && conda activate
+conda create --name $NAME ipykernel && conda activate $NAME
 
 # Once you're in the new environment, add it to the _global_ (There may be a better `kernelspec` way to do this but I haven't done it yet.)
 ipython kernel install --name=$CONDA_DEFAULT_ENV --user

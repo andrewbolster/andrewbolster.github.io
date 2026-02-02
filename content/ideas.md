@@ -4,7 +4,7 @@ date: 2024-02-27
 url: /ideas/
 ---
 
-- [ ] Convert this blog to Hugo
+- [X] Convert this blog to Hugo
 - [ ] Write more blogs about epaper
 - [X] Finish homeassistant
 - [X] Plan for a mortgage

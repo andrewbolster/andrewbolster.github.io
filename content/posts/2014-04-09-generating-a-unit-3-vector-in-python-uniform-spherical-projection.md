@@ -40,7 +40,7 @@ def random_three_vector():
 # Example IPython code to test the uniformity of the distribution
 from pylab import scatter
 threetups = []
-for _ in xrange(1000):
+for _ in range(1000):
     threetups.append(random_three_vector())
 zipped = zip(*threetups)
 scatter(*zipped[0:2])
