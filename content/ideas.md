@@ -1,8 +1,9 @@
 ---
 title: Ideas
-date: 2024-02-27
 url: /ideas/
 ---
+
+{{< lastmod >}}
 
 - [X] Convert this blog to Hugo
 - [ ] Write more blogs about epaper

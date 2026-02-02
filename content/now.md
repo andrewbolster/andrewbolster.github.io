@@ -1,10 +1,9 @@
 ---
 title: Now
-date: 2024-02-27
 url: /now/
 ---
 
-# Now
+{{< lastmod >}}
 
 Senior R&D Manager @ [Black Duck Software](https://blackduck.com/), driving data to make AI work.
 

@@ -6,14 +6,19 @@ theme = "PaperMod"
 # Enable emoji support (for jemoji compatibility)
 enableEmoji = true
 
+# Enable Git info for lastmod shortcode
+enableGitInfo = true
+
 # Pagination
 [pagination]
   pagerSize = 10
   path = "page"
 
-# Preserve Jekyll permalink structure: /:year/:month/:title.html
+# Clean URL structure without .html extensions
+uglyURLs = true
+canonifyURLs = true
 [permalinks]
-  posts = "/:year/:month/:title.html"
+  posts = "/:year/:month/:title"
 
 # Build settings
 [build]
@@ -60,7 +65,7 @@ enableEmoji = true
 
   # Home page
   [params.homeInfoParams]
-    Title = "Of Penguins and Coffee"
+    Title = "Howdi, I'm Andrew, but most people call me Bolster"
     Content = "Rants, Rambles, and Reminders by a Jack of all Trades"
 
   # Social icons

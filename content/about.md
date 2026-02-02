@@ -1,6 +1,5 @@
 ---
 title: About
-date: 2008-08-19
 url: /about/
 layout: about
 hideMeta: true
@@ -196,3 +195,5 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :studio_microphone: [Andrew Bolster from Farset Labs talking to Linzi Corr at ITE Belfast](http://www.youtube.com/watch?v=qeaN_2xU2hk) - Brightwater Recruitment - Interview
   * :newspaper: [Muckraker Partners with Farset Labs (Blog)](http://muckraker.me/2012/03/25/announcing-the-muckrakers-partnership-with-farset-labs/) - Muckraker - Appearance
   * :scientist: [A Different Road](http://www.sciencedirect.com/science/article/pii/S0262407912604485) - New Scientist - Interview
+
+{{< lastmod >}}
