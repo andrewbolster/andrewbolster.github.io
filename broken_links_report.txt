@@ -1,9 +1,0 @@
-Broken Link Report - Generated at 2026-02-02 21:27:26
-============================================================
-
-URL: http://localhost:1313/feed.rss
-Status: 404
-Found on pages:
-  - http://localhost:1313
-  - http://localhost:1313/
-  - http://localhost:1313/about/
