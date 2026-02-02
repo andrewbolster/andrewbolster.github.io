@@ -9,17 +9,13 @@ hideMeta: true
 
 ![](/img/bolster.png)
 
-# Andrew Bolster Ph.D. MEng
+# Andrew Bolster Ph.D. MEng FRSS MBCS
 
 *Driving data to make AI work*
 
 Data Science and AI Governance Leader with a wide range of experience across technical, business, and entrepreneurial fields.
 
 Specific interests in and around intelligent decision support systems, cybersecurity, 'trust' in asymmetric risk environments, ML/AI driven SME Decision Support and Advisory systems, software engineering best practices, STEM outreach, community management and development, market analysis and innovation strategy.
-
-Ph.D. Research at the University of Liverpool as part of a Anglo-French Defence Programme around Trusted Autonomous Submarines for Defence Applications.
-
-Experienced Speaker, Panelist and commentator, with appearances at Regional and National events from TEDx and All-Island Innovation Conferences to representing the Northern Ireland technology and business communities in international trade-delegations.
 
 </div>
 

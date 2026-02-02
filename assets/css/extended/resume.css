@@ -160,10 +160,269 @@
     margin-right: 0.5rem;
 }
 
-/* Contact links in sidebar */
-.resume-sidebar a {
+/* Contact section links need block styling for vertical layout */
+.resume-sidebar #contact ~ p a {
     display: block;
     margin-bottom: 0.25rem;
+}
+
+/* Professional association links should be inline to prevent extended underlines */
+.resume-sidebar #professional-associations ~ ul a {
+    display: inline;
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+    line-height: 1.3;
+}
+
+/* ============================================
+   PRINT STYLES
+   ============================================ */
+@media print {
+    /* Force white background and black text everywhere */
+    * {
+        background: white !important;
+        color: black !important;
+        box-shadow: none !important;
+        border-color: black !important;
+    }
+
+    /* Hide web-only elements */
+    header.header,
+    footer.footer,
+    .toc,
+    .print-button,
+    .resume-footer,
+    .no-print,
+    .post-nav-links,
+    #theme-toggle,
+    .top-link {
+        display: none !important;
+    }
+
+    /* Page setup */
+    @page {
+        size: A4;
+        margin: 0.75in;
+    }
+
+    /* Body reset */
+    body {
+        font-family: Georgia, 'Times New Roman', serif !important;
+        font-size: 12pt !important;
+        line-height: 1.5 !important;
+        background: white !important;
+        color: black !important;
+    }
+
+    /* Container */
+    .resume-page {
+        width: 100% !important;
+        max-width: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        background: white !important;
+    }
+
+    .resume-content {
+        background: white !important;
+    }
+
+    /* Header - simplified for print */
+    .resume-header {
+        background: white !important;
+        border-bottom: 2px solid black !important;
+        padding-bottom: 12pt !important;
+        margin-bottom: 16pt !important;
+        page-break-after: avoid !important;
+    }
+
+    .resume-header h1 {
+        font-size: 20pt !important;
+        font-weight: bold !important;
+        color: black !important;
+        margin: 0 0 6pt 0 !important;
+        background: white !important;
+    }
+
+    .resume-header p {
+        background: white !important;
+        color: black !important;
+        margin: 4pt 0 !important;
+    }
+
+    .resume-header > p:first-of-type {
+        font-style: italic !important;
+        font-size: 12pt !important;
+    }
+
+    .resume-header img {
+        width: 80px !important;
+        height: 80px !important;
+        float: right !important;
+        margin: 0 0 12pt 12pt !important;
+        border: 2px solid black !important;
+        border-radius: 50% !important;
+    }
+
+    /* Simple single column layout */
+    .resume-two-column {
+        display: block !important;
+        width: 100% !important;
+        background: white !important;
+    }
+
+    .resume-main {
+        display: block !important;
+        width: 100% !important;
+        background: white !important;
+    }
+
+    /* Sidebar appears at the end as simple content */
+    .resume-sidebar {
+        display: block !important;
+        width: 100% !important;
+        margin-top: 16pt !important;
+        padding: 0 !important;
+        border: none !important;
+        background: white !important;
+        font-size: 10pt !important;
+        line-height: 1.3 !important;
+        page-break-inside: avoid !important;
+    }
+
+
+    /* Force Education section to new page */
+    .resume-main h2#education {
+        page-break-before: always !important;
+        margin-top: 0 !important;
+    }
+
+    /* Main content headings */
+    .resume-main h2 {
+        font-size: 16pt !important;
+        font-weight: bold !important;
+        color: black !important;
+        background: white !important;
+        border-bottom: 1px solid black !important;
+        padding-bottom: 4pt !important;
+        margin: 16pt 0 8pt 0 !important;
+    }
+
+    .resume-main h2:first-child {
+        margin-top: 0 !important;
+    }
+
+    .resume-main h3 {
+        font-size: 13pt !important;
+        font-weight: bold !important;
+        color: black !important;
+        background: white !important;
+        margin: 12pt 0 4pt 0 !important;
+    }
+
+    .resume-main h3 img {
+        float: right !important;
+        height: 16pt !important;
+        margin-left: 8pt !important;
+    }
+
+    .resume-main h4 {
+        font-size: 11pt !important;
+        font-weight: 600 !important;
+        font-style: italic !important;
+        color: black !important;
+        background: white !important;
+        margin: 2pt 0 4pt 0 !important;
+    }
+
+    .resume-main p {
+        font-size: 11pt !important;
+        line-height: 1.4 !important;
+        color: black !important;
+        background: white !important;
+        margin: 6pt 0 !important;
+        text-align: justify !important;
+    }
+
+    .resume-main ul {
+        margin: 6pt 0 !important;
+        padding-left: 16pt !important;
+        background: white !important;
+    }
+
+    .resume-main li {
+        font-size: 11pt !important;
+        line-height: 1.4 !important;
+        color: black !important;
+        background: white !important;
+        margin-bottom: 3pt !important;
+    }
+
+    /* Sidebar - only visible on first page */
+    .resume-sidebar h2 {
+        font-size: 12pt !important;
+        font-weight: bold !important;
+        color: black !important;
+        background: white !important;
+        border-bottom: 1px solid black !important;
+        padding-bottom: 1pt !important;
+        margin: 8pt 0 4pt 0 !important;
+    }
+
+    .resume-sidebar h2:first-child {
+        margin-top: 0 !important;
+    }
+
+    .resume-sidebar p {
+        font-size: 10pt !important;
+        line-height: 1.2 !important;
+        color: black !important;
+        background: white !important;
+        margin: 2pt 0 !important;
+    }
+
+    .resume-sidebar ul {
+        margin: 2pt 0 !important;
+        padding-left: 0 !important;
+        list-style: none !important;
+        background: white !important;
+    }
+
+    .resume-sidebar li {
+        font-size: 10pt !important;
+        line-height: 1.2 !important;
+        color: black !important;
+        background: white !important;
+        margin: 1pt 0 !important;
+        padding-left: 8pt !important;
+    }
+
+    .resume-sidebar li::before {
+        content: "• " !important;
+        color: black !important;
+        margin-left: -8pt !important;
+        margin-right: 4pt !important;
+    }
+
+    /* Links - functional but invisible */
+    a,
+    a:visited,
+    a:hover {
+        color: black !important;
+        background: white !important;
+        text-decoration: none !important;
+        border: none !important;
+    }
+
+    a::after {
+        content: "" !important;
+    }
+
+    /* Remove any remaining theme artifacts */
+    .resume-sidebar {
+        border-radius: 0 !important;
+        box-shadow: none !important;
+    }
 }
 
 /* ============================================
@@ -209,145 +468,5 @@
 
     .resume-header img[src*="bolster.png"] {
         width: 100px;
-    }
-}
-
-/* ============================================
-   PRINT STYLES
-   ============================================ */
-@media print {
-    /* Hide non-essential elements */
-    header.header,
-    footer.footer,
-    .toc,
-    .print-button,
-    .resume-footer,
-    .no-print,
-    .post-nav-links,
-    #theme-toggle,
-    .top-link {
-        display: none !important;
-    }
-
-    /* Reset page margins */
-    @page {
-        margin: 0.4in;
-        size: A4;
-    }
-
-    body {
-        font-size: 10pt;
-        line-height: 1.35;
-        color: #000 !important;
-        background: #fff !important;
-    }
-
-    .resume-page {
-        max-width: 100%;
-        padding: 0;
-        margin: 0;
-    }
-
-    .resume-content {
-        font-size: 9pt;
-    }
-
-    /* Single column for print */
-    .resume-two-column {
-        display: block;
-    }
-
-    .resume-sidebar {
-        position: static;
-        background: none !important;
-        padding: 0;
-        border-left: none;
-        margin-top: 1rem;
-        border-top: 1px solid #ccc;
-        padding-top: 0.5rem;
-    }
-
-    /* Header */
-    .resume-header {
-        margin-bottom: 0.75rem;
-        padding-bottom: 0.5rem;
-    }
-
-    .resume-header h1 {
-        font-size: 16pt;
-    }
-
-    .resume-header img[src*="bolster.png"] {
-        width: 70px;
-    }
-
-    /* Ensure links are readable */
-    a {
-        color: #000 !important;
-        text-decoration: none;
-    }
-
-    /* Only show URLs for external links in main content */
-    .resume-main a[href^="http"]::after {
-        content: " (" attr(href) ")";
-        font-size: 7pt;
-        color: #666;
-    }
-
-    /* Don't show URL for internal/mail/sidebar links */
-    a[href^="/"]::after,
-    a[href^="#"]::after,
-    a[href^="mailto"]::after,
-    .resume-sidebar a::after {
-        content: "" !important;
-    }
-
-    /* Headers */
-    .resume-main h2 {
-        font-size: 12pt;
-        page-break-after: avoid;
-        margin-top: 0.75rem;
-    }
-
-    .resume-main h3 {
-        font-size: 10pt;
-        page-break-after: avoid;
-    }
-
-    .resume-main h4 {
-        font-size: 9pt;
-    }
-
-    .resume-sidebar h2 {
-        font-size: 9pt;
-    }
-
-    .resume-sidebar li {
-        font-size: 8pt;
-    }
-
-    /* Keep sections together */
-    .resume-main h2,
-    .resume-main h3,
-    .resume-main h4 {
-        page-break-after: avoid;
-    }
-
-    .resume-main p,
-    .resume-main li {
-        page-break-inside: avoid;
-    }
-
-    /* Company logos */
-    .resume-main h3 img {
-        height: 18px;
-        print-color-adjust: exact;
-        -webkit-print-color-adjust: exact;
-    }
-
-    /* Avoid orphans/widows */
-    p {
-        orphans: 3;
-        widows: 3;
     }
 }
