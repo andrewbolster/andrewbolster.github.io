@@ -3,18 +3,14 @@ category: hotfix
 date: 2018-10-22T12:29:00+01:00
 layout: post
 tags:
-- data-analysis
-- python
-- data
-- education
-- file-management
-- notebook
+- 'Data Science'
+- Education
+- Jupyter
+- 'Open Data'
+- Python
 - coding
-- metadata
-- data-reporting
-- open-data
-- jupyter
-- python jupyter data notebook
+- 'file-management'
+- notebook
 title: Daily Dated Untitled Jupyter Notebooks
 ---
 

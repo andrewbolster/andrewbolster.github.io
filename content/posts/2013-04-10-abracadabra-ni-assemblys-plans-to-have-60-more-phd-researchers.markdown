@@ -7,29 +7,16 @@ date: 2013-04-10 09:20:58+00:00
 layout: post
 slug: abracadabra-ni-assemblys-plans-to-have-60-more-phd-researchers
 tags:
-- phd
-- STEM outreach activities
-- dup
-- steam
-- Farset Labs
-- technology
-- science
-- NI Economic Activity Baseline Report
-- mathematics
-- NI assembly
-- Corporate Knowledge Transfer Partnerships
-- Biomed
-- careers
-- engineering
-- stem
-- farry
-- assembly
-- DEL funded studentships
 - ECIT
-- researchers
+- 'Farset Labs'
+- Gaming
+- PhD
+- Politics
 - QUB
-- STEM subjects
-- mla
+- STEM
+- Technology
+- mathematics
+- science
 title: Abracadabra - NI Assembly's Plans to have 60% more PhD Researchers
 ---
 

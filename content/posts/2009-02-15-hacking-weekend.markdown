@@ -8,20 +8,12 @@ date: 2009-02-15 20:05:33+00:00
 layout: post
 slug: hacking-weekend
 tags:
-- packet capture
-- Aircrack
-- linux
-- wesside-ng
-- Backtrack 4
-- WEP
-- desktop
-- airodump-ng
-- arp attacks
-- subversion
-- Wireless
-- remote
-- aireplay-ng
-- software
+- Cybersecurity
+- Desktop
+- Hacking
+- Linux
+- 'Version Control'
+- WiFi
 title: Hacking Weekend
 ---
 

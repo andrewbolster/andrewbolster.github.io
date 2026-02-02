@@ -5,15 +5,11 @@ date: 2008-05-12 19:51:00+00:00
 layout: post
 slug: folding-code
 tags:
+- Bash
+- C/C++
+- Linux
+- Programming
 - Ubuntu
-- folding
-- linux
-- bash
-- scripting
-- command-line
-- text-to-speech
-- C
-- programming
 title: Folding Code
 ---
 

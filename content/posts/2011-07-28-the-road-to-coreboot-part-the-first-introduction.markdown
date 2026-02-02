@@ -7,32 +7,12 @@ date: 2011-07-28 10:22:56+00:00
 layout: post
 slug: the-road-to-coreboot-part-the-first-introduction
 tags:
-- code
-- fusion
-- SPI BIOS
-- PC Engines
-- flashrom
-- IAESTE
-- hardware
-- LPC Bus
-- SIO
-- embedded systems
-- Embedded
-- BIOS
-- amd
-- coreboot
-- universal serial programmer
+- AMD
+- EeePC
+- 'Embedded Systems'
 - IRC
-- motherboard
-- chipset
-- x86
-- open source
-- TPM
-- eee
-- superio
-- CPU
-- south-bridge
-- north-bridge
+- 'Open Source'
+- 'embedded systems'
 title: 'The Road to Coreboot, Part the First: Introduction'
 ---
 

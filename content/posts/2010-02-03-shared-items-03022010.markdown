@@ -7,16 +7,11 @@ date: 2010-02-03 06:12:28+00:00
 layout: post
 slug: shared-items-03022010
 tags:
-- graphic design
-- dual boot
-- social media
-- usability
-- freelancing
-- PowerPoint
-- audience types
+- Programming
+- 'Social Media'
 - WiFi
-- programming
-- web browsers
+- 'dual boot'
+- freelancing
 title: Shared Items - 03/02/2010
 ---
 

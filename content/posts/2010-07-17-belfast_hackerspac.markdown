@@ -7,39 +7,20 @@ date: 2010-07-17 17:42:11+00:00
 layout: post
 slug: belfast_hackerspac
 tags:
-- experimentation
-- TheNextHope
-- collaboration
-- creative
+- Academia
 - Belfast
-- Facebook Group
-- community
-- independent
-- hacking
-- technology
-- Google Group
-- Hackerspaces
-- industrial
-- not-for-profit
-- knitters
-- makers
-- sponsored
-- carpenters
-- innovation
-- Londonderry
-- musicians
-- creativity
-- meetup
-- artist
-- tinkerers
-- technical
+- Community
+- Hackerspace
+- Hacking
+- Innovation
 - Ireland
-- Open Source
-- academic
-- excellence
+- Maker
+- Meetups
+- Music
+- 'Open Source'
+- Technology
+- creativity
 - social
-- machinists
-- hacktivism
 title: Belfast Hackerspace Anyone?
 ---
 

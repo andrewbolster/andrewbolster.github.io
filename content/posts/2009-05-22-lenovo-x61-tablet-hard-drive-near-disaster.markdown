@@ -7,14 +7,8 @@ date: 2009-05-22 11:42:11+00:00
 layout: post
 slug: lenovo-x61-tablet-hard-drive-near-disaster
 tags:
-- firmware
-- tablet
 - Lenovo
-- recovery
-- problem-solving
-- hard drive
-- hardware
-- BIOS
+- Storage
 title: Lenovo x61 Tablet Hard Drive (Near) Disaster
 ---
 

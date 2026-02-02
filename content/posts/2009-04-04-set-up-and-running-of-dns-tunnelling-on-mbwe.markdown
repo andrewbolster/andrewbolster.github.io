@@ -7,26 +7,19 @@ date: 2009-04-04 23:14:32+00:00
 layout: post
 slug: set-up-and-running-of-dns-tunnelling-on-mbwe
 tags:
-- code
-- coding
-- MyBook
-- SSH
-- hardware
-- security
-- DNS
-- networking
-- Embedded
+- Cryptography
+- Cybersecurity
+- Desktop
+- EeePC
+- 'Embedded Systems'
+- Linux
+- Networking
 - Perl
-- traffic encryption
-- DNS2TCP
-- network setup
-- software
-- linux
-- port forwarding
-- SOCKS proxy
-- eee
-- desktop
-- programming
+- Programming
+- SSH
+- Storage
+- coding
+- 'port forwarding'
 title: Set up and running of DNS tunnelling on MBWE
 ---
 

@@ -3,15 +3,12 @@ category: ''
 description: ''
 layout: post
 tags:
-- Development
-- Repository Management
-- Commit History
-- Version Control
-- Viva
-- Git
-- Thesis
-- Programming
 - Coding
+- Development
+- Git
+- PhD
+- Programming
+- 'Version Control'
 title: Git Split Repository With Commit History
 ---
 

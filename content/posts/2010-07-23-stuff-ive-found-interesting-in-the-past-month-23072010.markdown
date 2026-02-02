@@ -7,41 +7,13 @@ date: 2010-07-23 09:04:43+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23072010
 tags:
-- Google Maps
-- Open Source Projects
-- Linux Distros
-- Rachel Maddow
-- Domain-Specific Languages
-- Neuroscience
-- Coffee Shop
-- Google Docs
-- Einztein Knowledge Network
-- Google PhD Fellowships
-- MultiBootISOs
-- Location-Based
-- NeighborGoods
-- Pendrive
-- Top 10
-- Team HTC-Columbia
-- Nautilus
-- Downloads
-- Chrome
 - Android
-- Android App Inventor
-- Geocron
-- App Inventor
-- Lifehacker
-- Gmail
-- USB Drive
-- Android Development
-- Lending
-- Latitude
-- Borrowing Network
-- Groovy
-- Learning
+- Chrome
+- Education
 - Google
-- USB Thumb Drive
-- Social Engineers
+- Groovy
+- Linux
+- Productivity
 title: Stuff I've found interesting in the past month - 23/07/2010
 ---
 

@@ -7,21 +7,9 @@ date: 2008-05-12 13:10:00+00:00
 layout: post
 slug: embedded-c-gps-project
 tags:
-- code
-- GPS unit
+- C/C++
+- 'Embedded Systems'
 - GPS
-- NMEA
-- character buffer
-- checksum
-- RS232
-- PIC
-- hex conversion
-- interrupts
-- string manipulation
-- data parsing
-- C
-- LCD
-- Embedded
 title: Embedded C GPS Project
 ---
 

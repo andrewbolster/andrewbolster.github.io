@@ -7,24 +7,10 @@ date: 2012-07-29 11:01:16+00:00
 layout: post
 slug: deus-ex-or-how-i-learned-to-stop-torrenting-and-love-digital-distribution
 tags:
+- Gaming
+- Linux
 - Ubuntu
-- gaming experience
-- linux
-- Linux gaming
-- pirate
-- Steam on Linux
-- Human Revolution
-- value
-- games
-- CodeWeavers
-- DLC
 - game
-- steam
-- Wine engine
-- Deus Ex
-- digital distribution
-- torrenting
-- valve
 title: Deus Ex, or How I learned to stop Torrenting and Love Digital Distribution
 ---
 

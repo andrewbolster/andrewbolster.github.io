@@ -7,18 +7,14 @@ date: 2010-03-13 12:24:47+00:00
 layout: post
 slug: ercurial-quick-start-cheatsheet
 tags:
-- code
+- Linux
+- Networking
+- Programming
+- Tutorial
 - Ubuntu
+- 'Version Control'
 - development
-- tutorial
-- version control
-- Unix
-- networking
-- source control
-- ns
-- software
-- Mercurial
-- programming
+- 'version control'
 title: Mercurial Quick Start Cheatsheet
 ---
 

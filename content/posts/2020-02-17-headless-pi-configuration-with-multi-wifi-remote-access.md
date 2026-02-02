@@ -2,15 +2,8 @@
 date: 2020-02-17T15:28:00+00:00
 layout: post
 tags:
-- Reverse SSH tunnel
-- WiFi setup
-- SD card boot
-- Network scanning
-- System configuration
-- Headless setup
-- AutoSSH
-- Raspberry Pi
-- SSH setup
+- Microcontrollers
+- 'Raspberry Pi'
 title: Headless Pi Configuration with Multi-Wifi Remote Access
 ---
 

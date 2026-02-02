@@ -7,26 +7,8 @@ date: 2013-05-28 12:08:23+00:00
 layout: post
 slug: those-who-can
 tags:
-- pseudocode
-- experience
-- Unit Testing
-- Code Coverage
-- George Bernard Shaw
-- Man and Superman
-- architectural design
-- Continuous Integration
-- technical design
-- Paul Graham
-- Fred Brooks
-- systems design
-- Code Club
-- scientific computing
-- OO Python
-- Hackers and Painters
-- failure
-- The Design of Design
-- Coder Dojo
-- teaching
+- Education
+- Python
 title: Those who can...
 ---
 

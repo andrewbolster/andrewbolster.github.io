@@ -5,17 +5,10 @@ description: A comprehensive guide to configuring Claude Code with Model Context
   (MCPs) for enhanced AI-assisted development workflows
 tags:
 - AI
-- Claude
-- Claude Code
-- MCP
-- Model Context Protocol
-- Development Environment
-- Productivity
-- Developer Tools
 - Automation
 - Configuration
-- YADM
-- Dotfiles
+- LLM
+- Productivity
 categories:
 - AI
 - Development

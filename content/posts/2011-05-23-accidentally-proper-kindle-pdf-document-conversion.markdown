@@ -7,16 +7,9 @@ date: 2011-05-23 13:25:13+00:00
 layout: post
 slug: accidentally-proper-kindle-pdf-document-conversion
 tags:
-- shell script
-- conversion
-- tutorial
-- command line
-- amazon
-- pdf
-- kindle
-- email delivery
-- sendemail
-- document
+- Books
+- Shell
+- Tutorial
 title: Accidentally Proper Kindle PDF Document Conversion
 ---
 

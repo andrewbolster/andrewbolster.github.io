@@ -7,12 +7,9 @@ date: 2012-04-10 15:46:08+00:00
 layout: post
 slug: python-oauth2-for-twitter-status-updates
 tags:
-- code
-- python
-- social media
-- twitter
-- oauth2
-- web development
+- Python
+- 'Social Media'
+- 'Web Development'
 title: Python + Oauth2 for Twitter Status Updates
 ---
 

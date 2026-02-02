@@ -2,14 +2,8 @@
 date: 2020-04-26T21:16:00+01:00
 layout: post
 tags:
-- Ethical AI
-- Corporate Ethics
-- Bias in AI
-- Machine Learning
-- Data Ethics
-- Artificial Intelligence
-- AI Ethics
-- Inclusivity
+- AI
+- 'Machine Learning'
 title: Is Your AI Ethical?
 ---
 

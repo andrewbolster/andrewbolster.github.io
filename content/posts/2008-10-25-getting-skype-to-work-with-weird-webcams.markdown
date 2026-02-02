@@ -7,18 +7,9 @@ date: 2008-10-25 21:45:00+00:00
 layout: post
 slug: getting-skype-to-work-with-weird-webcams
 tags:
+- Linux
 - Ubuntu
-- linux
-- jaunty
-- lib32v4l-0
-- lib32v4l-dev
-- cheese
-- v4l1
-- '8.10'
-- ubuntu
 - webcam
-- skype
-- v4l2
 title: Getting Skype to work with weird webcams.
 ---
 

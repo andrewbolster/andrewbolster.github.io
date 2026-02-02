@@ -7,29 +7,14 @@ date: 2010-06-24 21:26:17+00:00
 layout: post
 slug: great-hopes
 tags:
-- memory training
 - Belfast
-- Emmanuel Goldstein
-- tech
-- hacking
-- technology
-- NOC
-- innocence project
-- hackable
-- con
-- badges
-- James Arlen
-- A/V experience
-- talks
-- convention
-- volunteering
-- computer crime
-- EFF
-- hope
-- hackerspaces
-- social engineering
-- RFID tracking
+- Cybersecurity
+- Hackerspace
+- Hacking
+- Speaking
+- Technology
 - social
+- tech
 title: Great HOPEs
 ---
 

@@ -2,14 +2,11 @@
 date: 2020-03-04T11:10:00+00:00
 layout: post
 tags:
-- engineering
-- cybersecurity
-- data science
-- machine learning
+- 'Data Science'
+- 'Machine Learning'
 - STEM
-- professional development
-- mentorship
-- technology trends
+- cybersecurity
+- 'professional development'
 title: The Importance of Active Learning in Data Science and Engineering
 ---
 

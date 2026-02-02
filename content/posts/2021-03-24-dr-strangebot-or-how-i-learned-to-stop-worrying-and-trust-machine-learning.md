@@ -2,13 +2,10 @@
 date: 2021-03-24T06:06:00+00:00
 layout: post
 tags:
-- Cybersecurity
-- Data Science
-- WhiteHat Security
-- Machine Learning
 - AI
-- Artificial Intelligence
-- Big Data
+- Cybersecurity
+- 'Data Science'
+- 'Machine Learning'
 title: 'Dr StrangeBot: Or How I Learned to Stop Worrying and Trust Machine Learning'
 ---
 

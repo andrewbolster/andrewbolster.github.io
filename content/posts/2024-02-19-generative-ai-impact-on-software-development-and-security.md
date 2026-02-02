@@ -3,17 +3,12 @@ date: 2024-02-19T12:54:00+00:00
 layout: post
 categories: [AI, Software Engineering, Security]
 tags:
-- ML
-- Generative AI
-- Large Language Model
-- ChatGPT
 - AI
-- SDLC
-- GitHub Copilot
-- Security
-- DevSecOps
-- Application Security Posture Management
-- Software Development
+- 'Application Security'
+- Cybersecurity
+- LLM
+- 'Machine Learning'
+- 'Software Development'
 - cybersecurity
 title: 'Generative AI: Impact on Software Development and Security'
 ---

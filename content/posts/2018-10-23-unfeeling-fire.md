@@ -2,25 +2,16 @@
 category: presentation
 layout: post
 tags:
-- phd
-- defense
-- cyber security
-- machine learning
-- ml
-- technology
-- autonomous weapons
-- surveillance
-- autonomy
-- unmanned systems
-- intelligence
-- military
-- drones
-- digital dna
-- robots
-- data science
+- AI
+- 'Autonomous Systems'
+- Cybersecurity
+- 'Data Science'
+- 'Machine Learning'
+- PhD
+- Privacy
+- Robotics
+- Technology
 - ethics
-- ai
-- Artificial Intelligence
 title: Unfeeling Fire
 ---
 

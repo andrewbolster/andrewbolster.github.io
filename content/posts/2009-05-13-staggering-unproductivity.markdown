@@ -7,26 +7,16 @@ date: 2009-05-13 01:01:46+00:00
 layout: post
 slug: staggering-unproductivity
 tags:
-- Ubuntu
-- Virtual Machine
-- Ericsson
-- Stability
-- VirtualBox
-- ThinkPad X61s
-- partner
-- graduation
-- Windows Vista
-- Scala
-- 21st birthday
-- development
-- Ian Clarke
+- Career
 - Java
-- career
-- dual booting
-- Swarm project
+- Laptop
 - Networking
-- programming
-- NJ
+- Programming
+- Scala
+- Ubuntu
+- VirtualBox
+- Windows
+- development
 title: Staggering Unproductivity
 ---
 

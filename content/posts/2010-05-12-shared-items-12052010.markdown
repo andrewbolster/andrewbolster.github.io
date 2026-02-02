@@ -7,11 +7,9 @@ date: 2010-05-12 05:03:26+00:00
 layout: post
 slug: shared-items-12052010
 tags:
-- technology
-- politics
-- design
-- employment
-- open source
+- 'Open Source'
+- Politics
+- Technology
 title: Shared Items - 12/05/2010
 ---
 

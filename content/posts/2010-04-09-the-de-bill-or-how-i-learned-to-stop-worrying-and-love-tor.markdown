@@ -8,27 +8,14 @@ date: 2010-04-09 11:11:35+00:00
 layout: post
 slug: the-de-bill-or-how-i-learned-to-stop-worrying-and-love-tor
 tags:
-- Ubuntu
-- civil rights
-- privacy
-- law
-- FoxyProxy
-- internet privacy
-- security
-- Polipo
-- Proxy Switchy
-- copyright
-- anonymity
 - Chrome
-- digital economy bill
-- browser configuration
-- personal
-- linux
+- Cybersecurity
+- Desktop
 - Firefox
-- desktop
-- network surveillance
-- Tor
-- web proxy
+- Linux
+- Personal
+- Privacy
+- Ubuntu
 title: The DE Bill, or, How I Learned to Stop Worrying and Love Tor
 ---
 

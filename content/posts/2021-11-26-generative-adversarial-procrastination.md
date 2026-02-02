@@ -2,11 +2,9 @@
 date: 2021-11-26T15:07:00+00:00
 layout: post
 tags:
-- Data Science
+- 'Data Science'
+- 'Machine Learning'
 - Productivity
-- Task Management
-- Procrastination
-- Machine Learning
 title: Generative Adversarial Procrastination
 ---
 

@@ -7,19 +7,15 @@ date: 2013-11-01 18:20:21+00:00
 layout: post
 slug: response-to-the-draft-innovation-strategy-for-northern-ireland-part-2-knowledge-generation
 tags:
-- Economy
-- Skills Development
-- Investment
-- Entrepreneurship
-- Education
 - Creativity
+- Education
+- Entrepreneurship
+- Finance
 - Innovation
-- Technology
-- Knowledge Generation
+- 'Northern Ireland'
+- 'R&D'
 - STEM
-- R&D
-- Design
-- Northern Ireland
+- Technology
 title: Response to the Draft Innovation Strategy for Northern Ireland - Part 2 - Knowledge
   Generation
 ---

@@ -3,13 +3,9 @@ category: ''
 description: ''
 layout: post
 tags:
-- WebSocket
 - Chrome
-- IPython Notebook
-- Linux Mint
-- IPython setup
-- Chrome troubleshooting
-- IPython
+- Jupyter
+- 'Linux Mint'
 title: IPython Websocket Failure on Chrome
 ---
 

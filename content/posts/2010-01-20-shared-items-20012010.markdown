@@ -5,15 +5,11 @@ date: 2010-01-20 06:56:44+00:00
 layout: post
 slug: shared-items-20012010
 tags:
-- graphic design
-- proportional fonts
-- Videogames
-- social media
-- Freelance Freedom
-- statistics
-- web design
-- Twitter
-- programming
+- Gaming
+- Programming
+- 'Social Media'
+- Statistics
+- 'web design'
 title: Shared Items - 20/01/2010
 ---
 

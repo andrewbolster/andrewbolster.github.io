@@ -7,14 +7,7 @@ date: 2013-02-13 16:00:09+00:00
 layout: post
 slug: bus-services-a-simple-change-for-translink_ni-a-big-help-for-nisp_connect-and-ecit_qub
 tags:
-- Transport Act
-- Complaint
-- Scheduling
-- Translink
-- Public Transport
-- Licensing Restrictions
-- Bus Services
-- Northern Ireland
+- 'Northern Ireland'
 title: Bus Services, a simple change for @Translink_NI, a big help for @NISP_Connect
   and @ECIT_QUB
 ---

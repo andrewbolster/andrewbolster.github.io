@@ -7,23 +7,10 @@ date: 2008-10-27 19:15:00+00:00
 layout: post
 slug: my-conkyrc
 tags:
+- Automation
+- Linux
+- Productivity
 - Ubuntu
-- network speed
-- linux
-- Folding@Home
-- RAM usage
-- conky
-- gmail
-- weather
-- system monitoring
-- HDDtemp
-- uptime
-- CPU load
-- automation
-- SSH authentication
-- lifehacker
-- Transmission
-- ToDo list
 title: My conkyrc
 ---
 

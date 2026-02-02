@@ -3,15 +3,12 @@ category: ''
 description: ''
 layout: post
 tags:
-- Ubuntu
-- System Administration
-- Mint
+- Cybersecurity
 - Debian
 - Linux
-- Package Management
-- APT
-- Unattended Upgrades
-- Security
+- 'Linux Mint'
+- 'Package Management'
+- Ubuntu
 title: Unattended Updates in Linux Mint
 ---
 

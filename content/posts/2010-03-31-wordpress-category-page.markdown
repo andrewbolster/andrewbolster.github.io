@@ -7,13 +7,8 @@ date: 2010-03-31 02:55:37+00:00
 layout: post
 slug: wordpress-category-page
 tags:
-- blog
-- navigation plugin
-- wordpress
-- RSS feeds
-- twitter feeds
-- diary
-- personal
+- Personal
+- WordPress
 title: Wordpress category page
 ---
 

@@ -7,18 +7,8 @@ date: 2008-05-13 19:47:00+00:00
 layout: post
 slug: another-uni-project
 tags:
-- code
-- telecomms
-- communications
-- engineering
-- telecommunication
-- Erlang B
-- algorithm
-- networks
-- factorial
-- Erlang A
-- C
-- programming
+- C/C++
+- Programming
 title: 'Another Uni Project '
 ---
 

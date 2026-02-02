@@ -7,17 +7,12 @@ date: 2010-04-16 16:25:46+00:00
 layout: post
 slug: shaded-headers
 tags:
-- gradient
-- blog
-- tutorial
-- design
-- web
-- css
-- wordpress
-- html
-- web-design
-- thematic-child-theme
-- jquery
+- CSS
+- HTML
+- Tutorial
+- WordPress
+- jQuery
+- 'web-design'
 title: Shaded Headers in Thematic
 ---
 

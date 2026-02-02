@@ -7,14 +7,9 @@ date: 2010-04-17 21:13:04+00:00
 layout: post
 slug: add-a-twitter-anywhere-hovercard-to-links-containing-tweeps
 tags:
-- code
-- blog
-- anywhere
-- design
-- twitter
-- hovercards
-- javascript
-- web development
+- JavaScript
+- 'Social Media'
+- 'Web Development'
 title: Add a Twitter @anywhere hovercard to links containing tweeps
 ---
 

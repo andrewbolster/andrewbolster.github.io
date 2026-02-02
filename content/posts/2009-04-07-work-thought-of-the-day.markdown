@@ -7,9 +7,7 @@ date: 2009-04-07 11:31:57+00:00
 layout: post
 slug: work-thought-of-the-day
 tags:
-- Comic
-- humour
-- Web post
+- 'Web post'
 title: Work Thought Of The Day
 ---
 

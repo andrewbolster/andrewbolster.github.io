@@ -7,15 +7,12 @@ date: 2010-10-23 09:16:06+00:00
 layout: post
 slug: what-the-hack
 tags:
-- technology
-- networking
-- equipment donation
-- hackathon
-- community
+- Community
+- Hackerspace
+- Hacking
+- Networking
+- Technology
 - event
-- hackerspace
-- hacking
-- computer science
 title: What the Hack?
 ---
 

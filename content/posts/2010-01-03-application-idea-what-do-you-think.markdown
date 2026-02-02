@@ -7,36 +7,12 @@ date: 2010-01-03 20:18:55+00:00
 layout: post
 slug: application-idea-what-do-you-think
 tags:
-- MySQL server
-- oss development
+- Android
+- 'Embedded Systems'
+- Networking
+- Programming
 - XML
-- Trac page
 - mobile
-- android api
-- new years resolutions
-- hardware
-- blackberry
-- iphone
-- data aggregation
-- networking
-- GPS coordinates
-- reception maps
-- open formats
-- web service
-- Embedded
-- mobile application
-- RF propagation modelling
-- cell
-- cell reception
-- blackberry api
-- licensing
-- android
-- service providers
-- RSSI
-- signal propagation
-- cross-platform
-- programming
-- iphone api
 title: 'Application Idea: What do you think?'
 ---
 

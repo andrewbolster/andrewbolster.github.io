@@ -7,19 +7,11 @@ date: 2010-07-08 19:53:40+00:00
 layout: post
 slug: intel-4965-poor-wireless-performance-under-ubuntu
 tags:
+- Intel
+- Networking
 - Ubuntu
-- open AP
-- wifi
-- syslog
+- WiFi
 - lenovo
-- networking
-- iwlagn
-- linux-backports-modules
-- compat-wireless
-- intel
-- AP
-- Wireless
-- drivers
 title: 'Intel 4965: Poor wireless performance under Ubuntu'
 ---
 

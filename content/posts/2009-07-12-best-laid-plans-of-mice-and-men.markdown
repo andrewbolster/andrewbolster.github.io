@@ -7,38 +7,18 @@ date: 2009-07-12 10:53:35+00:00
 layout: post
 slug: best-laid-plans-of-mice-and-men
 tags:
-- workstation
-- machine vision
-- machine learning
-- machine vision project
-- MyBook
-- Wireless
-- multi-monitor
-- remote
-- hardware
-- security
-- environmental monitors
-- networking
-- big-screen
-- webcam
-- games consoles
-- Embedded
-- webcam project
+- Automation
+- Cybersecurity
+- Desktop
+- 'Embedded Systems'
+- Linux
+- 'Machine Learning'
+- Networking
+- Robotics
+- Storage
 - VPN
-- robotics
-- alarm clock
-- calendars
-- centralised logging
-- timetables
-- lights
-- visualisation
-- linux
-- motion detectors
-- desktop
-- automation
-- media storage
-- SFF pc
-- skype
+- WiFi
+- webcam
 title: Best Laid Plans of Mice and Men
 ---
 

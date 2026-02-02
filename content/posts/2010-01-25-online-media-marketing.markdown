@@ -7,20 +7,11 @@ date: 2010-01-25 22:08:39+00:00
 layout: post
 slug: online-media-marketing
 tags:
-- internet advertising
-- Facebook advertising
-- YouTube Adwords
-- social networking
-- social media
-- ppc
-- search engines
-- Google Adwords
-- comparison sites
-- seo
-- marketing
-- Twitter
-- viral marketing
+- 'Google Adwords'
+- Marketing
+- 'Social Media'
 - advertising
+- seo
 title: Online Media Marketing
 ---
 

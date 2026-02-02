@@ -8,17 +8,11 @@ date: 2010-05-20 11:21:37+00:00
 layout: post
 slug: coming-soon
 tags:
-- technology
+- Drupal
+- Technology
 - Ubuntu
-- blog
 - VPN
-- revision system
-- updates
-- CUDA research
-- Google Webfonts
-- planning
-- web development
-- Drupal 6
+- 'Web Development'
 title: Coming Soon!
 ---
 

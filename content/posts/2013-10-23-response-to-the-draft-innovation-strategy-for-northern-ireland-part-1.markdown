@@ -7,28 +7,10 @@ date: 2013-10-23 20:37:45+00:00
 layout: post
 slug: response-to-the-draft-innovation-strategy-for-northern-ireland-part-1
 tags:
-- Risk Aversion
-- NESTA Neighbourhood Challenge Initiative
-- Innovation Strategy
-- Web Post
-- Skills
-- R&D
-- Northern Ireland
-- InvestNI
-- Policy
-- Economic Strategy
-- Barriers to Innovation
-- Ministerial Foreword
-- SMEs
-- Creative Thinking
-- Public Sector
-- DETI
-- Content Critique
 - Entrepreneurship
-- Culture
-- Collaboration
-- Leadership
-- Micro Businesses
+- 'Northern Ireland'
+- 'R&D'
+- 'Web Post'
 title: Response to the Draft Innovation Strategy for Northern Ireland - Part 1
 ---
 

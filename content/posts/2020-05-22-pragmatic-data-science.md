@@ -2,16 +2,10 @@
 date: 2020-05-22T14:35:00+01:00
 layout: post
 tags:
-- Archimedes
+- 'Data Science'
 - Ethics
-- Data Science
-- Facebook
-- Social Media
-- Public Policy
-- Scientific Ethics
+- 'Social Media'
 - Technology
-- Cambridge Analytica
-- Data Governance
 title: Pragmatic Data Science; When Unstoppable Math meets Immovable Ethics
 ---
 

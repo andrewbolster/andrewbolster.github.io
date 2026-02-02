@@ -7,12 +7,7 @@ date: 2011-04-23 09:01:18+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23042011
 tags:
-- 1960s
-- classic rock
-- rock
-- song cover
-- music
-- remix
+- Music
 title: Stuff I've found interesting in the past month - 23/04/2011
 ---
 

@@ -7,13 +7,11 @@ date: 2009-03-01 00:43:19+00:00
 layout: post
 slug: new-productivity-mantra
 tags:
-- career
-- work-life balance
+- Career
 - Education
-- networking
-- productivity
-- time management
-- task management
+- Networking
+- Productivity
+- 'work-life balance'
 title: New Productivity Mantra
 ---
 

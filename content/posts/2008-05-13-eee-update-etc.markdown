@@ -7,14 +7,7 @@ date: 2008-05-13 21:57:00+00:00
 layout: post
 slug: eee-update-etc
 tags:
-- travel blogging
-- eee
-- fast delivery
-- cycling
-- family
-- ads
-- hardware
-- online shopping
+- EeePC
 title: EEE Update etc
 ---
 

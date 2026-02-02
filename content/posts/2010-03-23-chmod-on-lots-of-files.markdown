@@ -7,15 +7,11 @@ date: 2010-03-23 22:42:20+00:00
 layout: post
 slug: chmod-on-lots-of-files
 tags:
-- linux
-- nas
-- chown
-- workstation
-- bash
-- file management
-- troubleshooting
-- permissions
-- Embedded
+- Bash
+- 'Embedded Systems'
+- Linux
+- Storage
+- 'file management'
 title: Chmod on lots of files
 ---
 

@@ -7,26 +7,13 @@ date: 2010-03-14 23:39:09+00:00
 layout: post
 slug: installing-and-configuring-ns-3-on-a-ubuntu-system
 tags:
-- code
-- Ubuntu
-- workstation
-- tutorials
-- bugtracker
-- networking
-- prerequisites
-- simulation
-- Ubuntu 9.10
-- network simulation
-- Mercurial
-- WAF
-- software
-- linux
-- build process
-- NS-3
-- learning curve
-- regression test suite
-- programming
+- Linux
+- Networking
+- Programming
 - Python
+- Simulation
+- Ubuntu
+- 'Version Control'
 title: Installing and Configuring NS-3 on a Ubuntu System
 ---
 

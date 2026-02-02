@@ -7,18 +7,12 @@ date: 2010-03-17 06:03:05+00:00
 layout: post
 slug: shared-items-17032010
 tags:
-- Offline Marketing
-- Freelance Business
-- Cybersecurity
-- Social Media
-- Nsploit
-- Marketing
-- Wordpress Plugins
-- Logo Design
-- Nmap
 - Blogging
-- Front-end Web Development
-- Best Practices
+- Cybersecurity
+- Hacking
+- Marketing
+- 'Social Media'
+- WordPress
 title: Shared Items - 17/03/2010
 ---
 

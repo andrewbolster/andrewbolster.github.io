@@ -7,25 +7,14 @@ date: 2008-09-24 22:25:00+00:00
 layout: post
 slug: primers-coming-up
 tags:
-- code
+- Bash
+- Education
+- Linux
+- Perl
+- Programming
+- SSH
 - Ubuntu
 - XML
-- bash
-- X server
-- Unix
-- X display
-- programming education
-- remote
-- SSH
-- X encryption
-- bash scripting
-- perl scripting
-- X forwarding
-- sysadmins
-- software
-- linux
-- X compression
-- programming
 title: Primers Coming Up
 ---
 

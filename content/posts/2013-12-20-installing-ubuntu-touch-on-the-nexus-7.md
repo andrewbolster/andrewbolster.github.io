@@ -3,16 +3,9 @@ category: ''
 description: ''
 layout: post
 tags:
+- Android
 - Ubuntu
-- rooting
-- backing up
 - mobile
-- Cyanogenmod
-- Canonical
-- phablet-flash
-- Ubuntu Touch
-- USB debugging
-- documentation
 title: Installing Ubuntu Touch on the Nexus 7
 ---
 

@@ -6,26 +6,11 @@ categories:
 - Commentary
 tags:
 - AI
-- Generative AI
-- LLM
-- artificial intelligence
-- machine learning
-- OpenAI
-- AI winter
-- AI bubble
-- technology criticism
-- Ian Goodfellow
-- GANs
-- NVIDIA
-- Sam Altman
-- Dario Amodei
-- deepfakes
-- AI ethics
-- AI hype
-- technological determinism
-- Farset Labs
 - Belfast
-- debate
+- 'Farset Labs'
+- LLM
+- 'Machine Learning'
+- NVIDIA
 date: 2025-08-08T17:25:00+01:00
 ---
 [![](/img/2025/genai-debate-header.jpg)](/img/2025/genai-debate-header.jpg)

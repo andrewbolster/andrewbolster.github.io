@@ -7,19 +7,12 @@ date: 2011-02-12 18:21:53+00:00
 layout: post
 slug: bolsters-code-related-rants-an-ongoing-collection
 tags:
-- code
+- Opinion
+- Programming
+- Rant
 - development
-- version control
-- info
-- file management
-- versioncontrol
-- progamming
-- rant
-- debug
-- warn
-- logging
-- branching
-- error
+- 'file management'
+- 'version control'
 title: Bolsters Code-Related Rants (An ongoing collection)
 ---
 

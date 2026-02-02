@@ -7,21 +7,12 @@ date: 2008-05-11 01:12:00+00:00
 layout: post
 slug: update
 tags:
-- Ubuntu
-- Linux
-- Job Hunting
-- Ireland
-- Upgrade
 - Firefox
-- Memory Management
-- Hardy Heron
-- Ericsson
-- Examination
-- Red Hat
+- Ireland
+- Linux
+- 'Memory Management'
 - Tech
-- Software Compatibility
-- 64-bit
-- '8.04'
+- Ubuntu
 title: Update
 ---
 

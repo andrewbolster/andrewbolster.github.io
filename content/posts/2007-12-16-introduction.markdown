@@ -5,27 +5,14 @@ date: 2007-12-16 23:34:00+00:00
 layout: post
 slug: introduction
 tags:
-- Ubuntu
-- technical musings
-- WinXP
-- Athena
-- hardware
-- Electronics
-- GeForce
-- experiments
-- Software Engineering
-- windows
-- Uni
 - AMD
-- Apollo
-- 64-bit
-- Queens University Belfast
-- linux
-- Celeron
-- VMWare
-- Hermes
-- software
-- Semperon
+- Academia
+- Electronics
+- Linux
+- QUB
+- 'Software Engineering'
+- Ubuntu
+- Windows
 title: Introduction
 ---
 

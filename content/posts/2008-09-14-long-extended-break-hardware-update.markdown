@@ -7,37 +7,13 @@ date: 2008-09-14 14:13:00+00:00
 layout: post
 slug: long-extended-break-hardware-update
 tags:
-- Ubuntu
-- workstation
-- bash
-- Linksys
-- remote access
-- SATA drives
-- ads
-- multi-monitor
-- AMD Athlon X2
-- hardware
-- firmware
-- mouseless
-- hub
-- WRT54GL
-- IDE
-- RAID 0
-- DD-WRT
-- Ubuntu Hardy Heron
+- Bash
+- Desktop
+- Linux
 - Perl
-- synergy
-- 64-bit
-- '8.04'
-- Toshiba Laptop
-- Intel Celeron
-- linux
-- gdm
-- headphones
-- Windows Server 2008
-- desktop
-- Nvidia MCP 65
-- keyboard
+- Router
+- Ubuntu
+- 'remote access'
 title: 'Long Extended Break: Hardware Update'
 ---
 

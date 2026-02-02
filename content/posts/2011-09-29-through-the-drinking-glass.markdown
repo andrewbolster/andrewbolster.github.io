@@ -7,15 +7,9 @@ date: 2011-09-29 19:48:37+00:00
 layout: post
 slug: through-the-drinking-glass
 tags:
-- card game
-- party game
-- drink
-- games
-- fun
+- Gaming
+- Personal
 - social
-- personal
-- rules
-- drinking game
 title: Through The Drinking Glass
 ---
 

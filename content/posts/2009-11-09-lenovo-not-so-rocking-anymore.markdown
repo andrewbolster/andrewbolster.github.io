@@ -6,10 +6,7 @@ layout: post
 slug: lenovo-not-so-rocking-anymore
 tags:
 - Lenovo
-- motherboard replacement
-- laptop repair
-- customer service
-- wireless antenna
+- 'customer service'
 title: Lenovo, not so rocking anymore
 ---
 

@@ -7,34 +7,14 @@ date: 2010-09-23 09:12:12+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23092010
 tags:
-- Amazon Kindle 3G/WiFi
-- European Parliament
-- jQuery
-- Repurposing
-- Segway Olympics
-- BugMeNot Lite
-- HGTV
-- ACTA
-- OpenHeatMap
-- Scientific Computing
-- Ebook Reader
+- '3D Printing'
+- Books
 - Chrome
-- Python Training
-- Priority Inbox
-- Cyber-Offence
-- Lifehacker
-- Gawker Blogs
-- RepRap
-- Google Chrome
-- GPU Acceleration
-- Organized Life
-- 3D Printer
-- SweetSearch
-- EEVblog
-- SciPy
-- Heat Map
-- Old Computer
+- 'Google Chrome'
+- Productivity
 - Python
+- SciPy
+- jQuery
 title: Stuff I've found interesting in the past month - 23/09/2010
 ---
 

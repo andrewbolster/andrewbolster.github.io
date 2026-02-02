@@ -3,16 +3,13 @@ category: ''
 description: ''
 layout: post
 tags:
-- Ubuntu
-- Debian Jessie
-- Linux
-- Operating System
-- Package Management
-- GPU
-- NVIDIA
-- Graphics
 - CUDA
+- GPU
+- Linux
+- NVIDIA
+- 'Package Management'
 - Programming
+- Ubuntu
 title: FIX:CUDA on Debian Jessie
 ---
 

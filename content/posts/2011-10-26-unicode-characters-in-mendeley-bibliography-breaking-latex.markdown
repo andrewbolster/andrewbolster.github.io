@@ -7,21 +7,8 @@ date: 2011-10-26 13:45:59+00:00
 layout: post
 slug: unicode-characters-in-mendeley-bibliography-breaking-latex
 tags:
-- code
-- mendeley
-- project building
-- eclipse
-- pdflatex
-- unicode characters
-- texclipse
 - latex
-- xelatex
-- whitespace characters
-- unicode
-- text file encoding
-- tex
-- reference management
-- bibtex
+- mendeley
 title: Unicode Characters in Mendeley Bibliography Breaking Latex?
 ---
 

@@ -2,24 +2,15 @@
 date: 2020-09-08T16:22:00+01:00
 layout: post_toc
 tags:
-- renovation
-- technology
-- workspace
-- podcast
-- journaling
-- data science
-- pandemic
-- lockdown
-- workshop
-- events
-- travel
-- farset
-- community
+- Community
+- 'Data Science'
+- 'Farset Labs'
+- Personal
+- Podcasts
+- Technology
+- Travel
 - blogging
-- weeknotes
-- covid
-- personal
-- covid,
+- events
 title: Back to reality
 ---
 

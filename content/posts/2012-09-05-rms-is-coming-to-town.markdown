@@ -7,27 +7,8 @@ date: 2012-09-05 11:10:13+00:00
 layout: post
 slug: rms-is-coming-to-town
 tags:
-- GNU
-- Free Software Foundation
-- Free Digital Society
-- GNU General Public License
-- Copyleft
-- Big Data Bash
-- Tech Event
-- Software Freedom Activist
-- Free Software Advocate
-- Software Patents
-- FOSS
-- Software Engineering
-- Free Software Movement
-- Software Community
-- GNU Operating System
-- Free Software License
-- Software Developer
-- Open Source
-- Copyright
-- Richard Stallman
-- Event Registration
+- 'Open Source'
+- 'Software Engineering'
 title: RMS is coming to town
 ---
 

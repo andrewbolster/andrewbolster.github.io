@@ -3,14 +3,12 @@ date: 2024-01-17T13:50:00+00:00
 layout: post
 categories: [Data Science, Tutorial]
 tags:
-- Kernel Management
-- JupyterLab
-- Environment Setup
-- conda
+- Anaconda
+- Jupyter
 - Notebook
+- Productivity
 - Python
-- tutorial
-- workflow
+- Tutorial
 title: Jupyter Environment Management for Dummies
 ---
 

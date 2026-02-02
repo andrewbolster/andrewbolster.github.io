@@ -3,14 +3,7 @@ category: ''
 description: ''
 layout: post
 tags:
-- Observium
-- SNMP
-- Network Monitoring
-- Network Management
-- Dynamic DNS
-- Host Discovery
-- Linux Servers
-- System Monitoring
+- Linux
 title: SNMP Monitoring and Configuration for Networks and Linux Host Monitoring
 ---
 

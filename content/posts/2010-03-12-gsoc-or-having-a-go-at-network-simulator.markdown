@@ -7,27 +7,20 @@ date: 2010-03-12 15:03:03+00:00
 layout: post
 slug: gsoc-or-having-a-go-at-network-simulator
 tags:
-- university
-- virtualisation
-- debian
-- project
+- Academia
+- Apache
+- Debian
+- Drupal
+- KDE
+- Linux
+- Networking
+- PhD
+- Programming
+- Simulation
+- Ubuntu
 - configuration
-- x.org
-- ns
-- dissertation
-- networking
-- gsoc
-- kde
-- apache
-- drupal
-- network simulator
-- linux
-- summer of code
-- ubuntu
 - installation
-- programming
-- ns-3
-- oss
+- virtualisation
 title: GSOC or Having a go at Network Simulator
 ---
 

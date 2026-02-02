@@ -8,20 +8,12 @@ date: 2009-07-13 08:29:20+00:00
 layout: post
 slug: delayed-post-lenovo-rocks
 tags:
-- technology
+- Laptop
 - Lenovo
-- HDD
+- Storage
+- Technology
+- 'customer service'
 - lenovo
-- laptop
-- user experience
-- tech support
-- Lenovo Ireland
-- hard drive
-- product review
-- customer service
-- Google Analytics
-- hardware
-- replacement service
 title: 'Delayed Post: LENOVO ROCKS'
 ---
 

@@ -2,14 +2,11 @@
 date: 2020-02-18T16:40:00+00:00
 layout: post
 tags:
-- pi
-- networking
-- iot
-- emon
-- farset
-- mosquitto
-- mqtt
-- raspberry pi
+- 'Farset Labs'
+- IoT
+- Microcontrollers
+- Networking
+- 'Raspberry Pi'
 title: Mosquitto (MQTT) Emon Pi (Open Energy Monitor) Forwarding Bridge
 ---
 

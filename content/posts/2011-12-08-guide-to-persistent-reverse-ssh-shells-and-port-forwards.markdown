@@ -7,21 +7,12 @@ date: 2011-12-08 13:41:41+00:00
 layout: post
 slug: guide-to-persistent-reverse-ssh-shells-and-port-forwards
 tags:
-- code
-- tunnel
-- linux
+- Bash
+- Linux
+- Networking
 - Ubuntu
-- bash
+- 'port forwarding'
 - ssh
-- port forwarding
-- nix
-- unix
-- Unix
-- networking
-- forwarding
-- port
-- reverse shell
-- ssh tunnel
 title: Guide to Persistent Reverse SSH Shells and Port Forwards
 ---
 

@@ -2,23 +2,18 @@
 date: 2021-06-10T13:18:00+01:00
 layout: post
 tags:
-- technology
-- STEAM
-- startup
-- tog
-- volunteer-run
-- developers
-- co-working space
-- hackerspace
-- twitter
-- rant
-- NI
-- charity
-- farsetlabs
-- community
-- rant hackerspace tog farsetlabs twitter funding community
-- funding
+- Community
 - Dublin
+- 'Farset Labs'
+- Gaming
+- Hackerspace
+- 'Northern Ireland'
+- Opinion
+- Rant
+- 'Social Media'
+- Technology
+- charity
+- funding
 title: Response to TOG's Third Eviction
 ---
 

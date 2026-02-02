@@ -7,16 +7,11 @@ date: 2010-03-06 12:19:10+00:00
 layout: post
 slug: any-port-in-a-storm
 tags:
-- IDS
-- Untangle
-- linux
-- port forwarding
-- firewall
-- networking
-- network security
-- firewall configuration
-- hardware
-- security
+- Cybersecurity
+- Linux
+- 'Network Security'
+- Networking
+- 'port forwarding'
 title: Any Port in a Storm
 ---
 

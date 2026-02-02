@@ -3,13 +3,7 @@ category: ''
 description: ''
 layout: post
 tags:
-- timelapse creation
-- community growth
-- mencoder settings
-- eventcam setup
-- shiny eventcam setup
-- web development
-- Linux motion utility
+- 'Web Development'
 title: The Making of a Timelapse
 ---
 

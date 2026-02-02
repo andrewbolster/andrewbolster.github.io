@@ -3,15 +3,10 @@ category: ''
 description: ''
 layout: post
 tags:
-- Credit Report
-- Credit Score
-- Banking Sector
-- Data Protection
-- Customer Service
-- Personal Finance
-- Current Account Switch Service
-- Underwriting
-- Banking
+- 'Customer Service'
+- Cybersecurity
+- 'Data Security'
+- Finance
 title: I do not understand credit markets
 ---
 

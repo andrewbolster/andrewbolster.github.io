@@ -7,48 +7,12 @@ date: 2008-01-07 15:29:00+00:00
 layout: post
 slug: ces-2008
 tags:
-- Linux
-- Olympics
-- Bluetooth
-- Slingbox
-- Pandora
-- Visual recognition
-- OpenID
-- Sony Ericsson
-- Google Calendar
-- Google-phile
-- Video Search
-- Surface
-- Myspace
-- Vegas
-- Silverlight
-- GCal
-- XBox
-- XviD
-- RSS feeds
-- Gootube
-- Winamp
-- Voice recognition
-- VLC
-- Facebook
-- Zune Social
-- Vista
-- iTunes
-- IPTV
-- CES keynote
-- Slash
-- Bill Gates
-- Google Mail
-- IM
-- Mobile search
-- Picasa
-- Symbian
-- DivX
-- Twitter
+- Gaming
 - Google
-- Ford Sync
-- Opera
-- google
+- Linux
+- 'Social Media'
+- TV
+- Windows
 title: CES 2008
 ---
 

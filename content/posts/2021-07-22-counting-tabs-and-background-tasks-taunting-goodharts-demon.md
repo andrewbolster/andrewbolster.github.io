@@ -2,17 +2,10 @@
 date: 2021-07-22T10:58:00+00:00
 layout: post
 tags:
-- Windows
-- MQTT
-- Influx
-- Firefox
-- Grafana
-- Tabs
 - API
-- Task Scheduler
-- Scripting
+- Firefox
 - Python
-- Crontab
+- Windows
 title: 'Counting Tabs and Background Tasks: Taunting Goodharts Demon'
 ---
 

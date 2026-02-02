@@ -7,14 +7,8 @@ date: 2012-04-30 17:37:36+00:00
 layout: post
 slug: turning-pcap-dumps-into-message-sequence-charts
 tags:
+- Simulation
 - Ubuntu
-- mscgen
-- Network Flow Visualization
-- Packet Capture
-- NS-3
-- Tshark
-- Network Traffic Analysis
-- PCap Files
 title: Turning Pcap dumps into Message Sequence Charts
 ---
 

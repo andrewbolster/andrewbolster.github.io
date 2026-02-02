@@ -7,14 +7,11 @@ date: 2011-09-15 14:31:10+00:00
 layout: post
 slug: phd-diary-an-introduction-and-a-little-light-reading
 tags:
-- bibliographies
-- note-taking
-- lit-review
-- phd
-- PhD supervisor
-- academic references
+- Academia
 - Mendeley
-- qub
+- PhD
+- QUB
+- Research
 title: 'PhD Diary: An Introduction and A Little Light Reading'
 ---
 

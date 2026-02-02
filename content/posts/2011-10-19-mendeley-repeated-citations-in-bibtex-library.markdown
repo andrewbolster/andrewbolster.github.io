@@ -7,14 +7,8 @@ date: 2011-10-19 08:58:30+00:00
 layout: post
 slug: mendeley-repeated-citations-in-bibtex-library
 tags:
-- mendeley
-- library
-- biblatex
 - latex
-- tex
-- citation
-- trash
-- bibtex
+- mendeley
 title: Mendeley Repeated Citations in BibTeX Library
 ---
 

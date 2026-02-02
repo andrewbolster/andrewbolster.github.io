@@ -7,28 +7,11 @@ date: 2013-02-11 13:04:43+00:00
 layout: post
 slug: it-qub-are-moving-forward
 tags:
-- university
-- web space
-- qub
-- wifi
-- networking
-- crypto authentication
-- Uni
-- representative
-- wifi network
+- Academia
+- Networking
+- QUB
+- WiFi
 - vpn
-- backhaul improvement
-- queens university belfast
-- information services
-- researcher web space
-- pg forum
-- vpn service
-- email storage
-- qub_sec
-- eduRoam inclusion
-- VPN endpoint
-- IS engagement
-- social media use
 title: IT @ QUB are moving forward
 ---
 

@@ -6,19 +6,11 @@ categories:
 - Software Engineering
 - Philosophy
 tags:
-- artificial intelligence
-- generative AI
+- AI
 - LLM
-- responsibility
-- ownership
-- discernment
-- credit
-- RLHF
-- machine learning
-- software development
+- 'Machine Learning'
 - ethics
-- decision making
-- agency
+- 'software development'
 date: 2025-07-14T14:16:00+01:00
 ---
 Lots of people have written about the impact of [generative AI](/2024/02/19/generative-ai-impact-on-software-development-and-security) on the world of software engineering, and while I write this I'm fighting with [CoPilot](https://github.com/features/copilot) to stop filling out the rest of the sentence. Gimme a second...

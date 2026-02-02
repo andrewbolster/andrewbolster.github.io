@@ -7,12 +7,7 @@ date: 2012-07-20 08:10:41+00:00
 layout: post
 slug: the-concept-of-quality-and-my-mission
 tags:
-- Zen and the Art of Motorcycle Maintenance
-- Personal development
-- Quality
-- Mentorship
-- Cultural improvement
-- Individual change
+- 'Personal development'
 title: The concept of Quality and my 'mission'
 ---
 

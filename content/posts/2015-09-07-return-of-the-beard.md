@@ -3,20 +3,10 @@ category: ''
 description: ''
 layout: post
 tags:
-- achievements
-- University of Liverpool
-- work experience
-- future plans
-- academic conferences
-- networking
-- reflective post
-- professional development
-- technology events
-- friendship
-- personal journey
-- travel experiences
-- public speaking
-- social events
+- Academia
+- Networking
+- 'University of Liverpool'
+- 'professional development'
 title: Return of the Beard
 ---
 

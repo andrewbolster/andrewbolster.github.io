@@ -7,18 +7,14 @@ date: 2013-07-06 09:56:58+00:00
 layout: post
 slug: ssh-persistence-redux-multiple-sites-and-crontab-laziness
 tags:
+- Cybersecurity
 - Linux
-- autossh
+- Microcontrollers
+- Networking
+- 'Raspberry Pi'
+- Shell
+- 'remote access'
 - ssh
-- networking
-- remote access
-- cron
-- service setup
-- reverse shell
-- persistent connection
-- shell
-- Raspberry Pi
-- security
 title: 'SSH Persistence Redux: Multiple sites and Crontab Laziness'
 ---
 

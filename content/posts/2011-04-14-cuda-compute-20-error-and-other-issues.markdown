@@ -7,18 +7,10 @@ date: 2011-04-14 11:48:01+00:00
 layout: post
 slug: cuda-compute-20-error-and-other-issues
 tags:
-- cuda
-- Makefile
-- gpu
-- NVIDIA SDK
-- OpenGL
+- C/C++
+- CUDA
 - GPU
 - Programming
-- makefile
-- C
-- OpenCL
-- CUDA
-- programming
 title: CUDA Compute 20 Error and other issues
 ---
 

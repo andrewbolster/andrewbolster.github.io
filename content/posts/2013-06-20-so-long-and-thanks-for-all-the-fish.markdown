@@ -7,28 +7,20 @@ date: 2013-06-20 06:07:13+00:00
 layout: post
 slug: so-long-and-thanks-for-all-the-fish
 tags:
-- trust
-- collaboration
-- University of Liverpool
-- maritime
-- autonomous vehicles
-- UK
-- community
-- Farset Labs
-- Northern Ireland
-- DSTL
-- funding
-- Portsmouth
-- technology
-- NATO
-- directorship
-- move
-- innovation
-- DGA
-- PhD
+- 'Autonomous Systems'
+- Community
+- 'Farset Labs'
+- Innovation
 - Liverpool
-- France
-- research
+- 'Northern Ireland'
+- PhD
+- Research
+- Technology
+- Trust
+- UK
+- 'University of Liverpool'
+- funding
+- maritime
 title: So long and thanks for all the fish
 ---
 

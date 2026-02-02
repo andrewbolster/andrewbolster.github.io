@@ -7,15 +7,9 @@ date: 2011-07-23 09:02:42+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23072011-2
 tags:
-- Star Wars
-- Neil Gaiman
-- Gollum
-- OnionPulitzer
-- acapella
-- Adam Savage
-- music
+- Music
+- 'Star Wars'
 - comedy
-- multitrack
 title: Stuff I've found interesting in the past month - 23/07/2011
 ---
 

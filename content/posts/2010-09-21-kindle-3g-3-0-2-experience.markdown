@@ -7,11 +7,10 @@ date: 2010-09-21 22:30:24+00:00
 layout: post
 slug: kindle-3g-3-0-2-experience
 tags:
-- technology
-- e-book reader
-- Kindle
-- electronics
-- innovation
+- Books
+- Electronics
+- Innovation
+- Technology
 title: Kindle 3G 3.0.2 Experience
 ---
 

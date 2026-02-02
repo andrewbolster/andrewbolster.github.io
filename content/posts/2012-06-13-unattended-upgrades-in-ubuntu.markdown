@@ -7,14 +7,8 @@ date: 2012-06-13 15:13:56+00:00
 layout: post
 slug: unattended-upgrades-in-ubuntu
 tags:
+- Automation
 - Ubuntu
-- upgrade
-- unattended-upgrades
-- automation
-- sudo
-- automated
-- update
-- software
 title: Unattended upgrades in Ubuntu
 ---
 

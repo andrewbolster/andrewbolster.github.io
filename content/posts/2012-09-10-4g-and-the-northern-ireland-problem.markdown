@@ -7,25 +7,12 @@ date: 2012-09-10 18:56:21+00:00
 layout: post
 slug: 4g-and-the-northern-ireland-problem
 tags:
-- 3g
-- global roaming
+- IoT
+- Networking
+- 'Northern Ireland'
+- Technology
 - mobile
-- r&d
-- lte protocol
-- telecommunications
-- technology
-- blog
-- umts standard
-- high speed internet
-- networking
-- lte
-- ee
-- 4g
-- lte testing
-- umts
-- mobile tv
-- northern ireland
-- internet of things
+- 'r&d'
 title: 4G and 'The Northern Ireland Problem'
 ---
 

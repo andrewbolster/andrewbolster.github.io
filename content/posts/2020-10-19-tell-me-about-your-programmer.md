@@ -2,19 +2,13 @@
 date: 2020-10-19T11:34:00+01:00
 layout: post
 tags:
-- science fiction
-- technology
-- careers
-- Robopsychologist
-- computing
+- AI
+- 'Data Science'
+- Robotics
+- 'Science Fiction'
+- 'Software Engineering'
+- Technology
 - cybersecurity
-- future jobs
-- data science
-- software engineering
-- artificial intelligence
-- Three Laws of Robotics
-- robotics
-- Isaac Asimov
 title: Tell me about your Programmer - Robopsychologist and other careers that don't
   exist (yet)
 typora-root-url: C:\Users\me\Documents\GitHub\andrewbolster.github.io\

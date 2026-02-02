@@ -7,16 +7,14 @@ date: 2010-06-01 12:31:11+00:00
 layout: post
 slug: customised-user-directories-in-ubuntu
 tags:
+- Bash
+- Desktop
+- Linux
+- Shell
 - Ubuntu
-- linux
-- workstation
-- bash
-- file management
-- desktop
 - configuration
-- shell
 - dropbox
-- customization
+- 'file management'
 title: Customised User Directories in Ubuntu
 ---
 

@@ -7,22 +7,9 @@ date: 2010-03-26 09:48:35+00:00
 layout: post
 slug: what-to-do-when-ubuntu-device-mapper-seems-to-be-invincible
 tags:
+- Linux
+- Storage
 - Ubuntu
-- RAID set deletion
-- linux
-- workstation
-- RAID
-- hardware
-- BIOS configuration
-- AHCI
-- dmraid
-- partition tables
-- lucid lynx
-- repartitioning
-- hard drive
-- SATA drives
-- ubuntu installation
-- 64-bit
 title: 'What to do when Ubuntu Device-mapper seems to be invincible! '
 ---
 

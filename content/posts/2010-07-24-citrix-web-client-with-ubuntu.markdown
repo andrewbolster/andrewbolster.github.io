@@ -7,21 +7,13 @@ date: 2010-07-24 16:55:38+00:00
 layout: post
 slug: citrix-web-client-with-ubuntu
 tags:
-- Ubuntu
-- Certificate Authority
-- Linux
-- Virtualization
+- Cybersecurity
 - Firefox
-- networking
-- Google Chrome
+- 'Google Chrome'
+- Linux
 - Networking
-- Internet Explorer
-- Citrix
-- Security
-- citrix
-- remote
-- Remote Access
-- security
+- 'Remote Access'
+- Ubuntu
 title: Citrix Web Client with Ubuntu
 ---
 

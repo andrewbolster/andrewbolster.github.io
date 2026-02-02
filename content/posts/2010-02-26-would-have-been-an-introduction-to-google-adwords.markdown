@@ -7,18 +7,10 @@ date: 2010-02-26 16:23:45+00:00
 layout: post
 slug: would-have-been-an-introduction-to-google-adwords
 tags:
-- online advertising
-- Google ads
+- Google
+- 'Google Adwords'
+- Marketing
 - advertising
-- digital marketing
-- coupon issues
-- billing problems
-- coupons
-- Google Adwords
-- grievances
-- marketing
-- google
-- adwords
 title: (Would have been) An introduction to Google Adwords
 ---
 

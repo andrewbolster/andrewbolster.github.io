@@ -3,15 +3,10 @@ category: ''
 description: ''
 layout: post
 tags:
-- crowdsourcing
-- data sharing
-- Translink
 - Belfast
-- rant
-- web post
-- public transport
-- LPS
-- Google Transit
+- Opinion
+- Rant
+- 'web post'
 title: Translink, it's things like this that remind me why you suck so hard
 ---
 

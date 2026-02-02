@@ -7,13 +7,10 @@ date: 2010-04-09 14:58:31+00:00
 layout: post
 slug: listing-just-dot-files
 tags:
-- code
+- Bash
+- Linux
+- Programming
 - Ubuntu
-- linux
-- bash
-- file handling
-- programming
-- software
 title: Listing just dot-files
 ---
 

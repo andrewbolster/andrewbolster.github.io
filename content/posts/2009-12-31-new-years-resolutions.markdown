@@ -7,17 +7,12 @@ date: 2009-12-31 21:38:17+00:00
 layout: post
 slug: new-years-resolutions
 tags:
-- investment
-- plans
-- freelancing
-- finance
-- time management
-- portfolio development
+- Finance
+- 'Open Source'
+- Personal
+- Programming
 - blogging
-- programming
-- personal
-- open source
-- software
+- freelancing
 title: New Years Resolutions
 ---
 

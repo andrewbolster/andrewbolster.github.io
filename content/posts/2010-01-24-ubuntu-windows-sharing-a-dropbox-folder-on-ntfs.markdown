@@ -7,24 +7,14 @@ date: 2010-01-24 07:25:40+00:00
 layout: post
 slug: ubuntu-windows-sharing-a-dropbox-folder-on-ntfs
 tags:
+- Linux
+- Networking
+- Storage
 - Ubuntu
-- windows
-- linux
-- workstation
-- file system
-- ntfs-3g
-- HDD
-- operating system
-- networking
-- dual-boot
-- hard drive
-- fstab
-- mounting
-- symbolic link
-- internal drives
-- storage
+- Windows
 - dropbox
-- software
+- 'dual-boot'
+- storage
 title: Ubuntu / Windows Sharing a Dropbox folder on NTFS
 ---
 

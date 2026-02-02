@@ -7,13 +7,10 @@ date: 2009-05-27 13:44:10+00:00
 layout: post
 slug: scala-euler-problem1
 tags:
-- code
-- algorithms
-- github
-- project-euler
-- scala
+- GitHub
+- Programming
+- Scala
 - mathematics
-- programming
 title: Scala-Euler Problem1
 ---
 

@@ -5,11 +5,9 @@ date: 2009-11-02 13:33:24+00:00
 layout: post
 slug: save-the-internet
 tags:
-- ISP Throttling
-- Internet Legislation
-- Net Neutrality
+- Cybersecurity
 - Google
-- Internet Freedom
+- Privacy
 title: Save The Internet
 ---
 

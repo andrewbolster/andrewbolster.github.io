@@ -1,23 +1,17 @@
 ---
 layout: post
 tags:
-- Virtual Environment
-- Matplotlib
-- Data Science
+- Anaconda
+- 'Data Science'
+- 'Data Visualization'
 - Jupyter
-- Cufflinks
+- Matplotlib
+- NumPy
 - Pandas
 - Plotly
-- NumPy
-- Markdown
-- Anaconda
-- SciPy
-- Data Visualization
-- Seaborn
-- R Programming
-- Data Analysis
 - Python
-- RISE
+- SciPy
+- Seaborn
 title: My Basic (Python) Data Science Setup
 ---
 

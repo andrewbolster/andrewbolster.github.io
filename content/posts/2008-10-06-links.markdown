@@ -7,16 +7,11 @@ date: 2008-10-06 12:40:00+00:00
 layout: post
 slug: links
 tags:
-- Academic Videos
-- Tutorials
+- Academia
+- Education
 - Linux
-- Online Lecture
-- Cheat Sheets
-- Obsoletet
-- Uncategorized
-- Tech
-- Google Courses
 - SSH
+- Tech
 title: Links
 ---
 

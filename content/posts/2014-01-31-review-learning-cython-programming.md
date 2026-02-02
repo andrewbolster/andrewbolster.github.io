@@ -3,17 +3,13 @@ category: ''
 description: ''
 layout: post
 tags:
-- PhD
-- Programming Languages
-- Matlab
-- Cython
 - C/C++
-- Data Analysis
+- 'Data Science'
+- MATLAB
 - NumPy
-- GPU Computing
-- Performance Optimization
-- Software Development
+- PhD
 - Python
+- 'Software Development'
 title: 'Review: Learning Cython Programming'
 ---
 

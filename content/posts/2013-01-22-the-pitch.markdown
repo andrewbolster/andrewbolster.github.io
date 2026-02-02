@@ -7,13 +7,8 @@ date: 2013-01-22 17:24:19+00:00
 layout: post
 slug: the-pitch
 tags:
-- Charitable Projects
-- Storytelling
-- Innovation
-- Small Business
 - Entrepreneurship
-- Community Building
-- Creative Writing
+- Innovation
 title: '"The Pitch"'
 ---
 

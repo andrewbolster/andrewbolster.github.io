@@ -7,13 +7,12 @@ date: 2010-10-23 09:02:26+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23102010-2
 tags:
-- Video Games
-- Technology
 - Event
+- Film
+- Gaming
 - Music
 - Programming
-- Movie Trailer
-- Fun
+- Technology
 title: Stuff I've found interesting in the past month - 23/10/2010
 ---
 

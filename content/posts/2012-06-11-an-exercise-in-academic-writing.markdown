@@ -7,30 +7,8 @@ date: 2012-06-11 16:14:38+00:00
 layout: post
 slug: an-exercise-in-academic-writing
 tags:
-- phd
-- important researchers
-- useful quotation
-- research methodologies
-- writing
-- main findings
-- Daniel Soule
-- critical reading form
-- literature review
-- research tradition
-- training
-- research status
-- literature summary
-- Pomodoro technique
-- bibliographic information
-- research gap
-- postgraduate training
-- limitations of work
-- research field connection
-- original contribution
-- thesis writing
-- relevant to assignment
-- research questions
-- theoretical frameworks
+- PhD
+- Research
 title: An exercise in academic writing
 ---
 

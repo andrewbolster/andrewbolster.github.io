@@ -7,22 +7,15 @@ date: 2011-04-07 17:24:08+00:00
 layout: post
 slug: why-belfast-needs-a-hackerspace
 tags:
-- technology
-- collaboration
-- privacy
-- commerce
-- Hackerspaces
-- social segregation
+- Cybersecurity
+- Hackerspace
+- Hacking
+- Innovation
+- 'Northern Ireland'
+- Personal
+- Privacy
+- Technology
 - entrepreneurship
-- media hub
-- new technology
-- information security
-- northern ireland
-- hackerspace
-- innovation
-- Northern Ireland
-- personal
-- hacking
 title: Why Belfast Needs a Hackerspace
 ---
 

@@ -7,12 +7,9 @@ date: 2010-04-13 23:17:09+00:00
 layout: post
 slug: facebook-group-library
 tags:
-- privacy
-- internet
-- social media
-- online groups
-- facebook
-- personal
+- Personal
+- Privacy
+- 'Social Media'
 title: Facebook Group Library
 ---
 

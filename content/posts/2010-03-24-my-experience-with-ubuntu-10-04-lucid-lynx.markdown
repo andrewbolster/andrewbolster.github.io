@@ -7,25 +7,10 @@ date: 2010-03-24 16:39:16+00:00
 layout: post
 slug: my-experience-with-ubuntu-10-04-lucid-lynx
 tags:
+- Linux
+- Opinion
+- Rant
 - Ubuntu
-- workstation
-- Lucid Lynx
-- Ubuntu fan
-- Launchpad
-- live CD
-- install
-- lucid
-- lynx
-- hardware
-- serverfault
-- rant
-- '10.04'
-- installation troubleshooting
-- daily build
-- bug report
-- linux
-- boot issues
-- beta
 title: My Experience with Ubuntu 10.04, Lucid Lynx
 ---
 

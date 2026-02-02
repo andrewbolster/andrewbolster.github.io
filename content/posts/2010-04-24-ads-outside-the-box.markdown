@@ -7,15 +7,8 @@ date: 2010-04-24 11:16:51+00:00
 layout: post
 slug: ads-outside-the-box
 tags:
-- digital media
-- video
-- design
-- social media
-- future technology
-- gaming industry
-- marketing
-- gamification
-- convergence
+- Marketing
+- 'Social Media'
 - advertising
 title: Ads Outside the Box?
 ---

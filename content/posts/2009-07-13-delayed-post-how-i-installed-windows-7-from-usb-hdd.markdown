@@ -7,21 +7,13 @@ date: 2009-07-13 08:49:40+00:00
 layout: post
 slug: delayed-post-how-i-installed-windows-7-from-usb-hdd
 tags:
-- ISO
-- Windows 7
-- WinCDEmu
-- Linux Distros
-- formatting partitions
-- HDD
-- lenovo
-- laptop
-- booting from USB
-- X11 server
-- command line networking
-- USB
-- MathML
+- Laptop
+- Linux
 - SSH
-- Math Input Panel
+- Storage
+- USB
+- Windows
+- lenovo
 title: 'Delayed Post: How I Installed Windows 7 From USB HDD'
 ---
 

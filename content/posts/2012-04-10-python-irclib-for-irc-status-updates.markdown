@@ -7,18 +7,14 @@ date: 2012-04-10 17:08:44+00:00
 layout: post
 slug: python-irclib-for-irc-status-updates
 tags:
-- Ubuntu
-- linux
-- irc
-- Code Example
-- python
-- irclib
-- Ubuntu Linux
+- 'Farset Labs'
+- Hackerspace
 - IRC
-- farsetlabs
-- hackerspace
+- Linux
 - Programming
 - Python
+- Ubuntu
+- irc
 title: Python + irclib for IRC Status Updates
 ---
 

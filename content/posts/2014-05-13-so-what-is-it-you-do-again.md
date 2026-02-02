@@ -3,21 +3,13 @@ category: ''
 description: ''
 layout: post
 tags:
-- Trust Management Frameworks
-- Cross Domain Trust Framework
-- University of Liverpool
-- Physical Behavior Analysis
-- Node Relationships
-- Autonomous Systems
-- PhD Research
-- Artificial Intelligence
-- Multi-Vector Trust Management
-- Multi Parameter Trust
-- Communications Behavior Analysis
-- Network Security
-- Node Behavior Detection
-- Collaborative Autonomy
-- Decentralised Trust Management
+- AI
+- 'Autonomous Systems'
+- Cybersecurity
+- 'Network Security'
+- PhD
+- Trust
+- 'University of Liverpool'
 title: So, what is it you do again?
 ---
 

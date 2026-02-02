@@ -7,23 +7,12 @@ date: 2010-06-02 05:00:10+00:00
 layout: post
 slug: shared-items-02062010
 tags:
-- Science
-- Guidelines
-- OPINION
-- Creationism
-- Environment
-- BP Leak
-- Ulster
-- Android Market
-- Technology
-- Investors
-- Oil Industry
-- Conspiracy Theories
+- Android
 - Business
-- Developers
-- Apple
-- Global Warming
-- AppStore
+- 'Northern Ireland'
+- Opinion
+- Science
+- Technology
 title: Shared Items - 02/06/2010
 ---
 

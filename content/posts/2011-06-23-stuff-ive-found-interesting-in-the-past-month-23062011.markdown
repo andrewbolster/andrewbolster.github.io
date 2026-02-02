@@ -7,19 +7,8 @@ date: 2011-06-23 09:03:56+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23062011
 tags:
-- Mega Marathon
-- Doctor Who
-- Series 1-6
-- ban
-- Bruno Mars
-- Social Network
-- Official Alternate Version
-- The Lazy Song
-- Pomplamoose
-- Trailer
-- Foamy The Squirrel
-- homosexuality
-- River Shiver
+- 'Doctor Who'
+- Film
 title: Stuff I've found interesting in the past month - 23/06/2011
 ---
 

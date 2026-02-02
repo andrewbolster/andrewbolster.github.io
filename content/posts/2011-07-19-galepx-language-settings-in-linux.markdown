@@ -7,16 +7,6 @@ date: 2011-07-19 09:25:18+00:00
 layout: post
 slug: galepx-language-settings-in-linux
 tags:
-- MSI E350IA-E45
-- BIOS level development
-- Language settings
-- Flashrom
-- Programming tools
-- BIOS modification
-- Galep-5 Universal Programmer
-- Coreboot project
-- BIOS flashing
-- AMD Fusion
 title: GalepX Language settings in Linux
 ---
 

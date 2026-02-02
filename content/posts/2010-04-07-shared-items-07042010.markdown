@@ -7,16 +7,11 @@ date: 2010-04-07 05:09:35+00:00
 layout: post
 slug: shared-items-07042010
 tags:
-- Blogs
-- Apps
-- Memory Management
 - Coding
-- Web Design
-- Self Improvement
-- Google Ad Innovations
-- WordPress
+- 'Memory Management'
 - Privacy
-- Engineering
+- 'Web Design'
+- WordPress
 title: Shared Items - 07/04/2010
 ---
 

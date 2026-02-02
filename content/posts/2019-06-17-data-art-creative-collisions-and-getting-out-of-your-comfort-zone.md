@@ -3,13 +3,10 @@ date: 2019-06-17T16:57:00+01:00
 layout: post
 tags:
 - Community
-- Data Science
 - Creativity
-- Technology
+- 'Data Science'
 - Innovation
-- Public Sector
-- Collaboration
-- Art
+- Technology
 title: 'Data Art: Creative Collisions and Getting out of your comfort zone'
 ---
 

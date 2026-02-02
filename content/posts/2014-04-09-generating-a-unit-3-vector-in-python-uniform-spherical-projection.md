@@ -3,13 +3,7 @@ category: ''
 description: ''
 layout: post
 tags:
-- spherical surface
-- PhD work
-- numpy
-- random walk
-- behaviours
-- StackOverflow
-- virtual submarines
+- NumPy
 - Python
 title: Generating a unit 3 vector in Python (Uniform Spherical Projection)
 ---

@@ -7,15 +7,11 @@ date: 2009-02-28 18:08:38+00:00
 layout: post
 slug: convergence
 tags:
-- LinkedIn
-- Facebook
-- social media
-- networking
-- desktop
+- Desktop
+- Networking
+- Personal
+- 'Social Media'
 - business
-- Twitter
-- software
-- personal
 title: Convergence
 ---
 

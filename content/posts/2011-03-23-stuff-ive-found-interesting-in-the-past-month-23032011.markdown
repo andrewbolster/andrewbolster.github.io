@@ -7,10 +7,7 @@ date: 2011-03-23 10:29:04+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23032011
 tags:
-- live performance
-- BB King
-- John Mayer
-- music
+- Music
 title: Stuff I've found interesting in the past month - 23/03/2011
 ---
 

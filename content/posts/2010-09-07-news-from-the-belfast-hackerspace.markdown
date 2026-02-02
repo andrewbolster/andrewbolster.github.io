@@ -7,35 +7,20 @@ date: 2010-09-07 13:02:31+00:00
 layout: post
 slug: news-from-the-belfast-hackerspace
 tags:
-- privacy
-- technical fields
-- charity
-- obsolete computers
-- community
-- event
-- computer architecture
-- Wireless
-- hacking
-- security
-- technology
-- belfast
+- Belfast
+- Community
+- Cryptography
 - CyberSecurity
-- intrusion detection
-- Hackerspaces
-- wireless
-- encryption
-- exhibition
-- partnership
-- hackerspace
-- electrical engineering
-- Digital Circle
-- DDoS attacks
-- network mapping
-- hackerspaces
-- donation
-- programming
-- IET Committee
-- open source
+- Cybersecurity
+- Hackerspace
+- Hacking
+- 'Open Source'
+- Privacy
+- Programming
+- Technology
+- WiFi
+- charity
+- event
 title: News from the Belfast Hackerspace
 ---
 

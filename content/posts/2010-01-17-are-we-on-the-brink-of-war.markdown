@@ -7,27 +7,15 @@ date: 2010-01-17 17:04:40+00:00
 layout: post
 slug: are-we-on-the-brink-of-war
 tags:
-- Adobe
-- hackers
-- China
-- RackSpace
-- vulnerability
-- hacking
-- security
-- technology
-- cybersecurity
-- Symantec
-- networking
-- spyware
-- Northrop Grumman
-- phishing
-- Dow Chemical
-- Yahoo
-- information security
+- 'Application Security'
+- Cloud
+- Cybersecurity
+- 'Data Security'
 - Google
-- data breach
-- software
-- terrorism
+- Hacking
+- Networking
+- Technology
+- cybersecurity
 title: Are we on the brink of War?
 ---
 

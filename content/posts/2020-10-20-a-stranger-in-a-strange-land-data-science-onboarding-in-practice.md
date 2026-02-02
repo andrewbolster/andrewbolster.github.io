@@ -2,33 +2,16 @@
 date: 2020-10-20T11:03:00+01:00
 layout: post
 tags:
-- Machine Learning
-- Innovation
-- Data Workflow
-- Philosophies
-- Data Science
-- Business Context
-- Strategy
-- Jupyter Notebooks
-- Data Glossary
-- Data Management
-- Complex Data
-- Plotly Express
-- Atlassian Confluence
-- Team Leadership
-- Pandas
-- Data Catalogue
+- AI
 - AWS
-- Continuity
-- Data Analysis
-- Modern Data Science Workflow
-- Data Scientists
-- Production Data
-- Business Intelligence
-- Communication
 - Azure
-- Artificial Intelligence
-- Engineering
+- Cloud
+- 'Data Science'
+- Innovation
+- Jupyter
+- 'Machine Learning'
+- Pandas
+- Plotly
 title: 'A Stranger in a Strange Land: Data Science Onboarding In Practice'
 typora-root-url: C:\Users\me\Documents\GitHub\andrewbolster.github.io\
 ---

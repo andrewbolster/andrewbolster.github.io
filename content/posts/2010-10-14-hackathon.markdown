@@ -7,18 +7,16 @@ date: 2010-10-14 15:50:07+00:00
 layout: post
 slug: hackathon
 tags:
-- technology
-- linux
-- privacy
-- networking
-- hackathon
+- Cybersecurity
+- Gaming
+- Hackerspace
+- Hacking
+- Linux
+- Networking
+- Privacy
+- Programming
+- Technology
 - event
-- hackerspace
-- programming
-- hardware
-- gaming
-- hacking
-- security
 title: Hackathon
 ---
 

@@ -8,10 +8,9 @@ layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23092011
 tags:
 - Comedy
-- Original Content
 - Entertainment
 - Music
-- YouTube
+- 'Social Media'
 title: Stuff I've found interesting in the past month - 23/09/2011
 ---
 

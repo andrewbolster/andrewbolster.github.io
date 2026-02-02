@@ -3,16 +3,10 @@ category: ''
 description: ''
 layout: post
 tags:
-- technology
-- economic development
-- STEM education
-- emergent behaviors
-- social investment
-- complex systems
-- speaking event
-- innovation
-- TEDx Belfast
-- community building
+- Finance
+- Innovation
+- STEM
+- Technology
 title: 'TEDx: How it went and how it could have gone'
 ---
 

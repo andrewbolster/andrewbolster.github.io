@@ -7,22 +7,16 @@ date: 2010-03-10 09:49:40+00:00
 layout: post
 slug: so-what-can-you-do-with-32-million-passwords
 tags:
-- linux
+- 'Application Security'
+- Cybersecurity
+- 'Data Security'
+- Education
+- EeePC
+- Hacking
+- Linux
+- Networking
+- QUB
 - cybersecurity
-- education
-- passwords
-- eee
-- networking
-- information security
-- password security
-- password cracking
-- data breaches
-- CS module
-- qub
-- University Belfast
-- coursework
-- SQL injection
-- security
 title: So what can you do with 32 Million Passwords...
 ---
 

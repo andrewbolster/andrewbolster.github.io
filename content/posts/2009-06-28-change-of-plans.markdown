@@ -5,24 +5,16 @@ date: 2009-06-28 11:39:20+00:00
 layout: post
 slug: change-of-plans
 tags:
-- programming languages
-- Scala
-- scripting languages
-- Java
-- random number generator
-- Ruby
-- CSharp
-- experience level
-- Perl
-- Project Euler
-- interpreted languages
-- PHP
-- C++
-- JavaScript
-- compiled languages
-- C
 - Bash
+- C/C++
+- CSharp
+- Java
+- JavaScript
+- PHP
+- Perl
 - Python
+- Ruby
+- Scala
 title: Change Of Plans.....
 ---
 

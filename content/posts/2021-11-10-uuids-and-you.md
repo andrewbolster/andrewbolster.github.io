@@ -2,13 +2,7 @@
 date: 2021-11-10T18:00:00+00:00
 layout: post
 tags:
-- Database Architecture
-- Entity Identification
-- UUID
-- Performance Optimization
-- Web Development
-- Microservices
-- Data Storage
+- 'Web Development'
 title: UUIDs and You
 ---
 

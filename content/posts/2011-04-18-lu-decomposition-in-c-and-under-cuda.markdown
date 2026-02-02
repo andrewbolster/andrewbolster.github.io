@@ -7,18 +7,10 @@ date: 2011-04-18 13:00:23+00:00
 layout: post
 slug: lu-decomposition-in-c-and-under-cuda
 tags:
-- cuda
-- numerical stability
-- linalg
-- gpu
-- parallel processing
-- pivoting
-- Meng
-- C
-- dense matrix solver
-- LU Decomposition
-- linear systems
-- programming
+- C/C++
+- CUDA
+- GPU
+- Programming
 title: LU Decomposition in C (and under CUDA)
 ---
 

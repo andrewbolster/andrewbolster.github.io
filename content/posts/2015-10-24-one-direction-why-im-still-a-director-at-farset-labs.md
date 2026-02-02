@@ -3,17 +3,10 @@ category: ''
 description: ''
 layout: post
 tags:
-- NI Knowledge Economy
-- Maker community
-- Community management
-- Director
-- Technology
-- Voluntary position
-- Community impact
+- 'Farset Labs'
 - Innovation
-- Arts and creative developments
-- Farset Labs
-- Northern Ireland
+- 'Northern Ireland'
+- Technology
 title: 'One Direction: Why I''m still a director at Farset Labs'
 ---
 

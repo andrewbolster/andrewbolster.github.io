@@ -2,20 +2,13 @@
 date: 2017-09-28 18:02:12+0100
 layout: post
 tags:
-- robotics
-- phd
-- international combat doctrine
-- ml
-- ethical challenges
-- research
-- maritime autonomy
-- ai
-- autonomous weapons systems
-- fire control
-- defense field
-- friend-or-foe identification
-- combat law
-- autonomous systems
+- AI
+- 'Autonomous Systems'
+- 'Machine Learning'
+- Maritime
+- PhD
+- Research
+- Robotics
 title: Legal Considerations for Trusted Defence Autonomy
 ---
 

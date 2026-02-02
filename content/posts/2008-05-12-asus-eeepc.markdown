@@ -7,19 +7,10 @@ date: 2008-05-12 20:00:00+00:00
 layout: post
 slug: asus-eeepc
 tags:
+- EeePC
+- Linux
 - Ubuntu
-- linux
-- Clove
-- eee
-- Hardy Heron
-- Asus
-- '8.10'
-- delivery
-- product review
-- battery issue
-- customer service
-- hardware
-- internal bluetooth mod
+- 'customer service'
 title: Asus EEEpc
 ---
 

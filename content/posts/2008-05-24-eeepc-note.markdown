@@ -7,20 +7,15 @@ date: 2008-05-24 12:06:00+00:00
 layout: post
 slug: eeepc-note
 tags:
-- Ubuntu
-- Aircrack
-- linux
-- Linux
+- Cybersecurity
+- 'Dual Boot'
+- EeePC
 - GPS
-- Eee
-- eee
+- Hacking
+- Linux
+- Ubuntu
 - Webcam
-- Hardy Heron
-- Kismet
-- Wireless
-- Dual Boot
-- Battery Life
-- '8.04'
+- WiFi
 title: EEEpc note
 ---
 

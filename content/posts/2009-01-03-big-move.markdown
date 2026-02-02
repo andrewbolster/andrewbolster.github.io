@@ -7,17 +7,11 @@ date: 2009-01-03 19:34:36+00:00
 layout: post
 slug: big-move
 tags:
-- technology
-- XBox 360
-- new year deal
-- domain
-- xbox
-- Lifehacker
-- personal
-- DreamHost
-- hardware
-- gaming
-- My Book World Edition
+- Cloud
+- Gaming
+- Personal
+- Productivity
+- Technology
 title: Big Move
 ---
 

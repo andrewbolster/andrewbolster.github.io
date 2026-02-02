@@ -7,19 +7,7 @@ date: 2010-12-23 09:11:25+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23122010
 tags:
-- Parker Brothers Choppers
-- '2010'
-- Tron
-- New York City
-- animation
-- Zeitgeist
-- Lego
-- year in review
-- shuttle
-- kinetic typography
-- space
-- Antikythera Mechanism
-- Lightcycle
+- Film
 title: Stuff I've found interesting in the past month - 23/12/2010
 ---
 

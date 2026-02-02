@@ -7,13 +7,9 @@ date: 2010-04-12 17:38:45+00:00
 layout: post
 slug: us-confirm-status-as-acta-transparancy-stopping-block
 tags:
-- privacy
-- acta
-- trade agreement
-- negotiations
-- intellectual property rights
-- personal
-- security
+- Cybersecurity
+- Personal
+- Privacy
 title: US confirm status as ACTA transparancy stopping block
 ---
 

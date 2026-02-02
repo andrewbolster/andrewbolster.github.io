@@ -7,20 +7,13 @@ date: 2010-08-23 09:04:08+00:00
 layout: post
 slug: stuff-ive-found-interesting-in-the-past-month-23082010
 tags:
-- Linux
-- Office Culture
 - Automation
-- Web Utilities
-- Technology
-- Gadgets
-- Sound Effects
-- Security
-- Social Networking
-- Economy
-- Taxation
-- Music
+- Cybersecurity
+- Finance
 - Hacking
-- Internet
+- Linux
+- Music
+- Technology
 title: Stuff I've found interesting in the past month - 23/08/2010
 ---
 

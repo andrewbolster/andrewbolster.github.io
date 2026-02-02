@@ -7,16 +7,9 @@ date: 2010-05-04 11:26:13+00:00
 layout: post
 slug: ubuntu-boosting-blog-hits
 tags:
+- Google
 - Ubuntu
-- seo strategies
-- keyword analysis
-- ubuntu
 - seo
-- lucid
-- lynx
-- analytics
-- '10.04'
-- google
 title: Ubuntu Boosting Blog Hits
 ---
 

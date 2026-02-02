@@ -3,14 +3,9 @@ category: ''
 description: ''
 layout: post
 tags:
-- irc
 - Jekyll
-- BOM
-- template layouts
-- Stack Overflow
 - blogging
-- Unicode
-- byte order mark
+- irc
 title: Unicode Madness in Jekyll
 ---
 

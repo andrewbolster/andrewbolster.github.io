@@ -7,11 +7,10 @@ date: 2012-12-31 23:59:22+00:00
 layout: post
 slug: happy-new-year
 tags:
-- politics
+- Community
+- Personal
+- Politics
 - events
-- community
-- gratitude
-- personal
 title: Happy New Year
 ---
 

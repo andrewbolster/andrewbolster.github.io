@@ -7,21 +7,9 @@ date: 2012-06-12 11:10:16+00:00
 layout: post
 slug: litreview-communication-in-a-behaviour-based-approach-to-target-detection-and-tracking-with-autonomous-underwater-vehicles
 tags:
-- Artificial Potential Fields
-- Obstacle avoidance
-- Collaborative target tracking behaviours
-- Mapping
-- Trust issues
-- Motor Schema control
-- Stochastic analysis
-- Simulation generation
-- AUVs
-- Routing considerations
-- Path planning
-- Comms environment
-- Energy usage
-- Global awareness
-- Control systems
+- 'Autonomous Systems'
+- Maritime
+- Robotics
 title: 'LitReview: Communication in a behaviour-based approach to target detection
   and tracking with Autonomous Underwater Vehicles'
 ---

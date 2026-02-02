@@ -7,12 +7,9 @@ date: 2010-03-12 15:37:50+00:00
 layout: post
 slug: line-parsing-reminder-duplicate-removal
 tags:
-- code
-- linux
-- workstation
-- bash
-- shell scripting
-- software
+- Bash
+- Linux
+- Shell
 title: Line Parsing Reminder (Duplicate removal)
 ---
 

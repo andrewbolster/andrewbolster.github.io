@@ -7,14 +7,11 @@ date: 2013-04-26 11:26:17+00:00
 layout: post
 slug: mercurial-to-git-transfer-problems-and-pitfalls
 tags:
-- github
-- version control
-- github migration
-- mercurial
-- bitbucket
-- source control
-- hg-git
-- git
+- Bitbucket
+- Git
+- GitHub
+- 'Version Control'
+- 'version control'
 title: Mercurial to Git transfer; problems, and pitfalls.
 ---
 

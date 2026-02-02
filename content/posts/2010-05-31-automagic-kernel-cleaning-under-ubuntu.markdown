@@ -7,15 +7,10 @@ date: 2010-05-31 14:29:03+00:00
 layout: post
 slug: automagic-kernel-cleaning-under-ubuntu
 tags:
-- code
+- Bash
+- Linux
+- Programming
 - Ubuntu
-- linux
-- workstation
-- bash
-- system administration
-- boot
-- programming
-- software
 title: Automagic Kernel Cleaning under Ubuntu
 ---
 

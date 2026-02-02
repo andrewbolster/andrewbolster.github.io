@@ -3,15 +3,9 @@ category: ''
 description: ''
 layout: post
 tags:
-- Configuring
-- Matlab
-- GUI
 - Installation
-- Open Source
-- Octave
-- Analysis
-- Compilation
-- Package Requirements
+- MATLAB
+- 'Open Source'
 - Python
 title: Octave 3.8 on Mint (or Ubuntu)
 ---

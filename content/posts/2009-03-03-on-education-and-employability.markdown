@@ -7,14 +7,10 @@ date: 2009-03-03 18:46:14+00:00
 layout: post
 slug: on-education-and-employability
 tags:
-- career
-- employability
+- Career
 - Education
-- education
-- online presence
-- networking
-- professional development
-- personal branding
+- Networking
+- 'professional development'
 title: On Education and Employability
 ---
 

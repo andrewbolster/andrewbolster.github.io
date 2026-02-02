@@ -7,17 +7,12 @@ date: 2010-06-14 19:46:33+00:00
 layout: post
 slug: ongoing-cuda-work-aka-i-love-this-book
 tags:
-- cuda
-- parallel
-- emulation mode
-- gpu
-- book
-- review
+- Books
+- CUDA
+- GPU
 - NVIDIA
-- parallel computing
-- Matrix Multiplication
-- mpi
-- programming
+- Programming
+- Review
 title: Ongoing CUDA work, aka, I love this book.
 ---
 

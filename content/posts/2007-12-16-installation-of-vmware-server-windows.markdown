@@ -7,27 +7,11 @@ date: 2007-12-16 23:50:00+00:00
 layout: post
 slug: installation-of-vmware-server-windows
 tags:
+- Cybersecurity
+- Hacking
+- Linux
+- Windows
 - virtualisation
-- BackTrack Linux
-- virtual machine creation
-- live booting
-- server virtualisation
-- network tools
-- IP assignment
-- network addressing
-- VM setup
-- windows
-- beta version
-- client console
-- boot configuration
-- bridged connection
-- DHCP
-- linux
-- vm
-- networking setup
-- Flux
-- VMWare
-- BT3
 title: Installation of VMWare Server (Windows)
 ---
 

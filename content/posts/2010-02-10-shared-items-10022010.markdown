@@ -7,15 +7,13 @@ date: 2010-02-10 06:30:12+00:00
 layout: post
 slug: shared-items-10022010
 tags:
-- technology
-- Linux
-- internet
-- anonymity
-- freelancing
-- events
+- Cybersecurity
 - DIY
-- Google Wave
-- security
+- Linux
+- Privacy
+- Technology
+- events
+- freelancing
 title: Shared Items - 10/02/2010
 ---
 

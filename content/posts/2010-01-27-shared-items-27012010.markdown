@@ -7,21 +7,10 @@ date: 2010-01-27 07:33:22+00:00
 layout: post
 slug: shared-items-27012010
 tags:
-- Ubuntu
-- Science
-- CMS
-- Passion
-- Terminal Server
-- Linux
-- Fonts
-- Transportation Network
-- Biomimetics
-- Professional Designs
-- Design
 - Drupal
-- Joomla
-- Google Code
-- FreeNX
+- Linux
+- Science
+- Ubuntu
 title: Shared Items - 27/01/2010
 ---
 

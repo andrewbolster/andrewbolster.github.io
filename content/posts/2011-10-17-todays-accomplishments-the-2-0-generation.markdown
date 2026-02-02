@@ -7,31 +7,16 @@ date: 2011-10-17 11:42:01+00:00
 layout: post
 slug: todays-accomplishments-the-2-0-generation
 tags:
-- remote services
-- efficiency
-- NiftyNosh
-- Tesco
-- remote
-- technology
-- StackExchange
-- internet
-- literature review
-- Zopa
-- networking
-- finance
-- rant
-- groceries
-- internet-based services
-- online services
-- papers
-- services
-- investments
-- wine
-- PhD
+- Finance
+- Google
 - Ireland
-- Occupy X
-- marketing
-- google
+- Marketing
+- Networking
+- Opinion
+- PhD
+- Rant
+- Research
+- Technology
 title: 'Today''s Accomplishments: The 2.0 Generation'
 ---
 

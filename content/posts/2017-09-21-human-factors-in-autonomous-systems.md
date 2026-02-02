@@ -3,23 +3,11 @@ author: admin
 date: 2017-09-21 19:05:52+0100
 layout: post
 tags:
-- human factors
-- complexity
-- user experience design
-- human cognition
-- phd
-- autonomy
-- adaptive automation
-- ml
-- decision support systems
-- information overload
-- research
-- HCI
-- ai
-- human-machine interfaces
-- autonomous systems
-- distributed decision making
-- cognitive biases
+- AI
+- 'Autonomous Systems'
+- 'Machine Learning'
+- PhD
+- Research
 title: Human Factors related to Trusted Operation of Autonomous Systems
 ---
 

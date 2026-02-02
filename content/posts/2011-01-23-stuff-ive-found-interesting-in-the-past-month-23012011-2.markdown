@@ -9,11 +9,6 @@ slug: stuff-ive-found-interesting-in-the-past-month-23012011-2
 tags:
 - Comedy
 - Entertainment
-- Unemployment
-- NASA
-- Animals
-- Christmas
-- Global Warming
 title: Stuff I've found interesting in the past month - 23/01/2011
 ---
 

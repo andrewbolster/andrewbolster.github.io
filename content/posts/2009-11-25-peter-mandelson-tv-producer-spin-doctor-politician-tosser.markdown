@@ -7,14 +7,10 @@ date: 2009-11-25 14:06:32+00:00
 layout: post
 slug: peter-mandelson-tv-producer-spin-doctor-politician-tosser
 tags:
-- politics
-- internet
-- digital rights
-- government regulation
-- economy
-- society
-- copyright law
-- privacy concerns
+- Cybersecurity
+- Finance
+- Politics
+- Privacy
 title: Peter Mandelson... TV Producer, Spin-doctor, Politician, Tosser
 ---
 

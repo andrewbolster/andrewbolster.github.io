@@ -7,16 +7,8 @@ date: 2011-06-28 15:27:20+00:00
 layout: post
 slug: replace-unity-with-awn-and-gnome-do
 tags:
+- Gnome
 - Ubuntu
-- avant
-- unity
-- GUI customization
-- gui
-- Gnome-Do
-- Desktop environment
-- Avant Window Navigator
-- gnome
-- launcher
 title: Replace Unity with AWN and Gnome-Do
 ---
 

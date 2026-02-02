@@ -7,15 +7,12 @@ date: 2011-01-08 14:44:03+00:00
 layout: post
 slug: rant-job-applications
 tags:
-- LinkedIn
-- assessment_test
-- career
-- job_application
-- finance
-- rant
-- economy
-- personal
-- data_management
+- Career
+- Finance
+- Opinion
+- Personal
+- Rant
+- 'Social Media'
 title: 'Rant: Job Applications'
 ---
 

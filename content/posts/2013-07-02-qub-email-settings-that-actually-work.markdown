@@ -7,14 +7,9 @@ date: 2013-07-02 11:17:16+00:00
 layout: post
 slug: qub-email-settings-that-actually-work
 tags:
-- mail
-- email-configuration
-- email-setup
-- networking
-- settings
-- server
-- Email
-- qub
+- Networking
+- QUB
+- Server
 title: QUB Email Settings that Actually Work
 ---
 

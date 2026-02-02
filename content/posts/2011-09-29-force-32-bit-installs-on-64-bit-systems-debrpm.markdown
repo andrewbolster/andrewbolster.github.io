@@ -7,14 +7,10 @@ date: 2011-09-29 11:52:23+00:00
 layout: post
 slug: force-32-bit-installs-on-64-bit-systems-debrpm
 tags:
-- Ubuntu
-- linux
-- packaging
-- Fedora
 - Debian
-- Red Hat
-- software
-- 64-bit
+- Fedora
+- Linux
+- Ubuntu
 title: Force 32 bit installs on 64 bit systems (Deb/RPM)
 ---
 

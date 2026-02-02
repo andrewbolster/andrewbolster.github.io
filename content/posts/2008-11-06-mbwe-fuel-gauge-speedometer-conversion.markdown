@@ -7,18 +7,10 @@ date: 2008-11-06 19:20:00+00:00
 layout: post
 slug: mbwe-fuel-gauge-speedometer-conversion
 tags:
-- code
-- linux
-- bash
-- cronjob
-- scripting
-- speedometer
-- MBWE
-- MyBook
-- disk usage
-- programming
-- hardware
-- LEDs
+- Bash
+- Linux
+- Programming
+- Storage
 title: MBWE Fuel Gauge -> Speedometer conversion
 ---
 

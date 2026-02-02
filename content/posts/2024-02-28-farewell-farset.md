@@ -3,18 +3,12 @@ date: 2024-02-28T11:38:00+00:00
 layout: post
 categories: [Community, Personal]
 tags:
-- Community
-- Volunteering
-- Treasurer
-- Hackerspace
-- Farset Labs
-- Support
-- Legacy
-- Charity
-- Membership
-- Farewell
 - Belfast
-- Northern Ireland
+- Charity
+- Community
+- 'Farset Labs'
+- Hackerspace
+- 'Northern Ireland'
 title: Farewell Farset
 ---
 

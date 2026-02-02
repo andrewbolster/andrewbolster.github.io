@@ -2,16 +2,13 @@
 date: 2021-06-01T11:54:00+01:00
 layout: post
 tags:
-- Data Ecosystem
-- Data Science
+- 'Data Science'
 - Linux
-- Apache Arrow
+- 'Memory Management'
+- 'Open Data'
 - Pandas
-- Technology
-- Memory Management
-- Data Formats
-- Open Data
 - Python
+- Technology
 title: Apache Arrow in 5-10 Mins
 ---
 

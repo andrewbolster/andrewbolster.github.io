@@ -3,17 +3,12 @@ category: ''
 description: ''
 layout: post
 tags:
-- internet use
-- data visualization
-- python
-- blog post
-- statistics
-- notebook
+- 'Data Science'
+- Python
+- Statistics
 - UK
-- data wrangling
-- data analysis
-- regional data
-- digital literacy
+- 'data visualization'
+- notebook
 title: Data Wrangling for UK Internet Usage
 ---
 

@@ -7,25 +7,10 @@ date: 2011-08-04 09:00:15+00:00
 layout: post
 slug: best-description-of-northern-ireland-ive-heard-yet
 tags:
-- uda
-- religion
-- history
-- unionist
-- independence
-- British history
-- ira
-- reddit
-- uff
-- paramilitaries
-- uvf
-- colonialism
-- politics
-- religious conflict
 - Ireland
-- northern ireland
-- republican
-- propaganda
-- terrorism
+- 'Northern Ireland'
+- Politics
+- 'Social Media'
 title: Best Description of Northern Ireland I've heard yet
 ---
 

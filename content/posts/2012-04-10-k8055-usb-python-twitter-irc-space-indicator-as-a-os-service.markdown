@@ -7,21 +7,12 @@ date: 2012-04-10 17:52:11+00:00
 layout: post
 slug: k8055-usb-python-twitter-irc-space-indicator-as-a-os-service
 tags:
-- upstart
-- velleman
+- 'Farset Labs'
+- Python
+- 'Social Media'
+- USB
+- Ubuntu
 - irc
-- k8055
-- python
-- scripting
-- service installation
-- Ubuntu Upstart
-- interface board
-- twitter
-- OAuth2
-- python wrappers
-- ubuntu
-- farsetlabs
-- usb
 title: 'K8055 USB + Python + Twitter + IRC: Space Indicator as a OS Service'
 ---
 

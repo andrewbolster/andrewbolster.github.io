@@ -7,22 +7,16 @@ date: 2010-02-03 12:53:26+00:00
 layout: post
 slug: shamed
 tags:
-- technology
-- Windows
-- Ubuntu
-- virtual lab
-- Fedora
 - Debian
-- WRT54G
+- Fedora
+- 'Google Adwords'
+- Router
+- Storage
+- Technology
+- Ubuntu
 - VPN
-- Uni life
-- automated downloading
-- experiments
-- Google Adwords
-- MyBook
-- FreeBSD
 - VirtualBox
-- campaign setup
+- Windows
 title: Shamed
 ---
 

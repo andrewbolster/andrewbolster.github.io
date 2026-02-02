@@ -3,15 +3,9 @@ category: code diary
 description: ''
 layout: post
 tags:
-- code
-- niceness value
-- Monte Carlo simulation
-- random number generation
-- multiprocessing
-- simulation
-- python
-- parallel processing
-- Unix
+- Linux
+- Python
+- Simulation
 title: Multiprocessing Niceness in Python
 ---
 

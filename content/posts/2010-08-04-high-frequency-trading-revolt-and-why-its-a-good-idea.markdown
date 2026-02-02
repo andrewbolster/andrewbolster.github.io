@@ -7,15 +7,8 @@ date: 2010-08-04 17:22:24+00:00
 layout: post
 slug: high-frequency-trading-revolt-and-why-its-a-good-idea
 tags:
-- career
-- high frequency trading
-- financial markets
-- economic collapse
-- finance
-- algorithmic trading
-- economy
-- high performance
-- market control
+- Career
+- Finance
 title: High-Frequency Trading Revolt, and Why its a good idea!!
 ---
 

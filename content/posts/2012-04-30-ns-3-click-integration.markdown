@@ -7,19 +7,9 @@ date: 2012-04-30 17:07:44+00:00
 layout: post
 slug: ns-3-click-integration
 tags:
-- linux
-- shared library files
-- router networks
-- routing architecture
-- router library
-- click
-- examples
-- root access
+- Linux
+- Simulation
 - configuration
-- kernel
-- modular
-- ns-3
-- installation guide
 title: NS-3 Click integration
 ---
 
