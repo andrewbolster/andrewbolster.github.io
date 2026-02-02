@@ -1,0 +1,40 @@
+---
+categories:
+- Commentary
+comments: false
+date: 2008-05-11 01:12:00+00:00
+slug: update
+tags:
+- Firefox
+- Ireland
+- Linux
+- 'Memory Management'
+- Tech
+- Ubuntu
+title: Update
+---
+
+
+Yeah, suprise suprise, I'm actually gonna try and keep this up.
+
+One of the major reasons for the delay since my last documented fiddle as been job hunting for a placement year next year, but I've wonderfully secured a position with Ericsson Ireland in their Athlone R&D centre. Pays good, experience is even better.
+
+Beyond that a few other things have been making things hectic, not least of which is the impending Examination period so about the only techy thing I've been able to come up with has been a wipe and reinstall to upgrade to Hardy Heron (8.04) (I didnt update because i dont trust dist-upgrade's ability to do things my way, also meant i could blow out the cobwebs in my filesystem.)
+
+As for that, i have to say I'm very impressed. I started out in my Linux days with Red Hat 3, when RH was OSS. Oh how times change.
+
+I have to say tho that i was expecting more substantial differences; especially in the fact that I'm using the 64bit edition on 64 bit hardware but still have to get the stupid crappy 32 bit implementation layers for something as simple as flash (and thats not even working inside Firefox, thankyouverymuch).
+
+Ahh, firefox, what can we say.... well, very little anymore i guess. Were all used to Firefox being a great browser but sucked up memory like an Altzimers Hooker, which allowed us to have sentences like "Everythings perfect except the memory".
+
+Now that problem is sorted, were left with this slim slender spritely... well... fox. Now the other flaws are apparrant, like the (naturally tainted but still troublesome) security issues that just-keep-popping-up.
+
+Ok, rant over, I love firefox, absolutly brilliant, even better now it doesnt sit on memory like a paraplegic elephant. I'm really just diverting the disappointing lack of 64 bit support across the board.
+
+No Acrobat Reader.
+No Official Google Earth. (something that could do with better math)
+Actually, i cant think of many mainstream pieces of code that DONT need the 32bit interoperation libraries.
+
+Anyway. I'll update when I'm less ranty
+
+Please at least pretend to click my ads. I know they're a joke, but still, it dont cost ya anything!
