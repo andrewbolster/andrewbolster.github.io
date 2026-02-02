@@ -80,3 +80,37 @@ a:hover {
     text-align: center;
     margin-bottom: 1.5rem;
 }
+
+/* Tags in list/home view */
+.entry-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.entry-tags a {
+    display: inline-block;
+    padding: 2px 10px;
+    font-size: 12px;
+    line-height: 1.4;
+    background: var(--tertiary);
+    color: var(--primary);
+    border-radius: var(--radius);
+    position: relative;
+    z-index: 2;
+}
+
+.entry-tags a:hover {
+    background: var(--primary);
+    color: white;
+}
+
+.entry-tags .more-tags {
+    display: inline-block;
+    padding: 2px 8px;
+    font-size: 11px;
+    color: var(--secondary);
+}
