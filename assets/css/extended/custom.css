@@ -66,6 +66,24 @@
     z-index: -1;
 }
 
+/* Noise texture overlay for home-info */
+.home-info::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    right: 50%;
+    bottom: 0;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    opacity: 0.7;
+    background: white;
+    filter: url('#noise');
+    pointer-events: none;
+    mix-blend-mode: soft-light;
+    z-index: -1;
+}
+
 /* Junction font from League of Moveable Type - self-hosted */
 @font-face {
     font-family: 'junctionregularRegular';
