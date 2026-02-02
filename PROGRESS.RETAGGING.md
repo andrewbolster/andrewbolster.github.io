@@ -6,553 +6,496 @@
 |--------|-------|
 | Starting tags | 1751 |
 | Target tags | <150 |
-| Proposed consolidated tags | ~120 |
-| Status | **Ready for Review** |
-
-## Proposed Consolidated Tag Categories
-
-After analysis, here are the proposed ~120 canonical tags organized by domain:
-
-### Technology & Computing (~25 tags)
-- AI
-- Machine Learning
-- LLM
-- Data Science
-- Cybersecurity
-- Privacy
-- Encryption
-- Hacking
-- Python
-- JavaScript
-- Linux
-- Ubuntu
-- Windows
-- Android
-- Git
-- Docker
-- Cloud
-- IoT
-- Networking
-- WiFi
-- Hardware
-- Mobile
-- Web Development
-- DevOps
-- Open Source
-
-### Professional & Career (~10 tags)
-- Academia
-- Research
-- PhD
-- Career
-- Speaking
-- Writing
-- Consulting
-- Leadership
-- Startup
-- Business
-
-### Research Topics (~10 tags)
-- Autonomous Systems
-- Trust
-- Robotics
-- Maritime
-- Simulation
-- Sensor Networks
-- Communications
-- Defence
-- Ethics
-
-### Community & Events (~15 tags)
-- Farset Labs
-- Hackerspace
-- Belfast
-- Northern Ireland
-- Conferences
-- Meetups
-- NIDC
-- TEDx
-- BSides
-- PyBelfast
-- Open Data
-- Maker
-- CoderDojo
-- Education
-- STEM
-
-### Media & Entertainment (~10 tags)
-- Film
-- TV
-- Music
-- Gaming
-- Books
-- Podcasts
-- Social Media
-- Photography
-- Art
-- Comedy
-
-### Personal & Lifestyle (~10 tags)
-- Travel
-- Food
-- Whiskey
-- Coffee
-- Health
-- Productivity
-- Opinion
-- Tutorial
-- Review
-- Nostalgia
-
-### Topics & Issues (~15 tags)
-- Politics
-- Finance
-- Environment
-- Science
-- History
-- Culture
-- Innovation
-- Regulation
-- Journalism
-- Media
-- Society
-- Technology Industry
-- Accessibility
-- Diversity
-
-### Specific Technologies (~25 tags)
-- AWS
-- Google
-- Apple
-- Microsoft
-- GitHub
-- Jupyter
-- Pandas
-- NumPy
-- Arduino
-- Raspberry Pi
-- VPN
-- SSH
-- API
-- REST
-- Database
-- SQL
-- NoSQL
-- Visualization
-- Statistics
-- NLP
-- Computer Vision
-- Blockchain
-- Cryptocurrency
-- 3D Printing
-- VR/AR
+| Estimated final tags | ~130 |
+| Status | **Mappings Finalized - Ready for Implementation** |
 
 ---
 
-## Detailed Mappings
+## Finalized Tag Mappings
 
-### Tags to DELETE (no semantic value)
+### Tags to DELETE (no replacement)
 
 ```
-# Years and dates
-1960s → DELETE
-1960s-culture → DELETE
-1963 → DELETE
+# Years (round to decade - keep 1960s, delete specific years)
+1963 → DELETE (post already has 1960s)
 2009 → DELETE
 2010 → DELETE
+(etc - all specific years)
 
 # Version numbers
-10.04 → DELETE
-8.04 → DELETE
-8.10 → DELETE
+10.04 → Ubuntu
+8.04 → Ubuntu
+8.10 → Ubuntu
 64-bit → DELETE
 
-# Meaningless/too generic
-a → DELETE
-see → DELETE
-doing → DELETE
-general → DELETE
-info → DELETE
-personal → DELETE
-value → DELETE
-warn → DELETE
-fun → DELETE
-funny → DELETE
-experience → DELETE
-explore → DELETE
-new-content → DELETE
-uncategorized → DELETE
-index.html → DELETE
-obsoletet → DELETE
-assessment_test → DELETE
-data_management → DELETE
-job_application → DELETE
-click → DELETE
-update → DELETE
-system → DELETE
-project → DELETE
-event → DELETE
+# Meaningless/too generic (DELETE)
+a, see, doing, general, info, value, warn, fun, funny,
+experience, explore, new-content, uncategorized, index.html,
+obsoletet, assessment_test, job_application, click (generic),
+update, system
 
-# Typos (merge with correct spelling)
+# Typos (MERGE to correct spelling)
 hackersapce → Hackerspace
 progamming → Programming
 ```
 
-### AI & Machine Learning Consolidation
+### Tags to KEEP (user requested)
+- `personal` ✓
+- `project` ✓
+- `event` ✓
+- `data_management` → `Data Management` ✓
+- `click` (NS-3 router) → `Click Router` ✓
+
+---
+
+## AI & Machine Learning
 
 ```
-ai → AI
-ai-bubble → AI
-ai-ethics → AI
-ai-hype → AI
-ai-winter → AI
-aiops → AI
-artificial-intelligence → AI
-bias-in-ai → AI
-ethical-ai → AI
-generative-ai → AI
-robopsychologist → AI
+ai, ai-bubble, ai-ethics, ai-hype, ai-winter, aiops,
+artificial-intelligence, bias-in-ai, ethical-ai,
+generative-ai, robopsychologist → AI
 
-machine-learning → Machine Learning
-ml → Machine Learning
-mlops → Machine Learning
-fine-tuning → Machine Learning
-gans → Machine Learning
-rlhf → Machine Learning
+machine-learning, ml, mlops, fine-tuning, gans, rlhf → Machine Learning
 
-chatgpt → LLM
-claude → LLM
-claude-code → LLM
-deepseek → LLM
-github-copilot → LLM
-large-language-model → LLM
-llm → LLM
-llms → LLM
-mcp → LLM
-model-context-protocol → LLM
-openai → LLM
-rag → LLM
+chatgpt, claude, claude-code, deepseek, github-copilot,
+large-language-model, llm, llms, mcp, model-context-protocol,
+openai, rag → LLM
 
-data-science → Data Science
-data-scientists → Data Science
-
+data-science, data-scientists → Data Science
 natural-language-processing → NLP
 ```
 
-### Cybersecurity Consolidation
+---
+
+## Cybersecurity (with sub-categories + parent tag)
+
+All get `Cybersecurity` as additional parent tag:
 
 ```
-application-security-posture-management → Cybersecurity
-authentication → Cybersecurity
-cyber-security → Cybersecurity
-data-breach → Cybersecurity
-data-breaches → Cybersecurity
-data-protection → Cybersecurity
-firewall → Cybersecurity
-information-security → Cybersecurity
-network-security → Cybersecurity
-password-security → Cybersecurity
-passwords → Cybersecurity
-security → Cybersecurity
-vulnerability → Cybersecurity
+# Application Security (+ Cybersecurity)
+application-security-posture-management, vulnerability,
+sql-injection, exploit → Application Security
 
-anonymity → Privacy
-digital-rights → Privacy
-internet-freedom → Privacy
-internet-privacy → Privacy
-net-neutrality → Privacy
-surveillance → Privacy
+# Data Security (+ Cybersecurity)
+data-breach, data-breaches, data-protection,
+passwords, password-security → Data Security
 
-encryption → Encryption
-tls → Encryption
-traffic-encryption → Encryption
+# Network Security (+ Cybersecurity)
+firewall, network-security, authentication → Network Security
 
-aircrack → Hacking
-backtrack-4 → Hacking
-backtrack-linux → Hacking
-exploit → Hacking
-hacker → Hacking
-hackers → Hacking
-nmap → Hacking
-password-cracking → Hacking
-phishing → Hacking
-social-engineering → Hacking
-sql-injection → Hacking
+# Cryptography (+ Cybersecurity)
+encryption, tls, traffic-encryption → Cryptography
+
+# Privacy (+ Cybersecurity)
+anonymity, digital-rights, internet-freedom, internet-privacy,
+net-neutrality, surveillance → Privacy
+
+# Hacking (+ Cybersecurity)
+aircrack, backtrack-4, backtrack-linux, hacker, hackers,
+nmap, password-cracking, phishing, social-engineering,
 wireshark → Hacking
+
+# Generic → just Cybersecurity
+cyber-security, information-security, security → Cybersecurity
 ```
 
-### Programming Languages Consolidation
+---
+
+## Programming Languages
 
 ```
-python → Python
-python3 → Python
-python-3 → Python
-oo-python → Python
-
-javascript → JavaScript
-js → JavaScript
-node → JavaScript
-nodejs → JavaScript
-
-c → C
-c++ → C++
-cpp → C++
+python, python3, python-3, oo-python → Python
+javascript, js, node, nodejs → JavaScript
+c, c++, cpp → C/C++
 csharp → CSharp
-
 java → Java
 scala → Scala
 groovy → Groovy
 ruby → Ruby
-perl → Perl
-perl-scripting → Perl
-
-bash → Bash
-bash-scripting → Bash
-shell → Shell
-shell-script → Shell
-shell-scripting → Shell
-
+perl, perl-scripting → Perl
+bash, bash-scripting → Bash
+shell, shell-script, shell-scripting → Shell
 html → HTML
 css → CSS
 php → PHP
-
 r-programming → R
-matlab → MATLAB
-octave → MATLAB
-
+matlab, octave → MATLAB
 sql → SQL
 ```
 
-### Operating Systems Consolidation
+---
+
+## Operating Systems
 
 ```
-ubuntu → Ubuntu
-ubuntu-9.10 → Ubuntu
-ubuntu-10.04 → Ubuntu
-ubuntu-hardy-heron → Ubuntu
-ubuntu-linux → Ubuntu
-ubuntu-server → Ubuntu
-lucid → Ubuntu
-lucid-lynx → Ubuntu
-hardy-heron → Ubuntu
-jaunty → Ubuntu
+# Ubuntu
+ubuntu, ubuntu-9.10, ubuntu-10.04, ubuntu-hardy-heron,
+ubuntu-linux, ubuntu-server, lucid, lucid-lynx,
+hardy-heron, jaunty, 10.04, 8.04, 8.10 → Ubuntu
 
-linux → Linux
-linux-distros → Linux
-linux-servers → Linux
+# Linux distros (kept separate)
+linux, linux-distros, linux-servers → Linux
 debian → Debian
 fedora → Fedora
-mint → Linux
-linux-mint → Linux
+mint, linux-mint → Linux Mint
 
-windows → Windows
-windows-7 → Windows
-windows-vista → Windows
-vista → Windows
-winxp → Windows
+# Windows
+windows, windows-7, windows-vista, vista, winxp → Windows
 
-android → Android
-android-api → Android
-android-development → Android
-android-market → Android
-cyanogenmod → Android
+# Android
+android, android-api, android-development,
+android-market, cyanogenmod → Android
 
-gnome → Linux Desktop
-kde → Linux Desktop
-gnome-shell → Linux Desktop
+# Desktop environments
+gnome, gnome-shell, gnome-do → Gnome
+kde → KDE
 ```
 
-### Community & Location Consolidation
+---
+
+## Community & Location
 
 ```
-farset → Farset Labs
-farset-labs → Farset Labs
-farsetlabs → Farset Labs
+# Farset Labs
+farset, farset-labs, farsetlabs → Farset Labs
 
-hackerspace → Hackerspace
-hackerspaces → Hackerspace
+# Hackerspace
+hackerspace, hackerspaces, hackersapce → Hackerspace
 
+# Locations (kept separate)
 belfast → Belfast
-northern-ireland → Northern Ireland
-ni → Northern Ireland
-ulster → Northern Ireland
-
-ireland → Ireland
 dublin → Dublin
-uk → UK
 liverpool → Liverpool
+northern-ireland, ni, ulster → Northern Ireland
+ireland → Ireland
+uk → UK
 
-qub → QUB
-queens-university-belfast → QUB
-university-belfast → QUB
-ecit → QUB
-
+# Universities
+qub, queens-university-belfast, university-belfast → QUB
+ecit → ECIT (kept separate)
 university-of-liverpool → University of Liverpool
 ```
 
-### Academic & Research Consolidation
+---
+
+## Academic & Research
 
 ```
-academic → Academia
-academic-conferences → Academia
-academic-references → Academia
-academic-videos → Academia
-college → Academia
-university → Academia
+# Academia
+academic, academic-conferences, academic-references,
+academic-videos, college, university → Academia
 
-phd → PhD
-phd-research → PhD
-thesis → PhD
-thesis-writing → PhD
-dissertation → PhD
-viva → PhD
+# PhD
+phd, phd-research, thesis, thesis-writing,
+dissertation, viva → PhD
 
-research → Research
-research-methodologies → Research
-lit-review → Research
+# Research
+research, research-methodologies, lit-review,
 literature-review → Research
 
-autonomous-systems → Autonomous Systems
-autonomous-vehicles → Autonomous Systems
-autonomy → Autonomous Systems
-auv → Autonomous Systems
-auvs → Autonomous Systems
-collaborative-autonomy → Autonomous Systems
-maritime-autonomy → Autonomous Systems
-unmanned-systems → Autonomous Systems
-
-trust → Trust
-trust-management-frameworks → Trust
+# Trust (kept separate - PhD topic)
+trust, trust-management-frameworks,
 multi-vector-trust-management → Trust
 
-robotics → Robotics
-robots → Robotics
-rov → Robotics
+# Robotics
+robotics, robots, rov → Robotics
+
+# Autonomous Systems
+autonomous-systems, autonomous-vehicles, autonomy,
+collaborative-autonomy, unmanned-systems → Autonomous Systems
+
+# AUV/Maritime (DUPLICATE to all three)
+auv, auvs, maritime-autonomy → Autonomous Systems + Maritime + Robotics
 ```
 
-### Media & Entertainment Consolidation
+---
+
+## Media & Entertainment
 
 ```
-film → Film
-movie-trailer → Film
-animation → Film
-star-wars → Film
-trailer → Film
+# Film
+film, movie-trailer, animation, trailer → Film
+star-wars → Star Wars (kept separate)
 
-doctor-who → TV
-tv → TV
-iptv → TV
+# TV
+tv, iptv → TV
+doctor-who → Doctor Who (kept separate)
 
-music → Music
-music-video → Music
-musicians → Music
-live-performance → Music
-remix → Music
+# Music
+music, music-video, musicians, live-performance, remix → Music
 
-video-games → Gaming
-videogames → Gaming
-video-game → Gaming
-games → Gaming
-gaming → Gaming
-steam → Gaming
-xbox → Gaming
-portal → Gaming
+# Gaming
+video-games, videogames, video-game, games, gaming,
+steam, xbox, portal → Gaming
 
-book → Books
-books → Books
-kindle → Books
-ebook-reader → Books
-science-fiction → Books
+# Books
+book, books, kindle, ebook-reader → Books
+science-fiction → Science Fiction (kept separate)
 
-podcast → Podcasts
-podcasts → Podcasts
+# Podcasts
+podcast, podcasts → Podcasts
 
-facebook → Social Media
-twitter → Social Media
-linkedin → Social Media
-youtube → Social Media
-reddit → Social Media
+# Social Media
+facebook, twitter, linkedin, youtube, reddit → Social Media
 ```
 
-### Hardware Consolidation
+---
+
+## Hardware & Networking
 
 ```
-laptop → Laptop
-laptops → Laptop
-thinkpad-x61s → Laptop
-
-desktop → Desktop
-pc → Desktop
+# Computers
+laptop, laptops, thinkpad-x61s → Laptop
+desktop, pc → Desktop
 server → Server
 
-raspberry-pi → Raspberry Pi
-arduino → Arduino
+# Single-board (DUPLICATE + Microcontrollers)
+raspberry-pi → Raspberry Pi + Microcontrollers
+arduino → Arduino + Microcontrollers
 
-gpu → GPU
-graphics-card → GPU
+# GPU (kept separate)
+gpu, graphics-card → GPU
 nvidia → NVIDIA
-cuda → NVIDIA
+cuda → CUDA (when specifically discussed)
 
+# CPU
 intel → Intel
 amd → AMD
 
-router → Networking
-wifi → WiFi
-wireless → WiFi
+# Networking
+router, dd-wrt, wrt54g, wrt54gl, linksys → Router
+wifi, wi-fi, wireless → WiFi
 
+# Storage
 usb → USB
-ssd → Storage
-hdd → Storage
-nas → Storage
+ssd, hdd, nas → Storage
+
+# Mobile networks
+3g, 4g, lte → Mobile Network
 ```
 
-### Politics & Society Consolidation
+---
+
+## Politics & Society
 
 ```
-democracy → Politics
-elections → Politics
-ni-assembly → Politics
-dup → Politics
-
-banking → Finance
-economy → Finance
-economic-development → Finance
-taxation → Finance
-investment → Finance
-algorithmic-trading → Finance
-
-covid → Health
-pandemic → Health
-lockdown → Health
-
-global-warming → Environment
-climate → Environment
+democracy, elections, ni-assembly, dup → Politics
+banking, economy, economic-development, taxation,
+investment, algorithmic-trading → Finance
+covid, pandemic, lockdown → Health
+global-warming, climate → Environment
 ```
+
+---
+
+## Cloud & DevOps (with parent tags)
+
+```
+# Cloud providers (+ Cloud)
+aws → AWS + Cloud
+azure → Azure + Cloud
+google-cloud, gcp → Google Cloud + Cloud
+rackspace, dreamhost → Cloud
+
+# DevOps tools (+ DevOps)
+docker → Docker + DevOps
+kubernetes, k8s → Kubernetes + DevOps
+terraform → Terraform + DevOps
+ansible → Ansible + DevOps
+jenkins → Jenkins + DevOps
+
+# Version control (NO DevOps parent)
+git → Git
+github, github-migration → GitHub
+bitbucket → Bitbucket
+mercurial, subversion → Version Control
+```
+
+---
+
+## Data Science & Analytics
+
+```
+data-science, data-scientists → Data Science
+pandas → Pandas
+numpy → NumPy
+scipy → SciPy
+jupyter, jupyter-notebooks, jupyterlab, ipython,
+ipython-notebook → Jupyter
+matplotlib → Matplotlib
+seaborn → Seaborn
+plotly, plotly-express → Plotly
+anaconda, conda → Anaconda
+statistics, statistical-analysis → Statistics
+
+# Databases
+mysql, postgresql, sqlite → SQL
+mongodb, redis → NoSQL
+database, databases → Database
+```
+
+---
+
+## Web & APIs
+
+```
+html, css → Web Development
+wordpress, wordpress-plugins, wordpress-security → WordPress
+drupal, drupal-6 → Drupal
+jekyll → Jekyll
+jquery → jQuery
+
+api, rest, restful → API
+graphql → GraphQL
+json → JSON
+xml → XML
+
+apache → Apache
+nginx → Nginx
+```
+
+---
+
+## Education & STEM
+
+```
+# Education
+education, e-learning, elearning, learning,
+learning-resources, programming-education, teaching,
+google-courses, google-code-university → Education
+
+# CoderDojo (kept separate)
+community-education, code-club, coder-dojo → CoderDojo
+
+# STEM
+stem, stem-education, stem-outreach-activities,
+stem-subjects → STEM
+
+# Conferences (kept separate)
+conference, conferences → Conferences
+nidc → NIDC
+tedx, tedxbelfast → TEDx
+pycon, pyconie → PyCon
+bsides → BSides
+
+# Speaking/Meetups
+speaking, speaker, talks → Speaking
+meetup, meetups → Meetups
+```
+
+---
+
+## Open Source & Maker
+
+```
+open-source, opensource, foss, floss → Open Source
+open-data → Open Data (kept separate)
+creative-commons → Creative Commons
+
+maker, makers, making → Maker
+3d-printing, 3d-printer → 3D Printing (kept separate)
+diy → DIY (kept separate)
+electronics, soldering → Electronics
+```
+
+---
+
+## Misc Tech
+
+```
+# IoT
+iot, internet-of-things → IoT
+smart-home, home-automation → Smart Home (kept separate)
+
+# VR/AR
+vr, virtual-reality, ar, augmented-reality → VR/AR
+
+# Blockchain
+blockchain → Blockchain
+cryptocurrency, bitcoin, ethereum → Cryptocurrency
+
+# GPS
+gps, gps-iii → GPS
+navigation, geolocation → Navigation
+
+# Simulation
+simulation, simulator, ns-3 → Simulation
+```
+
+---
+
+## Personal & Lifestyle
+
+```
+# Content types
+tutorial, how-to, guide → Tutorial
+review, reviews → Review
+opinion, commentary → Opinion
+rant → Rant + Opinion (duplicated)
+
+# Personal
+travel → Travel
+food, cooking, recipe → Food
+whiskey, whisky, coffee, beer → Drinks
+
+# Productivity
+productivity, workflow → Productivity
+automation → Automation
+```
+
+---
+
+## Estimated Final Tag List (~130 tags)
+
+### Technology (~45)
+AI, Machine Learning, LLM, Data Science, NLP, Cybersecurity, Application Security, Data Security, Network Security, Cryptography, Privacy, Hacking, Python, JavaScript, C/C++, CSharp, Java, Bash, Shell, HTML, CSS, SQL, Ubuntu, Linux, Debian, Fedora, Linux Mint, Windows, Android, Gnome, KDE, Git, GitHub, Version Control, Docker, Kubernetes, DevOps, Cloud, AWS, Azure, Google Cloud, IoT, Smart Home, VR/AR, Blockchain, Cryptocurrency
+
+### Data & Analytics (~15)
+Pandas, NumPy, SciPy, Jupyter, Matplotlib, Seaborn, Plotly, Anaconda, Statistics, Database, NoSQL, Visualization, Data Management
+
+### Hardware (~20)
+Laptop, Desktop, Server, Raspberry Pi, Arduino, Microcontrollers, GPU, NVIDIA, CUDA, Intel, AMD, Router, WiFi, USB, Storage, Mobile Network
+
+### Research & Academia (~15)
+Academia, PhD, Research, Trust, Robotics, Autonomous Systems, Maritime, Simulation, ECIT, QUB, University of Liverpool
+
+### Community & Events (~20)
+Farset Labs, Hackerspace, Belfast, Dublin, Liverpool, Northern Ireland, Ireland, UK, Conferences, NIDC, TEDx, PyCon, BSides, Speaking, Meetups, Education, CoderDojo, STEM
+
+### Media & Entertainment (~15)
+Film, Star Wars, TV, Doctor Who, Music, Gaming, Books, Science Fiction, Podcasts, Social Media
+
+### Web & Tools (~15)
+Web Development, WordPress, Drupal, Jekyll, API, JSON, XML, Apache, Nginx, Open Source, Open Data, Maker, 3D Printing, DIY, Electronics
+
+### Personal & Other (~15)
+Tutorial, Review, Opinion, Rant, Travel, Food, Drinks, Productivity, Automation, Politics, Finance, Health, Environment, GPS, Navigation, Click Router
 
 ---
 
 ## Next Steps
 
-1. **Review this mapping** - User should review proposed consolidations
-2. **Adjust as needed** - Some tags may need to stay separate or be grouped differently
-3. **Generate migration script** - Create script to update all post front matter
-4. **Apply changes** - Run migration across all posts
-5. **Verify** - Rebuild site and confirm tag count is within target
-
-## Notes
-
-- Some specific technology names (e.g., "Claude", "ChatGPT") might be worth keeping separate for discoverability
-- Person names (authors, researchers) should probably be deleted rather than consolidated
-- Conference names could either stay separate or consolidate to "Conferences"
-- The mappings above are suggestions - user discretion advised on final decisions
+1. ✅ Review complete - mappings finalized
+2. ⏳ Generate Python migration script
+3. ⏳ Run migration on all posts
+4. ⏳ Rebuild site and verify tag count
+5. ⏳ Commit and push changes
 
 ---
 
 ## Processing Log
 
-### 2026-02-02: Initial Analysis Complete
-- Analyzed 1751 tags using multiple subagents
-- Identified major consolidation categories
-- Created comprehensive mapping document
-- Estimated final tag count: ~120 tags
-- Status: Ready for user review
+### 2026-02-02: Initial Analysis
+- Analyzed 1751 tags using subagents
+- Created initial mapping proposals
+
+### 2026-02-02: Interactive Review Complete
+- Reviewed 16 batches with user
+- Key decisions:
+  - Keep detailed cybersecurity sub-categories with parent tag
+  - Keep cloud/devops tools with parent tags
+  - Keep specific conference names (NIDC, TEDx, BSides, PyCon)
+  - Duplicate AUV tags to Autonomous Systems + Maritime + Robotics
+  - Duplicate Raspberry Pi/Arduino to include Microcontrollers
+  - Keep drinks separate initially, then merged to Drinks
+  - Rant gets both Rant + Opinion tags
