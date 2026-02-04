@@ -2,13 +2,14 @@
 categories:
 - Commentary
 comments: false
+cover:
+  image: http://www.todomodding.com/wp-content/uploads/2008/03/face_black.jpg
 date: 2008-05-13 21:57:00+00:00
 slug: eee-update-etc
 tags:
 - EeePC
 title: EEE Update etc
 ---
-
 
 [![](http://www.todomodding.com/wp-content/uploads/2008/03/face_black.jpg)](http://www.todomodding.com/wp-content/uploads/2008/03/face_black.jpg)
 Just got a call from home saying that my EEE was delivered today, now thats what i call super fast delivery, kudos to [clove](http://www.clove.co.uk/) for being so speedy

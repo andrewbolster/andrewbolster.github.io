@@ -2,6 +2,8 @@
 categories:
 - Instructional
 comments: true
+cover:
+  image: uploads/2011/05/IMG_20110523_140017-225x300.jpg
 date: 2011-05-23 13:25:13+00:00
 slug: accidentally-proper-kindle-pdf-document-conversion
 tags:
@@ -10,7 +12,6 @@ tags:
 - Tutorial
 title: Accidentally Proper Kindle PDF Document Conversion
 ---
-
 
 ![Example of standard PDF 'conversion'](/uploads/2011/05/IMG_20110523_140017-225x300.jpg)
 

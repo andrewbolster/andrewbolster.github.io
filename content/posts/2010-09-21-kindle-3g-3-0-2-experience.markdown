@@ -2,6 +2,8 @@
 categories:
 - Commentary
 comments: true
+cover:
+  image: uploads/2010/09/Kindle-3G-Wireless-Reading-Device-214x300.jpg
 date: 2010-09-21 22:30:24+00:00
 slug: kindle-3g-3-0-2-experience
 tags:
@@ -11,7 +13,6 @@ tags:
 - Technology
 title: Kindle 3G 3.0.2 Experience
 ---
-
 
 [![Kindle-3G-Wireless-Reading-Device](/uploads/2010/09/Kindle-3G-Wireless-Reading-Device-214x300.jpg)](//2010/09/kindle-3g-3-0-2-experience/kindle-3g-wireless-reading-device/)Just under a month after ordering, with a shipping schedule fraught with manufacturing delays and pushed-back dispatch dates (Not complaining, I'm not the only one so everyone was shocked by the demand also) I recieved my new UK kindle 3g at 11 this morning.
 

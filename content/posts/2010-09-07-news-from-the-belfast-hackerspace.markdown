@@ -2,6 +2,8 @@
 categories:
 - Commentary
 comments: true
+cover:
+  image: uploads/2010/09/Hack-Aid-212x300.jpg
 date: 2010-09-07 13:02:31+00:00
 slug: news-from-the-belfast-hackerspace
 tags:
@@ -12,7 +14,7 @@ tags:
 - Cybersecurity
 - Hackerspace
 - Hacking
-- 'Open Source'
+- Open Source
 - Privacy
 - Programming
 - Technology
@@ -21,7 +23,6 @@ tags:
 - event
 title: News from the Belfast Hackerspace
 ---
-
 
 [![Proposed Hack Aid poster designed by David Kane](/uploads/2010/09/Hack-Aid-212x300.jpg)](/uploads/2010/09/Hack-Aid.jpg)
 

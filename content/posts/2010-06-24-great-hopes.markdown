@@ -2,6 +2,8 @@
 categories:
 - Commentary
 comments: true
+cover:
+  image: uploads/2010/06/tnh_temp_logo1.png
 date: 2010-06-24 21:26:17+00:00
 slug: great-hopes
 tags:
@@ -15,7 +17,6 @@ tags:
 - tech
 title: Great HOPEs
 ---
-
 
 ![TheNextHope](/uploads/2010/06/tnh_temp_logo1.png)
 

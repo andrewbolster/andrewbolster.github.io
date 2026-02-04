@@ -2,18 +2,19 @@
 categories:
 - Instructional
 comments: true
+cover:
+  image: uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg
 date: 2012-04-10 17:52:11+00:00
 slug: k8055-usb-python-twitter-irc-space-indicator-as-a-os-service
 tags:
-- 'Farset Labs'
+- Farset Labs
 - Python
-- 'Social Media'
+- Social Media
 - USB
 - Ubuntu
 - irc
 title: 'K8055 USB + Python + Twitter + IRC: Space Indicator as a OS Service'
 ---
-
 
 [![](/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)](/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)
 **

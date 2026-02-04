@@ -187,3 +187,23 @@ article a:hover {
 ::-webkit-scrollbar-thumb:hover {
     background: var(--accent-hover);
 }
+
+/* Featured image layout for post listings - image on right side */
+.post-entry {
+    position: relative;
+}
+
+.post-entry .entry-cover {
+    float: right;
+    width: 100px;
+    height: 100px;
+    margin: 8px; /* 8px all around */
+    overflow: hidden;
+    border-radius: var(--radius);
+}
+
+.post-entry .entry-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

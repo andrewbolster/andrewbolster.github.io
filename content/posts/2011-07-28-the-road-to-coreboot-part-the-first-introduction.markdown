@@ -2,18 +2,19 @@
 categories:
 - Instructional
 comments: true
+cover:
+  image: https://coreboot.org/assets/images/banner.svg
 date: 2011-07-28 10:22:56+00:00
 slug: the-road-to-coreboot-part-the-first-introduction
 tags:
 - AMD
 - EeePC
-- 'Embedded Systems'
+- Embedded Systems
 - IRC
-- 'Open Source'
-- 'embedded systems'
+- Open Source
+- embedded systems
 title: 'The Road to Coreboot, Part the First: Introduction'
 ---
-
 
 ![Coreboot Logo](https://coreboot.org/assets/images/banner.svg)
 
