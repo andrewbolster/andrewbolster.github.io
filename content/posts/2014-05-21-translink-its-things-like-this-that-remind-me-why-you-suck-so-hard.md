@@ -1,4 +1,6 @@
 ---
+cover:
+  image: img/translink-its-things-like-this-that-remind-me-why-you-suck-so-hard.generated.png
 date: 2014-05-21 00:00:00+00:00
 tags:
 - Belfast
@@ -7,7 +9,6 @@ tags:
 - web post
 title: Translink, it's things like this that remind me why you suck so hard
 ---
-
 
 `<rant>`
 

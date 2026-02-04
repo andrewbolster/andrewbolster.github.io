@@ -1,4 +1,6 @@
 ---
+cover:
+  image: img/so-what-is-it-you-do-again.generated.png
 date: 2014-05-13 00:00:00+00:00
 tags:
 - AI
@@ -10,7 +12,6 @@ tags:
 - University of Liverpool
 title: So, what is it you do again?
 ---
-
 
 _Update:_ I got asked to do a simplified version of this post for the University of Liverpool, it lives [here](http://news.liv.ac.uk/2014/06/02/becoming-an-expert-andrew-bolster-on-suspicious-submarines/) ([Backup](/uploads/2014/becominganexpert.pdf))
 

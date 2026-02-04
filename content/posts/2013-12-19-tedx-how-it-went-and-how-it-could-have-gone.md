@@ -1,4 +1,6 @@
 ---
+cover:
+  image: img/tedx-how-it-went-and-how-it-could-have-gone.generated.png
 date: 2013-12-19 00:00:00+00:00
 tags:
 - Finance

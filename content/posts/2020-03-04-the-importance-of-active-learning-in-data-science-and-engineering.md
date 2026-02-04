@@ -1,11 +1,13 @@
 ---
-date: 2020-03-04T11:10:00+00:00
+cover:
+  image: img/the-importance-of-active-learning-in-data-science-and-engineering.generated.png
+date: 2020-03-04 11:10:00+00:00
 tags:
-- 'Data Science'
-- 'Machine Learning'
+- Data Science
+- Machine Learning
 - STEM
 - cybersecurity
-- 'professional development'
+- professional development
 title: The Importance of Active Learning in Data Science and Engineering
 ---
 

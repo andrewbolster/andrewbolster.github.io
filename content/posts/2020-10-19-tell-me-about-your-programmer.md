@@ -1,11 +1,13 @@
 ---
-date: 2020-10-19T11:34:00+01:00
+cover:
+  image: img/tell-me-about-your-programmer.generated.png
+date: 2020-10-19 11:34:00+01:00
 tags:
 - AI
-- 'Data Science'
+- Data Science
 - Robotics
-- 'Science Fiction'
-- 'Software Engineering'
+- Science Fiction
+- Software Engineering
 - Technology
 - cybersecurity
 title: Tell me about your Programmer - Robopsychologist and other careers that don't

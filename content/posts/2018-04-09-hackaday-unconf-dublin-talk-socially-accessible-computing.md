@@ -1,4 +1,6 @@
 ---
+cover:
+  image: img/hackaday-unconf-dublin-talk-socially-accessible-computing.generated.png
 date: 2018-04-09 00:00:00+00:00
 tags:
 - Dublin
@@ -12,7 +14,6 @@ tags:
 - funding
 title: 'Hackaday Unconf Dublin Talk: Socially Accessible Computing'
 ---
-
 
 ## Intro
 

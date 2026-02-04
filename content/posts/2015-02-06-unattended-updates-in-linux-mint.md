@@ -1,4 +1,6 @@
 ---
+cover:
+  image: img/unattended-updates-in-linux-mint.generated.png
 date: 2015-02-06 00:00:00+00:00
 tags:
 - Cybersecurity
@@ -9,7 +11,6 @@ tags:
 - Ubuntu
 title: Unattended Updates in Linux Mint
 ---
-
 
 There's several very valid tutorials and guides around about getting [Ubuntu](https://help.ubuntu.com/community/AutomaticSecurityUpdates), [Debian](https://wiki.debian.org/UnattendedUpgrades) and [Mint](http://community.linuxmint.com/tutorial/view/1217) to automatically update and upgrade, but they don't do much explaining/checking.
 
