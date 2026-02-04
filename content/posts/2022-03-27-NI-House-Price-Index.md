@@ -1,10 +1,11 @@
 ---
-date: 2022-03-27T19:49:00+00:00
+cover:
+  image: img/NI-House-Price-Index.generated.png
+date: 2022-03-27 19:49:00+00:00
 tags:
-- 'Data Science'
+- Data Science
 title: Wrangling NI House Price Index Data
 ---
-
 
 # Data Wrangling NI House Price Index Data
 

@@ -1,10 +1,12 @@
 ---
-date: 2021-06-01T11:54:00+01:00
+cover:
+  image: img/apache-arrow-in-5-10-mins.generated.png
+date: 2021-06-01 11:54:00+01:00
 tags:
-- 'Data Science'
+- Data Science
 - Linux
-- 'Memory Management'
-- 'Open Data'
+- Memory Management
+- Open Data
 - Pandas
 - Python
 - Technology

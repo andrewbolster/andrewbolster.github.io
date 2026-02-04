@@ -1,8 +1,10 @@
 ---
-date: 2021-11-26T15:07:00+00:00
+cover:
+  image: img/generative-adversarial-procrastination.generated.png
+date: 2021-11-26 15:07:00+00:00
 tags:
-- 'Data Science'
-- 'Machine Learning'
+- Data Science
+- Machine Learning
 - Productivity
 title: Generative Adversarial Procrastination
 ---

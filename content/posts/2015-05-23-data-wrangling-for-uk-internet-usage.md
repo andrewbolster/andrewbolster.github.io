@@ -1,4 +1,6 @@
 ---
+cover:
+  image: img/data-wrangling-for-uk-internet-usage.generated.png
 date: 2015-05-23 00:00:00+00:00
 tags:
 - Data Science

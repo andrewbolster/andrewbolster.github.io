@@ -1,4 +1,6 @@
 ---
+cover:
+  image: img/unfeeling-fire.generated.png
 date: 2018-10-23 00:00:00+00:00
 tags:
 - AI
@@ -13,7 +15,6 @@ tags:
 - ethics
 title: Unfeeling Fire
 ---
-
 
 __This is an approximate transcript from my July 2018 talk at Digital DNA's AI NI Community Panel on wether the use of AI in defence and surveillence was inherently evil__
 

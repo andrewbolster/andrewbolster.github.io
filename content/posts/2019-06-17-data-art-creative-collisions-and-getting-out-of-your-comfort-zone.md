@@ -1,9 +1,11 @@
 ---
-date: 2019-06-17T16:57:00+01:00
+cover:
+  image: img/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.generated.png
+date: 2019-06-17 16:57:00+01:00
 tags:
 - Community
 - Creativity
-- 'Data Science'
+- Data Science
 - Innovation
 - Technology
 title: 'Data Art: Creative Collisions and Getting out of your comfort zone'

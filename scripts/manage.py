@@ -23,7 +23,7 @@ and Hugo integration.
 Test LLM gateway connectivity and discover available image generation models.
 
 Example:
-    ./manage.py test-image-generation --base-url https://llm.labs.blackduck.com --api-key sk-xxx
+    ./manage.py test-image-generation --base-url https://your-llm-gateway.example.com --api-key sk-xxx
 
 ### generate
 Generate AI-powered featured images for blog posts with automatic content analysis.
@@ -35,7 +35,7 @@ Examples:
         --text-model claude-sonnet-4 \
         --output static/img/my-post.generated.png \
         --url "andrewbolster.info/2025/01/my-post.html" \
-        --base-url https://llm.labs.blackduck.com \
+        --base-url https://your-llm-gateway.example.com \
         --api-key sk-xxx
 
     # Generate with custom text prompt
@@ -44,7 +44,7 @@ Examples:
         --text "A cyberpunk workspace with AI elements in dark purple tones" \
         --output static/img/custom-image.generated.png \
         --url "example.com" \
-        --base-url https://llm.labs.blackduck.com \
+        --base-url https://your-llm-gateway.example.com \
         --api-key sk-xxx
 
 ### add-featured-images
@@ -59,7 +59,7 @@ Example:
 ### Environment Setup
 The script uses the service-llm configuration from ~/src/service-llm/manage.ini.
 For llm.labs environment:
-- base_url: https://llm.labs.blackduck.com
+- base_url: https://your-llm-gateway.example.com
 - api_key: (set via LITELLM_PROXY_API_KEY environment variable)
 
 ### Image Specifications

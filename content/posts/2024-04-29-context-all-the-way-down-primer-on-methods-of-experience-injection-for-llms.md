@@ -1,12 +1,18 @@
 ---
-title: '"Context all the way down": Primer on methods of Experience injection for LLMs'
-date: 2024-04-29T20:58:00+00:00
-categories: [AI, Software Engineering, Commentary]
+categories:
+- AI
+- Software Engineering
+- Commentary
+cover:
+  image: img/context-all-the-way-down-primer-on-methods-of-experience-injection-for-llms.generated.png
+date: 2024-04-29 20:58:00+00:00
 tags:
 - AI
 - LLM
-- 'Machine Learning'
+- Machine Learning
 - NLP
+title: '"Context all the way down": Primer on methods of Experience injection for
+  LLMs'
 ---
 
 Much hay has been made that LLM’s can be infinitely trained on infinite data to do infinite jobs, in an approach generally described as [‘LLM Maximalism’](https://explosion.ai/blog/against-llm-maximalism). This post is a bit of a braindump to explain my thought process in how to practically use LLMs in a safe way in production/client facing environments, with a little bit of a discussion as to where I see the current blockers to this in most organisations, and where organisations should be focusing investment to be able to meet these challenges without loosing their competitive edge/expertise.

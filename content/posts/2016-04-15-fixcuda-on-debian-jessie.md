@@ -1,4 +1,6 @@
 ---
+cover:
+  image: img/fixcuda-on-debian-jessie.generated.png
 date: 2016-04-15 00:00:00+00:00
 tags:
 - CUDA
@@ -10,8 +12,6 @@ tags:
 - Ubuntu
 title: 'FIX: CUDA on Debian Jessie'
 ---
-
-
 
 Hopefully a super quick one (while I'm procrastinating from procrastinating).
 

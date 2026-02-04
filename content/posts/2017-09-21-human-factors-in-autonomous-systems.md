@@ -1,9 +1,11 @@
 ---
+cover:
+  image: img/human-factors-in-autonomous-systems.generated.png
 date: 2017-09-21 19:05:52+0100
 tags:
 - AI
-- 'Autonomous Systems'
-- 'Machine Learning'
+- Autonomous Systems
+- Machine Learning
 - PhD
 - Research
 title: Human Factors related to Trusted Operation of Autonomous Systems

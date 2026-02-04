@@ -1,15 +1,17 @@
 ---
-date: 2021-06-10T13:18:00+01:00
+cover:
+  image: img/response-to-tog-s-third-eviction.generated.png
+date: 2021-06-10 13:18:00+01:00
 tags:
 - Community
 - Dublin
-- 'Farset Labs'
+- Farset Labs
 - Gaming
 - Hackerspace
-- 'Northern Ireland'
+- Northern Ireland
 - Opinion
 - Rant
-- 'Social Media'
+- Social Media
 - Technology
 - charity
 - funding

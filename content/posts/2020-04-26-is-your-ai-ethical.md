@@ -1,11 +1,12 @@
 ---
-date: 2020-04-26T21:16:00+01:00
+cover:
+  image: img/is-your-ai-ethical.generated.png
+date: 2020-04-26 21:16:00+01:00
 tags:
 - AI
-- 'Machine Learning'
+- Machine Learning
 title: Is Your AI Ethical?
 ---
-
 
 _Originally posted in [RTInsights](https://www.rtinsights.com/is-your-ai-ethical/)_
 

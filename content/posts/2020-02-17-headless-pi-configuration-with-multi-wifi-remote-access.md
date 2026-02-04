@@ -1,8 +1,10 @@
 ---
-date: 2020-02-17T15:28:00+00:00
+cover:
+  image: img/headless-pi-configuration-with-multi-wifi-remote-access.generated.png
+date: 2020-02-17 15:28:00+00:00
 tags:
 - Microcontrollers
-- 'Raspberry Pi'
+- Raspberry Pi
 title: Headless Pi Configuration with Multi-Wifi Remote Access
 ---
 

@@ -1,13 +1,18 @@
 ---
-date: 2024-02-19T12:54:00+00:00
-categories: [AI, Software Engineering, Security]
+categories:
+- AI
+- Software Engineering
+- Security
+cover:
+  image: img/generative-ai-impact-on-software-development-and-security.generated.png
+date: 2024-02-19 12:54:00+00:00
 tags:
 - AI
-- 'Application Security'
+- Application Security
 - Cybersecurity
 - LLM
-- 'Machine Learning'
-- 'Software Development'
+- Machine Learning
+- Software Development
 - cybersecurity
 title: 'Generative AI: Impact on Software Development and Security'
 ---

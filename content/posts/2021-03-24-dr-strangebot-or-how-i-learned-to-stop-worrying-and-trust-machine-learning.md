@@ -1,10 +1,12 @@
 ---
-date: 2021-03-24T06:06:00+00:00
+cover:
+  image: img/dr-strangebot-or-how-i-learned-to-stop-worrying-and-trust-machine-learning.generated.png
+date: 2021-03-24 06:06:00+00:00
 tags:
 - AI
 - Cybersecurity
-- 'Data Science'
-- 'Machine Learning'
+- Data Science
+- Machine Learning
 title: 'Dr StrangeBot: Or How I Learned to Stop Worrying and Trust Machine Learning'
 ---
 

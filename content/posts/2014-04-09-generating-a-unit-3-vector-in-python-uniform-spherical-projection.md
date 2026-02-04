@@ -1,11 +1,12 @@
 ---
+cover:
+  image: img/generating-a-unit-3-vector-in-python-uniform-spherical-projection.generated.png
 date: 2014-04-09 00:00:00+00:00
 tags:
 - NumPy
 - Python
 title: Generating a unit 3 vector in Python (Uniform Spherical Projection)
 ---
-
 
 Quick one more as a reminder to me than anything else.
 

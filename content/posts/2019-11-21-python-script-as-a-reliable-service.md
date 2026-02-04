@@ -1,12 +1,13 @@
 ---
-date: 2019-11-21T14:09:00+00:00
+cover:
+  image: img/python-script-as-a-reliable-service.generated.png
+date: 2019-11-21 14:09:00+00:00
 tags:
 - Microcontrollers
 - Python
-- 'Raspberry Pi'
+- Raspberry Pi
 title: Python Script as a Reliable Service
 ---
-
 
 > I was asked to help out a friend who had an installation in an art gallery that stopped booting properly, and was reminded that I keep forgetting to actually write this post.
 

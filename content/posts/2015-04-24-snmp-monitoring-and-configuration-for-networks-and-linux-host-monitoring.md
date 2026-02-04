@@ -1,4 +1,6 @@
 ---
+cover:
+  image: img/snmp-monitoring-and-configuration-for-networks-and-linux-host-monitoring.generated.png
 date: 2015-04-24 00:00:00+00:00
 tags:
 - Linux
@@ -6,7 +8,6 @@ tags:
 - Monitoring
 title: SNMP Monitoring and Configuration for Networks and Linux Host Monitoring
 ---
-
 
 *TL:DR*: Setting up Observium to perform autodiscovery with dynamic DNS, and sample snmp configs to manage Linux servers
 

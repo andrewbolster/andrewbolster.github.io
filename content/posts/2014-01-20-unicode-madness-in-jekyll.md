@@ -1,4 +1,6 @@
 ---
+cover:
+  image: img/unicode-madness-in-jekyll.generated.png
 date: 2014-01-20 00:00:00+00:00
 tags:
 - Jekyll
@@ -6,7 +8,6 @@ tags:
 - irc
 title: Unicode Madness in Jekyll
 ---
-
 
 Ok so this was a weird one.
 

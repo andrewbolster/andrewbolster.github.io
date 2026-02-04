@@ -1,9 +1,11 @@
 ---
-date: 2020-09-08T16:22:00+01:00
+cover:
+  image: img/back-to-reality.generated.png
+date: 2020-09-08 16:22:00+01:00
 tags:
 - Community
-- 'Data Science'
-- 'Farset Labs'
+- Data Science
+- Farset Labs
 - Personal
 - Podcasts
 - Technology

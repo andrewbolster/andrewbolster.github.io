@@ -1,13 +1,17 @@
 ---
-date: 2023-05-18T14:43:00+01:00
-categories: [Data Science, Politics]
+categories:
+- Data Science
+- Politics
+cover:
+  image: img/pulling-election-count-data-out-of-google-sheets-for-fun-and-democracy.generated.png
+date: 2023-05-18 14:43:00+01:00
 tags:
-- 'Data Science'
-- 'Data Visualization'
-- 'Northern Ireland'
+- Data Science
+- Data Visualization
+- Northern Ireland
 - Politics
 - Python
-- 'Web Development'
+- Web Development
 title: Pulling Election Count data out of Google Sheets for fun and democracy
 ---
 
