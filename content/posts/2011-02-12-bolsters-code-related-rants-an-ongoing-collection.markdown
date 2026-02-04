@@ -2,6 +2,8 @@
 categories:
 - Commentary
 comments: true
+cover:
+  image: http://kissmyalas.com/wp-content/uploads/2010/05/RageFace.jpg
 date: 2011-02-12 18:21:53+00:00
 slug: bolsters-code-related-rants-an-ongoing-collection
 tags:
@@ -9,11 +11,10 @@ tags:
 - Programming
 - Rant
 - development
-- 'file management'
-- 'version control'
+- file management
+- version control
 title: Bolsters Code-Related Rants (An ongoing collection)
 ---
-
 
 ![FFFFFFUUUUUUUU](http://kissmyalas.com/wp-content/uploads/2010/05/RageFace.jpg)
 

@@ -2,6 +2,8 @@
 categories:
 - Instructional
 comments: true
+cover:
+  image: http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg
 date: 2010-03-14 23:39:09+00:00
 slug: installing-and-configuring-ns-3-on-a-ubuntu-system
 tags:
@@ -11,10 +13,9 @@ tags:
 - Python
 - Simulation
 - Ubuntu
-- 'Version Control'
+- Version Control
 title: Installing and Configuring NS-3 on a Ubuntu System
 ---
-
 
 [![](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)
 **

@@ -2,11 +2,13 @@
 categories:
 - Commentary
 comments: true
+cover:
+  image: uploads/2013/04/Magician-pulling-a-rabbit-001-300x180.jpg
 date: 2013-04-10 09:20:58+00:00
 slug: abracadabra-ni-assemblys-plans-to-have-60-more-phd-researchers
 tags:
 - ECIT
-- 'Farset Labs'
+- Farset Labs
 - Gaming
 - PhD
 - Politics
@@ -17,7 +19,6 @@ tags:
 - science
 title: Abracadabra - NI Assembly's Plans to have 60% more PhD Researchers
 ---
-
 
 [![Magician-pulling-a-rabbit-001](/uploads/2013/04/Magician-pulling-a-rabbit-001-300x180.jpg)](/uploads/2013/04/Magician-pulling-a-rabbit-001.jpg)I was skimming through the[ Oral Statement](http://www.niassembly.gov.uk/Documents/Official-Reports/Plenary/2012-13/Microsoft%20Word%20-%20@@aims-hansard-20130409211847534.pdf) from yesterday's Assembly, with a specific interest in Dr Stephen Farry's discussions on the NI Economic Activity Baseline Report (everyone loves Baseline reports these days, but very few ever seem to get followed up...) can came across a Question and Response between [Sammy Douglas](http://sammydouglas.com/) (E. Belfast) and Dr Farry.
 

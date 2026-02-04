@@ -1,13 +1,18 @@
 ---
-title: On Deepseek
-categories: [AI, Commentary]
+categories:
+- AI
+- Commentary
+cover:
+  image: img/2025/deepseek.png
+date: 2025-03-16 13:02:00+00:00
 tags:
 - AI
 - Innovation
 - LLM
-- 'Open Source'
-date: 2025-03-16T13:02:00+00:00
+- Open Source
+title: On Deepseek
 ---
+
 [!["I can't believe ChatGPT lost its job to AI"](/img/2025/deepseek.png)](https://x.com/tekbog/status/1883973153145381064)
 
 > **Note:**

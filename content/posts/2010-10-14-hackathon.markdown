@@ -2,6 +2,8 @@
 categories:
 - Commentary
 comments: true
+cover:
+  image: uploads/2010/10/h2k8-263x300.gif
 date: 2010-10-14 15:50:07+00:00
 slug: hackathon
 tags:
@@ -17,7 +19,6 @@ tags:
 - event
 title: Hackathon
 ---
-
 
 ![hackathon](/uploads/2010/10/h2k8-263x300.gif)
 

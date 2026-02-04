@@ -2,6 +2,8 @@
 categories:
 - Commentary
 comments: true
+cover:
+  image: uploads/2010/08/351400-high_frequency_trading_outlawed-300x215.jpg
 date: 2010-08-04 17:22:24+00:00
 slug: high-frequency-trading-revolt-and-why-its-a-good-idea
 tags:
@@ -9,7 +11,6 @@ tags:
 - Finance
 title: High-Frequency Trading Revolt, and Why its a good idea!!
 ---
-
 
 [![High Frequency Trading](/uploads/2010/08/351400-high_frequency_trading_outlawed-300x215.jpg)](//2010/08/high-frequency-trading-revolt-and-why-its-a-good-idea/351400-high_frequency_trading_outlawed/)Remember that little economic apocalypse that happened a few years ago? You may remember it as the day your 401(k) dropped a digit or 3; those short sighted (w/b)ankers and middle management that essentially collectively said "You want some money? Sure, go ahead!" to the entire world and didn't think about where it was coming from, while getting paid sums of money that would make [Scrouge McDuck](http://www.youtube.com/watch?v=NBRrCY5uhWY#t=25) blush. Well, turns out they have been too greedy at home (no suprise).
 

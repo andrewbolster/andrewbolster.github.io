@@ -26,6 +26,7 @@ from datetime import datetime
 from urllib.parse import urlparse
 from PIL import Image, ImageDraw, ImageFont
 from io import BytesIO
+import re
 
 console = Console()
 
@@ -447,6 +448,115 @@ Return ONLY the image generation prompt, no additional text."""
             import traceback
             console.print(traceback.format_exc())
         raise click.Abort()
+
+
+@cli.command("add-featured-images")
+@click.option('--dry-run', is_flag=True, help='Show what would be changed without making changes')
+def add_featured_images(dry_run):
+    """Add featured images from first image in post content."""
+
+    def find_first_image_in_content(content):
+        """Find the first image reference in markdown content."""
+        # Match both markdown image syntax: ![alt](url) and [![alt](url)](link)
+        image_pattern = r'!\[([^\]]*)\]\(([^)]+)\)'
+        match = re.search(image_pattern, content)
+        if match:
+            alt_text = match.group(1)
+            image_url = match.group(2)
+            return image_url, alt_text, match.start()
+        return None, None, None
+
+    def is_image_in_valid_position(content, image_position):
+        """Check if image is first element or directly after first paragraph."""
+        if image_position is None:
+            return False
+
+        # Get content before the image
+        content_before = content[:image_position].strip()
+
+        # If no content before, it's the first element
+        if not content_before:
+            return True
+
+        # Check if it's directly after the first paragraph
+        # Split by double newlines (paragraph breaks)
+        paragraphs = content_before.split('\n\n')
+
+        # If there's only one paragraph before the image, it's valid
+        if len(paragraphs) == 1:
+            return True
+
+        return False
+
+    posts_dir = Path("content/posts")
+    if not posts_dir.exists():
+        console.print("❌ Posts directory not found: content/posts")
+        raise click.Abort()
+
+    # Get all markdown files
+    md_files = list(posts_dir.glob('*.md')) + list(posts_dir.glob('*.markdown'))
+
+    console.print(f"🔍 Found {len(md_files)} blog posts to analyze...")
+
+    if dry_run:
+        console.print("🧪 [yellow]DRY RUN MODE - No changes will be made[/yellow]")
+
+    processed_count = 0
+    updated_count = 0
+
+    for post_file in sorted(md_files):
+        try:
+            with open(post_file, 'r', encoding='utf-8') as f:
+                post = frontmatter.load(f)
+
+            processed_count += 1
+
+            # Skip if already has a cover image
+            if 'cover' in post.metadata:
+                console.print(f"⏭️  [dim]{post_file.name}[/dim] - Already has featured image")
+                continue
+
+            # Find first image in content
+            image_url, alt_text, image_position = find_first_image_in_content(post.content)
+
+            if not image_url:
+                console.print(f"🚫 [dim]{post_file.name}[/dim] - No images found")
+                continue
+
+            # Check if image is in valid position
+            if not is_image_in_valid_position(post.content, image_position):
+                console.print(f"❌ [yellow]{post_file.name}[/yellow] - Image not in first element or after first paragraph")
+                continue
+
+            # Clean up image URL (remove leading slash if present)
+            clean_image_url = image_url.lstrip('/')
+
+            if dry_run:
+                console.print(f"📋 [green]{post_file.name}[/green] - Would add featured image: [cyan]{clean_image_url}[/cyan]")
+            else:
+                # Add featured image to front matter
+                post.metadata['cover'] = {
+                    'image': clean_image_url
+                }
+
+                # Write back to file
+                with open(post_file, 'w', encoding='utf-8') as f:
+                    f.write(frontmatter.dumps(post))
+
+                console.print(f"✅ [green]{post_file.name}[/green] - Added featured image: [cyan]{clean_image_url}[/cyan]")
+
+            updated_count += 1
+
+        except Exception as e:
+            console.print(f"❌ [red]Error processing {post_file.name}:[/red] {e}")
+
+    console.print(f"\n📊 [bold]Summary:[/bold]")
+    console.print(f"  • Processed: {processed_count} posts")
+    console.print(f"  • {'Would update' if dry_run else 'Updated'}: {updated_count} posts")
+    console.print(f"  • Skipped: {processed_count - updated_count} posts")
+
+    if dry_run:
+        console.print(f"\n💡 Run without --dry-run to make changes")
 
 
 if __name__ == "__main__":

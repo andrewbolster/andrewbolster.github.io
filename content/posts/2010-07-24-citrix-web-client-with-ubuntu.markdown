@@ -2,19 +2,20 @@
 categories:
 - Instructional
 comments: true
+cover:
+  image: uploads/2010/07/CRlogo.jpg
 date: 2010-07-24 16:55:38+00:00
 slug: citrix-web-client-with-ubuntu
 tags:
 - Cybersecurity
 - Firefox
-- 'Google Chrome'
+- Google Chrome
 - Linux
 - Networking
-- 'Remote Access'
+- Remote Access
 - Ubuntu
 title: Citrix Web Client with Ubuntu
 ---
-
 
 [![Citrix Reciever Logo](/uploads/2010/07/CRlogo.jpg)](/uploads/2010/07/CRlogo.jpg)Ubuntu is one of those polarising technologies; Its really easy to use on a recreational basis, or as part of a institution/business wide rollout, but heartbreakingly awkward to use 'alone' within an entrenched business setting.
 

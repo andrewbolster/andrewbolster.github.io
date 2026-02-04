@@ -2,6 +2,8 @@
 categories:
 - Uni
 comments: true
+cover:
+  image: http://www.phdcomics.com/comics/archive/phd030909s.gif
 date: 2011-09-15 14:31:10+00:00
 slug: phd-diary-an-introduction-and-a-little-light-reading
 tags:
@@ -12,7 +14,6 @@ tags:
 - Research
 title: 'PhD Diary: An Introduction and A Little Light Reading'
 ---
-
 
 [![](http://www.phdcomics.com/comics/archive/phd030909s.gif)](http://www.phdcomics.com/comics.php?f=1144)
 **
