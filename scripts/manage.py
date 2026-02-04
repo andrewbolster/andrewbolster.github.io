@@ -236,9 +236,22 @@ def add_watermark(image_bytes, watermark_text=None, url_text=None):
         # Add white URL text
         draw.text((x_left, y_left), url_text, fill=(255, 255, 255, 255), font=font)
 
-    # Convert back to bytes
+    # Convert back to bytes with quantization for smaller file size
     output_buffer = BytesIO()
-    image.save(output_buffer, format='PNG')
+
+    # Reduce colors to 256 for smaller PNG files (effective for AI-generated images)
+    if image.mode in ('RGB', 'RGBA'):
+        try:
+            quantized = image.quantize(colors=256, method=Image.Quantize.MEDIANCUT)
+            # Convert back to RGB to avoid palette mode issues with further processing
+            quantized = quantized.convert('RGB')
+            quantized.save(output_buffer, format='PNG', optimize=True, compress_level=9)
+        except:
+            # Fallback to original if quantization fails
+            image.save(output_buffer, format='PNG', optimize=True, compress_level=9)
+    else:
+        image.save(output_buffer, format='PNG', optimize=True, compress_level=9)
+
     return output_buffer.getvalue()
 
 @click.group()
@@ -547,9 +560,22 @@ Return ONLY the image generation prompt, no additional text."""
                     pil_image = Image.open(BytesIO(img_response.content))
                     resized_image = pil_image.resize((target_width, target_height), Image.Resampling.LANCZOS)
 
-                    # Convert back to bytes
+                    # Convert back to bytes with quantization for smaller file size
                     output_buffer = BytesIO()
-                    resized_image.save(output_buffer, format='PNG')
+
+                    # Reduce colors to 256 for smaller PNG files (effective for AI-generated images)
+                    if resized_image.mode in ('RGB', 'RGBA'):
+                        try:
+                            quantized = resized_image.quantize(colors=256, method=Image.Quantize.MEDIANCUT)
+                            # Convert back to RGB to avoid palette mode issues with further processing
+                            quantized = quantized.convert('RGB')
+                            quantized.save(output_buffer, format='PNG', optimize=True, compress_level=9)
+                        except:
+                            # Fallback to original if quantization fails
+                            resized_image.save(output_buffer, format='PNG', optimize=True, compress_level=9)
+                    else:
+                        resized_image.save(output_buffer, format='PNG', optimize=True, compress_level=9)
+
                     resized_image_bytes = output_buffer.getvalue()
 
                 # Add watermark to resized image
@@ -668,6 +694,14 @@ def add_featured_image_to_post(post_file, override, api_key, base_url, verbose, 
         console.print("Cancelled")
         return
 
+    # Generate post URL for watermark
+    date_match = re.match(r'(\d{4})-(\d{2})-(\d{2})', post_file.stem)
+    if date_match:
+        year, month, day = date_match.groups()
+        post_url = f"andrewbolster.info/{year}/{month}/{slug}.html"
+    else:
+        post_url = f"andrewbolster.info/{slug}.html"
+
     # Use existing generate command by invoking it directly
     from click.testing import CliRunner
 
@@ -677,7 +711,8 @@ def add_featured_image_to_post(post_file, override, api_key, base_url, verbose, 
         '--image-model', 'dall-e-3',
         '--text-model', 'claude-sonnet-4',
         '--output', output_path,
-        '--size', '860x530'
+        '--size', '860x530',
+        '--url', post_url
     ]
 
     # Pass through optional arguments
