@@ -7,13 +7,12 @@ slug: the-road-to-coreboot-part-the-first-introduction
 tags:
 - AMD
 - EeePC
-- 'Embedded Systems'
+- Embedded Systems
 - IRC
-- 'Open Source'
-- 'embedded systems'
+- Open Source
+- embedded systems
 title: 'The Road to Coreboot, Part the First: Introduction'
 ---
-
 
 ![Coreboot Logo](https://coreboot.org/assets/images/banner.svg)
 

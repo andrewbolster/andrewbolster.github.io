@@ -1,19 +1,18 @@
 ---
-categories:
-- Commentary
 comments: true
+cover:
+  image: uploads/2011/08/gal03-181x300.jpg
 date: 2011-08-04 09:00:15+00:00
 slug: best-description-of-northern-ireland-ive-heard-yet
 tags:
 - Ireland
-- 'Northern Ireland'
+- Northern Ireland
 - Politics
-- 'Social Media'
+- Social Media
 title: Best Description of Northern Ireland I've heard yet
 ---
 
-
-[![Easter Rising-era Propaganda Postcard](/uploads/2011/08/gal03-181x300.jpg)](http://www.bbc.co.uk/history/british/easterrising/gallery/gallery03.shtml)Northern Ireland, its history, and its current situation, are a guaranteed topic of conversation to any self-identifying Northern Irishman, especially one travelling around Europe. As I am neither a historian, a bigot, or particularly political, I don't know a whole pile of detail, so my explanations become rambling personal perspectives which I generally suspect make things less-clear; otherwise I dumb it down so much that the point is kinda mixed, usually ending something like 'its weird; its British, but we get to be Irish too, except without being quite so broke'. 
+Northern Ireland, its history, and its current situation, are a guaranteed topic of conversation to any self-identifying Northern Irishman, especially one travelling around Europe. As I am neither a historian, a bigot, or particularly political, I don't know a whole pile of detail, so my explanations become rambling personal perspectives which I generally suspect make things less-clear; otherwise I dumb it down so much that the point is kinda mixed, usually ending something like 'its weird; its British, but we get to be Irish too, except without being quite so broke'. 
 
 On the[ site where I do most of my work](http://www.reddit.com), I came across an interesting [thread](http://www.reddit.com/r/explainlikeimfive/comments/j81fo/li5_the_iranorth_ireland/) that explains it better than I ever could.
 

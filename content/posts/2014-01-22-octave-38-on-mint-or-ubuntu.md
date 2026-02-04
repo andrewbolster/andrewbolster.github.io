@@ -1,14 +1,14 @@
 ---
-category: ''
-description: ''
+cover:
+  image: img/octave-38-on-mint-or-ubuntu.generated.png
+date: 2014-01-22 00:00:00+00:00
 tags:
 - Installation
 - MATLAB
-- 'Open Source'
+- Open Source
 - Python
 title: Octave 3.8 on Mint (or Ubuntu)
 ---
-
 
 My work has be flittering between Python and Matlab recently, and lets say I'm not a massive fan of Matlab at the best of time, and VM matlab isn't the most performant thing in the world.
 

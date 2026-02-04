@@ -1,7 +1,7 @@
 ---
-categories:
-- Instructional
 comments: true
+cover:
+  image: uploads/2012/04/avses-tosip-300x238.png
 date: 2012-04-30 17:37:36+00:00
 slug: turning-pcap-dumps-into-message-sequence-charts
 tags:
@@ -10,8 +10,7 @@ tags:
 title: Turning Pcap dumps into Message Sequence Charts
 ---
 
-
-[![](/uploads/2012/04/avses-tosip-300x238.png)](/uploads/2012/04/avses-tosip.png)PCap files are a pain; weird format, difficult to parse viserally even if you have the 'right' tools handy. Wouldn't it be easier to be able to 'see' the network flow, like it is in all the textbooks?
+PCap files are a pain; weird format, difficult to parse viserally even if you have the 'right' tools handy. Wouldn't it be easier to be able to 'see' the network flow, like it is in all the textbooks?
 
 # Well now you can!
 
@@ -19,17 +18,10 @@ In playing with NS-3, I came across this problem, and googled for a solution. No
 
 # Assume you have...
 
-
-  * Ubuntu
-
-
-  * pcap files
-
-
-  * ~/src/ dir
-
-
-  * a ~/bin directory on your users $PATH
+- Ubuntu
+- pcap files
+- ~/src/ dir
+- a ~/bin directory on your users $PATH
 
 # Get 'er dun
 

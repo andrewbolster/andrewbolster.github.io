@@ -1,7 +1,7 @@
 ---
-categories:
-- Commentary
 comments: true
+cover:
+  image: uploads/2012/07/trolln.jpg
 date: 2012-07-29 11:01:16+00:00
 slug: deus-ex-or-how-i-learned-to-stop-torrenting-and-love-digital-distribution
 tags:
@@ -12,8 +12,6 @@ tags:
 title: Deus Ex, or How I learned to stop Torrenting and Love Digital Distribution
 ---
 
-
-[![I am a pirate](/uploads/2012/07/trolln.jpg)](/uploads/2012/07/trolln.jpg)
 *I am a pirate.*
 
 I voyage across the root-zones  in search for content. Movies available months before local DVD release in a format that my media centre laps up (mostly), I watch once, and don't take up shelf space for years; TV shows via RSS that I watch at my leisure; and, on the rare occasion that I want to 'Game' and not feel like an [idiot](http://i.qkme.me/35ahzb.jpg), I torrent.

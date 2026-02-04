@@ -1,12 +1,17 @@
 ---
-title: AIOps Maturity Model
-categories: [AI, DevOps, Data Science]
+categories:
+- AI
+- DevOps
+- Data Science
+cover:
+  image: img/aiops-maturity-model.generated.png
+date: 2025-03-15 13:54:00+00:00
 tags:
 - AI
-- 'Data Science'
+- Data Science
 - DevOps
-- 'Machine Learning'
-date: 2025-03-15T13:54:00+00:00
+- Machine Learning
+title: AIOps Maturity Model
 ---
 
 ## Introduction

@@ -1,7 +1,7 @@
 ---
-categories:
-- Commentary
 comments: true
+cover:
+  image: uploads/2010/09/Kindle-3G-Wireless-Reading-Device-214x300.jpg
 date: 2010-09-21 22:30:24+00:00
 slug: kindle-3g-3-0-2-experience
 tags:
@@ -12,8 +12,7 @@ tags:
 title: Kindle 3G 3.0.2 Experience
 ---
 
-
-[![Kindle-3G-Wireless-Reading-Device](/uploads/2010/09/Kindle-3G-Wireless-Reading-Device-214x300.jpg)](//2010/09/kindle-3g-3-0-2-experience/kindle-3g-wireless-reading-device/)Just under a month after ordering, with a shipping schedule fraught with manufacturing delays and pushed-back dispatch dates (Not complaining, I'm not the only one so everyone was shocked by the demand also) I recieved my new UK kindle 3g at 11 this morning.
+Just under a month after ordering, with a shipping schedule fraught with manufacturing delays and pushed-back dispatch dates (Not complaining, I'm not the only one so everyone was shocked by the demand also) I recieved my new UK kindle 3g at 11 this morning.
 
 Immediately I loaded some math-loaded PDF's which the [free.amazon.com document converter](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200493090#email) handled with ease, then started going through my usual list of sites on the free 3G network, [Twitter](http://twitter.com/) (largley fine but sluggish), [Facebook](http://www.facebook.com/) (buggy with regards to javascript elements, occasionally freezing completely needing to be latched-off and on again) Google-Apps Mail(constantly refreshing and wouldn't load stably), google reader (worked perfectly out of the box including keyboard shortcuts, which are awesome!) and my ToDo list of late, [TeuxDeux](http://teuxdeux.com/) (sluggish and slightly misaligned, but usable)
 

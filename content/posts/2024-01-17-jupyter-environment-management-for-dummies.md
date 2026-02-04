@@ -1,6 +1,10 @@
 ---
-date: 2024-01-17T13:50:00+00:00
-categories: [Data Science, Tutorial]
+categories:
+- Data Science
+- Tutorial
+cover:
+  image: img/jupyter-environment-management-for-dummies.generated.png
+date: 2024-01-17 13:50:00+00:00
 tags:
 - Anaconda
 - Jupyter

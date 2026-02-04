@@ -11,10 +11,9 @@ tags:
 - Python
 - Simulation
 - Ubuntu
-- 'Version Control'
+- Version Control
 title: Installing and Configuring NS-3 on a Ubuntu System
 ---
-
 
 [![](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)
 **

@@ -9,7 +9,6 @@ tags:
 title: EEE Update etc
 ---
 
-
 [![](http://www.todomodding.com/wp-content/uploads/2008/03/face_black.jpg)](http://www.todomodding.com/wp-content/uploads/2008/03/face_black.jpg)
 Just got a call from home saying that my EEE was delivered today, now thats what i call super fast delivery, kudos to [clove](http://www.clove.co.uk/) for being so speedy
 

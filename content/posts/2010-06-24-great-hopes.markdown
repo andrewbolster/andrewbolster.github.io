@@ -1,7 +1,7 @@
 ---
-categories:
-- Commentary
 comments: true
+cover:
+  image: uploads/2010/06/tnh_temp_logo1.png
 date: 2010-06-24 21:26:17+00:00
 slug: great-hopes
 tags:
@@ -15,9 +15,6 @@ tags:
 - tech
 title: Great HOPEs
 ---
-
-
-![TheNextHope](/uploads/2010/06/tnh_temp_logo1.png)
 
 This is it; my first convention! Yes folks, I'm going to be attending (and [volunteering](http://thenexthope.org/category/volunteers/)) at [TheNextHOPE](http://thenexthope.org/) (@thenexthope), 16-18 July.
 

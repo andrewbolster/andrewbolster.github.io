@@ -1,7 +1,7 @@
 ---
-categories:
-- Instructional
 comments: true
+cover:
+  image: uploads/2011/05/IMG_20110523_140017-225x300.jpg
 date: 2011-05-23 13:25:13+00:00
 slug: accidentally-proper-kindle-pdf-document-conversion
 tags:
@@ -10,9 +10,6 @@ tags:
 - Tutorial
 title: Accidentally Proper Kindle PDF Document Conversion
 ---
-
-
-![Example of standard PDF 'conversion'](/uploads/2011/05/IMG_20110523_140017-225x300.jpg)
 
 I've discovered a strange undocumented\* 'feature' of the Amazon Kindle document Delivery system. As it stands, if you send a document to username@free.kindle.com or @kindle.com, the document is sent onto your device at its convenience. Generally this is fine, but for most documents that people actually use (PDFs) this can be a pain as the service says it does not support PDF reflow, and on a smaller than A4/Letter screen, lovely documents end up looking like this...
 

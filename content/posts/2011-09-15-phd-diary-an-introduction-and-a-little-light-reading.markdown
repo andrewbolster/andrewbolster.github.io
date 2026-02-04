@@ -13,7 +13,6 @@ tags:
 title: 'PhD Diary: An Introduction and A Little Light Reading'
 ---
 
-
 [![](http://www.phdcomics.com/comics/archive/phd030909s.gif)](http://www.phdcomics.com/comics.php?f=1144)
 **
 

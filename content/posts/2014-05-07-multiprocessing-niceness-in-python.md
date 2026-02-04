@@ -1,13 +1,13 @@
 ---
-category: code diary
-description: ''
+cover:
+  image: img/multiprocessing-niceness-in-python.generated.png
+date: 2014-05-07 00:00:00+00:00
 tags:
 - Linux
 - Python
 - Simulation
 title: Multiprocessing Niceness in Python
 ---
-
 
 Quick and dirty one that tripped me up.
 

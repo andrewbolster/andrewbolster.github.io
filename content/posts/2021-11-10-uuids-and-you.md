@@ -1,7 +1,9 @@
 ---
-date: 2021-11-10T18:00:00+00:00
+cover:
+  image: img/uuids-and-you.generated.png
+date: 2021-11-10 18:00:00+00:00
 tags:
-- 'Web Development'
+- Web Development
 title: UUIDs and You
 ---
 

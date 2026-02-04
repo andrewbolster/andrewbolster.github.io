@@ -1,14 +1,14 @@
 ---
-category: ''
-description: ''
+cover:
+  image: img/return-of-the-beard.generated.png
+date: 2015-09-07 00:00:00+00:00
 tags:
 - Academia
 - Networking
-- 'University of Liverpool'
-- 'professional development'
+- University of Liverpool
+- professional development
 title: Return of the Beard
 ---
-
 
 So today is my last official day in the University of Liverpool office. Time for a bit of reflection.
 

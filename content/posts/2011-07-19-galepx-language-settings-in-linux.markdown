@@ -4,10 +4,9 @@ categories:
 comments: true
 date: 2011-07-19 09:25:18+00:00
 slug: galepx-language-settings-in-linux
-tags:
+tags: null
 title: GalepX Language settings in Linux
 ---
-
 
 ![Galep-5 Universal Programmer](http://www.conitec.net/images/g5medium.jpg) As part of my placement in Zurich, I've been doing some BIOS level development around the Coreboot project, working with Flashrom and other tools, but with a particular AMD Fusion (MSI E350IA-E45) Mobo, there was no sensible way to flash the BIOS or to add a 'vestigial' BIOS.
 

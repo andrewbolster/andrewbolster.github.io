@@ -1,16 +1,16 @@
 ---
-category: ''
-description: ''
+cover:
+  image: img/git-split-repository-with-commit-history.generated.png
+date: 2016-10-17 00:00:00+00:00
 tags:
 - Coding
 - Development
 - Git
 - PhD
 - Programming
-- 'Version Control'
+- Version Control
 title: Git Split Repository With Commit History
 ---
-
 
 Thesis submitted, Viva cleared (with minor corrections) but this post isn't about all that...
 

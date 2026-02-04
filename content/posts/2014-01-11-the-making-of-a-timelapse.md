@@ -1,11 +1,11 @@
 ---
-category: ''
-description: ''
+cover:
+  image: img/the-making-of-a-timelapse.generated.png
+date: 2014-01-11 00:00:00+00:00
 tags:
-- 'Web Development'
+- Web Development
 title: The Making of a Timelapse
 ---
-
 
 Starting in May 2012 (a few weeks after we 'opened') I set up an eventcam in [Farset Labs](http://farsetlabs.org.uk), and I don't think I ever officially explained it...
 

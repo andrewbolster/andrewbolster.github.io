@@ -9,11 +9,10 @@ tags:
 - Programming
 - Rant
 - development
-- 'file management'
-- 'version control'
+- file management
+- version control
 title: Bolsters Code-Related Rants (An ongoing collection)
 ---
-
 
 ![FFFFFFUUUUUUUU](http://kissmyalas.com/wp-content/uploads/2010/05/RageFace.jpg)
 

@@ -1,7 +1,7 @@
 ---
-categories:
-- Commentary
 comments: true
+cover:
+  image: uploads/2010/09/Hack-Aid-212x300.jpg
 date: 2010-09-07 13:02:31+00:00
 slug: news-from-the-belfast-hackerspace
 tags:
@@ -12,7 +12,7 @@ tags:
 - Cybersecurity
 - Hackerspace
 - Hacking
-- 'Open Source'
+- Open Source
 - Privacy
 - Programming
 - Technology
@@ -22,8 +22,6 @@ tags:
 title: News from the Belfast Hackerspace
 ---
 
-
-[![Proposed Hack Aid poster designed by David Kane](/uploads/2010/09/Hack-Aid-212x300.jpg)](/uploads/2010/09/Hack-Aid.jpg)
 
 So we're only a [few weeks into developing this idea](/2010/07/belfast-hackerspace-anyone/), and first I'm going to give some credit where credit's due; the people that I'm working with this have been brilliant, I want to give special thanks (in no particular order) to [Ryan Grieve](http://www.thegrieve.co.uk) (@thegrieve), David Kane, Ben Harrison, Martin Gilchrist (@Gilchrist_LLP), Jonny Milliken, Dan Reid, and Chris Murray (@kris18890).
 

@@ -1,7 +1,7 @@
 ---
-categories:
-- Instructional
 comments: true
+cover:
+  image: uploads/2012/06/LazyDAlpha-300x218.gif
 date: 2012-06-13 15:13:56+00:00
 slug: unattended-upgrades-in-ubuntu
 tags:
@@ -10,9 +10,7 @@ tags:
 title: Unattended upgrades in Ubuntu
 ---
 
-
-_Never having to think about updates again _ is a good thing in my head, so here's how to set up Unattended Upgrades under Ubuntu for fun and profit.[![Lazy Drinker Logo](/uploads/2012/06/LazyDAlpha-300x218.gif)](http://www.lazydrinker.com/Index.htm)
-
+_Never having to think about updates again _ is a good thing in my head, so here's how to set up Unattended Upgrades under Ubuntu for fun and profit.
 `$ sudo apt-get install unattended-upgrades`
 
 `$sudo vim /etc/apt/apt.conf.d/50unattended-upgrades`

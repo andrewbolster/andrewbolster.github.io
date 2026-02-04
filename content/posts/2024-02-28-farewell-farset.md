@@ -1,13 +1,17 @@
 ---
-date: 2024-02-28T11:38:00+00:00
-categories: [Community, Personal]
+categories:
+- Community
+- Personal
+cover:
+  image: img/farewell-farset.generated.png
+date: 2024-02-28 11:38:00+00:00
 tags:
 - Belfast
 - Charity
 - Community
-- 'Farset Labs'
+- Farset Labs
 - Hackerspace
-- 'Northern Ireland'
+- Northern Ireland
 title: Farewell Farset
 ---
 
