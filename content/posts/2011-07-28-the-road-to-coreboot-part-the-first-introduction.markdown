@@ -2,8 +2,6 @@
 categories:
 - Instructional
 comments: true
-cover:
-  image: https://coreboot.org/assets/images/banner.svg
 date: 2011-07-28 10:22:56+00:00
 slug: the-road-to-coreboot-part-the-first-introduction
 tags:
