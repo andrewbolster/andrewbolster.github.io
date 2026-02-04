@@ -1,13 +1,12 @@
 ---
-category: ''
-description: ''
+date: 2016-10-17 00:00:00+00:00
 tags:
 - Coding
 - Development
 - Git
 - PhD
 - Programming
-- 'Version Control'
+- Version Control
 title: Git Split Repository With Commit History
 ---
 

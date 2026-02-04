@@ -1,12 +1,11 @@
 ---
-category: ''
-description: ''
+date: 2015-05-23 00:00:00+00:00
 tags:
-- 'Data Science'
+- Data Science
 - Python
 - Statistics
 - UK
-- 'data visualization'
+- data visualization
 - notebook
 title: Data Wrangling for UK Internet Usage
 ---

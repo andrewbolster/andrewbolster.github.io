@@ -1,6 +1,5 @@
 ---
-category: ''
-description: ''
+date: 2013-12-20 00:00:00+00:00
 tags:
 - Android
 - Ubuntu

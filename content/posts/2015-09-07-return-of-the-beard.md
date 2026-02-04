@@ -1,11 +1,10 @@
 ---
-category: ''
-description: ''
+date: 2015-09-07 00:00:00+00:00
 tags:
 - Academia
 - Networking
-- 'University of Liverpool'
-- 'professional development'
+- University of Liverpool
+- professional development
 title: Return of the Beard
 ---
 

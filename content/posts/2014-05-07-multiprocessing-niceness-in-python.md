@@ -1,6 +1,5 @@
 ---
-category: code diary
-description: ''
+date: 2014-05-07 00:00:00+00:00
 tags:
 - Linux
 - Python

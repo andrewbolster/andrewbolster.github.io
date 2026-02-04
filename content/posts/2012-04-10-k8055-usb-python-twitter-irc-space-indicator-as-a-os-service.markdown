@@ -1,6 +1,4 @@
 ---
-categories:
-- Instructional
 comments: true
 cover:
   image: uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg
@@ -15,9 +13,6 @@ tags:
 - irc
 title: 'K8055 USB + Python + Twitter + IRC: Space Indicator as a OS Service'
 ---
-
-[![](/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)](/uploads/2012/04/Emergency-stop-pushbutton-box-key-mushroom-switch.jpg)
-**
 
 After a long time in the oven, [Farset Labs is up and running](http://farsetlabs.org.uk/blog/2012/03/launch-day-hackathon/). Unforanately we don't have any of the crazy equipment yet, since we're broke.
 
