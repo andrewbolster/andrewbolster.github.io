@@ -2,8 +2,6 @@
 categories:
 - Commentary
 comments: false
-cover:
-  image: http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/40000/8000/000/48086/48086.strip.gif
 date: 2009-04-07 11:31:57+00:00
 slug: work-thought-of-the-day
 tags:

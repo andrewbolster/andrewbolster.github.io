@@ -2,8 +2,6 @@
 categories:
 - Commentary
 comments: false
-cover:
-  image: http://1.bp.blogspot.com/_ZZeoHBuNcEU/SM0ew7ciunI/AAAAAAAACBc/hWypq44rn5Y/s400/SL730122.JPG
 date: 2008-09-14 14:13:00+00:00
 slug: long-extended-break-hardware-update
 tags:

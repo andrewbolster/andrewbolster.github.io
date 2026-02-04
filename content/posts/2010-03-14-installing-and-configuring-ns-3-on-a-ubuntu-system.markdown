@@ -2,8 +2,6 @@
 categories:
 - Instructional
 comments: true
-cover:
-  image: http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg
 date: 2010-03-14 23:39:09+00:00
 slug: installing-and-configuring-ns-3-on-a-ubuntu-system
 tags:

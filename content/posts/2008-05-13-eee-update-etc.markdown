@@ -2,8 +2,6 @@
 categories:
 - Commentary
 comments: false
-cover:
-  image: http://www.todomodding.com/wp-content/uploads/2008/03/face_black.jpg
 date: 2008-05-13 21:57:00+00:00
 slug: eee-update-etc
 tags:

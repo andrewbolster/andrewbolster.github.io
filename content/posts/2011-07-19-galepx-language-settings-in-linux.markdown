@@ -2,8 +2,6 @@
 categories:
 - Instructional
 comments: true
-cover:
-  image: http://www.conitec.net/images/g5medium.jpg
 date: 2011-07-19 09:25:18+00:00
 slug: galepx-language-settings-in-linux
 tags: null
