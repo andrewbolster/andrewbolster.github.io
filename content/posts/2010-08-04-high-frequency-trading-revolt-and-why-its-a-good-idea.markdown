@@ -1,6 +1,4 @@
 ---
-categories:
-- Commentary
 comments: true
 cover:
   image: uploads/2010/08/351400-high_frequency_trading_outlawed-300x215.jpg
@@ -12,7 +10,7 @@ tags:
 title: High-Frequency Trading Revolt, and Why its a good idea!!
 ---
 
-[![High Frequency Trading](/uploads/2010/08/351400-high_frequency_trading_outlawed-300x215.jpg)](//2010/08/high-frequency-trading-revolt-and-why-its-a-good-idea/351400-high_frequency_trading_outlawed/)Remember that little economic apocalypse that happened a few years ago? You may remember it as the day your 401(k) dropped a digit or 3; those short sighted (w/b)ankers and middle management that essentially collectively said "You want some money? Sure, go ahead!" to the entire world and didn't think about where it was coming from, while getting paid sums of money that would make [Scrouge McDuck](http://www.youtube.com/watch?v=NBRrCY5uhWY#t=25) blush. Well, turns out they have been too greedy at home (no suprise).
+Remember that little economic apocalypse that happened a few years ago? You may remember it as the day your 401(k) dropped a digit or 3; those short sighted (w/b)ankers and middle management that essentially collectively said "You want some money? Sure, go ahead!" to the entire world and didn't think about where it was coming from, while getting paid sums of money that would make [Scrouge McDuck](http://www.youtube.com/watch?v=NBRrCY5uhWY#t=25) blush. Well, turns out they have been too greedy at home (no suprise).
 
 The world of [High Frequency Trading](http://en.wikipedia.org/wiki/Algorithmic%20trading) really started in the 1970's, and originated as a system of electronic 'shortcuts' within the trading cycle, but eventually, by an economic form of [feature creep](http://en.wikipedia.org/wiki/Feature%20creep), ended up leaving a significant majority of US and EU financial market holdings controlled by a variety of competing computer systems, trading on the fraction of a percent over a fraction of a second often generating over $100,000 a day for controlling interests. (As of 2009,  [73% of US market equity](http://advancedtrading.com/algorithms/showArticle.jhtml?articleID=218401501) was traded by such systems)
 

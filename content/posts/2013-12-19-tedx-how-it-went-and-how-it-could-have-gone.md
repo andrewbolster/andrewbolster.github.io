@@ -1,6 +1,5 @@
 ---
-category: ''
-description: ''
+date: 2013-12-19 00:00:00+00:00
 tags:
 - Finance
 - Innovation

@@ -1,12 +1,11 @@
 ---
-category: ''
-description: ''
+date: 2015-02-06 00:00:00+00:00
 tags:
 - Cybersecurity
 - Debian
 - Linux
-- 'Linux Mint'
-- 'Package Management'
+- Linux Mint
+- Package Management
 - Ubuntu
 title: Unattended Updates in Linux Mint
 ---

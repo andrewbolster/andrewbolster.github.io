@@ -1,10 +1,9 @@
 ---
-category: ''
-description: ''
+date: 2014-01-22 00:00:00+00:00
 tags:
 - Installation
 - MATLAB
-- 'Open Source'
+- Open Source
 - Python
 title: Octave 3.8 on Mint (or Ubuntu)
 ---

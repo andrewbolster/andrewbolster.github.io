@@ -1,8 +1,9 @@
 ---
-category: ''
-description: ''
+date: 2015-04-24 00:00:00+00:00
 tags:
 - Linux
+- Networking
+- Monitoring
 title: SNMP Monitoring and Configuration for Networks and Linux Host Monitoring
 ---
 

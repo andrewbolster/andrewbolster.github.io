@@ -1,10 +1,9 @@
 ---
-category: ''
-description: ''
+date: 2015-10-24 00:00:00+00:00
 tags:
-- 'Farset Labs'
+- Farset Labs
 - Innovation
-- 'Northern Ireland'
+- Northern Ireland
 - Technology
 title: 'One Direction: Why I''m still a director at Farset Labs'
 ---

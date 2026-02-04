@@ -1,11 +1,11 @@
 ---
-category: presentation
+date: 2018-10-23 00:00:00+00:00
 tags:
 - AI
-- 'Autonomous Systems'
+- Autonomous Systems
 - Cybersecurity
-- 'Data Science'
-- 'Machine Learning'
+- Data Science
+- Machine Learning
 - PhD
 - Privacy
 - Robotics

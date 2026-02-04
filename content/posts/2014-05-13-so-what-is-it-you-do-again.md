@@ -1,14 +1,13 @@
 ---
-category: ''
-description: ''
+date: 2014-05-13 00:00:00+00:00
 tags:
 - AI
-- 'Autonomous Systems'
+- Autonomous Systems
 - Cybersecurity
-- 'Network Security'
+- Network Security
 - PhD
 - Trust
-- 'University of Liverpool'
+- University of Liverpool
 title: So, what is it you do again?
 ---
 

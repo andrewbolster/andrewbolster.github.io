@@ -1,11 +1,12 @@
 ---
+date: 2018-04-09 00:00:00+00:00
 tags:
 - Dublin
 - Education
-- 'Farset Labs'
+- Farset Labs
 - Hackerspace
 - Laptop
-- 'Open Source'
+- Open Source
 - Speaking
 - Technology
 - funding

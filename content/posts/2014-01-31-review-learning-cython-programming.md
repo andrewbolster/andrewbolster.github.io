@@ -1,14 +1,13 @@
 ---
-category: ''
-description: ''
+date: 2014-01-31 00:00:00+00:00
 tags:
 - C/C++
-- 'Data Science'
+- Data Science
 - MATLAB
 - NumPy
 - PhD
 - Python
-- 'Software Development'
+- Software Development
 title: 'Review: Learning Cython Programming'
 ---
 

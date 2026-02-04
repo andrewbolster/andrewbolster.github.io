@@ -1,10 +1,9 @@
 ---
-category: ''
-description: ''
+date: 2014-07-29 00:00:00+00:00
 tags:
-- 'Customer Service'
+- Customer Service
 - Cybersecurity
-- 'Data Security'
+- Data Security
 - Finance
 title: I do not understand credit markets
 ---

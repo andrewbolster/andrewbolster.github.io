@@ -1,10 +1,9 @@
 ---
-category: ''
-description: ''
+date: 2014-07-25 00:00:00+00:00
 tags:
 - Chrome
 - Jupyter
-- 'Linux Mint'
+- Linux Mint
 title: IPython Websocket Failure on Chrome
 ---
 
