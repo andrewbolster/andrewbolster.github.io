@@ -11,13 +11,125 @@
 # ]
 # ///
 """
-Blog management script for AI-generated featured images and other tasks
+Blog management script for AI-generated featured images and other tasks.
+
+This script provides comprehensive featured image generation for blog posts using AI image
+generation models with automatic content analysis, brand-consistent styling, watermarking,
+and Hugo integration.
+
+## Commands
+
+### test-image-generation
+Test LLM gateway connectivity and discover available image generation models.
+
+Example:
+    ./manage.py test-image-generation --base-url https://llm.labs.blackduck.com --api-key sk-xxx
+
+### generate
+Generate AI-powered featured images for blog posts with automatic content analysis.
+
+Examples:
+    # Generate for a specific post (recommended)
+    ./manage.py generate ../content/posts/2025-01-01-my-post.md \
+        --image-model dall-e-3 \
+        --text-model claude-sonnet-4 \
+        --output static/img/my-post.generated.png \
+        --url "andrewbolster.info/2025/01/my-post.html" \
+        --base-url https://llm.labs.blackduck.com \
+        --api-key sk-xxx
+
+    # Generate with custom text prompt
+    ./manage.py generate \
+        --image-model dall-e-3 \
+        --text "A cyberpunk workspace with AI elements in dark purple tones" \
+        --output static/img/custom-image.generated.png \
+        --url "example.com" \
+        --base-url https://llm.labs.blackduck.com \
+        --api-key sk-xxx
+
+### add-featured-images
+Bulk add featured images from existing first images in posts.
+
+Example:
+    ./manage.py add-featured-images --dry-run    # Preview changes
+    ./manage.py add-featured-images             # Apply changes
+
+## Configuration
+
+### Environment Setup
+The script uses the service-llm configuration from ~/src/service-llm/manage.ini.
+For llm.labs environment:
+- base_url: https://llm.labs.blackduck.com
+- api_key: YOUR_API_KEY_HERE
+
+### Image Specifications
+- Default dimensions: 860x530 (optimized for blog headers)
+- DALL-E compatibility: Automatically uses 1792x1024 then resizes to target
+- Format: PNG with watermarking applied after resize for readability
+- Watermarks: Copyright (bottom-right) and URL (bottom-left)
+
+### Brand Guidelines
+All generated images follow consistent branding:
+- Color scheme: Dark indigo/purple primary colors
+- Style: Cyberpunk/solarpunk aesthetic elements
+- Quality: Professional blog header standard
+- Theme: Modern minimalist tech illustration
+
+### File Organization
+- Generated images: static/img/[post-slug].generated.png
+- Hugo paths: img/[filename] (static/ prefix stripped)
+- Frontmatter: Automatically updated with cover block including alt text and caption
+
+## Best Practices
+
+### Post File Naming
+Use descriptive filenames that will become readable image names:
+- Good: static/img/my-awesome-feature.generated.png
+- Avoid: static/img/img1.generated.png
+
+### Content Analysis
+For best results when using post files:
+- Ensure posts have clear title and tags
+- Include substantive content (500+ words recommended)
+- Use descriptive tags that reflect visual concepts
+
+### URL Watermarks
+Always include the canonical post URL for proper attribution:
+- Format: "domain.com/path/to/post.html"
+- Helps with image attribution when shared
+
+### Model Selection
+Recommended combinations:
+- Image: dall-e-3 (best quality, handles brand guidelines well)
+- Text: claude-sonnet-4 (excellent content analysis and prompt generation)
+
+### Error Handling
+The script includes automatic retry logic for service unavailability:
+- 5 retries with exponential backoff
+- Handles 500/502/503/504 errors automatically
+- Session-based requests with proper timeouts
+
+## Troubleshooting
+
+### Common Issues
+1. **503 Service Unavailable**: Automatic retries will handle temporary outages
+2. **DALL-E size errors**: Script automatically handles size compatibility
+3. **Path issues**: Use relative paths from script directory
+4. **Watermarks unreadable**: Now applied after resize for proper scaling
+
+### File Path Resolution
+When running from scripts/ directory:
+- Post files: ../content/posts/filename.md
+- Output images: ../static/img/filename.png (or just static/img/filename.png)
+- Frontmatter updates: Automatic with correct Hugo paths
 """
 import os
 import requests
+from requests.adapters import HTTPAdapter, Retry
 import click
 import json
 import frontmatter
+import time
 from pathlib import Path
 from litellm import image_generation, completion
 from rich.console import Console
@@ -29,6 +141,22 @@ from io import BytesIO
 import re
 
 console = Console()
+
+# Setup requests session with retry logic
+session = requests.Session()
+retries = Retry(
+    total=5,
+    backoff_factor=0.1,
+    status_forcelist=[500, 502, 503, 504]
+)
+session.mount('http://', HTTPAdapter(max_retries=retries))
+session.mount('https://', HTTPAdapter(max_retries=retries))
+
+# Set default headers and timeout for session
+session.headers.update({
+    'User-Agent': 'blog-management-script/1.0'
+})
+# Note: API-specific headers like Authorization will be added per request
 
 
 def add_watermark(image_bytes, watermark_text=None, url_text=None):
@@ -141,7 +269,7 @@ def test_image_generation(verbose, api_key, base_url):
 
     # Test basic connectivity
     try:
-        response = requests.get(
+        response = session.get(
             f'{base_url}/v1/models',
             headers={'Authorization': f'Bearer {api_key}'},
             timeout=30
@@ -234,7 +362,7 @@ def test_image_generation(verbose, api_key, base_url):
 @click.option('--text', help='Override text prompt instead of analyzing post content')
 @click.option('--url', help='Optional URL to include as watermark on bottom left')
 @click.option('--output', '-o', default='generated.png', help='Output filename (default: generated.png)')
-@click.option('--size', '-s', default='1792x1024', help='Image size in WIDTHxHEIGHT format (default: 1792x1024, DALL-E 3 supports: 1024x1024, 1792x1024, 1024x1792)')
+@click.option('--size', '-s', default='860x530', help='Image size in WIDTHxHEIGHT format (default: 860x530, will resize from DALL-E output)')
 @click.option('--api-key', help='Override API key (defaults to LITELLM_PROXY_API_KEY env var)')
 @click.option('--base-url', help='Override base URL (defaults to LITELLM_PROXY_URL env var)')
 @click.option('--verbose', '-v', is_flag=True, help='Verbose output')
@@ -316,7 +444,7 @@ STYLE REQUIREMENTS:
 - Cyberpunk or solarpunk aesthetic elements
 - Modern, minimalist tech illustration style
 - Professional blog header quality
-- {size} dimensions (rectangular format for blog headers)
+- Rectangular format optimized for blog headers
 
 TASK:
 Extract the key technical concepts, themes, and memorable points from this post. Create a compelling image generation prompt that:
@@ -332,7 +460,7 @@ Return ONLY the image generation prompt, no additional text."""
             with console.status("[bold blue]Analyzing content...", spinner="dots"):
                 # Use direct requests call to gateway since litellm completion()
                 # has provider detection issues with custom model names
-                response = requests.post(
+                response = session.post(
                     f"{base_url}/v1/chat/completions",
                     headers={
                         "Authorization": f"Bearer {api_key}",
@@ -371,13 +499,27 @@ Return ONLY the image generation prompt, no additional text."""
     try:
         console.print(f"🎨 Generating image with {image_model}...")
 
+        # For DALL-E models, use compatible size then resize
+        if 'dall-e' in image_model.lower():
+            # Choose best DALL-E size based on target dimensions
+            target_width, target_height = map(int, size.split('x'))
+            if target_width > target_height:
+                dalle_size = "1792x1024"  # Landscape
+            elif target_height > target_width:
+                dalle_size = "1024x1792"  # Portrait
+            else:
+                dalle_size = "1024x1024"  # Square
+            console.print(f"📏 Using DALL-E size {dalle_size}, will resize to {size}")
+        else:
+            dalle_size = size
+
         with console.status("[bold green]Generating image...", spinner="dots"):
             response = image_generation(
                 model=image_model,
                 prompt=prompt,
                 api_key=api_key,
                 api_base=base_url,
-                size=size,
+                size=dalle_size,
                 quality="standard"
             )
 
@@ -392,21 +534,31 @@ Return ONLY the image generation prompt, no additional text."""
             # Download and save image
             try:
                 with console.status("[bold green]Downloading image...", spinner="dots"):
-                    img_response = requests.get(image_url, timeout=60)
+                    img_response = session.get(image_url, timeout=60)
                     img_response.raise_for_status()
 
-                # Create output directory
-                output_dir = Path("static/img/generated")
-                output_dir.mkdir(parents=True, exist_ok=True)
+                # Parse output path and create directory if needed
+                output_path = Path(output)
+                output_path.parent.mkdir(parents=True, exist_ok=True)
 
-                # Add watermark to image
+                # Resize image to requested dimensions first
+                target_width, target_height = map(int, size.split('x'))
+                with console.status("[bold blue]Resizing image...", spinner="dots"):
+                    pil_image = Image.open(BytesIO(img_response.content))
+                    resized_image = pil_image.resize((target_width, target_height), Image.Resampling.LANCZOS)
+
+                    # Convert back to bytes
+                    output_buffer = BytesIO()
+                    resized_image.save(output_buffer, format='PNG')
+                    resized_image_bytes = output_buffer.getvalue()
+
+                # Add watermark to resized image
                 with console.status("[bold blue]Adding watermark...", spinner="dots"):
-                    watermarked_image = add_watermark(img_response.content, url_text=url)
+                    final_image_bytes = add_watermark(resized_image_bytes, url_text=url)
 
-                # Save watermarked image
-                output_path = output_dir / output
+                # Save final image
                 with open(output_path, 'wb') as f:
-                    f.write(watermarked_image)
+                    f.write(final_image_bytes)
 
                 console.print(f"💾 Saved: [green]{output_path}[/green]")
 
@@ -417,9 +569,10 @@ Return ONLY the image generation prompt, no additional text."""
                         with open(post_file, 'r', encoding='utf-8') as f:
                             post = frontmatter.load(f)
 
-                        # Add cover block
+                        # Add cover block - strip static/ prefix if present for relative path
+                        relative_image_path = str(output_path).replace('static/', '') if str(output_path).startswith('static/') else str(output_path)
                         post.metadata['cover'] = {
-                            'image': f"img/generated/{output}",
+                            'image': relative_image_path,
                             'alt': f"AI-generated featured image for {title}",
                             'caption': "Generated with AI based on post content"
                         }
@@ -444,6 +597,123 @@ Return ONLY the image generation prompt, no additional text."""
 
     except Exception as e:
         console.print(f"❌ Image generation failed: {e}", style="red")
+        if verbose:
+            import traceback
+            console.print(traceback.format_exc())
+        raise click.Abort()
+
+
+@cli.command("add-featured-image-to-post")
+@click.argument('post-file', type=click.Path(exists=True, path_type=Path))
+@click.option('--override', is_flag=True, help='Replace existing featured image if present')
+@click.option('--api-key', help='Override API key (defaults to LITELLM_PROXY_API_KEY env var)')
+@click.option('--base-url', help='Override base URL (defaults to LITELLM_PROXY_URL env var)')
+@click.option('--verbose', '-v', is_flag=True, help='Verbose output')
+@click.option('--yes', '-y', is_flag=True, help='Skip confirmation prompts')
+def add_featured_image_to_post(post_file, override, api_key, base_url, verbose, yes):
+    """Generate and add a featured image to a specific blog post.
+
+    This command analyzes a blog post and generates a custom featured image,
+    then updates the post's frontmatter. It reuses the existing 'generate'
+    command functionality.
+    """
+
+    console.print(f"🎨 Processing post: [bold]{post_file.name}[/bold]")
+
+    # Read and parse the post
+    try:
+        with open(post_file, 'r', encoding='utf-8') as f:
+            post = frontmatter.load(f)
+
+        title = post.metadata.get('title', 'Untitled')
+        existing_cover = post.metadata.get('cover')
+
+        console.print(f"📖 Post: [bold]{title}[/bold]")
+
+    except Exception as e:
+        console.print(f"❌ Error reading post file: {e}", style="red")
+        raise click.Abort()
+
+    # Check for existing featured image in frontmatter
+    if existing_cover and not override:
+        console.print("⏭️  Post already has a featured image. Use --override to replace.", style="yellow")
+        return
+
+    # Generate output filename from post file
+    post_stem = post_file.stem
+    # Remove date prefix if present (YYYY-MM-DD-)
+    if len(post_stem) > 10 and post_stem[4] == '-' and post_stem[7] == '-' and post_stem[10] == '-':
+        slug = post_stem[11:]  # Remove YYYY-MM-DD- prefix
+    else:
+        slug = post_stem
+
+    output_filename = f"{slug}.generated.png"
+    output_path = f"static/img/{output_filename}"
+
+    # Check if image file already exists
+    if Path(output_path).exists() and not override:
+        console.print("⏭️  Image file already exists. Use --override to replace.", style="yellow")
+        # Still update frontmatter if it's missing
+        if not existing_cover:
+            console.print("📝 Adding missing frontmatter reference...")
+            post.metadata['cover'] = {'image': f"img/{output_filename}"}
+            with open(post_file, 'w', encoding='utf-8') as f:
+                f.write(frontmatter.dumps(post))
+            console.print("✅ Frontmatter updated")
+        return
+
+    console.print(f"🎯 Will generate: [green]{output_path}[/green]")
+
+    if not yes and not Confirm.ask("🚀 Generate featured image for this post?"):
+        console.print("Cancelled")
+        return
+
+    # Use existing generate command by invoking it directly
+    from click.testing import CliRunner
+
+    generate_args = [
+        'generate',
+        str(post_file),
+        '--image-model', 'dall-e-3',
+        '--text-model', 'claude-sonnet-4',
+        '--output', output_path,
+        '--size', '860x530'
+    ]
+
+    # Pass through optional arguments
+    if api_key:
+        generate_args.extend(['--api-key', api_key])
+    if base_url:
+        generate_args.extend(['--base-url', base_url])
+    if verbose:
+        generate_args.append('--verbose')
+    if yes:
+        generate_args.append('--yes')
+
+    try:
+        # Run the generate command
+        runner = CliRunner()
+        result = runner.invoke(cli, generate_args, catch_exceptions=False)
+
+        if result.exit_code != 0:
+            console.print("❌ Image generation failed", style="red")
+            raise click.Abort()
+
+        # Update frontmatter if the image was successfully generated
+        if Path(output_path).exists():
+            console.print("📝 Updating post frontmatter...")
+            post.metadata['cover'] = {'image': f"img/{output_filename}"}
+
+            with open(post_file, 'w', encoding='utf-8') as f:
+                f.write(frontmatter.dumps(post))
+
+            console.print("✅ Frontmatter updated")
+        else:
+            console.print("❌ Image file was not created", style="red")
+            raise click.Abort()
+
+    except Exception as e:
+        console.print(f"❌ Failed to generate image: {e}", style="red")
         if verbose:
             import traceback
             console.print(traceback.format_exc())
