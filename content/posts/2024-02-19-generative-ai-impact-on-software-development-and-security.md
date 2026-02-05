@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2024/02/generative-ai-impact-on-software-development-and-security.html
 categories:
 - AI
 - Software Engineering
@@ -18,6 +16,7 @@ tags:
 - cybersecurity
 title: 'Generative AI: Impact on Software Development and Security'
 ---
+
 _This was a piece written as part of my work at Synopsys SIG and was published in a [few](https://ap-verlag.de/generative-ki-hat-enorme-auswirkungen-auf-softwareentwicklung-und-softwaresicherheit/86448/) [places](https://www.teiss.co.uk/artificial-intelligence/generative-ai-software-development-and-security), but I liked it and wanted to keep it... At least until the lawyers chase me down._
 
 Since the release of ChatGPT, the technology industry has been scrambling to establish and operationalise the practical implications of these human-level conversational interfaces.

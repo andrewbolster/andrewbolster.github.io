@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2008/05/embedded-c-gps-project.html
 categories:
 - Instructional
 comments: false
@@ -12,6 +10,7 @@ tags:
 - GPS
 title: Embedded C GPS Project
 ---
+
 Afternoon folks, I'm supposed to be studying but dont have the heart to, so I'm documenting a recent project from Uni.
 
 The remit was to be able to parse RS232 data coming in from a GPS unit and reformat it for a LCD display. I dont have the part numbers handy but I was programming on a 18F series PIC that supported C.

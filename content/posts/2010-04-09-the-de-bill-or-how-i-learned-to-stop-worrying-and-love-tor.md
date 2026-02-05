@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/04/the-de-bill-or-how-i-learned-to-stop-worrying-and-love-tor.html
 categories:
 - Commentary
 - Instructional
@@ -18,6 +16,7 @@ tags:
 - Ubuntu
 title: The DE Bill, or, How I Learned to Stop Worrying and Love Tor
 ---
+
 Folks, we're basically screwed; The Digital Economy Bill recieved Royal Accent on April 9th and is officially now Law.
 
 So after barely three days of parliamentary 'debate' where only 20-ish MP's actually spoke on the subject (but somehow 189 MP's decided it was a good idea anyway), our civil rights have been sacrificed infront of the alter of copyright.

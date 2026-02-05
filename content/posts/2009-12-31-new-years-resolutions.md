@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/12/new-years-resolutions.html
 categories:
 - Commentary
 comments: true
@@ -15,7 +13,8 @@ tags:
 - freelancing
 title: New Years Resolutions
 ---
-  * Post *something* at least once a day on either blog or [web-album](http://picasaweb.google.com/andrew.bolster/1ayr?feat=directlink)
+
+* Post *something* at least once a day on either blog or [web-album](http://picasaweb.google.com/andrew.bolster/1ayr?feat=directlink)
 
 
   * Stop[ sleeping in ](http://lifehacker.com/309030/top-10-ways-to-sleep-smarter-and-better)after 10am

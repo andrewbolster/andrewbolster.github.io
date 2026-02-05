@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2025/03/on-deepseek.html
 categories:
 - AI
 - Commentary
@@ -14,6 +12,7 @@ tags:
 - Open Source
 title: On Deepseek
 ---
+
 > **Note:**
 > The continuing adventures of 'a dozen people asked what I thought about [a new AI model](/2024/09/on-openai-o1) in work so I put them together and republished it a few months later when I got a quiet weekend'...
 

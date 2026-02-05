@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/04/listing-just-dot-files.html
 categories:
 - Instructional
 comments: true
@@ -13,6 +11,7 @@ tags:
 - Ubuntu
 title: Listing just dot-files
 ---
+
 Its a problem that I've come across, and I'm [not the only one](http://www.unix.com/unix-dummies-questions-answers/42734-command-list-dot-files.html), so heres what works for me to find those pesky files that start with a .
 `ls -a | egrep -i "^\."`
 

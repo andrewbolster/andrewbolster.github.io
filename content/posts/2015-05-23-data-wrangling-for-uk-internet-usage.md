@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2015/05/data-wrangling-for-uk-internet-usage.html
 cover:
   image: img/data-wrangling-for-uk-internet-usage.generated.png
 date: 2015-05-23 00:00:00+00:00
@@ -13,6 +11,7 @@ tags:
 - notebook
 title: Data Wrangling for UK Internet Usage
 ---
+
 This post is a little different from my usual fare;
 
 Basically, there was a tweet from [MATRIX NI](http://matrixni.org) that caught

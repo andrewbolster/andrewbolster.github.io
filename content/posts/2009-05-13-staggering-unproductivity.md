@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/05/staggering-unproductivity.html
 categories:
 - Commentary
 comments: false
@@ -19,6 +17,7 @@ tags:
 - development
 title: Staggering Unproductivity
 ---
+
 I must apologise for my lack of activity on the blog, but more is coming.
 
 I've begun working towards working with[ Ian Clarke](http://en.wikipedia.org/wiki/Ian_Clarke_(computer_scientist)) on his [Swarm ](http://blog.locut.us/2008/10/06/swarm-a-true-distributed-programming-language/)project, that is if i can bring my Java and [Scala ](http://www.scala-lang.org/)chops up to scratch enough to give meaningful impact.

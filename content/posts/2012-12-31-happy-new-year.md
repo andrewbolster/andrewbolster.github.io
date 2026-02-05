@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2012/12/happy-new-year.html
 categories:
 - Commentary
 comments: true
@@ -13,6 +11,7 @@ tags:
 - events
 title: Happy New Year
 ---
+
 So, what are they going to do with all those '[NI 2012: Our Time Out Place](http://ni2012.com/)' things?
 
 Is it no longer our place? Are we joining up with the republic or the mainland or something?

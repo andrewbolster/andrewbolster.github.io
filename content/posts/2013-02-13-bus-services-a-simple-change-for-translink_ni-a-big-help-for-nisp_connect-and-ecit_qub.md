@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/02/bus-services-a-simple-change-for-translink_ni-a-big-help-for-nisp_connect-and-ecit_qub.html
 categories:
 - Commentary
 comments: true
@@ -11,6 +9,7 @@ tags:
 title: Bus Services, a simple change for @Translink_NI, a big help for @NISP_Connect
   and @ECIT_QUB
 ---
+
 **UPDATE 7/3/13 : See Bottom**
 
 So I was ranting at @Translink\_NI earlier and they helpfully responded with their service [complaint submission system](http://www.translink.co.uk/Contact/)

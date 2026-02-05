@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/04/why-belfast-needs-a-hackerspace.html
 categories:
 - Commentary
 comments: true
@@ -18,6 +16,7 @@ tags:
 - entrepreneurship
 title: Why Belfast Needs a Hackerspace
 ---
+
 I was sitting in [Sinnamon ](http://lookaly.com/p/sinnamon-coffee-belfast/)on the Stranmillis Road, enjoying a coffee, a sausage roll, and my Kindle, reading the latest [2600](http://www.amazon.co.uk/2600-Magazine-Hacker-Quarterly-Digital/dp/B004GB1WF6/ref=sr_1_1?ie=UTF8&m=A3TVV12T0I6NSM&s=digital-text&qid=1302194871&sr=1-1). One article immediatly stood out to me, 'A World Spinning'. The main focus of the article was the world-changing domino effect, toppling [regimes ](http://armiesofliberation.com/archives/2011/01/27/regime-change-in-tunisia-protests-in-egypt-trigger-yemen-demonstrations-in-sanaa-taiz-and-aden/)across the middle east, all caused by one, little [textfile](http://middleeast.about.com/od/tunisia/a/tunisia-corruption-wikileaks.htm). The textfile in question was a US Embassy cable highlighting the indemic corruption in the (ex) Tunisian Government. As most know, this leak was from WikiLeaks; a rag-tag loosely knit chaotic alliance of hackers across the globe, all with the the same general aim to allow open and plain discourse and stopping governments across the globe from hiding secrets from their citizenry; big secrets and [small](http://www.bbc.co.uk/news/technology-12731312)...
  Of course, as with most things to do with hackers, the aim isn't that simple; having spoken to some of those involved, it was abundantly clear that some elements within Wikileaks purely want to screw with governments that (they feel have) wronged them, but others are simply motivated by the cat-and-mouse challenge of acquiring, validating, securing and releasing information in a hostile environment.
 

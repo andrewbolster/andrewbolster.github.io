@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/10/what-the-hack.html
 categories:
 - Commentary
 comments: true
@@ -15,6 +13,7 @@ tags:
 - event
 title: What the Hack?
 ---
+
 Today is the day I've been working on for the past few weeks.
 
 Today, in the [SU](http://maps.google.com/maps?om=0&iwloc=addr&f=q&ll=54.5857983%2C-5.9361292&hl=en&z=15&ie=UTF8), about 30 electrical engineers, computer science students, professional software developers, photography geeks, penetration testers, system administrators and anyone else interested, will come together to hack.

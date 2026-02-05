@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/07/qub-email-settings-that-actually-work.html
 categories:
 - Instructional
 comments: true
@@ -12,6 +10,7 @@ tags:
 - Server
 title: QUB Email Settings that Actually Work
 ---
+
 **UPDATE**
 I've long left QUB since this post was writted so as expected, IS have changed things again. If you're hitting this, head over to [Ryan McConville's updated instructions](https://ryanmcconville.com/blog/post/qub-email-settings/)
 

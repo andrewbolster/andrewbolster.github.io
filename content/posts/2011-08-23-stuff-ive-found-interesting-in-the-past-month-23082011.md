@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/08/stuff-ive-found-interesting-in-the-past-month-23082011.html
 categories:
 - Link-Roll
 comments: true
@@ -12,7 +10,8 @@ tags:
 - Music
 title: Stuff I've found interesting in the past month - 23/08/2011
 ---
-  * [Michael Jackson Fail](http://www.youtube.com/watch?v=NMMFSCMR0Dc&feature=autoshare)
+
+* [Michael Jackson Fail](http://www.youtube.com/watch?v=NMMFSCMR0Dc&feature=autoshare)
 
 
   * [The Italian Man Who went to Malta.](http://www.youtube.com/watch?v=m1TnzCiUSI0&feature=autoshare)

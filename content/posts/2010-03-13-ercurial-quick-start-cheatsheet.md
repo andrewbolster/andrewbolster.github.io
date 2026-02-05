@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/03/ercurial-quick-start-cheatsheet.html
 categories:
 - Instructional
 comments: true
@@ -17,6 +15,7 @@ tags:
 - version control
 title: Mercurial Quick Start Cheatsheet
 ---
+
 I hadn't used Mercurial before so I thought it might be a good idea to leave a reminder for me and anyone else who comes across it...
 
 For tidyness, I do all of my dev-stuff ([Subversion](http://subversion.tigris.org/), [Mercurial](http://mercurial.selenic.com/), [CVS](http://www.nongnu.org/cvs/), [Git ](http://git-scm.com/)etc) under ~/src and only take root privileges when its needed; any good makefile should relocate the necessary files for you at the 'make install' or equivalent point.

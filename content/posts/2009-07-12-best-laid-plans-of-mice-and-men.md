@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/07/best-laid-plans-of-mice-and-men.html
 categories:
 - Instructional
 comments: false
@@ -21,6 +19,7 @@ tags:
 - webcam
 title: Best Laid Plans of Mice and Men
 ---
+
 Recently the only additions I've been making to this blog are presumptious '
 I'll be doing this' messages, and this is no excection.
 

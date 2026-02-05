@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/03/the-omleritto.html
 categories:
 - Commentary
 - Instructional
@@ -11,6 +9,7 @@ tags:
 - Food
 title: The Omleritto
 ---
+
 Ingredients:
 
 2 eggs

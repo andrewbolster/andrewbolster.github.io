@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2020/05/pragmatic-data-science.html
 cover:
   image: img/pragmatic-data-science.generated.png
 date: 2020-05-22 14:35:00+01:00
@@ -11,6 +9,7 @@ tags:
 - Technology
 title: Pragmatic Data Science; When Unstoppable Math meets Immovable Ethics
 ---
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmW2Ls_Qvj0KGH-7wJvWxPyHGJnwf-Den52J5dm-ejF2WQeXnUEqDPv98uT--mt_WwsgQR6vEh30w6/embed?start=false&loop=true&delayms=0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 _This is a Rough Transcript from [The Virtual Bash on Ethics](https://www.meetup.com/devbash/events/270315785/)_

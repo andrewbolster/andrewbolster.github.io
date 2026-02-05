@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2012/06/litreview-communication-in-a-behaviour-based-approach-to-target-detection-and-tracking-with-autonomous-underwater-vehicles.html
 categories:
 - Uni
 comments: true
@@ -13,6 +11,7 @@ tags:
 title: 'LitReview: Communication in a behaviour-based approach to target detection
   and tracking with Autonomous Underwater Vehicles'
 ---
+
 # Biblio
 
 [Sorbi, Toni, Dio De Capua, Rossi](http://www.mendeley.com/research/communication-behaviorbased-approach-target-detection-tracking-autonomous-underwater-vehicles?utm_source=desktop&utm_medium=1.5.2&utm_campaign=open_catalog&userDocumentId=%7B11f28154-4a46-4afe-b8f6-7e00bd445754%7D)

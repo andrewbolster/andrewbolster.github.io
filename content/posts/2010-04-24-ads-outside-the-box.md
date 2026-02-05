@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/04/ads-outside-the-box.html
 categories:
 - Commentary
 comments: true
@@ -12,6 +10,7 @@ tags:
 - advertising
 title: Ads Outside the Box?
 ---
+
 I cant for the life of me remember who it was who pointed this out on Twitter, either @cimota or @stuartgibson.
 
 [Jesse Schell](http://thingsifinished.blogspot.com/) , Author, Educator, Game Developer, Ex-[imagineer](http://en.wikipedia.org/wiki/Walt%20Disney%20Imagineering), Futurist, spendshalf of this video deliberating over the unexpected rise and rise of [facebook](http://www.facebook.com/).

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/10/stuff-ive-found-interesting-in-the-past-month-23102010-2.html
 categories:
 - Link-Roll
 comments: true
@@ -15,7 +13,8 @@ tags:
 - Technology
 title: Stuff I've found interesting in the past month - 23/10/2010
 ---
-  * [The Trashmen : Surfin' Bird ( 1963 )](http://www.youtube.com/watch?v=ZThquH5t0ow&feature=autoshare)
+
+* [The Trashmen : Surfin' Bird ( 1963 )](http://www.youtube.com/watch?v=ZThquH5t0ow&feature=autoshare)
 
 
   * [Skyline - Trailer 2 (2010)](http://www.youtube.com/watch?v=mns8EsSHMmI&feature=autoshare)

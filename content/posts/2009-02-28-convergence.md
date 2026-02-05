@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/02/convergence.html
 categories:
 - Commentary
 comments: false
@@ -14,6 +12,7 @@ tags:
 - business
 title: Convergence
 ---
+
 So, I've made the plunge and am determined to catch up on everything I've left behind the past couple of years.
 
 I have embraced the new interconnections,

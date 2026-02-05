@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/04/set-up-and-running-of-dns-tunnelling-on-mbwe.html
 categories:
 - Instructional
 comments: false
@@ -22,6 +20,7 @@ tags:
 - port forwarding
 title: Set up and running of DNS tunnelling on MBWE
 ---
+
 Last week or there abouts, there was a big buzz around the interwebs revisiting [Dan Kaminski's OzymanDNS tool](http://www.doxpara.com/?p=51), a perl based toolkit for tunnelling TCP traffic over DNS requests (technically its TCP over SSL over DNS but whos counting) That was originally released mid-2004.
 
 I never really found the true source of the new hype surrounding a "old" project (it may have been HAK5's[ episode 504](http://www.hak5.org/episodes/episode-504) that demonstrated the tool, mubix has put the [write up](http://www.room362.com/archives/456-ozymandns-tunneling-ssh-over-dns.html) in at [room362](http://www.room362.com/))

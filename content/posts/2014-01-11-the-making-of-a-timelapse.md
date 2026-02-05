@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2014/01/the-making-of-a-timelapse.html
 cover:
   image: img/the-making-of-a-timelapse.generated.png
 date: 2014-01-11 00:00:00+00:00
@@ -8,6 +6,7 @@ tags:
 - Web Development
 title: The Making of a Timelapse
 ---
+
 Starting in May 2012 (a few weeks after we 'opened') I set up an eventcam in [Farset Labs](http://farsetlabs.org.uk), and I don't think I ever officially explained it...
 
 Well, first off we were using a [Microsoft Lifecam](http://www.microsoft.com/hardware/en-gb/p/lifecam-cinema) that was kindly donated by [Josh Holmes](https://twitter.com/joshholmes). This was wired up to an even-then-ancient [Asus Eee 700](http://en.wikipedia.org/wiki/Asus_Eee_PC#Eee_700_series)[^1], wired with power and network, and left in the roof. That was about it.

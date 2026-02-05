@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2012/06/litreview-an-overview-on-behaviour-based-methods-for-auv-control.html
 categories:
 - Uni
 comments: true
@@ -14,6 +12,7 @@ tags:
 - Simulation
 title: 'LitReview: An Overview on Behaviour based methods for AUV Control'
 ---
+
 # Biblio
 
 Carreras, Batlle, Ridao, and Roberts;

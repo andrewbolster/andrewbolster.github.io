@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/06/stuff-ive-found-interesting-in-the-past-month-23062011.html
 categories:
 - Link-Roll
 comments: true
@@ -11,7 +9,8 @@ tags:
 - Film
 title: Stuff I've found interesting in the past month - 23/06/2011
 ---
-  * [Social Network of Idiots II : Foamy The Squirrel](http://www.youtube.com/watch?v=78JNVMujZVE&feature=autoshare)
+
+* [Social Network of Idiots II : Foamy The Squirrel](http://www.youtube.com/watch?v=78JNVMujZVE&feature=autoshare)
 
 
   * [Why Homosexuality Should Be Banned](http://www.youtube.com/watch?v=lSfFa44p96o&feature=autoshare)

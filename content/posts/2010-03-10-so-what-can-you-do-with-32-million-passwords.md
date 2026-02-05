@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/03/so-what-can-you-do-with-32-million-passwords.html
 categories:
 - Uni
 comments: true
@@ -19,6 +17,7 @@ tags:
 - cybersecurity
 title: So what can you do with 32 Million Passwords...
 ---
+
 So I have a piece of coursework for a [CS module](http://www.qub.ac.uk/schools/eeecs/Education/Undergraduates/ModuleSummaries/ModuleInformation/?CrsCode=CSC3048) I'm taking at [Queen's University Belfast](http://www.qub.ac.uk/schools/eeecs/) and one of the focal points of it is the recent [RockYou! SQL-injection breach](http://techcrunch.com/2009/12/14/rockyou-hack-security-myspace-facebook-passwords/) that released 32million passwords into the internet, and I thought I'd have a closer look at that list.
 
 I 'acquired' the password list from your regular neighbourhood tracker, and thought I could walk through the process of getting a probability-sorted password dictionary.

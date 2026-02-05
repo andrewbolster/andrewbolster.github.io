@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/06/replace-unity-with-awn-and-gnome-do.html
 categories:
 - Instructional
 comments: true
@@ -11,6 +9,7 @@ tags:
 - Ubuntu
 title: Replace Unity with AWN and Gnome-Do
 ---
+
 Unity Sucks, and I don't like it. I prefer a combination of Avant Window Navigator, tilda, and Gnome-Do, to go from this
 
 [![](/uploads/2011/06/unity-300x225.png)](/uploads/2011/06/unity.png)

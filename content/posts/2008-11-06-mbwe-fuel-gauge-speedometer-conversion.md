@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2008/11/mbwe-fuel-gauge-speedometer-conversion.html
 categories:
 - Instructional
 comments: false
@@ -13,6 +11,7 @@ tags:
 - Storage
 title: MBWE Fuel Gauge -> Speedometer conversion
 ---
+
 The Fuel gauge on the front of my MBWE is fairly useless, noone cares, so why not repurpose it as a speedometer?
 
 first, stop it displaying the "fuel" Stolen from [http://kyyhkynen.net/stuff/mybook/reduce_disk_usage.php](http://kyyhkynen.net/stuff/mybook/reduce_disk_usage.php)

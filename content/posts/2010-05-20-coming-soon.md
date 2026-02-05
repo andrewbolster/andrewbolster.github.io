@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/05/coming-soon.html
 categories:
 - Commentary
 - Uni
@@ -15,6 +13,7 @@ tags:
 - Web Development
 title: Coming Soon!
 ---
+
 **EDIT - 2017** Updated broken links thanks to heads up from [Paul @ Art of Blog](http://www.artofblog.com/typography-basics-some-fundamentals-for-body-copy/)
 
 Ok, its been a busy few weeks, and I've let the blog slip again, but coming up:

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/05/fix-dell-laptops-and-workstations-not-rebooting-restarting-system.html
 categories:
 - Instructional
 comments: true
@@ -11,6 +9,7 @@ tags:
 - Ubuntu
 title: 'Fix: Dell Laptops and workstations not rebooting ("Restarting System")'
 ---
+
 Had an interesting if annoying problem recently that I assumed would just fix itself eventually. But when you're sick of prodding a power button to force a machine to reboot, you gotta do something.
 
 TL;DR**_ if you're getting messages like "`Restarting System`" on an attempted reboot, try setting the `reboot=pci` kernel boot flag_**

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/09/phd-diary-an-introduction-and-a-little-light-reading.html
 categories:
 - Uni
 comments: true
@@ -14,6 +12,7 @@ tags:
 - Research
 title: 'PhD Diary: An Introduction and A Little Light Reading'
 ---
+
 [![](http://www.phdcomics.com/comics/archive/phd030909s.gif)](http://www.phdcomics.com/comics.php?f=1144)
 **
 

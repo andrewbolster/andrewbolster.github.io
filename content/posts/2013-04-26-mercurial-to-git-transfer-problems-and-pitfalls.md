@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/04/mercurial-to-git-transfer-problems-and-pitfalls.html
 categories:
 - Instructional
 comments: true
@@ -14,6 +12,7 @@ tags:
 - version control
 title: Mercurial to Git transfer; problems, and pitfalls.
 ---
+
 Finally decided to move my research work across to GitHub; seems the 'in' thing to do. Also I wanted to get more into the Git swing of things and using intermediary tools like hg-git seem a bit contrived for a 1 person project.
 
 I've enjoyed using Bitbucket but it's just not quite as polished. That and GH has better integration to pretty much everything... Sorry.

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/07/delayed-post-lenovo-rocks.html
 categories:
 - Commentary
 - Instructional
@@ -16,6 +14,7 @@ tags:
 - lenovo
 title: 'Delayed Post: LENOVO ROCKS'
 ---
+
 I'll try and keep this as short and sweet as possible.
 
 From the looks of my[ google analytics](https://www.google.com/analytics) page(if anyone has a blog or site, i hightly recommend it) people were very interested in my experiences with lenovo, and I'm sorry for not updating.

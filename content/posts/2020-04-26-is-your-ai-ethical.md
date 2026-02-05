@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2020/04/is-your-ai-ethical.html
 cover:
   image: img/is-your-ai-ethical.generated.png
 date: 2020-04-26 21:16:00+01:00
@@ -9,6 +7,7 @@ tags:
 - Machine Learning
 title: Is Your AI Ethical?
 ---
+
 _Originally posted in [RTInsights](https://www.rtinsights.com/is-your-ai-ethical/)_
 
 **Businesses should do their part to ensure products are  designed judiciously to reflect core company values and provide audit  trails of how AI is learned.**

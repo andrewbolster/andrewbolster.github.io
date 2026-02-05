@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/06/ongoing-cuda-work-aka-i-love-this-book.html
 categories:
 - Commentary
 comments: true
@@ -15,6 +13,7 @@ tags:
 - Review
 title: Ongoing CUDA work, aka, I love this book.
 ---
+
 If anyone has any interest in [CUDA](http://en.wikipedia.org/wiki/CUDA), or [GPU](http://en.wikipedia.org/wiki/GPGPU)/[Parallel](http://en.wikipedia.org/wiki/Parallel%20computing) programming in general, [David B. Kirk](http://en.wikipedia.org/wiki/David%20Kirk%20%28scientist%29) and [Wen-mei Hwu](http://en.wikipedia.org/wiki/Wen-mei%20Hwu)'s groundbreaking "[Programming Massively Parallel Processors](http://www.amazon.com/gp/product/0123814723?tag=apture-20)" is a must.
 
 [![](/uploads/2010/06/51VL9FqF6ML._SS500_-300x300.jpg)](/uploads/2010/06/51VL9FqF6ML._SS500_.jpg)

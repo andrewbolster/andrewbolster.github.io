@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/03/kids-sing-portal-still-alive.html
 categories:
 - Commentary
 comments: true
@@ -13,6 +11,7 @@ tags:
 - game
 title: Kids Sing Portal "Still Alive"
 ---
+
 {{< youtube "6m5TuxdkfkE" >}}
 
 The Gifford Children's Choir performs "Still Alive" by Jonathan Coulton.

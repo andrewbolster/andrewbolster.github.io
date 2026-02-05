@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/09/force-32-bit-installs-on-64-bit-systems-debrpm.html
 categories:
 - Instructional
 comments: true
@@ -13,6 +11,7 @@ tags:
 - Ubuntu
 title: Force 32 bit installs on 64 bit systems (Deb/RPM)
 ---
+
 Pre-built packages not releasing 64 bit versions? No Problem.
 
 Debian/Ubuntu based:

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/04/lu-decomposition-in-c-and-under-cuda.html
 categories:
 - Instructional
 comments: true
@@ -13,6 +11,7 @@ tags:
 - Programming
 title: LU Decomposition in C (and under CUDA)
 ---
+
 As part of any major project, it occasionally happens that you assume something is a 'solved problem' when its really not.
 
 In my case it was solving small linear systems, of the form Ax=B, where A is an nxn matrix, B is a n vector. This is a problem that's been solved in libraries such as [LAPACK](http://www.netlib.org/lapack/), [LINPACK](http://www.netlib.org/linpack/), [BLAS](http://www.netlib.org/blas/), etc etc.

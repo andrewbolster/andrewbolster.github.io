@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/01/stuff-ive-found-interesting-in-the-past-month-23012011-2.html
 categories:
 - Link-Roll
 comments: true
@@ -11,7 +9,8 @@ tags:
 - Entertainment
 title: Stuff I've found interesting in the past month - 23/01/2011
 ---
-  * [Still Unemployed 13](http://www.youtube.com/watch?v=RMZGs6IUReU&feature=autoshare)
+
+* [Still Unemployed 13](http://www.youtube.com/watch?v=RMZGs6IUReU&feature=autoshare)
 
 
   * [Global Warming](http://www.youtube.com/watch?v=g-F8EO3qOVk&feature=autoshare)

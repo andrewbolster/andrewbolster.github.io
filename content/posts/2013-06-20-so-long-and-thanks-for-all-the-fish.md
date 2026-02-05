@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/06/so-long-and-thanks-for-all-the-fish.html
 categories:
 - Commentary
 comments: true
@@ -23,6 +21,7 @@ tags:
 - maritime
 title: So long and thanks for all the fish
 ---
+
 I'm leaving Northern Ireland, and I'm moving to Liverpool. Via Portsmouth.
 
 I have spoken with a few people about the situation I find myself in, and a few more people about my decision, but I want to get it all down somewhere.

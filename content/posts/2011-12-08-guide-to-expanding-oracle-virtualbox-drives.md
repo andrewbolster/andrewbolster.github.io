@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/12/guide-to-expanding-oracle-virtualbox-drives.html
 categories:
 - Instructional
 comments: true
@@ -13,6 +11,7 @@ tags:
 - virtualisation
 title: Guide to Expanding Oracle Virtualbox Drives
 ---
+
 The Idiot Proof Guide for Windows-host, \*-guest setup. (Ubuntu in my case, and should work for any host)
 
 

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/10/vim-latex-suite-install-on-ubuntu.html
 categories:
 - Instructional
 comments: true
@@ -13,5 +11,6 @@ tags:
 - package management
 title: Vim Latex Suite Install on Ubuntu
 ---
+
 Ubuntu doesn't manage vim's addons, so installing the `vim-latexsuite` package doesn't actually put all the relevant hooks into your vim installation. To do that, (after installing the package) execute;
 `sudo vim-addons -w install latex-suite`

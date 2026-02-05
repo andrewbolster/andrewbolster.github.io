@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/04/mod_rewrite-in-apache2.html
 categories:
 - Instructional
 comments: true
@@ -15,6 +13,7 @@ tags:
 - Ubuntu
 title: Mod_Rewrite in Apache2
 ---
+
 Just incase you forget how to fix this the easy way: Enable mod_rewrite for URL voodoo; (Or any module replacing the
 
     rewrite

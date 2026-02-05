@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/07/stuff-ive-found-interesting-in-the-past-month-23072011-2.html
 categories:
 - Link-Roll
 comments: true
@@ -12,7 +10,8 @@ tags:
 - comedy
 title: Stuff I've found interesting in the past month - 23/07/2011
 ---
-  * ['Star Wars: Episode I' - Obi-wan & Qui-Gon vs Darth Maul - A capella Multitrack](http://www.youtube.com/watch?v=3ZiLK4Rkj6k&feature=autoshare)
+
+* ['Star Wars: Episode I' - Obi-wan & Qui-Gon vs Darth Maul - A capella Multitrack](http://www.youtube.com/watch?v=3ZiLK4Rkj6k&feature=autoshare)
 
 
   * [Wits with Neil Gaiman, Adam Savage, and Gollum: "I Will Survive"](http://www.youtube.com/watch?v=X9eriClHWLw&feature=autoshare)

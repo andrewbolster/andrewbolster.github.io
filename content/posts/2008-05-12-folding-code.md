@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2008/05/folding-code.html
 comments: false
 date: 2008-05-12 19:51:00+00:00
 slug: folding-code
@@ -12,6 +10,7 @@ tags:
 - Ubuntu
 title: Folding Code
 ---
+
 I've been folding for a while now, and I'd previously written a really very cobbled together way of parsing my unitinfo.txt files, but, searching for something to do other than revise, I've written a similarly cobbled together but much shorter way of parsing my folding progress and telling me (as in speech) how far its going.
 
 Required: Espeak, basic bash knowledge to adjust.

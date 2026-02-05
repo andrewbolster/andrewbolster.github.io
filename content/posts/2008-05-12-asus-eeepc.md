@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2008/05/asus-eeepc.html
 categories:
 - Commentary
 comments: false
@@ -13,6 +11,7 @@ tags:
 - customer service
 title: Asus EEEpc
 ---
+
 Just off the phone with [Clove](http://www.clove.co.uk/) saying that my shiny new black eee 900 is winging its way to my homestead, which unfortunatly is not wer i am, but at least i wont be losing any time for revision (read: have any other reasons not to study)
 
 I have to say I'm really disappointed with Asus's attitude to they're british customers regarding the [battery issue](http://forum.eeeuser.com/viewtopic.php?id=27140) and i really cant say any more about it except that were paying above the board globally, and not getting an equivalent product and an even less equivilant service.

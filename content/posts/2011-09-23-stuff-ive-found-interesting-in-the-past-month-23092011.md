@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/09/stuff-ive-found-interesting-in-the-past-month-23092011.html
 categories:
 - Link-Roll
 comments: true
@@ -13,7 +11,8 @@ tags:
 - Social Media
 title: Stuff I've found interesting in the past month - 23/09/2011
 ---
-  * [Nigella Talks Dirty](http://www.youtube.com/watch?v=RtS2Ikk7A9I&feature=autoshare)
+
+* [Nigella Talks Dirty](http://www.youtube.com/watch?v=RtS2Ikk7A9I&feature=autoshare)
 
 
   * [wolf howl](http://www.youtube.com/watch?v=2Tgwrkk-B3k&feature=autoshare)

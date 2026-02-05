@@ -1,12 +1,11 @@
 ---
-aliases:
-- /2022/01/lies-damned-lies-and-data-science.html
 cover:
   image: img/lies-damned-lies-and-data-science.generated.png
 date: 2022-01-04 18:49:00+00:00
 tags: []
 title: Lies, Damned Lies, and Data Science
 ---
+
 > This talk was originally prepared for my 2021 Guest Lecture at UU Magee for the MSc Data Science course. And if it looks familiar, yes, the first bit is almost entirely lifted from [A Stranger in a Strange Land](/2020/10/a-stranger-in-a-strange-land-data-science-onboarding-in-practice/) from last year.
 
 ## Intro

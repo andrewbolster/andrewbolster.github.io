@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2014/07/ipython-websocket-failure-on-chrome.html
 cover:
   image: img/ipython-websocket-failure-on-chrome.generated.png
 date: 2014-07-25 00:00:00+00:00
@@ -10,6 +8,7 @@ tags:
 - Linux Mint
 title: IPython Websocket Failure on Chrome
 ---
+
 [IPython](http://ipython.org/) is an amazing tool, and in particular [IPython Notebook](http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/Notebook/Index.ipynb), which is easily the best 'python scratch-pad' I've ever used.
 
 However, a while ago something strange happened to my set up and I'm not entirely sure when or how but either way, here's how I 'fixed' it.

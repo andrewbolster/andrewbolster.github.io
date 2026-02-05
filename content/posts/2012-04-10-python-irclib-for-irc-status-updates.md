@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2012/04/python-irclib-for-irc-status-updates.html
 categories:
 - Instructional
 comments: true
@@ -17,6 +15,7 @@ tags:
 - irc
 title: Python + irclib for IRC Status Updates
 ---
+
 IRC, Python, Ubuntu linux. Simples!
 
 Same as by [Twitter](//2012/04/python-oauth2-for-twitter-status-updates/) post, but for IRC.

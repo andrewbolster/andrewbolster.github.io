@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2012/06/an-exercise-in-academic-writing.html
 categories:
 - Uni
 comments: true
@@ -11,6 +9,7 @@ tags:
 - Research
 title: An exercise in academic writing
 ---
+
 # Hold on, what?
 
 I attended a Postgraduate Training event over the weekend, 'Starting to Write in the First year of your PhD', presented by the brilliantly wise and entertaining [Daniel Soule](http://www.vitae.ac.uk/policy-practice/40707-303521/Dr-Daniel-Soule.html).

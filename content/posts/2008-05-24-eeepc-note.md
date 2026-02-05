@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2008/05/eeepc-note.html
 categories:
 - Commentary
 comments: false
@@ -18,6 +16,7 @@ tags:
 - WiFi
 title: EEEpc note
 ---
+
 Ok, got the 900, sorry this blog is very very late
 
 Pros:

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2008/09/long-extended-break-hardware-update.html
 categories:
 - Commentary
 comments: false
@@ -16,6 +14,7 @@ tags:
 - remote access
 title: 'Long Extended Break: Hardware Update'
 ---
+
 [![](http://1.bp.blogspot.com/_ZZeoHBuNcEU/SM0ew7ciunI/AAAAAAAACBc/hWypq44rn5Y/s400/SL730122.JPG)](http://1.bp.blogspot.com/_ZZeoHBuNcEU/SM0ew7ciunI/AAAAAAAACBc/hWypq44rn5Y/s1600-h/SL730122.JPG)
 So, gonna do a quick write up on my current setup.
 

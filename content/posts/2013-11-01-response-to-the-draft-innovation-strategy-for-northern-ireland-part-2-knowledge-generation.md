@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/11/response-to-the-draft-innovation-strategy-for-northern-ireland-part-2-knowledge-generation.html
 categories:
 - Commentary
 comments: true
@@ -19,6 +17,7 @@ tags:
 title: Response to the Draft Innovation Strategy for Northern Ireland - Part 2 - Knowledge
   Generation
 ---
+
 See [Part 1](//2013/10/response-to-the-draft-innovation-strategy-for-northern-ireland-part-1/) for an introduction to this series.
 
 # Response to Part 1

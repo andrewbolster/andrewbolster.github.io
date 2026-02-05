@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.html
 cover:
   image: img/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.generated.png
 date: 2019-06-17 16:57:00+01:00
@@ -12,6 +10,7 @@ tags:
 - Technology
 title: 'Data Art: Creative Collisions and Getting out of your comfort zone'
 ---
+
 _Approximate Script from my #NIDevConf19 talk a few weeks ago_
 
 {{< youtube "Ku2FX9osMXA" >}}

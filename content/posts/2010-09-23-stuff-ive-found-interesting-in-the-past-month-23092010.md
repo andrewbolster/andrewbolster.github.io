@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/09/stuff-ive-found-interesting-in-the-past-month-23092010.html
 categories:
 - Link-Roll
 comments: true
@@ -17,7 +15,8 @@ tags:
 - jQuery
 title: Stuff I've found interesting in the past month - 23/09/2010
 ---
-  * [Segway Olympics - prototype run](http://www.youtube.com/watch?v=m_ZCs9N372I&feature=autoshare)
+
+* [Segway Olympics - prototype run](http://www.youtube.com/watch?v=m_ZCs9N372I&feature=autoshare)
 
 
   * [Segway Olympics - prototype run](http://www.youtube.com/watch?v=m_ZCs9N372I&feature=autoshare)

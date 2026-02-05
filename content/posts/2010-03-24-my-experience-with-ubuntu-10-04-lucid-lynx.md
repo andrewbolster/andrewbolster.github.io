@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/03/my-experience-with-ubuntu-10-04-lucid-lynx.html
 categories:
 - Commentary
 comments: true
@@ -13,6 +11,7 @@ tags:
 - Ubuntu
 title: My Experience with Ubuntu 10.04, Lucid Lynx
 ---
+
 **Updates(26/3/10): **Thought I'd give the liveCD another go (this  time using the dailyx64 image and using [unetbootin](http://unetbootin.sourceforge.net/)), thinking  it must be something simple; so during boot i just kept pressing escape,  before the splash screen came up. This got me around the splash screen  issue and it seems as if everything is fine. Also, I found a matching [bug report](https://bugs.launchpad.net/xsplash/+bug/539020) on launchpad, but no resolution as of yet. Guess we'll have to wait and  see.
 
 **Updates(25/3/10): **With the greatest thanks to the guys at [serverfault](http://serverfault.com/questions/125950/ubuntu-10-04-install-frozen-at-splash-no-errors),  I've still not been able to fix this issue, and will be lodging a bug  report to [launchpad](https://launchpad.net/ubuntu) whenever I get a  chance

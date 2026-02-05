@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2012/07/the-concept-of-quality-and-my-mission.html
 categories:
 - Commentary
 comments: true
@@ -10,6 +8,7 @@ tags:
 - Personal development
 title: The concept of Quality and my 'mission'
 ---
+
 I've been reading the fantastic '[Zen and the Art of Motorcycle Maintainance](http://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)', and it is simply fantastic on any level. This isn't a sales pitch, but it got me thinking and what I have been trying to accomplish with a range of projects and attitudes over the years.
 
 I want to cultivate higher Quality people. I want to contribute to people's development and growth. I want to do this for the pure and simple reason that, to me, individual change is the only path to long-term change and cultural improvement.

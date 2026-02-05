@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2008/05/another-uni-project.html
 categories:
 - Uni
 comments: false
@@ -11,6 +9,7 @@ tags:
 - Programming
 title: 'Another Uni Project '
 ---
+
 If anyone is interested in [Erlang B](http://en.wikipedia.org/wiki/Erlang-B) Calculations, very relevent to any communications or engineering students, I've written a little quick piece of code to calculate them.
 
 There are several levels of functionality in the code.

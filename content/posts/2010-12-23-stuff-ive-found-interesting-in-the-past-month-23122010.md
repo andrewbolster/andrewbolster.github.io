@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/12/stuff-ive-found-interesting-in-the-past-month-23122010.html
 categories:
 - Link-Roll
 comments: true
@@ -10,7 +8,8 @@ tags:
 - Film
 title: Stuff I've found interesting in the past month - 23/12/2010
 ---
-  * [Lego Antikythera Mechanism](http://www.youtube.com/watch?v=RLPVCJjTNgk&feature=autoshare)
+
+* [Lego Antikythera Mechanism](http://www.youtube.com/watch?v=RLPVCJjTNgk&feature=autoshare)
 
 
   * [Ascent - Commemorating Shuttle](http://www.youtube.com/watch?v=W2VygftZSCs&feature=autoshare)

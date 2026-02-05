@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2018/10/daily-dated-untitled-jupyter-notebooks.html
 category: hotfix
 cover:
   image: img/daily-dated-untitled-jupyter-notebooks.generated.png
@@ -16,6 +14,7 @@ tags:
 - notebook
 title: Daily Dated Untitled Jupyter Notebooks
 ---
+
 I am a *heavy* user of [Jupyter Notebook](http://jupyter.org/), both personally for wrapping my head around Open Data, professionally for analysis and reporting, and for education/presentations.
 
 So am very comfortable with just spinning up new notebooks all over the show. However, this ends up looking like this...

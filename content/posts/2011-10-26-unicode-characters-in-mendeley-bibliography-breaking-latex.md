@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/10/unicode-characters-in-mendeley-bibliography-breaking-latex.html
 comments: true
 cover:
   image: uploads/2011/10/oem.png
@@ -11,6 +9,7 @@ tags:
 - mendeley
 title: Unicode Characters in Mendeley Bibliography Breaking Latex?
 ---
+
 I use Mendeley for my reference and citation management.
 
 I use TexClipse for (most) of my $latex \LaTeX$ editing, ViM otherwise.

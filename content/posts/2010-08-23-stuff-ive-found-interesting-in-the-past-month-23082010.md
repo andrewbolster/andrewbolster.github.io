@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/08/stuff-ive-found-interesting-in-the-past-month-23082010.html
 categories:
 - Link-Roll
 comments: true
@@ -16,7 +14,8 @@ tags:
 - Technology
 title: Stuff I've found interesting in the past month - 23/08/2010
 ---
-  * [Why PulseAudio?](http://www.vidarholen.net/contents/blog/?p=21)
+
+* [Why PulseAudio?](http://www.vidarholen.net/contents/blog/?p=21)
 
 
   * [The Freesound Project Aggregates Creative Commons Licensed Sound Effects [Sound Effects]](http://feeds.gawker.com/~r/lifehacker/full/~3/kDeVH4YKbi8/find-creative-commons-licensed-sound-effects-at-the-freesound-project)

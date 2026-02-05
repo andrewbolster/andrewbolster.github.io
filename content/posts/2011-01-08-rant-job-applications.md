@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/01/rant-job-applications.html
 categories:
 - Commentary
 comments: true
@@ -15,6 +13,7 @@ tags:
 - Social Media
 title: 'Rant: Job Applications'
 ---
+
 Inspired by [Barry Haughey's](http://www.facebook.com/profile.php?id=533924992) recent facebook post;
 
 Dear International Banking Conglomerates and other major employers,

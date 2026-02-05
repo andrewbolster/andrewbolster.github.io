@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/12/tedx-how-it-went-and-how-it-could-have-gone.html
 cover:
   image: img/tedx-how-it-went-and-how-it-could-have-gone.generated.png
 date: 2013-12-19 00:00:00+00:00
@@ -11,6 +9,7 @@ tags:
 - Technology
 title: 'TEDx: How it went and how it could have gone'
 ---
+
 <iframe width="420" height="315" src="//www.youtube.com/embed/ja_huuD-K-M" frameborder="0" allowfullscreen></iframe>
 
 So I did a [TEDx Belfast](http://www.tedxbelfast.com/), and had loads of fun (as you can probably see).

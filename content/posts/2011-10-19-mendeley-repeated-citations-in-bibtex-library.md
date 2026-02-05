@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/10/mendeley-repeated-citations-in-bibtex-library.html
 categories:
 - Instructional
 comments: true
@@ -11,6 +9,7 @@ tags:
 - mendeley
 title: Mendeley Repeated Citations in BibTeX Library
 ---
+
 Problem: Had two citations with slightly different information appearing in library.bib, causing bibtex to shit itself, but only one citation appeared in the desktop / web interfaces
 Cause: 'Deleted' Library items still appear in library.bib, so old (custom) version of citation still persisted after being 'removed'
 Solution: Empty trash

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/10/todays-accomplishments-the-2-0-generation.html
 categories:
 - Commentary
 comments: true
@@ -19,7 +17,8 @@ tags:
 - Technology
 title: 'Today''s Accomplishments: The 2.0 Generation'
 ---
-  * Ordered Groceries ([Tesco Online](http://www.tesco.com/groceries/)),
+
+* Ordered Groceries ([Tesco Online](http://www.tesco.com/groceries/)),
 
 
   * Ordered Case of Wine ([Virgin Wines](http://www.virginwines.co.uk/)),

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/04/shaded-headers.html
 categories:
 - Instructional
 comments: true
@@ -15,6 +13,7 @@ tags:
 - web-design
 title: Shaded Headers in Thematic
 ---
+
 So, as you can see the blog is sporting a new, cleaner look. Nothing better than experimenting!  One of the nicer aspects of the new setup is the shaded headers (ie. `<h1>`/`<h2>` tags).
 
 I started off my experimentation by going through [WebDesignerWall's walkthrough](http://www.webdesignerwall.com/tutorials/css-gradient-text-effect/) on the subject of text effects, but the limitation that I came across was that if you use their implimentation, any links (`<a\>`) in the header are lost 'under' the span.

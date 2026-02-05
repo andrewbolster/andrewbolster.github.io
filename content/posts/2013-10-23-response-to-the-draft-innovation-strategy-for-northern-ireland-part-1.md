@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/10/response-to-the-draft-innovation-strategy-for-northern-ireland-part-1.html
 categories:
 - Commentary
 comments: true
@@ -13,6 +11,7 @@ tags:
 - Web Post
 title: Response to the Draft Innovation Strategy for Northern Ireland - Part 1
 ---
+
 # Introduction to my Critique
 
 Last month DETI announced a Consultation on their (i.e. Arlenes) Strategy to make Northern Ireland ["into one of the most innovative regions with the UK".](http://www.detini.gov.uk/innovationstrategyni) I'm known to rant and rave about the use of the word "innovation" at the best of times, so I'll just put that attitude on the shelf and highlight a few of what I think are the "ok" points and the decidedly questionable points in the strategy. First off as a general comment that I'd otherwise repeat over and over again going through the draft, other than the words "Northern Ireland", and excluding some of the case-studies, this could be an innovation strategy for any region in the world. The stated "Barriers to innovation" read like they're straight out of a Business Studies textbook, and in general, the (lengthy) exposition around this ideal of "innovation" is little more than a 34 page definition of what DETI considers innovation. (It's a loaded word and everyone is entitled to have an opinion on what it means. I guess we know DETI's now at least). Speaking of repeating, this does repeat itself over and over again, just take my word for it here and I won't raise it individually...

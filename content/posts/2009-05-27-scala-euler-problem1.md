@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/05/scala-euler-problem1.html
 categories:
 - Commentary
 comments: false
@@ -13,6 +11,7 @@ tags:
 - mathematics
 title: Scala-Euler Problem1
 ---
+
 Finished my approach to [Euler Problem 1 ](http://projecteuler.net/index.php?section=problems&id=1)last night and checked everything into [github](http://github.com/andrewbolster/Scala-Euler/blob/bc53f88a481354e65370e68d317219e9839e60ea/src/euler/Problem1.scala).
 
 >

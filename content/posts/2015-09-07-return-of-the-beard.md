@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2015/09/return-of-the-beard.html
 cover:
   image: img/return-of-the-beard.generated.png
 date: 2015-09-07 00:00:00+00:00
@@ -11,6 +9,7 @@ tags:
 - professional development
 title: Return of the Beard
 ---
+
 So today is my last official day in the University of Liverpool office. Time for a bit of reflection.
 
 This is a self indulgent "For the sake of history and my bad memory" post so feel free to skip it.

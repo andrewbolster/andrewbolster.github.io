@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/02/bolsters-code-related-rants-an-ongoing-collection.html
 categories:
 - Commentary
 comments: true
@@ -15,6 +13,7 @@ tags:
 - version control
 title: Bolsters Code-Related Rants (An ongoing collection)
 ---
+
 ![FFFFFFUUUUUUUU](http://kissmyalas.com/wp-content/uploads/2010/05/RageFace.jpg)
 
 

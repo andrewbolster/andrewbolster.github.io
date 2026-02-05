@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2012/10/idiots-guide-to-updating-nexus-7-to-latest-rom.html
 categories:
 - Instructional
 comments: true
@@ -15,6 +13,7 @@ tags:
 - backup
 title: Idiots Guide to Updating Nexus 7 to Latest ROM
 ---
+
 Came across a [well known issue](http://code.google.com/p/android/issues/detail?id=34212) with QUB_SEC and Android, so I decided to fix it.
 
 Basically, Android was bailing on a particular part of the TTLS Authentication scheme that is used by millions of workplace and academic RADIUS / AD secured wireless networks, and QUB is one of them.

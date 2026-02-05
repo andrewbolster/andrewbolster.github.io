@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/01/online-media-marketing.html
 categories:
 - Commentary
 comments: true
@@ -14,6 +12,7 @@ tags:
 - seo
 title: Online Media Marketing
 ---
+
 'Social Media' has been lauded as the be-all and end all of the future of marketing, advertising, society, and general human decency.
 
 There is no doubt that Social Media has[ taken over](http://thefuturebuzz.com/2009/01/12/social-media-web-20-internet-numbers-stats/) our connected lives. And while I don't doubt this, I often feel that this is taken as a sign that we can abandon the so called 'old-school' of marketing and advertising (In this case 'Old-School' includes the Web 1.0 practise of advertising on Search and Comparison sites).

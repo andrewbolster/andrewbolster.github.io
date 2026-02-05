@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/03/what-to-do-when-ubuntu-device-mapper-seems-to-be-invincible.html
 categories:
 - Instructional
 comments: true
@@ -12,6 +10,7 @@ tags:
 - Ubuntu
 title: 'What to do when Ubuntu Device-mapper seems to be invincible! '
 ---
+
 I've been trying a dozen different configurations of my 2x500GB SATA drives over the past few days involving switching between ACHI/IDE/RAID in my bios (This was after trying different things to solve [my problems with Ubuntu Lucid Lynx](//2010/03/my-experience-with-ubuntu-10-04-lucid-lynx/)) ; After each attempt I've reset the bios option, booted into a live CD, deleting partitions and rewriting partition tables left on the drives.
 
 Now, however, I've been sitting with a /dev/mapper/nvidia_XXXXXXX1 that seems to be impossible to kill!

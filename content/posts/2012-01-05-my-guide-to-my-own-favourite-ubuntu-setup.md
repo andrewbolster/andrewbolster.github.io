@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2012/01/my-guide-to-my-own-favourite-ubuntu-setup.html
 categories:
 - Instructional
 comments: true
@@ -12,6 +10,7 @@ tags:
 - Ubuntu
 title: My Guide To My Own Favourite Ubuntu Setup
 ---
+
 This is my own self-indulgant reminder for how to do the things I like. I'll keep adding to this as I think of them.
 
 # Basic Setup

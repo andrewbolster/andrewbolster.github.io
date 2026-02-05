@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/09/through-the-drinking-glass.html
 comments: true
 date: 2011-09-29 19:48:37+00:00
 slug: through-the-drinking-glass
@@ -10,6 +8,7 @@ tags:
 - social
 title: Through The Drinking Glass
 ---
+
 Inspired by the drinking game 'Kings'
 
 Co-Authors:W.P.L. Cully, and L. Martin

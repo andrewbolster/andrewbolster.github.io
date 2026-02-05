@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/11/remember-remember-november-1963.html
 categories:
 - Commentary
 comments: true
@@ -14,6 +12,7 @@ tags:
 - Technology
 title: Remember Remember ... November 1963?
 ---
+
 Turns out that November 1963 was a pretty stupendous month all in all, in particular the couple of days (20-24) we're currently wading through.
 
 

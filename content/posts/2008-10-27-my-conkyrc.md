@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2008/10/my-conkyrc.html
 categories:
 - Instructional
 comments: false
@@ -13,6 +11,7 @@ tags:
 - Ubuntu
 title: My conkyrc
 ---
+
 Contents (what you get out of this)
 Weather, HDDtemp, UL/DL speed and cumulative meters, CPU load, Folding@Home status, Remote transmission download status (could be local, easy change), gmail status, RAM usage, Uptime, Date/Time, ToDo list
 

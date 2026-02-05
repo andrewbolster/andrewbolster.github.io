@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/05/lenovo-x61-tablet-hard-drive-near-disaster.html
 categories:
 - Instructional
 comments: false
@@ -11,6 +9,7 @@ tags:
 - Storage
 title: Lenovo x61 Tablet Hard Drive (Near) Disaster
 ---
+
 So, I love my lenovo tablet, so far through all the trails, tribulations, transcontinental visits, banging, bashing, bumping, swinging, twisting, scribbling, et al, its survived and become a near essential piece of my working and personal development.
 
 Famous...Last...Words.

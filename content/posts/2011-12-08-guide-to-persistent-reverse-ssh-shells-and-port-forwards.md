@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/12/guide-to-persistent-reverse-ssh-shells-and-port-forwards.html
 categories:
 - Instructional
 comments: true
@@ -15,6 +13,7 @@ tags:
 - ssh
 title: Guide to Persistent Reverse SSH Shells and Port Forwards
 ---
+
 Idiot proof setup for persistent reverse shells / port forwards (same thing) under a Ubuntu VM remote and my Dreamhost server, but should apply to nearly\* all \*nix's
 
 First off, some terms to keep this easy. I want to be able to access my in-office VM, `xavier` from my server `magneto` (not my names, but they conveniently complement). `xavier` is **not** publicly accessible, but `magneto` is. I'll be replacing all of the [FQN's](http://en.wikipedia.org/wiki/Fully_qualified_name) with these terms so expand on your own. In generic terms, `xavier `is the remote machine (i.e the one behind some NAT firewall or such that you want to get access to) and `magneto `is the local machine. Its a bit confusing since all of the work is done on `xavier`, but it makes sense in the long run. Just trust me and get on with it.

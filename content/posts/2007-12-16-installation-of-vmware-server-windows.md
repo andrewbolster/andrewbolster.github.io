@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2007/12/installation-of-vmware-server-windows.html
 categories:
 - Instructional
 comments: false
@@ -14,6 +12,7 @@ tags:
 - virtualisation
 title: Installation of VMWare Server (Windows)
 ---
+
 So, to do most of this playing about, I need a virtualisation environment, and VMware is the easiest, simplest and, at the moment, cheapest.
 
 VMWare released their [server virtualisation tool](http://www.vmware.com/products/server/) to "free"dom recently, and the newest version (2.0) is currently sitting in beta.

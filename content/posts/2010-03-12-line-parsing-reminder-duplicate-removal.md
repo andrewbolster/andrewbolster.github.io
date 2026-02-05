@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/03/line-parsing-reminder-duplicate-removal.html
 categories:
 - Instructional
 comments: true
@@ -12,6 +10,7 @@ tags:
 - Shell
 title: Line Parsing Reminder (Duplicate removal)
 ---
+
 So, say you have a long list of instruction (like multiple apt-get install lines) and you want to eliminate common words?
 
 Easiest way to do it is (assuming you have all of the instrustions in "list.txt")

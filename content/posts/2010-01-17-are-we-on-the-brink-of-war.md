@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/01/are-we-on-the-brink-of-war.html
 categories:
 - Commentary
 comments: true
@@ -18,6 +16,7 @@ tags:
 - cybersecurity
 title: Are we on the brink of War?
 ---
+
 Recent events in the cyber-security world have got me feeling paranoid. Between [Estonia](http://news.bbc.co.uk/1/hi/world/europe/6665195.stm), [Georgia](http://blogs.zdnet.com/security/?p=1670), and the [ever](http://timesofindia.indiatimes.com/China/Hackers-in-China-infiltrate-PCs-of-Dalai-Indian-embassy/articleshow/4330735.cms)-[increasing ](http://www.theage.com.au/news/security/hacking-for-china/2008/04/23/1208743025691.html)focus on [Chinese ](http://www.telegraph.co.uk/comment/6924710/China-will-soon-have-the-power-to-switch-off-the-lights-in-the-West.html)[cyber](http://online.wsj.com/article/SB10001424052748704675104575001382754823848.html)-[political](http://mediamemo.allthingsd.com/20100114/white-house-to-china-were-with-google-on-this-one/)-[warfare](http://en.wikipedia.org/wiki/Operation_Aurora), geo-political entities are starting to realise that the whole 'lets stockpile enough weapons to [blow up the world enough times for the number to be rendered pointless](http://internationalreporter.com/News-5147/present-stockpile-of-a-bombs-can-destroy-earth-1000-times-god-believers.html)' may not have been the best plan.
 
 China has caught everyone [off-guard](http://www.cbsnews.com/stories/2009/05/05/politics/main4991805.shtml) with its recent, albeit 'hush hush', [displays ](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html)of force (while not entirely getting off [scott-free](http://asia.cnet.com/blogs/sinobytes/post.htm?id=63016204&scid=hm_bl)), and we should probably be [alot more afraid of a cyber war ](http://csis.org/files/media/csis/pubs/021101_risks_of_cyberterror.pdf)than of [flaming pants](http://abcnews.go.com/Blotter/northwest-airlines-bomb-photos/story?id=9436297) or [security-crossed lovers](http://nymag.com/daily/intel/2010/01/rutgers_student_arrested_for_n.html).

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2025/07/being-a-dorc-in-the-age-of-generative-ai.html
 categories:
 - AI
 - Software Engineering
@@ -18,6 +16,7 @@ tags:
 - software development
 title: Being a DORC in the age of Generative AI
 ---
+
 Lots of people have written about the impact of [generative AI](/2024/02/generative-ai-impact-on-software-development-and-security/) on the world of software engineering, and while I write this I'm fighting with [CoPilot](https://github.com/features/copilot) to stop filling out the rest of the sentence. Gimme a second...
 
 ...

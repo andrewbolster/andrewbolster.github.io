@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/02/it-qub-are-moving-forward.html
 categories:
 - Uni
 comments: true
@@ -14,6 +12,7 @@ tags:
 - vpn
 title: IT @ QUB are moving forward
 ---
+
 QUB Relevant: Mostly PGR or prospective PGR
 
 Just out of a great meeting with QUB Information Services regarding:

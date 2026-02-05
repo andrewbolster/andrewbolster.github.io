@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/11/lenovo-not-so-rocking-anymore.html
 comments: true
 date: 2009-11-09 17:34:56+00:00
 slug: lenovo-not-so-rocking-anymore
@@ -9,6 +7,7 @@ tags:
 - customer service
 title: Lenovo, not so rocking anymore
 ---
+
 This blog is starting to turn into a Lenovo ad, but this time, there are no good factors to my recent experience.
 
 My X61 Tablet died, completly braindead, no power, no nothing.

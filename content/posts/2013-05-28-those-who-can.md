@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/05/those-who-can.html
 categories:
 - Commentary
 comments: true
@@ -11,6 +9,7 @@ tags:
 - Python
 title: Those who can...
 ---
+
 I was digesting "[The Design of Design](http://www.amazon.co.uk/Design-Essays-Computer-Scientist/dp/0201362988)" by Fred Brooks as a bit of holiday reading, which talks in great depth about the nature of [technical](http://www.cs.unc.edu/~brooks/DesignofDesign/experiences.html) and [architectural](http://www.cs.unc.edu/~brooks/DesignofDesign/kitchen_design_notes.pdf) design from a practical perspective, and it made me thinking about my own experience and the "future" of that experience. Blessing or curse, due to my inability to say no and (publically) boundless <del>patience</del> exploration of a range of areas, in technology, security, academia, business, and society; several people have made flippant, off the cuff comments about some form of predicted success, usually financial or technical.
 
 Reflecting on this, along with the narrative of DoD, I rested on a platitude that I'd used on many many occasions, mostly as a spear to lob haphazardly at teachers and educators for being 'lesser'.

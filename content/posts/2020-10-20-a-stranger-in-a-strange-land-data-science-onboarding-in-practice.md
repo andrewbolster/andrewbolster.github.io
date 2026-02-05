@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2020/10/a-stranger-in-a-strange-land-data-science-onboarding-in-practice.html
 cover:
   image: img/a-stranger-in-a-strange-land-data-science-onboarding-in-practice.generated.png
 date: 2020-10-20 11:03:00+01:00
@@ -18,6 +16,7 @@ tags:
 title: 'A Stranger in a Strange Land: Data Science Onboarding In Practice'
 typora-root-url: C:\Users\me\Documents\GitHub\andrewbolster.github.io\
 ---
+
 > This talk was originally prepared for the 2020 [Northern Ireland Developers Conference](https://www.nidevconf.com/sessions/andrew-bolster/), held in lockdown and pre-recorded in the McKee Room in [Farset Labs](https://www.farsetlabs.org.uk/)
 
 [!['A Stranger in a Strange Land: Data Science Onboarding In Practice'](https://img.youtube.com/vi/8jbA1MAJe3Q/0.jpg)](https://www.youtube.com/watch?v=8jbA1MAJe3Q)

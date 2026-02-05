@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2014/01/unicode-madness-in-jekyll.html
 cover:
   image: img/unicode-madness-in-jekyll.generated.png
 date: 2014-01-20 00:00:00+00:00
@@ -10,6 +8,7 @@ tags:
 - irc
 title: Unicode Madness in Jekyll
 ---
+
 Ok so this was a weird one.
 
 I've been lurking on [#jekyll](irc://freenote.net/#jekyll) for a while, trying to 'give back' with slightly-more-than-noob-knowledge. Mostly it's simple mistakes or misunderstandings that I went through myself, so easy enough.

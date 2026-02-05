@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/06/great-hopes.html
 comments: true
 cover:
   image: uploads/2010/06/tnh_temp_logo1.png
@@ -17,6 +15,7 @@ tags:
 - tech
 title: Great HOPEs
 ---
+
 This is it; my first convention! Yes folks, I'm going to be attending (and [volunteering](http://thenexthope.org/category/volunteers/)) at [TheNextHOPE](http://thenexthope.org/) (@thenexthope), 16-18 July.
 
 I'm really looking forward to my first real foray into a tech/hacker community, but don't really know what to expect. But I'm going to jump in anyway. The [tickets](http://store.2600.com/nexthope.html) are only $85, or $100 at the door, but if you register on-line, you get an [awesome](http://thenexthope.org/2010/05/the-rfid-strikes-back/) [hackable](http://hackaday.com/2010/06/22/next-hope-badge-hacking-primer/) [RFID tracking](http://amd.hope.net/2010/05/futuristic-human-tracking-is-here/) [badge](http://amd.hope.net/).

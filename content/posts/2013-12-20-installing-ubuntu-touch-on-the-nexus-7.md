@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/12/installing-ubuntu-touch-on-the-nexus-7.html
 cover:
   image: img/installing-ubuntu-touch-on-the-nexus-7.generated.png
 date: 2013-12-20 00:00:00+00:00
@@ -10,6 +8,7 @@ tags:
 - mobile
 title: Installing Ubuntu Touch on the Nexus 7
 ---
+
 I'm always amazed by Canonical. Particularly their documentation.
 
 [Ubuntu Touch](https://wiki.ubuntu.com/Touch/) is the grand movement to bring Ubuntu into the mobile domain, and it's developing fast.

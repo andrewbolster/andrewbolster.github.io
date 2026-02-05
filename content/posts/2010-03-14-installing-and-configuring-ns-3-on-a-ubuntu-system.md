@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/03/installing-and-configuring-ns-3-on-a-ubuntu-system.html
 categories:
 - Instructional
 comments: true
@@ -16,6 +14,7 @@ tags:
 - Version Control
 title: Installing and Configuring NS-3 on a Ubuntu System
 ---
+
 [![](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)](http://www.michele-mastrogiovanni.net/utilities/imgs/GraphViewer.jpg)
 **
 

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/02/hacking-weekend.html
 categories:
 - Commentary
 - Instructional
@@ -16,6 +14,7 @@ tags:
 - WiFi
 title: Hacking Weekend
 ---
+
 So, I've been experimenting over the weekend with [Backtrack 4](http://www.remote-exploit.org/backtrack_download.html). My... Lord....
 
 Times have changed, it used to be that if you wanted to mess with WEP you have to go thru a dozen intermediate stages.[ wesside-ng](http://www.aircrack-ng.org/doku.php?id=wesside-ng) makes life so much simpler.30 minutes, fully automated.

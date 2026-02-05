@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2025/08/notes-from-will-genai-revolutionise-our-lives-for-the-good.html
 categories:
 - AI
 - Commentary
@@ -16,6 +14,7 @@ tags:
 - NVIDIA
 title: Notes from "Will GenAI Revolutionise our Lives for the Good?"
 ---
+
 I was fortunate enough to be invited to participate in a debate raising money for [Farset Labs](https://www.farsetlabs.org.uk), a cause obviously close to my cold cynical heart.
 
 [Will GenAI Revolutionise Our Lives For The Good In The Next 5 Years](https://lu.ma/d94zscul) is _top tier troll-bait_ from Garth and Art, and I'm very grateful to have shared the stage with the 5 other speakers. Even the lanky english one. I was particularly impressed by my teammates in their very human-led approach to this question (although everyone was great!)

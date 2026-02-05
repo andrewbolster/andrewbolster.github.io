@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/06/removing-bios-raid-metadata.html
 categories:
 - Instructional
 comments: true
@@ -9,6 +7,7 @@ slug: removing-bios-raid-metadata
 tags: []
 title: Removing BIOS RAID Metadata
 ---
+
 Had an issue with Fedora 15 not liking my harddrives that used to be RAIDed. Noting for future reference.
 
 “Disk contains BIOS metadata, but is not part of any recognized BIOS RAID sets."

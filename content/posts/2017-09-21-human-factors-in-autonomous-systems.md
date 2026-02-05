@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2017/09/human-factors-in-autonomous-systems.html
 cover:
   image: img/human-factors-in-autonomous-systems.generated.png
 date: 2017-09-21 19:05:52+0100
@@ -12,6 +10,7 @@ tags:
 - Research
 title: Human Factors related to Trusted Operation of Autonomous Systems
 ---
+
 # Preface
 
 It's nearly a year to the day since I passed my Ph.D Viva (And since I last updated the blog...), so I thought

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2012/04/ns-3-click-integration.html
 categories:
 - Instructional
 comments: true
@@ -12,6 +10,7 @@ tags:
 - configuration
 title: NS-3 Click integration
 ---
+
 # Intro
 
 [Click](http://read.cs.ucla.edu/click/) is a modular router library developed at [UCLA](http://read.cs.ucla.edu/), allowing Click-definied router networks to be 'attached' to an ns-3- nodes layer 3 functionality. It has very little relevance to my own research, but was interesting to play with.

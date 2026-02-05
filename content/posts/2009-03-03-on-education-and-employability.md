@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/03/on-education-and-employability.html
 categories:
 - Commentary
 comments: false
@@ -13,6 +11,7 @@ tags:
 - professional development
 title: On Education and Employability
 ---
+
 Yeah, i know, "What does a guy who hasnt even graduated yet and is in a placement job have to say about education and employability?", and usually i would agree with the sentiment. But the times they are a-changing.
 
 The world, especially for current or incumbant students, is very uncertain. I was lucky, when i was in first year i already had the _connections_ to secure a job close to my Uni.

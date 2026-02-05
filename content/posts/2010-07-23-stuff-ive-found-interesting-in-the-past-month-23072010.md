@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/07/stuff-ive-found-interesting-in-the-past-month-23072010.html
 categories:
 - Link-Roll
 comments: true
@@ -16,7 +14,8 @@ tags:
 - Productivity
 title: Stuff I've found interesting in the past month - 23/07/2010
 ---
-  * [Google Doc Mount Puts Your Google Docs in Nautilus for Editing [Downloads]](http://feeds.gawker.com/~r/lifehacker/full/~3/JRy2zXEHwTM/google-doc-mount-puts-your-google-docs-in-nautilus-for-editing)
+
+* [Google Doc Mount Puts Your Google Docs in Nautilus for Editing [Downloads]](http://feeds.gawker.com/~r/lifehacker/full/~3/JRy2zXEHwTM/google-doc-mount-puts-your-google-docs-in-nautilus-for-editing)
   * [Google PhD Fellowships go international](http://feedproxy.google.com/~r/blogspot/MKuf/~3/vzUu2NVRAD8/google-phd-fellowships-go-international.html)
   * [Use Chrome like a pro](http://feedproxy.google.com/~r/blogspot/MKuf/~3/XPXcwsbQppA/use-chrome-like-pro.html)
   * [Android Development 101 – Part 1:Hello World](http://hackaday.com/2010/07/15/android-dev-101-%E2%80%93-part-1hello-world/)

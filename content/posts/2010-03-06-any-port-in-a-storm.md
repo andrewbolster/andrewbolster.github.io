@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/03/any-port-in-a-storm.html
 categories:
 - Instructional
 comments: true
@@ -14,6 +12,7 @@ tags:
 - port forwarding
 title: Any Port in a Storm
 ---
+
 While working on an IDS Solution for a client, I came across [Untangle](http://www.untangle.com), and I loved it so much that I pulled out an old box and loaded it up as my office firewall.
 
 One thing that is lacking, from my perspective (at least in the 'free' edition) is the firewall interface; Untangle uses an IpTables based firewall, but doesn't replicate the usual INPUT FOWARD OUTPUT rulebase. I think that in 90% of usecases for Untangle, this isnt a problem, but I found it a little bit alien to have portfowarding hidden in the Networking config pane, and firewall separatly.

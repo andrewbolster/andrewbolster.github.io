@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/02/would-have-been-an-introduction-to-google-adwords.html
 categories:
 - Commentary
 comments: true
@@ -13,6 +11,7 @@ tags:
 - advertising
 title: (Would have been) An introduction to Google Adwords
 ---
+
 So, I was going to do a complete walkthrough for people interested in using Google Adwords for advertising, and its something I was really looking forward to writing.
 
 I would not normally have cared to do such a thing because I'm cheap, but Google sent me out a £75 voucher in January.

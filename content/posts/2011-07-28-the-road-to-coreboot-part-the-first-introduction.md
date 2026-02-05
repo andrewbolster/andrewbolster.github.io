@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/07/the-road-to-coreboot-part-the-first-introduction.html
 categories:
 - Instructional
 comments: true
@@ -15,6 +13,7 @@ tags:
 - embedded systems
 title: 'The Road to Coreboot, Part the First: Introduction'
 ---
+
 ![Coreboot Logo](https://coreboot.org/assets/images/banner.svg)
 
 So as part of my [IAESTE](http://iaeste.ch) placement with [PC Engines](http://www.pcengines.ch/), I'm investigating the possibility of them making a new board based around the AMD [Fusion](https://en.wikipedia.org/wiki/AMD_Fusion) series of APU's  (CPU+(something else, usually GPU) on single die) and for that board to work with the Open Source [Coreboot](http://www.coreboot.org/) BIOS. This is my story.

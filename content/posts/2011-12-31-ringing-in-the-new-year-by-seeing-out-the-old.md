@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2011/12/ringing-in-the-new-year-by-seeing-out-the-old.html
 categories:
 - Commentary
 comments: true
@@ -25,6 +23,7 @@ tags:
 - work-life balance
 title: Ringing in the New Year by seeing out the old
 ---
+
 2011 has been a great year for me;
 
 

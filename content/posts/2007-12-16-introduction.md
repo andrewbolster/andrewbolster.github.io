@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2007/12/introduction.html
 comments: false
 date: 2007-12-16 23:34:00+00:00
 slug: introduction
@@ -15,6 +13,7 @@ tags:
 - Windows
 title: Introduction
 ---
+
 So.... I'm Andrew, I'm a technical person, and I'm gonna use this blog to post out some of my technical musings and little experiments.
 
 Currently, I'm working off of three systems, Athena, Apollo and Hermes.

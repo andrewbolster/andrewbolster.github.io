@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2022/03/NI-House-Price-Index.html
 cover:
   image: img/NI-House-Price-Index.generated.png
 date: 2022-03-27 19:49:00+00:00
@@ -8,6 +6,7 @@ tags:
 - Data Science
 title: Wrangling NI House Price Index Data
 ---
+
 # Data Wrangling NI House Price Index Data
 
 This is a 'messy' 'blog post' that's just a braindump of a notebook to step through [NI House Price Index](https://www.nisra.gov.uk/statistics/housing-community-and-regeneration/northern-ireland-house-price-index) datasets I was playing around with.

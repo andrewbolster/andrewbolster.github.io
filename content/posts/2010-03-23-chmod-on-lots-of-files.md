@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/03/chmod-on-lots-of-files.html
 categories:
 - Instructional
 comments: true
@@ -14,6 +12,7 @@ tags:
 - file management
 title: Chmod on lots of files
 ---
+
 My lil-NAS has plenty of space but is maddeningly underpowered.
 
 I came across a permissions issue where, depending on how the files in question got there, they would not be accessible to my windows boxes because they were owned by root (I have no doubt that its my fault!)

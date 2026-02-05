@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/04/see-programming-abstractions-assignment-1.html
 categories:
 - Instructional
 comments: true
@@ -14,6 +12,7 @@ tags:
 - Programming
 title: SEE, Programming Abstractions, Assignment 1
 ---
+
 [SEE](http://see.stanford.edu/), or, Stanford Engineering Everywhere, has turned out to be my favourite E-learning resource; I've dipped into it a few times over the past few years but in light of my recent investment into a [CUDA](http://en.wikipedia.org/wiki/CUDA) enabled [Graphics Card](http://en.wikipedia.org/wiki/GeForce%209%20Series), I thought that it was coming high time to brush up on my [C++ programming](http://en.wikipedia.org/wiki/C%2B%2B), which I've basically left stagnant for two years after advancing no further than function pointers, structures, and templates.
 
 So, in the spirit of openness that SEE tries to foster, I'll be blogging my work through their [CS106B course, Programming Abstractions](http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e), the second of three programming courses. (I passed on [CS106A, Programming Methodology](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111), since I've had enough Java shoved down my throat to last a lifetime...).

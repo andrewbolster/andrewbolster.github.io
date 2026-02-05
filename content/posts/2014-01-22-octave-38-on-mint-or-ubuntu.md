@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2014/01/octave-38-on-mint-or-ubuntu.html
 cover:
   image: img/octave-38-on-mint-or-ubuntu.generated.png
 date: 2014-01-22 00:00:00+00:00
@@ -11,6 +9,7 @@ tags:
 - Python
 title: Octave 3.8 on Mint (or Ubuntu)
 ---
+
 My work has be flittering between Python and Matlab recently, and lets say I'm not a massive fan of Matlab at the best of time, and VM matlab isn't the most performant thing in the world.
 
 So I was happy to hear that [`octave`](http://www.gnu.org/software/octave/index.html), an open source, Matlab compatible analysis framework have started testing their GUI.

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2013/04/abracadabra-ni-assemblys-plans-to-have-60-more-phd-researchers.html
 comments: true
 cover:
   image: uploads/2013/04/Magician-pulling-a-rabbit-001-300x180.jpg
@@ -19,6 +17,7 @@ tags:
 - science
 title: Abracadabra - NI Assembly's Plans to have 60% more PhD Researchers
 ---
+
 I was skimming through the[ Oral Statement](http://www.niassembly.gov.uk/Documents/Official-Reports/Plenary/2012-13/Microsoft%20Word%20-%20@@aims-hansard-20130409211847534.pdf) from yesterday's Assembly, with a specific interest in Dr Stephen Farry's discussions on the NI Economic Activity Baseline Report (everyone loves Baseline reports these days, but very few ever seem to get followed up...) can came across a Question and Response between [Sammy Douglas](http://sammydouglas.com/) (E. Belfast) and Dr Farry.
 
 > Mr Douglas: [...]Will he outline what his Department is doing to ensure that we are educating our young people in the skills that the workforce needs?

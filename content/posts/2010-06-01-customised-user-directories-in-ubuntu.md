@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/06/customised-user-directories-in-ubuntu.html
 categories:
 - Instructional
 comments: true
@@ -17,6 +15,7 @@ tags:
 - file management
 title: Customised User Directories in Ubuntu
 ---
+
 I've been doing alot of messing around in Ubuntu recently and there are lots of tweaks I like to make. One of them being to show the contents of my home folder as my desktop; I don't need any more pointless folders....
 
 Dead easy, there is a .config directory under your $HOME dir, containing several files. The one we need is user-dirs.dirs , and it looks something like this.

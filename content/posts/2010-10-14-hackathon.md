@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2010/10/hackathon.html
 categories:
 - Commentary
 comments: true
@@ -21,6 +19,7 @@ tags:
 - event
 title: Hackathon
 ---
+
 On Saturday the 23rd October, the Hackers invade The Space!
 In association with [QUESTS](http://bit.ly/QUB_QUESTS), [Dragonslayers](http://bit.ly/dragonslayers), and [IETNI](http://bit.ly/IETNI), [HackerspaceBelfast](http://hackerspaces.org/wiki/HackerspaceBelfast) will be running a series of events over 24 hours of software, network, and hardware hackery goodness, as well as screening hacker movies, DIY repair, and maybe, just maybe, how to build a laser. Running parallel to [Dragonslayers' 24 hour gaming event,](http://bit.ly/QUBDS24) which will incorporate console, PC, and tabletop games, attendees will be able to both play and make games to their hearts content.
 

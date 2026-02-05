@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2021/06/apache-arrow-in-5-10-mins.html
 cover:
   image: img/apache-arrow-in-5-10-mins.generated.png
 date: 2021-06-01 11:54:00+01:00
@@ -14,6 +12,7 @@ tags:
 - Technology
 title: Apache Arrow in 5-10 Mins
 ---
+
 The below was presented as part of the Belfast Linux Users Groups' May Technical Meetup.
 
 I'm also maintaining this 'short' as part of my gradually accumulating ['python_data_workshop'](https://www.github.com/andrewbolster/python_data_workshop/), so that may be the best place to see updates if you're reading this any later than 2021.

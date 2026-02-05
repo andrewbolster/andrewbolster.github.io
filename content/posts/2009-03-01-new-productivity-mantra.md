@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2009/03/new-productivity-mantra.html
 categories:
 - Instructional
 comments: false
@@ -14,6 +12,7 @@ tags:
 - work-life balance
 title: New Productivity Mantra
 ---
+
 Check Email / Twitter / Facebook / et-al for 10 minutes every 3 hours (10/1/4)
 
 Focus on 1-3 activites / fixes / waypoint actions a day

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2020/10/tell-me-about-your-programmer.html
 cover:
   image: img/tell-me-about-your-programmer.generated.png
 date: 2020-10-19 11:34:00+01:00
@@ -16,6 +14,7 @@ title: Tell me about your Programmer - Robopsychologist and other careers that d
   exist (yet)
 typora-root-url: C:\Users\me\Documents\GitHub\andrewbolster.github.io\
 ---
+
 > This talk was originally prepared for [NI Raspberry Jam's Kids Track](https://hopin.to/events/ni-raspberry-jam-nidc), associated with the full [Northern Ireland Developers Conference](https://www.nidevconf.com/), held in lockdown and pre-recorded in the McKee Room in [Farset Labs](https://www.farsetlabs.org.uk/)
 
 [![Actual Recording of This Transcript](/img/2020/0.jpg)](https://www.youtube.com/watch?v=Z1c4KAESO0s)

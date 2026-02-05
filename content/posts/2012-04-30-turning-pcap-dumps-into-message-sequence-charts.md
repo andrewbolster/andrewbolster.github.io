@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2012/04/turning-pcap-dumps-into-message-sequence-charts.html
 comments: true
 cover:
   image: uploads/2012/04/avses-tosip-300x238.png
@@ -11,6 +9,7 @@ tags:
 - Ubuntu
 title: Turning Pcap dumps into Message Sequence Charts
 ---
+
 PCap files are a pain; weird format, difficult to parse viserally even if you have the 'right' tools handy. Wouldn't it be easier to be able to 'see' the network flow, like it is in all the textbooks?
 
 # Well now you can!

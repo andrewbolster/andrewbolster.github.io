@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2025/12/bolstering-claude-code-a-personal-development-environment-configuration-guide.html
 categories:
 - AI
 - Development
