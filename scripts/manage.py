@@ -208,10 +208,10 @@ def add_watermark(image_bytes, watermark_text=None, url_text=None):
         x_right + text_width + padding,
         y_right + text_height + padding
     ]
-    draw.rectangle(background_bbox, fill=(0, 0, 0, 128))
+    draw.rectangle(background_bbox, fill=(0, 0, 0))
 
     # Add white text
-    draw.text((x_right, y_right), watermark_text, fill=(255, 255, 255, 255), font=font)
+    draw.text((x_right, y_right), watermark_text, fill=(255, 255, 255), font=font)
 
     # Add URL watermark on bottom left if provided
     if url_text:
@@ -231,26 +231,17 @@ def add_watermark(image_bytes, watermark_text=None, url_text=None):
             x_left + url_width + padding,
             y_left + url_height + padding
         ]
-        draw.rectangle(url_background_bbox, fill=(0, 0, 0, 128))
+        draw.rectangle(url_background_bbox, fill=(0, 0, 0))
 
         # Add white URL text
-        draw.text((x_left, y_left), url_text, fill=(255, 255, 255, 255), font=font)
+        draw.text((x_left, y_left), url_text, fill=(255, 255, 255), font=font)
 
     # Convert back to bytes with quantization for smaller file size
     output_buffer = BytesIO()
 
-    # Reduce colors to 256 for smaller PNG files (effective for AI-generated images)
-    if image.mode in ('RGB', 'RGBA'):
-        try:
-            quantized = image.quantize(colors=256, method=Image.Quantize.MEDIANCUT)
-            # Convert back to RGB to avoid palette mode issues with further processing
-            quantized = quantized.convert('RGB')
-            quantized.save(output_buffer, format='PNG', optimize=True, compress_level=9)
-        except:
-            # Fallback to original if quantization fails
-            image.save(output_buffer, format='PNG', optimize=True, compress_level=9)
-    else:
-        image.save(output_buffer, format='PNG', optimize=True, compress_level=9)
+    # Use convert("P", palette=ADAPTIVE, colors=256) for much better compression
+    compressed_image = image.convert("P", palette=Image.ADAPTIVE, colors=256)
+    compressed_image.save(output_buffer, format='PNG', optimize=True)
 
     return output_buffer.getvalue()
 
@@ -560,22 +551,9 @@ Return ONLY the image generation prompt, no additional text."""
                     pil_image = Image.open(BytesIO(img_response.content))
                     resized_image = pil_image.resize((target_width, target_height), Image.Resampling.LANCZOS)
 
-                    # Convert back to bytes with quantization for smaller file size
+                    # Convert to bytes for watermarking (keep in RGB for transparency support)
                     output_buffer = BytesIO()
-
-                    # Reduce colors to 256 for smaller PNG files (effective for AI-generated images)
-                    if resized_image.mode in ('RGB', 'RGBA'):
-                        try:
-                            quantized = resized_image.quantize(colors=256, method=Image.Quantize.MEDIANCUT)
-                            # Convert back to RGB to avoid palette mode issues with further processing
-                            quantized = quantized.convert('RGB')
-                            quantized.save(output_buffer, format='PNG', optimize=True, compress_level=9)
-                        except:
-                            # Fallback to original if quantization fails
-                            resized_image.save(output_buffer, format='PNG', optimize=True, compress_level=9)
-                    else:
-                        resized_image.save(output_buffer, format='PNG', optimize=True, compress_level=9)
-
+                    resized_image.save(output_buffer, format='PNG')
                     resized_image_bytes = output_buffer.getvalue()
 
                 # Add watermark to resized image

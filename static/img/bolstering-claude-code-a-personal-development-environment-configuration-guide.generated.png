@@ -1,0 +1,15 @@
+commit 223feed31a77c97282319282ed3b6e83eddd454b
+Author: Andrew Bolster <bolster@blackduck.com>
+Date:   Thu Feb 5 11:10:49 2026 +0000
+
+    Fix image compression and watermarking in manage.py
+    
+    - Remove transparency from watermarks to work with palette mode compression
+    - Use convert('P', palette=ADAPTIVE, colors=256) for better compression
+    - Generate featured image for bolstering claude code post (237K)
+    - Image generation now produces files well under 500K limit
+
+diff --git a/static/img/bolstering-claude-code-a-personal-development-environment-configuration-guide.generated.png b/static/img/bolstering-claude-code-a-personal-development-environment-configuration-guide.generated.png
+new file mode 100644
+index 0000000..112d740
+Binary files /dev/null and b/static/img/bolstering-claude-code-a-personal-development-environment-configuration-guide.generated.png differ
