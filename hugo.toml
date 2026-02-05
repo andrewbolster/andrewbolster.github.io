@@ -16,7 +16,7 @@ enableGitInfo = true
 
 # HTML URLs as primary format
 uglyURLs = false
-canonifyURLs = true
+canonifyURLs = false
 [permalinks]
   posts = "/:year/:month/:title"
 
