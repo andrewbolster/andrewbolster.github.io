@@ -1,18 +1,19 @@
 ---
 category: hotfix
-date: 2018-10-22T12:29:00+01:00
+cover:
+  image: img/daily-dated-untitled-jupyter-notebooks.generated.png
+date: 2018-10-22 12:29:00+01:00
 tags:
-- 'Data Science'
+- Data Science
 - Education
 - Jupyter
-- 'Open Data'
+- Open Data
 - Python
 - coding
-- 'file-management'
+- file-management
 - notebook
 title: Daily Dated Untitled Jupyter Notebooks
 ---
-
 
 I am a *heavy* user of [Jupyter Notebook](http://jupyter.org/), both personally for wrapping my head around Open Data, professionally for analysis and reporting, and for education/presentations.
 

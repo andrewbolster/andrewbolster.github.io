@@ -14,9 +14,9 @@ enableGitInfo = true
   pagerSize = 10
   path = "page"
 
-# Clean URL structure without .html extensions
+# Posts default to hugo standard of post/ and netlify has pretty mode disabled
 uglyURLs = false
-canonifyURLs = true
+canonifyURLs = false
 [permalinks]
   posts = "/:year/:month/:title"
 

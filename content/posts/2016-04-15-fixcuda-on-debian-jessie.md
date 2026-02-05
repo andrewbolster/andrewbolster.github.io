@@ -1,18 +1,17 @@
 ---
-category: ''
-description: ''
+cover:
+  image: img/fixcuda-on-debian-jessie.generated.png
+date: 2016-04-15 00:00:00+00:00
 tags:
 - CUDA
 - GPU
 - Linux
 - NVIDIA
-- 'Package Management'
+- Package Management
 - Programming
 - Ubuntu
-title: FIX:CUDA on Debian Jessie
+title: 'FIX: CUDA on Debian Jessie'
 ---
-
-
 
 Hopefully a super quick one (while I'm procrastinating from procrastinating).
 
@@ -45,12 +44,24 @@ Even though I do have these packages, and have updated my `LD_LIBRARY_PATH`, etc
 
     sudo apt-get install gcc g++ gcc-4.8 g++-4.8 gcc-4.9 g++-4.9 libxi6 libxi-dev libglu1-mesa libglu1-mesa-dev libxmu6 linux-headers-amd64 linux-source freeglut3-dev
 
-Then
+Then:
 
-* `wget http://developer.download.nvidia.com/compute/cuda/7.5/Prod/local_installers/cuda_7.5.18_linux.run`
-* `chmod a+x cuda_*.run`
-* Drop into a root shell
-* `bash cuda_*.run`
+1. Download the CUDA installer:
+   ```bash
+   wget http://developer.download.nvidia.com/compute/cuda/7.5/Prod/local_installers/cuda_7.5.18_linux.run
+   ```
+
+2. Make it executable:
+   ```bash
+   chmod a+x cuda_*.run
+   ```
+
+3. Drop into a root shell
+
+4. Run the installer:
+   ```bash
+   bash cuda_*.run
+   ```
 
 Yes yes yes and install the things wherever you like them. The problem comes when trying to build the sample projects.
 

@@ -1,14 +1,14 @@
 ---
-category: ''
-description: ''
+cover:
+  image: img/one-direction-why-im-still-a-director-at-farset-labs.generated.png
+date: 2015-10-24 00:00:00+00:00
 tags:
-- 'Farset Labs'
+- Farset Labs
 - Innovation
-- 'Northern Ireland'
+- Northern Ireland
 - Technology
 title: 'One Direction: Why I''m still a director at Farset Labs'
 ---
-
 
 It's that time again where the big project that is Farset Labs is [in need of another Director](https://blog.farsetlabs.org.uk/elections-2015-take-two/), and I thought this was as good a time as any to give my personal take on why I think it's important to bring in more "Direction", as well as a little "behind the scenes" perspective on how the position actually operates.
 

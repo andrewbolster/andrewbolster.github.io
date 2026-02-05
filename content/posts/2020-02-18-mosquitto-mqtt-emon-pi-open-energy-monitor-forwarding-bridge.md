@@ -1,11 +1,13 @@
 ---
-date: 2020-02-18T16:40:00+00:00
+cover:
+  image: img/mosquitto-mqtt-emon-pi-open-energy-monitor-forwarding-bridge.generated.png
+date: 2020-02-18 16:40:00+00:00
 tags:
-- 'Farset Labs'
+- Farset Labs
 - IoT
 - Microcontrollers
 - Networking
-- 'Raspberry Pi'
+- Raspberry Pi
 title: Mosquitto (MQTT) Emon Pi (Open Energy Monitor) Forwarding Bridge
 ---
 

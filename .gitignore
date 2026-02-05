@@ -34,3 +34,6 @@ vendor/
 
 # Hugo module cache
 go.sum
+
+# Configuration files with API keys
+manage.ini

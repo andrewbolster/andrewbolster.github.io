@@ -1,12 +1,13 @@
 ---
-date: 2020-06-23T14:32:00+01:00
+cover:
+  image: img/merging-git-repos-for-archival-purposes.generated.png
+date: 2020-06-23 14:32:00+01:00
 tags:
 - Bash
 - Git
-- 'version-control'
+- version-control
 title: Merging Git Repos for Archival Purposes
 ---
-
 
 # TL;DR
 

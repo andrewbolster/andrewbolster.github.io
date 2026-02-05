@@ -1,18 +1,19 @@
 ---
-title: Notes from "Will GenAI Revolutionise our Lives for the Good?"
 categories:
 - AI
 - Commentary
+cover:
+  image: img/2025/genai-debate-header.jpg
+date: 2025-08-08 17:25:00+01:00
 tags:
 - AI
 - Belfast
-- 'Farset Labs'
+- Farset Labs
 - LLM
-- 'Machine Learning'
+- Machine Learning
 - NVIDIA
-date: 2025-08-08T17:25:00+01:00
+title: Notes from "Will GenAI Revolutionise our Lives for the Good?"
 ---
-[![](/img/2025/genai-debate-header.jpg)](/img/2025/genai-debate-header.jpg)
 
 I was fortunate enough to be invited to participate in a debate raising money for [Farset Labs](https://www.farsetlabs.org.uk), a cause obviously close to my cold cynical heart.
 

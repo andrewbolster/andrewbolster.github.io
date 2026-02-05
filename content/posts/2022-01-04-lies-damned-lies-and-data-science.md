@@ -1,5 +1,7 @@
 ---
-date: 2022-01-04T18:49:00+00:00
+cover:
+  image: img/lies-damned-lies-and-data-science.generated.png
+date: 2022-01-04 18:49:00+00:00
 tags: []
 title: Lies, Damned Lies, and Data Science
 ---

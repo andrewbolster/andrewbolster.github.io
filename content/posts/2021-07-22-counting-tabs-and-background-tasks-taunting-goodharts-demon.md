@@ -1,5 +1,7 @@
 ---
-date: 2021-07-22T10:58:00+00:00
+cover:
+  image: img/counting-tabs-and-background-tasks-taunting-goodharts-demon.generated.png
+date: 2021-07-22 10:58:00+00:00
 tags:
 - API
 - Firefox

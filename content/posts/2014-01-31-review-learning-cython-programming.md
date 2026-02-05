@@ -1,17 +1,17 @@
 ---
-category: ''
-description: ''
+cover:
+  image: img/review-learning-cython-programming.generated.png
+date: 2014-01-31 00:00:00+00:00
 tags:
 - C/C++
-- 'Data Science'
+- Data Science
 - MATLAB
 - NumPy
 - PhD
 - Python
-- 'Software Development'
+- Software Development
 title: 'Review: Learning Cython Programming'
 ---
-
 
 About 6 months ago now, I had the pleasure of getting [Phil Herron](http://redbrain.co.uk/) to talk at the [Farset Labs](http://farsetlabs.org.uk) [PyBelfast](http://twitter.com/pybelfast) group about his work in GCC/Cython fron end optimisation work, which was simultaneously waaaaay over my head and really interesting.
 

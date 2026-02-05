@@ -1,17 +1,22 @@
 ---
-title: Being a DORC in the age of Generative AI
 categories:
 - AI
 - Software Engineering
 - Philosophy
+cover:
+  alt: AI-generated featured image for Being a DORC in the age of Generative AI
+  caption: Generated with AI based on post content
+  image: img/being-a-dorc-in-the-age-of-generative-ai.generated.png
+date: 2025-07-14 14:16:00+01:00
 tags:
 - AI
 - LLM
-- 'Machine Learning'
+- Machine Learning
 - ethics
-- 'software development'
-date: 2025-07-14T14:16:00+01:00
+- software development
+title: Being a DORC in the age of Generative AI
 ---
+
 Lots of people have written about the impact of [generative AI](/2024/02/generative-ai-impact-on-software-development-and-security/) on the world of software engineering, and while I write this I'm fighting with [CoPilot](https://github.com/features/copilot) to stop filling out the rest of the sentence. Gimme a second...
 
 ...
