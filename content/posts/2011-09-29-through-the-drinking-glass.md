@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/09/through-the-drinking-glass/
 - /2011/09/through-the-drinking-glass.html
 comments: true
 date: 2011-09-29 19:48:37+00:00

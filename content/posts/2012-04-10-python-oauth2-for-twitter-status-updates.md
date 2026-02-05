@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/04/python-oauth2-for-twitter-status-updates/
 - /2012/04/python-oauth2-for-twitter-status-updates.html
 categories:
 - Instructional

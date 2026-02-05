@@ -1,12 +1,9 @@
 ---
 aliases:
-- /2025/12/bolstering-claude-code-a-personal-development-environment-configuration-guide/
 - /2025/12/bolstering-claude-code-a-personal-development-environment-configuration-guide.html
 categories:
 - AI
 - Development
-cover:
-  image: img/bolstering-claude-code-a-personal-development-environment-configuration-guide.generated.png
 date: 2025-12-01 12:21:00+00:00
 description: A comprehensive guide to configuring Claude Code with Model Context Protocols
   (MCPs) for enhanced AI-assisted development workflows

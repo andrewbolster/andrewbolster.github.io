@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2023/05/pulling-election-count-data-out-of-google-sheets-for-fun-and-democracy/
 - /2023/05/pulling-election-count-data-out-of-google-sheets-for-fun-and-democracy.html
 categories:
 - Data Science

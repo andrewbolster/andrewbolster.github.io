@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2014/07/i-do-not-understand-credit-markets/
 - /2014/07/i-do-not-understand-credit-markets.html
 cover:
   image: img/i-do-not-understand-credit-markets.generated.png

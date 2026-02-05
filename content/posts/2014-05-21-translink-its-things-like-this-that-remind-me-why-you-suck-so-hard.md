@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2014/05/translink-its-things-like-this-that-remind-me-why-you-suck-so-hard/
 - /2014/05/translink-its-things-like-this-that-remind-me-why-you-suck-so-hard.html
 cover:
   image: img/translink-its-things-like-this-that-remind-me-why-you-suck-so-hard.generated.png

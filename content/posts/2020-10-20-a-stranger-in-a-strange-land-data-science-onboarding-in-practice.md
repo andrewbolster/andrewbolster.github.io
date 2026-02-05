@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2020/10/a-stranger-in-a-strange-land-data-science-onboarding-in-practice/
 - /2020/10/a-stranger-in-a-strange-land-data-science-onboarding-in-practice.html
 cover:
   image: img/a-stranger-in-a-strange-land-data-science-onboarding-in-practice.generated.png

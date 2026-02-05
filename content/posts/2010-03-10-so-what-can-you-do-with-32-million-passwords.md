@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/so-what-can-you-do-with-32-million-passwords/
 - /2010/03/so-what-can-you-do-with-32-million-passwords.html
 categories:
 - Uni

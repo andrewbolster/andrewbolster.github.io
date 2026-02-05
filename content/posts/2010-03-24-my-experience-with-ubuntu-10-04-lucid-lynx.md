@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/my-experience-with-ubuntu-10-04-lucid-lynx/
 - /2010/03/my-experience-with-ubuntu-10-04-lucid-lynx.html
 categories:
 - Commentary

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2020/04/is-your-ai-ethical/
 - /2020/04/is-your-ai-ethical.html
 cover:
   image: img/is-your-ai-ethical.generated.png

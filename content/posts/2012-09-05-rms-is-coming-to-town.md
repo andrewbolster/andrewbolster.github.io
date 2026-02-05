@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/09/rms-is-coming-to-town/
 - /2012/09/rms-is-coming-to-town.html
 comments: true
 cover:

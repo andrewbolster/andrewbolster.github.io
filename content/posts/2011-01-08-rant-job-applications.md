@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/01/rant-job-applications/
 - /2011/01/rant-job-applications.html
 categories:
 - Commentary

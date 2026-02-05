@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/any-port-in-a-storm/
 - /2010/03/any-port-in-a-storm.html
 categories:
 - Instructional

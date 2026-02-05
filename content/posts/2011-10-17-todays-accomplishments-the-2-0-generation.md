@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/10/todays-accomplishments-the-2-0-generation/
 - /2011/10/todays-accomplishments-the-2-0-generation.html
 categories:
 - Commentary

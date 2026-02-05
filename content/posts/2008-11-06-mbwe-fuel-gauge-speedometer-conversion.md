@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/11/mbwe-fuel-gauge-speedometer-conversion/
 - /2008/11/mbwe-fuel-gauge-speedometer-conversion.html
 categories:
 - Instructional

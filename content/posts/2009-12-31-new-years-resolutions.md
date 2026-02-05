@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/12/new-years-resolutions/
 - /2009/12/new-years-resolutions.html
 categories:
 - Commentary

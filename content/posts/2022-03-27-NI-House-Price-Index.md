@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2022/03/NI-House-Price-Index/
 - /2022/03/NI-House-Price-Index.html
 cover:
   image: img/NI-House-Price-Index.generated.png

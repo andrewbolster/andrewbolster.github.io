@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/04/ns-3-click-integration/
 - /2012/04/ns-3-click-integration.html
 categories:
 - Instructional

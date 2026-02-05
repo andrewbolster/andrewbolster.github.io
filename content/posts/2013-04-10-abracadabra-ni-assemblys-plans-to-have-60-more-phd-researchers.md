@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/04/abracadabra-ni-assemblys-plans-to-have-60-more-phd-researchers/
 - /2013/04/abracadabra-ni-assemblys-plans-to-have-60-more-phd-researchers.html
 comments: true
 cover:

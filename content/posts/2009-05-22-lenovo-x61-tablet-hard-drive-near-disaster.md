@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/05/lenovo-x61-tablet-hard-drive-near-disaster/
 - /2009/05/lenovo-x61-tablet-hard-drive-near-disaster.html
 categories:
 - Instructional

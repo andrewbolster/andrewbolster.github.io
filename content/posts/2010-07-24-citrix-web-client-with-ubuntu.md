@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/07/citrix-web-client-with-ubuntu/
 - /2010/07/citrix-web-client-with-ubuntu.html
 comments: true
 cover:

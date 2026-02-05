@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/08/stuff-ive-found-interesting-in-the-past-month-23082011/
 - /2011/08/stuff-ive-found-interesting-in-the-past-month-23082011.html
 categories:
 - Link-Roll

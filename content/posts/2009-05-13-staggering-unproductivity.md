@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/05/staggering-unproductivity/
 - /2009/05/staggering-unproductivity.html
 categories:
 - Commentary

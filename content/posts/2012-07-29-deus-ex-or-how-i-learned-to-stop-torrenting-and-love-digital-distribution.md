@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/07/deus-ex-or-how-i-learned-to-stop-torrenting-and-love-digital-distribution/
 - /2012/07/deus-ex-or-how-i-learned-to-stop-torrenting-and-love-digital-distribution.html
 comments: true
 cover:

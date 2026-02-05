@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2014/04/generating-a-unit-3-vector-in-python-uniform-spherical-projection/
 - /2014/04/generating-a-unit-3-vector-in-python-uniform-spherical-projection.html
 cover:
   image: img/generating-a-unit-3-vector-in-python-uniform-spherical-projection.generated.png

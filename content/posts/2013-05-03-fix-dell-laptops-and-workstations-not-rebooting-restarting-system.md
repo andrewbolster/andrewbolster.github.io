@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/05/fix-dell-laptops-and-workstations-not-rebooting-restarting-system/
 - /2013/05/fix-dell-laptops-and-workstations-not-rebooting-restarting-system.html
 categories:
 - Instructional

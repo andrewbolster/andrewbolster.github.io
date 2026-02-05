@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/09/force-32-bit-installs-on-64-bit-systems-debrpm/
 - /2011/09/force-32-bit-installs-on-64-bit-systems-debrpm.html
 categories:
 - Instructional

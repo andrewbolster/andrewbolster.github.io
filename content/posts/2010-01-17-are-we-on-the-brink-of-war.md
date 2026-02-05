@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/01/are-we-on-the-brink-of-war/
 - /2010/01/are-we-on-the-brink-of-war.html
 categories:
 - Commentary

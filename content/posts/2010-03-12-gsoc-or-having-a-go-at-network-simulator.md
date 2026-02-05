@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/gsoc-or-having-a-go-at-network-simulator/
 - /2010/03/gsoc-or-having-a-go-at-network-simulator.html
 categories:
 - Uni

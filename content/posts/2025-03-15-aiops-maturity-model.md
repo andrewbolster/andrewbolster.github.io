@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2025/03/aiops-maturity-model/
 - /2025/03/aiops-maturity-model.html
 categories:
 - AI

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/what-to-do-when-ubuntu-device-mapper-seems-to-be-invincible/
 - /2010/03/what-to-do-when-ubuntu-device-mapper-seems-to-be-invincible.html
 categories:
 - Instructional

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2019/11/python-script-as-a-reliable-service/
 - /2019/11/python-script-as-a-reliable-service.html
 cover:
   image: img/python-script-as-a-reliable-service.generated.png

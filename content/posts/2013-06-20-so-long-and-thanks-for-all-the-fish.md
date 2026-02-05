@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/06/so-long-and-thanks-for-all-the-fish/
 - /2013/06/so-long-and-thanks-for-all-the-fish.html
 categories:
 - Commentary

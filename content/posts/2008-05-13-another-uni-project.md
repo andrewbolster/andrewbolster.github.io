@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/05/another-uni-project/
 - /2008/05/another-uni-project.html
 categories:
 - Uni

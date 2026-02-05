@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/10/unicode-characters-in-mendeley-bibliography-breaking-latex/
 - /2011/10/unicode-characters-in-mendeley-bibliography-breaking-latex.html
 comments: true
 cover:

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/10/hackathon/
 - /2010/10/hackathon.html
 categories:
 - Commentary

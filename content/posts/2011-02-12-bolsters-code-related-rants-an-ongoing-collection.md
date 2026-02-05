@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/02/bolsters-code-related-rants-an-ongoing-collection/
 - /2011/02/bolsters-code-related-rants-an-ongoing-collection.html
 categories:
 - Commentary

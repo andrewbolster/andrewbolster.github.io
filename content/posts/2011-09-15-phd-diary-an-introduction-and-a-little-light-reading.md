@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/09/phd-diary-an-introduction-and-a-little-light-reading/
 - /2011/09/phd-diary-an-introduction-and-a-little-light-reading.html
 categories:
 - Uni

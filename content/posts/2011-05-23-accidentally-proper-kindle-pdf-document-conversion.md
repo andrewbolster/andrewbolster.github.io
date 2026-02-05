@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/05/accidentally-proper-kindle-pdf-document-conversion/
 - /2011/05/accidentally-proper-kindle-pdf-document-conversion.html
 comments: true
 cover:

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2025/08/2014-08-20-gps-iii-where-are-we-and-where-are-we-going-archive/
 - /2025/08/2014-08-20-gps-iii-where-are-we-and-where-are-we-going-archive.html
 cover:
   image: img/2014/GPS-IIRM.jpg

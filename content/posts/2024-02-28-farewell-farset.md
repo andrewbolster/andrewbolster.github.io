@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2024/02/farewell-farset/
 - /2024/02/farewell-farset.html
 categories:
 - Community

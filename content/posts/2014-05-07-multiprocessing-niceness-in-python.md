@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2014/05/multiprocessing-niceness-in-python/
 - /2014/05/multiprocessing-niceness-in-python.html
 cover:
   image: img/multiprocessing-niceness-in-python.generated.png

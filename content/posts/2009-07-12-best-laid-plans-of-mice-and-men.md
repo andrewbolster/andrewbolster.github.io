@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/07/best-laid-plans-of-mice-and-men/
 - /2009/07/best-laid-plans-of-mice-and-men.html
 categories:
 - Instructional

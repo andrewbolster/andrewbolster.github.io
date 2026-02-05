@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/11/response-to-the-draft-innovation-strategy-for-northern-ireland-part-2-knowledge-generation/
 - /2013/11/response-to-the-draft-innovation-strategy-for-northern-ireland-part-2-knowledge-generation.html
 categories:
 - Commentary

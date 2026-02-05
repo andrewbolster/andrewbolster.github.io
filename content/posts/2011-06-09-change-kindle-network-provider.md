@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/06/change-kindle-network-provider/
 - /2011/06/change-kindle-network-provider.html
 categories:
 - Instructional

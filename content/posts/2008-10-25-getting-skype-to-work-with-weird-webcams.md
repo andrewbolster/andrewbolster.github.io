@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/10/getting-skype-to-work-with-weird-webcams/
 - /2008/10/getting-skype-to-work-with-weird-webcams.html
 categories:
 - Instructional

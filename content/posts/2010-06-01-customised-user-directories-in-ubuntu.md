@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/06/customised-user-directories-in-ubuntu/
 - /2010/06/customised-user-directories-in-ubuntu.html
 categories:
 - Instructional

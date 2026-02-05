@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/01/online-media-marketing/
 - /2010/01/online-media-marketing.html
 categories:
 - Commentary

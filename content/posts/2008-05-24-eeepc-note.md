@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/05/eeepc-note/
 - /2008/05/eeepc-note.html
 categories:
 - Commentary

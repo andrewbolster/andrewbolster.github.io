@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2020/05/pragmatic-data-science/
 - /2020/05/pragmatic-data-science.html
 cover:
   image: img/pragmatic-data-science.generated.png

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2020/09/back-to-reality/
 - /2020/09/back-to-reality.html
 cover:
   image: img/back-to-reality.generated.png

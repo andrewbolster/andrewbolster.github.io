@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/04/set-up-and-running-of-dns-tunnelling-on-mbwe/
 - /2009/04/set-up-and-running-of-dns-tunnelling-on-mbwe.html
 categories:
 - Instructional

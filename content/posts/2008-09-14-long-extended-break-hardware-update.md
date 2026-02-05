@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/09/long-extended-break-hardware-update/
 - /2008/09/long-extended-break-hardware-update.html
 categories:
 - Commentary

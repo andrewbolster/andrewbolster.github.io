@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2020/10/tell-me-about-your-programmer/
 - /2020/10/tell-me-about-your-programmer.html
 cover:
   image: img/tell-me-about-your-programmer.generated.png

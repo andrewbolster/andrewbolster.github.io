@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/08/high-frequency-trading-revolt-and-why-its-a-good-idea/
 - /2010/08/high-frequency-trading-revolt-and-why-its-a-good-idea.html
 comments: true
 cover:

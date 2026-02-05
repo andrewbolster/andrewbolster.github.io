@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone/
 - /2019/06/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.html
 cover:
   image: img/data-art-creative-collisions-and-getting-out-of-your-comfort-zone.generated.png

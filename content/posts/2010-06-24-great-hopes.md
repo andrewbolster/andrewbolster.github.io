@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/06/great-hopes/
 - /2010/06/great-hopes.html
 comments: true
 cover:

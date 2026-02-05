@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/wordpress-category-page/
 - /2010/03/wordpress-category-page.html
 categories:
 - Instructional

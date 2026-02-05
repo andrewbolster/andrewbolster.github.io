@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2024/04/context-all-the-way-down-primer-on-methods-of-experience-injection-for-llms/
 - /2024/04/context-all-the-way-down-primer-on-methods-of-experience-injection-for-llms.html
 categories:
 - AI

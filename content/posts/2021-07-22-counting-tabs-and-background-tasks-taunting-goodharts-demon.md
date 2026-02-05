@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2021/07/counting-tabs-and-background-tasks-taunting-goodharts-demon/
 - /2021/07/counting-tabs-and-background-tasks-taunting-goodharts-demon.html
 cover:
   image: img/counting-tabs-and-background-tasks-taunting-goodharts-demon.generated.png

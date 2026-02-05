@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/05/ubuntu-boosting-blog-hits/
 - /2010/05/ubuntu-boosting-blog-hits.html
 categories:
 - Commentary

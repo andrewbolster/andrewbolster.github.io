@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2015/04/snmp-monitoring-and-configuration-for-networks-and-linux-host-monitoring/
 - /2015/04/snmp-monitoring-and-configuration-for-networks-and-linux-host-monitoring.html
 cover:
   image: img/snmp-monitoring-and-configuration-for-networks-and-linux-host-monitoring.generated.png

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/04/facebook-group-library/
 - /2010/04/facebook-group-library.html
 categories:
 - Commentary

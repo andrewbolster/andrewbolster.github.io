@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/06/replace-unity-with-awn-and-gnome-do/
 - /2011/06/replace-unity-with-awn-and-gnome-do.html
 categories:
 - Instructional

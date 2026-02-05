@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/05/folding-code/
 - /2008/05/folding-code.html
 comments: false
 date: 2008-05-12 19:51:00+00:00

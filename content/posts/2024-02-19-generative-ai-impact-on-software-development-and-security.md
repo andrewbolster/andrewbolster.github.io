@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2024/02/generative-ai-impact-on-software-development-and-security/
 - /2024/02/generative-ai-impact-on-software-development-and-security.html
 categories:
 - AI

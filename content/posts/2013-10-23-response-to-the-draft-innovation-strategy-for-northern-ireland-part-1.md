@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/10/response-to-the-draft-innovation-strategy-for-northern-ireland-part-1/
 - /2013/10/response-to-the-draft-innovation-strategy-for-northern-ireland-part-1.html
 categories:
 - Commentary

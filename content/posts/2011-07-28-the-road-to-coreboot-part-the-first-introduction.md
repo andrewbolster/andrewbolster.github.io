@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/07/the-road-to-coreboot-part-the-first-introduction/
 - /2011/07/the-road-to-coreboot-part-the-first-introduction.html
 categories:
 - Instructional

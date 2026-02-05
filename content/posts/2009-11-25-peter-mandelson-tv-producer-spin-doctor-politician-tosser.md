@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/11/peter-mandelson-tv-producer-spin-doctor-politician-tosser/
 - /2009/11/peter-mandelson-tv-producer-spin-doctor-politician-tosser.html
 categories:
 - Commentary

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/04/ads-outside-the-box/
 - /2010/04/ads-outside-the-box.html
 categories:
 - Commentary

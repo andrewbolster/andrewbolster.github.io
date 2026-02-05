@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/04/listing-just-dot-files/
 - /2010/04/listing-just-dot-files.html
 categories:
 - Instructional

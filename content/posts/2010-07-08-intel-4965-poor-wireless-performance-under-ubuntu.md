@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/07/intel-4965-poor-wireless-performance-under-ubuntu/
 - /2010/07/intel-4965-poor-wireless-performance-under-ubuntu.html
 categories:
 - Instructional

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/04/mercurial-to-git-transfer-problems-and-pitfalls/
 - /2013/04/mercurial-to-git-transfer-problems-and-pitfalls.html
 categories:
 - Instructional

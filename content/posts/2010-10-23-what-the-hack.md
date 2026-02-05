@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/10/what-the-hack/
 - /2010/10/what-the-hack.html
 categories:
 - Commentary

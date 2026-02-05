@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/04/mod_rewrite-in-apache2/
 - /2010/04/mod_rewrite-in-apache2.html
 categories:
 - Instructional

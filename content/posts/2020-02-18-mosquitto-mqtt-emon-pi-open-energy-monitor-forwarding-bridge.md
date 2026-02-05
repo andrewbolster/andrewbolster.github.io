@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2020/02/mosquitto-mqtt-emon-pi-open-energy-monitor-forwarding-bridge/
 - /2020/02/mosquitto-mqtt-emon-pi-open-energy-monitor-forwarding-bridge.html
 cover:
   image: img/mosquitto-mqtt-emon-pi-open-energy-monitor-forwarding-bridge.generated.png

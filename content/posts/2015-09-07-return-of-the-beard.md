@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2015/09/return-of-the-beard/
 - /2015/09/return-of-the-beard.html
 cover:
   image: img/return-of-the-beard.generated.png

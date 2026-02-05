@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2020/06/merging-git-repos-for-archival-purposes/
 - /2020/06/merging-git-repos-for-archival-purposes.html
 cover:
   image: img/merging-git-repos-for-archival-purposes.generated.png

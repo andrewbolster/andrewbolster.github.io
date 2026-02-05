@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2007/12/installation-of-vmware-server-windows/
 - /2007/12/installation-of-vmware-server-windows.html
 categories:
 - Instructional

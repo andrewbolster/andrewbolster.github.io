@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/02/convergence/
 - /2009/02/convergence.html
 categories:
 - Commentary

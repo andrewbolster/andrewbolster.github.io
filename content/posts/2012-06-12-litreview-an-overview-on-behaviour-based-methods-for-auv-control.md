@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/06/litreview-an-overview-on-behaviour-based-methods-for-auv-control/
 - /2012/06/litreview-an-overview-on-behaviour-based-methods-for-auv-control.html
 categories:
 - Uni

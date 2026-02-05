@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/10/vim-latex-suite-install-on-ubuntu/
 - /2011/10/vim-latex-suite-install-on-ubuntu.html
 categories:
 - Instructional

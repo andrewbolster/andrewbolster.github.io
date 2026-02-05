@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/01/my-guide-to-my-own-favourite-ubuntu-setup/
 - /2012/01/my-guide-to-my-own-favourite-ubuntu-setup.html
 categories:
 - Instructional

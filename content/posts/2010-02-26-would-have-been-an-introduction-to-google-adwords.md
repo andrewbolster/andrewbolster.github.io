@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/02/would-have-been-an-introduction-to-google-adwords/
 - /2010/02/would-have-been-an-introduction-to-google-adwords.html
 categories:
 - Commentary

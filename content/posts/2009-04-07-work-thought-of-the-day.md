@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/04/work-thought-of-the-day/
 - /2009/04/work-thought-of-the-day.html
 categories:
 - Commentary

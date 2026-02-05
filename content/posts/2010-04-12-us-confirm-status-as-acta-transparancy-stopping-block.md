@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/04/us-confirm-status-as-acta-transparancy-stopping-block/
 - /2010/04/us-confirm-status-as-acta-transparancy-stopping-block.html
 categories:
 - Commentary

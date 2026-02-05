@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2017/09/legal-considerations-for-trusted-autonomy/
 - /2017/09/legal-considerations-for-trusted-autonomy.html
 cover:
   image: img/legal-considerations-for-trusted-autonomy.generated.png

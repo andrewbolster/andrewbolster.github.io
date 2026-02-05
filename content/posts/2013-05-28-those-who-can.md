@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/05/those-who-can/
 - /2013/05/those-who-can.html
 categories:
 - Commentary

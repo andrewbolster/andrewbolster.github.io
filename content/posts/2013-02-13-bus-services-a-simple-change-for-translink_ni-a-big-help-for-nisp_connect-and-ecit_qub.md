@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/02/bus-services-a-simple-change-for-translink_ni-a-big-help-for-nisp_connect-and-ecit_qub/
 - /2013/02/bus-services-a-simple-change-for-translink_ni-a-big-help-for-nisp_connect-and-ecit_qub.html
 categories:
 - Commentary

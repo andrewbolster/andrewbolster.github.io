@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/06/ongoing-cuda-work-aka-i-love-this-book/
 - /2010/06/ongoing-cuda-work-aka-i-love-this-book.html
 categories:
 - Commentary

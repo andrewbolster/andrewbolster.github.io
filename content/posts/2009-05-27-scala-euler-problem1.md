@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/05/scala-euler-problem1/
 - /2009/05/scala-euler-problem1.html
 categories:
 - Commentary

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/04/add-a-twitter-anywhere-hovercard-to-links-containing-tweeps/
 - /2010/04/add-a-twitter-anywhere-hovercard-to-links-containing-tweeps.html
 categories:
 - Instructional

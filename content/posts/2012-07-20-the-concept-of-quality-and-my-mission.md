@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/07/the-concept-of-quality-and-my-mission/
 - /2012/07/the-concept-of-quality-and-my-mission.html
 categories:
 - Commentary

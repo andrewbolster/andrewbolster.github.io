@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/kids-sing-portal-still-alive/
 - /2010/03/kids-sing-portal-still-alive.html
 categories:
 - Commentary

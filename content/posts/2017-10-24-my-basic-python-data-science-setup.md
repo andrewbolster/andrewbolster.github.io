@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2017/10/my-basic-python-data-science-setup/
 - /2017/10/my-basic-python-data-science-setup.html
 cover:
   image: img/my-basic-python-data-science-setup.generated.png

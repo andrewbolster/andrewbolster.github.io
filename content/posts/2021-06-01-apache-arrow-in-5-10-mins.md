@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2021/06/apache-arrow-in-5-10-mins/
 - /2021/06/apache-arrow-in-5-10-mins.html
 cover:
   image: img/apache-arrow-in-5-10-mins.generated.png

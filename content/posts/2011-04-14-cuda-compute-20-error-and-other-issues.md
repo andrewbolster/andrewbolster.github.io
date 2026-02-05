@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/04/cuda-compute-20-error-and-other-issues/
 - /2011/04/cuda-compute-20-error-and-other-issues.html
 categories:
 - Instructional

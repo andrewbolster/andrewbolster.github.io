@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2014/01/octave-38-on-mint-or-ubuntu/
 - /2014/01/octave-38-on-mint-or-ubuntu.html
 cover:
   image: img/octave-38-on-mint-or-ubuntu.generated.png

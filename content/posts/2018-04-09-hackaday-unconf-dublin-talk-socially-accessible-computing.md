@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2018/04/hackaday-unconf-dublin-talk-socially-accessible-computing/
 - /2018/04/hackaday-unconf-dublin-talk-socially-accessible-computing.html
 cover:
   image: img/hackaday-unconf-dublin-talk-socially-accessible-computing.generated.png

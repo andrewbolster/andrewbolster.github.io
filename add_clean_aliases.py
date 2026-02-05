@@ -31,66 +31,52 @@ def extract_frontmatter_and_content(file_path):
     except yaml.YAMLError:
         return None, content
 
-def generate_aliases(file_path):
-    """Generate both clean URL and .html aliases based on filename and permalink structure."""
+def generate_html_alias(file_path):
+    """Generate .html alias based on filename and permalink structure."""
     filename = file_path.stem
     # Extract date and title from filename
     match = re.match(r'(\d{4})-(\d{2})-(\d{2})-(.+)', filename)
     if match:
         year, month, day, title = match.groups()
-        clean_alias = f"/{year}/{month}/{title}/"
-        html_alias = f"/{year}/{month}/{title}.html"
-        return clean_alias, html_alias
-    return None, None
+        # Hugo permalink is "/:year/:month/:title" (no trailing slash)
+        # We only need .html aliases since clean URLs are the primary format
+        return f"/{year}/{month}/{title}.html"
+    return None
 
-def update_post_with_aliases(file_path):
-    """Add both clean URL and .html aliases to a post if they don't already exist."""
+def update_post_with_html_alias(file_path):
+    """Add .html alias to a post if it doesn't already exist."""
     frontmatter, content = extract_frontmatter_and_content(file_path)
     if frontmatter is None:
         print(f"❌ Could not parse frontmatter for {file_path}")
         return False
 
-    # Generate both aliases
-    clean_alias, html_alias = generate_aliases(file_path)
-    if not clean_alias or not html_alias:
-        print(f"❌ Could not generate aliases for {file_path}")
+    html_alias = generate_html_alias(file_path)
+    if not html_alias:
+        print(f"❌ Could not generate alias for {file_path}")
         return False
 
-    # Check if aliases already exist
+    # Check if alias already exists
     aliases = frontmatter.get('aliases', [])
-    missing_aliases = []
 
-    if clean_alias not in aliases:
-        missing_aliases.append(clean_alias)
     if html_alias not in aliases:
-        missing_aliases.append(html_alias)
+        aliases.append(html_alias)
+        frontmatter['aliases'] = aliases
 
-    if not missing_aliases:
-        print(f"✅ {file_path.name} already has all required aliases")
+        # Write the updated file
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write('---\n')
+            yaml.dump(frontmatter, f, default_flow_style=False, allow_unicode=True)
+            f.write('---\n')
+            f.write(content)
+
+        print(f"✅ Added .html alias to {file_path.name}")
+        return True
+    else:
+        print(f"✅ {file_path.name} already has .html alias")
         return False
-
-    # Add missing aliases
-    aliases.extend(missing_aliases)
-    frontmatter['aliases'] = aliases
-
-    # Write the updated file
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write('---\n')
-        yaml.dump(frontmatter, f, default_flow_style=False, allow_unicode=True)
-        f.write('---\n')
-        f.write(content)
-
-    alias_types = []
-    if clean_alias in missing_aliases:
-        alias_types.append("clean URL")
-    if html_alias in missing_aliases:
-        alias_types.append(".html")
-
-    print(f"✅ Added {' and '.join(alias_types)} alias(es) to {file_path.name}")
-    return True
 
 def main():
-    """Process all blog posts and add both clean URL and .html aliases."""
+    """Process all blog posts and add .html aliases."""
     posts_dir = Path("content/posts")
     if not posts_dir.exists():
         print("❌ content/posts directory not found")
@@ -101,10 +87,10 @@ def main():
 
     updated_count = 0
     for post_file in sorted(post_files):
-        if update_post_with_aliases(post_file):
+        if update_post_with_html_alias(post_file):
             updated_count += 1
 
-    print(f"\n✅ Updated {updated_count} posts with URL aliases")
+    print(f"\n✅ Updated {updated_count} posts with .html aliases")
 
 if __name__ == "__main__":
     main()

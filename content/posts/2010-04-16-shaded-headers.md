@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/04/shaded-headers/
 - /2010/04/shaded-headers.html
 categories:
 - Instructional

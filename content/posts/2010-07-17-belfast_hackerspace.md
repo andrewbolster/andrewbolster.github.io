@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/07/belfast_hackerspace/
 - /2010/07/belfast_hackerspace.html
 categories:
 - Commentary

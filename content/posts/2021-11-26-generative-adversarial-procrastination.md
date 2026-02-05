@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2021/11/generative-adversarial-procrastination/
 - /2021/11/generative-adversarial-procrastination.html
 cover:
   image: img/generative-adversarial-procrastination.generated.png

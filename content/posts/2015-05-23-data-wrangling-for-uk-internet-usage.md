@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2015/05/data-wrangling-for-uk-internet-usage/
 - /2015/05/data-wrangling-for-uk-internet-usage.html
 cover:
   image: img/data-wrangling-for-uk-internet-usage.generated.png

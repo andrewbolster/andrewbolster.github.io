@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/04/why-belfast-needs-a-hackerspace/
 - /2011/04/why-belfast-needs-a-hackerspace.html
 categories:
 - Commentary

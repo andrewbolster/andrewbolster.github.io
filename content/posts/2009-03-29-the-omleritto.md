@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/03/the-omleritto/
 - /2009/03/the-omleritto.html
 categories:
 - Commentary

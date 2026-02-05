@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/4-dimensional-game-promises-to-be-a-mind-frak/
 - /2010/03/4-dimensional-game-promises-to-be-a-mind-frak.html
 categories:
 - Commentary

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2015/10/one-direction-why-im-still-a-director-at-farset-labs/
 - /2015/10/one-direction-why-im-still-a-director-at-farset-labs.html
 cover:
   image: img/one-direction-why-im-still-a-director-at-farset-labs.generated.png

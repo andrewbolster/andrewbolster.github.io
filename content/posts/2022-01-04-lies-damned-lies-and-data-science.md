@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2022/01/lies-damned-lies-and-data-science/
 - /2022/01/lies-damned-lies-and-data-science.html
 cover:
   image: img/lies-damned-lies-and-data-science.generated.png

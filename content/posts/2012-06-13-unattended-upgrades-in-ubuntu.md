@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/06/unattended-upgrades-in-ubuntu/
 - /2012/06/unattended-upgrades-in-ubuntu.html
 comments: true
 cover:

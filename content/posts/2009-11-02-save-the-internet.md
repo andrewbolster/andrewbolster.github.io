@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/11/save-the-internet/
 - /2009/11/save-the-internet.html
 comments: true
 date: 2009-11-02 13:33:24+00:00

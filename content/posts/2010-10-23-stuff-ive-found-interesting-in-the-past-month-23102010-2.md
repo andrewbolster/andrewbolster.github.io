@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/10/stuff-ive-found-interesting-in-the-past-month-23102010-2/
 - /2010/10/stuff-ive-found-interesting-in-the-past-month-23102010-2.html
 categories:
 - Link-Roll

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/06/litreview-communication-in-a-behaviour-based-approach-to-target-detection-and-tracking-with-autonomous-underwater-vehicles/
 - /2012/06/litreview-communication-in-a-behaviour-based-approach-to-target-detection-and-tracking-with-autonomous-underwater-vehicles.html
 categories:
 - Uni

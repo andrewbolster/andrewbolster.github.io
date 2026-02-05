@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/04/python-irclib-for-irc-status-updates/
 - /2012/04/python-irclib-for-irc-status-updates.html
 categories:
 - Instructional

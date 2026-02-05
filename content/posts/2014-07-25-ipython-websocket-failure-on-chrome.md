@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2014/07/ipython-websocket-failure-on-chrome/
 - /2014/07/ipython-websocket-failure-on-chrome.html
 cover:
   image: img/ipython-websocket-failure-on-chrome.generated.png

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/10/mendeley-repeated-citations-in-bibtex-library/
 - /2011/10/mendeley-repeated-citations-in-bibtex-library.html
 categories:
 - Instructional

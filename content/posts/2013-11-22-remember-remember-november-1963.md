@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/11/remember-remember-november-1963/
 - /2013/11/remember-remember-november-1963.html
 categories:
 - Commentary

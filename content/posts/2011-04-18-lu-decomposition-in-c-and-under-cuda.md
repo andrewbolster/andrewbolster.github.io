@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/04/lu-decomposition-in-c-and-under-cuda/
 - /2011/04/lu-decomposition-in-c-and-under-cuda.html
 categories:
 - Instructional

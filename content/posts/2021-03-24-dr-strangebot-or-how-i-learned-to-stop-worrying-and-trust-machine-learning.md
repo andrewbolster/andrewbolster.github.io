@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2021/03/dr-strangebot-or-how-i-learned-to-stop-worrying-and-trust-machine-learning/
 - /2021/03/dr-strangebot-or-how-i-learned-to-stop-worrying-and-trust-machine-learning.html
 cover:
   image: img/dr-strangebot-or-how-i-learned-to-stop-worrying-and-trust-machine-learning.generated.png

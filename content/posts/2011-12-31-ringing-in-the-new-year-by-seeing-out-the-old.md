@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/12/ringing-in-the-new-year-by-seeing-out-the-old/
 - /2011/12/ringing-in-the-new-year-by-seeing-out-the-old.html
 categories:
 - Commentary

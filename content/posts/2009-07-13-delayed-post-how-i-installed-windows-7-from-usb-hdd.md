@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/07/delayed-post-how-i-installed-windows-7-from-usb-hdd/
 - /2009/07/delayed-post-how-i-installed-windows-7-from-usb-hdd.html
 categories:
 - Instructional

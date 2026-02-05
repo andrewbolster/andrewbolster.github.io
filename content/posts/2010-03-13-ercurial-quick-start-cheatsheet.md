@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/ercurial-quick-start-cheatsheet/
 - /2010/03/ercurial-quick-start-cheatsheet.html
 categories:
 - Instructional

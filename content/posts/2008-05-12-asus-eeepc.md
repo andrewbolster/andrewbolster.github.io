@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/05/asus-eeepc/
 - /2008/05/asus-eeepc.html
 categories:
 - Commentary

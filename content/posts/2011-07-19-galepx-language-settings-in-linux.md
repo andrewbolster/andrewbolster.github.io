@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/07/galepx-language-settings-in-linux/
 - /2011/07/galepx-language-settings-in-linux.html
 categories:
 - Instructional

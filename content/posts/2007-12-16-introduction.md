@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2007/12/introduction/
 - /2007/12/introduction.html
 comments: false
 date: 2007-12-16 23:34:00+00:00

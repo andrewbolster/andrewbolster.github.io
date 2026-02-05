@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/01/application-idea-what-do-you-think/
 - /2010/01/application-idea-what-do-you-think.html
 categories:
 - Instructional

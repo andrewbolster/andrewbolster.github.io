@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/02/testing-the-gnome-blog-panel-thingy/
 - /2009/02/testing-the-gnome-blog-panel-thingy.html
 categories:
 - Commentary

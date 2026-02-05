@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/12/tedx-how-it-went-and-how-it-could-have-gone/
 - /2013/12/tedx-how-it-went-and-how-it-could-have-gone.html
 cover:
   image: img/tedx-how-it-went-and-how-it-could-have-gone.generated.png

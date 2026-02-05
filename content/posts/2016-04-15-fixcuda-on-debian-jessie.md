@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2016/04/fixcuda-on-debian-jessie/
 - /2016/04/fixcuda-on-debian-jessie.html
 cover:
   image: img/fixcuda-on-debian-jessie.generated.png

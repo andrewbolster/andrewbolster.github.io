@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2021/06/response-to-tog-s-third-eviction/
 - /2021/06/response-to-tog-s-third-eviction.html
 cover:
   image: img/response-to-tog-s-third-eviction.generated.png

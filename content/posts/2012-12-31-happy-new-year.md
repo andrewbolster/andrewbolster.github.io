@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/12/happy-new-year/
 - /2012/12/happy-new-year.html
 categories:
 - Commentary

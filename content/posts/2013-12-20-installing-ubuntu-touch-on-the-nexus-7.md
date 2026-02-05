@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/12/installing-ubuntu-touch-on-the-nexus-7/
 - /2013/12/installing-ubuntu-touch-on-the-nexus-7.html
 cover:
   image: img/installing-ubuntu-touch-on-the-nexus-7.generated.png

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/09/kindle-3g-3-0-2-experience/
 - /2010/09/kindle-3g-3-0-2-experience.html
 comments: true
 cover:

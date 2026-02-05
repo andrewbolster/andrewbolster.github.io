@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/04/see-programming-abstractions-assignment-1/
 - /2010/04/see-programming-abstractions-assignment-1.html
 categories:
 - Instructional

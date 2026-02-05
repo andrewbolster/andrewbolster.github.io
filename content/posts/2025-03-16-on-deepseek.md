@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2025/03/on-deepseek/
 - /2025/03/on-deepseek.html
 categories:
 - AI

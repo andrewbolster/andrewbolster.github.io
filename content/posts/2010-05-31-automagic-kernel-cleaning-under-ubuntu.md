@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/05/automagic-kernel-cleaning-under-ubuntu/
 - /2010/05/automagic-kernel-cleaning-under-ubuntu.html
 categories:
 - Instructional

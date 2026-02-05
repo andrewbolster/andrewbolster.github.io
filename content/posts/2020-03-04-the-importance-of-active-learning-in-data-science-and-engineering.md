@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2020/03/the-importance-of-active-learning-in-data-science-and-engineering/
 - /2020/03/the-importance-of-active-learning-in-data-science-and-engineering.html
 cover:
   image: img/the-importance-of-active-learning-in-data-science-and-engineering.generated.png

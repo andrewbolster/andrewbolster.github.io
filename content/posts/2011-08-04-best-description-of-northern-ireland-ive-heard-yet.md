@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/08/best-description-of-northern-ireland-ive-heard-yet/
 - /2011/08/best-description-of-northern-ireland-ive-heard-yet.html
 comments: true
 cover:

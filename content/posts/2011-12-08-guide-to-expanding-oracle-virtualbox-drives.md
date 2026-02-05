@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/12/guide-to-expanding-oracle-virtualbox-drives/
 - /2011/12/guide-to-expanding-oracle-virtualbox-drives.html
 categories:
 - Instructional

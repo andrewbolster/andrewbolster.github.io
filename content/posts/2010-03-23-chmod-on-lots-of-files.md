@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/chmod-on-lots-of-files/
 - /2010/03/chmod-on-lots-of-files.html
 categories:
 - Instructional

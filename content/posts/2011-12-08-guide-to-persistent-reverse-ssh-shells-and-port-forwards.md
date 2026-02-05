@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/12/guide-to-persistent-reverse-ssh-shells-and-port-forwards/
 - /2011/12/guide-to-persistent-reverse-ssh-shells-and-port-forwards.html
 categories:
 - Instructional

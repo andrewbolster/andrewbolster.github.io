@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2016/10/git-split-repository-with-commit-history/
 - /2016/10/git-split-repository-with-commit-history.html
 cover:
   image: img/git-split-repository-with-commit-history.generated.png

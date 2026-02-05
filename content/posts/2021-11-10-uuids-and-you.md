@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2021/11/uuids-and-you/
 - /2021/11/uuids-and-you.html
 cover:
   image: img/uuids-and-you.generated.png

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2020/02/headless-pi-configuration-with-multi-wifi-remote-access/
 - /2020/02/headless-pi-configuration-with-multi-wifi-remote-access.html
 cover:
   image: img/headless-pi-configuration-with-multi-wifi-remote-access.generated.png

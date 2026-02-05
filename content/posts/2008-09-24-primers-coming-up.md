@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/09/primers-coming-up/
 - /2008/09/primers-coming-up.html
 categories:
 - Commentary

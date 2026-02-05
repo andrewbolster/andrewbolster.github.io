@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/03/new-productivity-mantra/
 - /2009/03/new-productivity-mantra.html
 categories:
 - Instructional

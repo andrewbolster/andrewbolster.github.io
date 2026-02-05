@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2011/06/removing-bios-raid-metadata/
 - /2011/06/removing-bios-raid-metadata.html
 categories:
 - Instructional

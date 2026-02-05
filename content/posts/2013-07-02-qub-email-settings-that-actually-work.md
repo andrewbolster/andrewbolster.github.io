@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/07/qub-email-settings-that-actually-work/
 - /2013/07/qub-email-settings-that-actually-work.html
 categories:
 - Instructional

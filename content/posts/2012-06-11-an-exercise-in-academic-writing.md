@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/06/an-exercise-in-academic-writing/
 - /2012/06/an-exercise-in-academic-writing.html
 categories:
 - Uni

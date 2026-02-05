@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/04/k8055-usb-python-twitter-irc-space-indicator-as-a-os-service/
 - /2012/04/k8055-usb-python-twitter-irc-space-indicator-as-a-os-service.html
 comments: true
 cover:

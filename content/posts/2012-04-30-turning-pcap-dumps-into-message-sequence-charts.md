@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/04/turning-pcap-dumps-into-message-sequence-charts/
 - /2012/04/turning-pcap-dumps-into-message-sequence-charts.html
 comments: true
 cover:

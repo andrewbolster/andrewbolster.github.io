@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/01/ubuntu-windows-sharing-a-dropbox-folder-on-ntfs/
 - /2010/01/ubuntu-windows-sharing-a-dropbox-folder-on-ntfs.html
 categories:
 - Instructional

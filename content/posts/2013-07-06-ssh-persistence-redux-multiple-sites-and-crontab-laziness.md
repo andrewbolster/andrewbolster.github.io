@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/07/ssh-persistence-redux-multiple-sites-and-crontab-laziness/
 - /2013/07/ssh-persistence-redux-multiple-sites-and-crontab-laziness.html
 categories:
 - Instructional

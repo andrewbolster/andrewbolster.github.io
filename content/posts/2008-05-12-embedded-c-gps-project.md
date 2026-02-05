@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/05/embedded-c-gps-project/
 - /2008/05/embedded-c-gps-project.html
 categories:
 - Instructional

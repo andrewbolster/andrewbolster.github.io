@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/line-parsing-reminder-duplicate-removal/
 - /2010/03/line-parsing-reminder-duplicate-removal.html
 categories:
 - Instructional

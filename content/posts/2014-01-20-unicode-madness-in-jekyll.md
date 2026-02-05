@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2014/01/unicode-madness-in-jekyll/
 - /2014/01/unicode-madness-in-jekyll.html
 cover:
   image: img/unicode-madness-in-jekyll.generated.png

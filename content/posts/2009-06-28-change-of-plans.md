@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/06/change-of-plans/
 - /2009/06/change-of-plans.html
 comments: false
 date: 2009-06-28 11:39:20+00:00

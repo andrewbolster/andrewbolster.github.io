@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/05/eee-update-etc/
 - /2008/05/eee-update-etc.html
 categories:
 - Commentary

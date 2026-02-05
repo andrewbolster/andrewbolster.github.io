@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/11/lenovo-not-so-rocking-anymore/
 - /2009/11/lenovo-not-so-rocking-anymore.html
 comments: true
 date: 2009-11-09 17:34:56+00:00

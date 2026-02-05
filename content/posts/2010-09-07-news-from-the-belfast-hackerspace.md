@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/09/news-from-the-belfast-hackerspace/
 - /2010/09/news-from-the-belfast-hackerspace.html
 comments: true
 cover:

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2014/01/review-learning-cython-programming/
 - /2014/01/review-learning-cython-programming.html
 cover:
   image: img/review-learning-cython-programming.generated.png

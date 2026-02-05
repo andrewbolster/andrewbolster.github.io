@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/10/idiots-guide-to-updating-nexus-7-to-latest-rom/
 - /2012/10/idiots-guide-to-updating-nexus-7-to-latest-rom.html
 categories:
 - Instructional

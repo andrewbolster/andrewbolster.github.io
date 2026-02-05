@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2018/10/daily-dated-untitled-jupyter-notebooks/
 - /2018/10/daily-dated-untitled-jupyter-notebooks.html
 category: hotfix
 cover:

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2015/02/unattended-updates-in-linux-mint/
 - /2015/02/unattended-updates-in-linux-mint.html
 cover:
   image: img/unattended-updates-in-linux-mint.generated.png

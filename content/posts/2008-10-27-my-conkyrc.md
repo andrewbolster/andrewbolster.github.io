@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2008/10/my-conkyrc/
 - /2008/10/my-conkyrc.html
 categories:
 - Instructional

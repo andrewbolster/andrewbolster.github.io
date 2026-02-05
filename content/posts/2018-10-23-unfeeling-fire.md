@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2018/10/unfeeling-fire/
 - /2018/10/unfeeling-fire.html
 cover:
   image: img/unfeeling-fire.generated.png

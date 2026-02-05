@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2013/02/it-qub-are-moving-forward/
 - /2013/02/it-qub-are-moving-forward.html
 categories:
 - Uni

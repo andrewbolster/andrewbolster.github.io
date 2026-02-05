@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2017/09/human-factors-in-autonomous-systems/
 - /2017/09/human-factors-in-autonomous-systems.html
 cover:
   image: img/human-factors-in-autonomous-systems.generated.png

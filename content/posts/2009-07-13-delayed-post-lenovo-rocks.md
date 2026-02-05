@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/07/delayed-post-lenovo-rocks/
 - /2009/07/delayed-post-lenovo-rocks.html
 categories:
 - Commentary

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/05/coming-soon/
 - /2010/05/coming-soon.html
 categories:
 - Commentary

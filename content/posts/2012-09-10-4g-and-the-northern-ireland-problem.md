@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2012/09/4g-and-the-northern-ireland-problem/
 - /2012/09/4g-and-the-northern-ireland-problem.html
 categories:
 - Commentary

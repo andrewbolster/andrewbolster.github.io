@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/02/hacking-weekend/
 - /2009/02/hacking-weekend.html
 categories:
 - Commentary

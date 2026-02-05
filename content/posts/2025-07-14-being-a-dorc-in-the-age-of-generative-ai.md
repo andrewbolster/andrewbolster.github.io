@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2025/07/being-a-dorc-in-the-age-of-generative-ai/
 - /2025/07/being-a-dorc-in-the-age-of-generative-ai.html
 categories:
 - AI

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/03/installing-and-configuring-ns-3-on-a-ubuntu-system/
 - /2010/03/installing-and-configuring-ns-3-on-a-ubuntu-system.html
 categories:
 - Instructional

@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2025/08/notes-from-will-genai-revolutionise-our-lives-for-the-good/
 - /2025/08/notes-from-will-genai-revolutionise-our-lives-for-the-good.html
 categories:
 - AI

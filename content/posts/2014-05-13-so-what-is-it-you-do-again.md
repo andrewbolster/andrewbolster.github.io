@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2014/05/so-what-is-it-you-do-again/
 - /2014/05/so-what-is-it-you-do-again.html
 cover:
   image: img/so-what-is-it-you-do-again.generated.png

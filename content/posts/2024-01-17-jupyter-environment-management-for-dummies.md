@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2024/01/jupyter-environment-management-for-dummies/
 - /2024/01/jupyter-environment-management-for-dummies.html
 categories:
 - Data Science

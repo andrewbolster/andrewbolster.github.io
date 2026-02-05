@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2010/04/the-de-bill-or-how-i-learned-to-stop-worrying-and-love-tor/
 - /2010/04/the-de-bill-or-how-i-learned-to-stop-worrying-and-love-tor.html
 categories:
 - Commentary

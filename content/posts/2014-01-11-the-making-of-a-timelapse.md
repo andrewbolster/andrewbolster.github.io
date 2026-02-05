@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2014/01/the-making-of-a-timelapse/
 - /2014/01/the-making-of-a-timelapse.html
 cover:
   image: img/the-making-of-a-timelapse.generated.png

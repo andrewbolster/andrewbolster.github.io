@@ -1,6 +1,5 @@
 ---
 aliases:
-- /2009/03/on-education-and-employability/
 - /2009/03/on-education-and-employability.html
 categories:
 - Commentary
