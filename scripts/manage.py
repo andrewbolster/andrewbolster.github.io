@@ -98,6 +98,62 @@ Always include the canonical post URL for proper attribution:
 - Format: "domain.com/path/to/post.html"
 - Helps with image attribution when shared
 
+## CRITICAL TROUBLESHOOTING
+
+### Error: "Image generation failed" with no details
+
+**Problem**: The add-featured-image-to-post command hides exceptions and doesn't show the real error.
+
+**Solution**: Use the generate command directly with --verbose flag:
+```bash
+./manage.py generate --verbose \\
+    --image-model dall-e-3 \\
+    --text-model claude-sonnet-4 \\
+    --api-key [from manage.ini] \\
+    --base-url [from manage.ini] \\
+    --url "yourdomain.com/path/to/post.html" \\
+    --output static/img/post.generated.png \\
+    content/posts/post.md
+```
+
+### Error: "400 Client Error: Bad Request" or "No healthy deployments for this model"
+
+**Problem**: Wrong model name or endpoint configuration.
+
+**Solutions**:
+1. Check model names in manage.ini use correct model identifiers
+2. Verify endpoint is accessible with your configured credentials
+3. Test connection with available models endpoint
+
+### Error: Environment variables pointing to wrong endpoint
+
+**Problem**: LITELLM_PROXY_URL environment variable overrides script arguments.
+
+**Solution**: Either unset the environment variable or use values from manage.ini:
+```bash
+unset LITELLM_PROXY_URL LITELLM_PROXY_API_KEY
+```
+
+
+### Error: add-featured-image-to-post doesn't pass verbose flag through
+
+**Problem**: Inner generate command fails but errors are hidden due to poor error propagation.
+
+**Solution**: Always test image generation with the direct generate command first, then use add-featured-image-to-post.
+
+### Key Configuration Requirements
+
+**manage.ini MUST contain**:
+```ini
+[labs]
+base_url = [your-llm-gateway-url]
+api_key = [your-api-key]
+text_model = [your-text-model-name]
+image_model = [your-image-model-name]
+```
+
+**Model names must be EXACT** as configured in your LLM gateway.
+
 ### Model Selection
 Recommended combinations:
 - Image: dall-e-3 (best quality, handles brand guidelines well)
