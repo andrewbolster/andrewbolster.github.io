@@ -14,7 +14,7 @@ enableGitInfo = true
   pagerSize = 10
   path = "page"
 
-# HTML URLs as primary format
+# Posts default to hugo standard of post/ and netlify has pretty mode disabled
 uglyURLs = false
 canonifyURLs = false
 [permalinks]
