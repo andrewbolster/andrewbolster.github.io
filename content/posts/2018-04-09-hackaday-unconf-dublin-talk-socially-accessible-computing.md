@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2018/04/hackaday-unconf-dublin-talk-socially-accessible-computing/
+- /2018/04/hackaday-unconf-dublin-talk-socially-accessible-computing.html
 cover:
   image: img/hackaday-unconf-dublin-talk-socially-accessible-computing.generated.png
 date: 2018-04-09 00:00:00+00:00
@@ -14,7 +17,6 @@ tags:
 - funding
 title: 'Hackaday Unconf Dublin Talk: Socially Accessible Computing'
 ---
-
 ## Intro
 
 As part of the fantastic [Hackaday Dublin Unconference](https://hackaday.com/tag/hackaday-dublin-unconference/) in the [Project Arts Centre](https://projectartscentre.ie/) over this past weekend, I got to speak about a project I've been gently pushing for several weeks now; boxes of laptops for people and community groups to use rather than cap-ex-ing any more pointless under-scoped under-utilised computer labs for everywhere.

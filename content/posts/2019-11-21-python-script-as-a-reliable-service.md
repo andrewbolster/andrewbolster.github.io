@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2019/11/python-script-as-a-reliable-service/
+- /2019/11/python-script-as-a-reliable-service.html
 cover:
   image: img/python-script-as-a-reliable-service.generated.png
 date: 2019-11-21 14:09:00+00:00
@@ -8,7 +11,6 @@ tags:
 - Raspberry Pi
 title: Python Script as a Reliable Service
 ---
-
 > I was asked to help out a friend who had an installation in an art gallery that stopped booting properly, and was reminded that I keep forgetting to actually write this post.
 
 Running a python script as a reliable, retryable service on a Raspberry Pi that waits for an 'up' network connection, because I'm an idiot who keeps changing his mind how to do it.

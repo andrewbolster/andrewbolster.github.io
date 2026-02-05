@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2020/09/back-to-reality/
+- /2020/09/back-to-reality.html
 cover:
   image: img/back-to-reality.generated.png
 date: 2020-09-08 16:22:00+01:00
@@ -14,7 +17,6 @@ tags:
 - events
 title: Back to reality
 ---
-
 Realised it'd been a while, thought it was time for an update. I'm gonna try and make an effort to get closer to an ideal of something like #weeknotes as I've always been jealous of [Adrian's](http://www.mcqn.net/mcfilter/) ability to put this thoughts down and get them out the door in a sensible way...
 
 Anyway, use the Table of Contents above to skip to bits you may care about.

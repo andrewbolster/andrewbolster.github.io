@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2025/12/bolstering-claude-code-a-personal-development-environment-configuration-guide/
+- /2025/12/bolstering-claude-code-a-personal-development-environment-configuration-guide.html
 categories:
 - AI
 - Development
@@ -15,7 +18,6 @@ tags:
 - Productivity
 title: 'Bolstering Claude Code: A Personal Development Environment Configuration Guide'
 ---
-
 ## Introduction
 
 This guide walks through my personal Claude Code configuration, enhanced with multiple Model Context Protocol (MCP) servers that integrate with various tools and data sources. While this represents my specific setup, it's designed to be adaptable for any developer who wants to boost their AI-assisted development workflows.

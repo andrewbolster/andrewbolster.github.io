@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2016/10/git-split-repository-with-commit-history/
+- /2016/10/git-split-repository-with-commit-history.html
 cover:
   image: img/git-split-repository-with-commit-history.generated.png
 date: 2016-10-17 00:00:00+00:00
@@ -11,7 +14,6 @@ tags:
 - Version Control
 title: Git Split Repository With Commit History
 ---
-
 Thesis submitted, Viva cleared (with minor corrections) but this post isn't about all that...
 
 Simple one; how do you go from one monolithic project repository to multiple respositories without losing all that tasty tasty commit history?

@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2024/02/farewell-farset/
+- /2024/02/farewell-farset.html
 categories:
 - Community
 - Personal
@@ -14,7 +17,6 @@ tags:
 - Northern Ireland
 title: Farewell Farset
 ---
-
 Today, I'm no longer the Treasurer of Farset Labs, and in the next few days, I'll officially have left the board of trustees of the charity that I helped form over 13 years ago.
 
 Farset Labs started as a [Google Group](https://groups.google.com/g/belfast-hackspace-working-group/c/KJw3A8uAdXA) that I started in [2010](/2010/07/belfast-hackerspace-anyone/). It took until 2012 to get our act together, along with some entertaining hackathons riding on the backs of our friends at Dragonslayers.

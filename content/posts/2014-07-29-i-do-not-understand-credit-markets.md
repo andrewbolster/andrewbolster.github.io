@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2014/07/i-do-not-understand-credit-markets/
+- /2014/07/i-do-not-understand-credit-markets.html
 cover:
   image: img/i-do-not-understand-credit-markets.generated.png
 date: 2014-07-29 00:00:00+00:00
@@ -9,7 +12,6 @@ tags:
 - Finance
 title: I do not understand credit markets
 ---
-
 After 20+ years with [Ulster Bank](http://www.ulsterbank.co.uk) (All hail Henry Hippo), and with countless computer, customer service, overdraft, and credit card problems, I'm jumping ship to [Santander](http://www.santander.co.uk) on the advice of my friends, colleagues and family. It hasn't gone so well.
 
 # Credit Background

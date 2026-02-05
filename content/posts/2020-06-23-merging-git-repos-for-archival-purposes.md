@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2020/06/merging-git-repos-for-archival-purposes/
+- /2020/06/merging-git-repos-for-archival-purposes.html
 cover:
   image: img/merging-git-repos-for-archival-purposes.generated.png
 date: 2020-06-23 14:32:00+01:00
@@ -8,7 +11,6 @@ tags:
 - version-control
 title: Merging Git Repos for Archival Purposes
 ---
-
 # TL;DR
 
 I had reason to want to combine git repos into one big repo consisting of repos in their own folders, while ideally maintaining the histories of all those repos for archaeological purposes.

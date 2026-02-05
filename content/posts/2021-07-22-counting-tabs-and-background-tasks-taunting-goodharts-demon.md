@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2021/07/counting-tabs-and-background-tasks-taunting-goodharts-demon/
+- /2021/07/counting-tabs-and-background-tasks-taunting-goodharts-demon.html
 cover:
   image: img/counting-tabs-and-background-tasks-taunting-goodharts-demon.generated.png
 date: 2021-07-22 10:58:00+00:00
@@ -9,7 +12,6 @@ tags:
 - Windows
 title: 'Counting Tabs and Background Tasks: Taunting Goodharts Demon'
 ---
-
 This was going to be a really quick post yesterday, but I've spent the guts of a day (between actual work) just getting the _simplest_ bit of this working.
 
 ## The intent

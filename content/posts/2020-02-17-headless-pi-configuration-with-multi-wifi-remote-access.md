@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2020/02/headless-pi-configuration-with-multi-wifi-remote-access/
+- /2020/02/headless-pi-configuration-with-multi-wifi-remote-access.html
 cover:
   image: img/headless-pi-configuration-with-multi-wifi-remote-access.generated.png
 date: 2020-02-17 15:28:00+00:00
@@ -7,7 +10,6 @@ tags:
 - Raspberry Pi
 title: Headless Pi Configuration with Multi-Wifi Remote Access
 ---
-
 Raspberry Pi's are great, but often have a lot of baggage associated with them, and I keep forgetting all the clever things you can do to get them up and running without having a sea of cables attached...
 
 # Results

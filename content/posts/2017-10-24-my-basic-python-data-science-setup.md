@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2017/10/my-basic-python-data-science-setup/
+- /2017/10/my-basic-python-data-science-setup.html
 cover:
   image: img/my-basic-python-data-science-setup.generated.png
 date: 2017-10-24 00:00:00+00:00
@@ -16,7 +19,6 @@ tags:
 - Seaborn
 title: My Basic (Python) Data Science Setup
 ---
-
 After last weeks [return to posting](), I thought it was time to do something vaguely useful (and actually talk about it) so I'm tidying up a few meetup sessions I've presented at into a series of Basic Data Science (with Python) posts. This is the first one and covers my Python environment, the Jupyter notebook environments I use for analysis, and some  on the Plot.ly graphs and RISE / Reveal.js methods I use to turn those notebooks into presentations.
 
 This section will be "Light" on the data science, maths, politics and everything else outside of the setup of this wee environment.

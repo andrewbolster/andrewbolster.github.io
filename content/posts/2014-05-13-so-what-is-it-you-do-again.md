@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2014/05/so-what-is-it-you-do-again/
+- /2014/05/so-what-is-it-you-do-again.html
 cover:
   image: img/so-what-is-it-you-do-again.generated.png
 date: 2014-05-13 00:00:00+00:00
@@ -12,7 +15,6 @@ tags:
 - University of Liverpool
 title: So, what is it you do again?
 ---
-
 _Update:_ I got asked to do a simplified version of this post for the University of Liverpool, it lives [here](http://news.liv.ac.uk/2014/06/02/becoming-an-expert-andrew-bolster-on-suspicious-submarines/) ([Backup](/uploads/2014/becominganexpert.pdf))
 
 I'm technically in a third year of a PhD, and most of the time, when someone asks me what it is I'm actually doing, I fluff it and say something about "autonomous submarines" or "collaborative autonomy" or "Emergent properties of communities" or something similarly vague.

@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2021/11/uuids-and-you/
+- /2021/11/uuids-and-you.html
 cover:
   image: img/uuids-and-you.generated.png
 date: 2021-11-10 18:00:00+00:00
@@ -6,7 +9,6 @@ tags:
 - Web Development
 title: UUIDs and You
 ---
-
 > The guts of this document was originally created as part of my work at NTT Application Security stripped of its specificity and retained for my own reference.
 
 ## Background

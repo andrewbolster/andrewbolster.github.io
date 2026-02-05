@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2017/09/legal-considerations-for-trusted-autonomy/
+- /2017/09/legal-considerations-for-trusted-autonomy.html
 cover:
   image: img/legal-considerations-for-trusted-autonomy.generated.png
 date: 2017-09-28 18:02:12+0100
@@ -12,7 +15,6 @@ tags:
 - Robotics
 title: Legal Considerations for Trusted Defence Autonomy
 ---
-
 This is another short extract from the [Thesis](https://github.com/andrewbolster/thesis/releases/download/v1.0/Thesis.pdf) that I thought was particularly relevant given [recent](https://www.theguardian.com/technology/2017/sep/27/robots-destabilise-world-war-unemployment-un) [news](http://www.telegraph.co.uk/news/science/science-news/11633838/Killer-robots-will-leave-humans-utterly-defenceless-warns-professor.html) coverage of the dangers of autonomy and AI, particularly in the field of "killer robots".
 
 # Legal Considerations in Design Trust

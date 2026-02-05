@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2020/02/mosquitto-mqtt-emon-pi-open-energy-monitor-forwarding-bridge/
+- /2020/02/mosquitto-mqtt-emon-pi-open-energy-monitor-forwarding-bridge.html
 cover:
   image: img/mosquitto-mqtt-emon-pi-open-energy-monitor-forwarding-bridge.generated.png
 date: 2020-02-18 16:40:00+00:00
@@ -10,7 +13,6 @@ tags:
 - Raspberry Pi
 title: Mosquitto (MQTT) Emon Pi (Open Energy Monitor) Forwarding Bridge
 ---
-
 Super quick one this time; I've been experimenting with [MQTT](http://mqtt.org/) to act as a central messaging broker for "Farset In-Space Related Stuff" as part of the near continuous [renovations and expansions](https://blog.farsetlabs.org.uk/2019/09/farset-labs-2-0-nearly-ready-to-go/).
 
 We previously had a well configured [EMonPi](https://wiki.openenergymonitor.org/index.php/EmonPi) set up with nice dashboards and things, but that died a death at some point during the move, who knows.

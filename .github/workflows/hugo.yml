@@ -40,6 +40,24 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Validate post aliases
+        run: |
+          uv run add_clean_aliases.py
+          if git diff --quiet; then
+            echo "✅ All posts have required aliases"
+          else
+            echo "❌ Some posts are missing aliases. The following changes were made:"
+            git diff
+            echo ""
+            echo "Please commit these changes or run 'uv run add_clean_aliases.py' locally."
+            exit 1
+          fi
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache

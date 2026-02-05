@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2025/08/2014-08-20-gps-iii-where-are-we-and-where-are-we-going-archive/
+- /2025/08/2014-08-20-gps-iii-where-are-we-and-where-are-we-going-archive.html
 cover:
   image: img/2014/GPS-IIRM.jpg
 date: 2025-08-22 03:16:00-04:00
@@ -7,7 +10,6 @@ tags:
 - Navigation
 title: 'GPS III: Where Are We? And Where Are We Going? [Archive]'
 ---
-
 > **Archival Note**: This post preserves an article I originally wrote for MakeUseOf way back in August 2014 while I was at The University of Liverpool doing my PhD. The original published version is at [MakeUseOf: GPS III: Where Are We? And Where Are We Going?](https://www.makeuseof.com/tag/gps-iii-going/). They probably still own everything but this is from my original 'manuscript'.
 ---
 

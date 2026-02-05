@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2025/03/aiops-maturity-model/
+- /2025/03/aiops-maturity-model.html
 categories:
 - AI
 - DevOps
@@ -13,7 +16,6 @@ tags:
 - Machine Learning
 title: AIOps Maturity Model
 ---
-
 ## Introduction
 
 This document outlines an AIOps Maturity Model to help organizations assess and improve their Machine Learning Operations capabilities. It came from my own frustration that there weren't any models that fit the real experience of end-to-end data science and operations relationships that covered _both_ 'conventional' ML, _and_ practically discussing LLM based systems and how completly differently you have to think about them.

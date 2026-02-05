@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2023/05/pulling-election-count-data-out-of-google-sheets-for-fun-and-democracy/
+- /2023/05/pulling-election-count-data-out-of-google-sheets-for-fun-and-democracy.html
 categories:
 - Data Science
 - Politics
@@ -14,7 +17,6 @@ tags:
 - Web Development
 title: Pulling Election Count data out of Google Sheets for fun and democracy
 ---
-
 # Messing around with Elections NI data
 
 Sources:

@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2014/05/multiprocessing-niceness-in-python/
+- /2014/05/multiprocessing-niceness-in-python.html
 cover:
   image: img/multiprocessing-niceness-in-python.generated.png
 date: 2014-05-07 00:00:00+00:00
@@ -8,7 +11,6 @@ tags:
 - Simulation
 title: Multiprocessing Niceness in Python
 ---
-
 Quick and dirty one that tripped me up.
 
 Recently I've been doing lots of [multiprocessing](https://docs.python.org/2/library/multiprocessing.html) and [joblib](https://pythonhosted.org/joblib/)-based parallel processing, with loooong simulation times.

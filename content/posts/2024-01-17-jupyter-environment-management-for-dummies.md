@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2024/01/jupyter-environment-management-for-dummies/
+- /2024/01/jupyter-environment-management-for-dummies.html
 categories:
 - Data Science
 - Tutorial
@@ -14,7 +17,6 @@ tags:
 - Tutorial
 title: Jupyter Environment Management for Dummies
 ---
-
 This is another one of those "I kept googling the same thing over and over again" things that needed a post, except this time I made an [issue to make a post](https://github.com/andrewbolster/andrewbolster.github.io/issues/8) and then started to repeatedly refer to that.
 
 ## TL;DR

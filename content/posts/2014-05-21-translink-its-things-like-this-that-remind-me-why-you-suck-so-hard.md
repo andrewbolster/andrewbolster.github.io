@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2014/05/translink-its-things-like-this-that-remind-me-why-you-suck-so-hard/
+- /2014/05/translink-its-things-like-this-that-remind-me-why-you-suck-so-hard.html
 cover:
   image: img/translink-its-things-like-this-that-remind-me-why-you-suck-so-hard.generated.png
 date: 2014-05-21 00:00:00+00:00
@@ -9,7 +12,6 @@ tags:
 - web post
 title: Translink, it's things like this that remind me why you suck so hard
 ---
-
 `<rant>`
 
 There was a post on [r/Belfast](http://www.reddit.com/r/Belfast/comments/264m7u/is_there_a_site_which_lays_out_the_bus_routes_of/) today from someone moving to Belfast looking to make a decision on where they wanted to live.
