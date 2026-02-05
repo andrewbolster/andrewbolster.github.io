@@ -125,14 +125,11 @@ Always include the canonical post URL for proper attribution:
 2. Verify endpoint is accessible with your configured credentials
 3. Test connection with available models endpoint
 
-### Error: Environment variables pointing to wrong endpoint
+### Error: Wrong endpoint being used despite passing arguments
 
-**Problem**: LITELLM_PROXY_URL environment variable overrides script arguments.
+**Problem**: Script may fall back to environment variables if arguments aren't passed correctly.
 
-**Solution**: Either unset the environment variable or use values from manage.ini:
-```bash
-unset LITELLM_PROXY_URL LITELLM_PROXY_API_KEY
-```
+**Solution**: Always explicitly pass --base-url and --api-key from manage.ini to ensure correct endpoint is used.
 
 
 ### Error: add-featured-image-to-post doesn't pass verbose flag through
