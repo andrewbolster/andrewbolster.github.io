@@ -46,6 +46,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 ## Engagements and Publications
 * 2026
   * :speech_balloon: [73% of CISOs more likely to consider AI-enabled security solution](https://www.csoonline.com/article/4120218/73-of-cisos-more-likely-to-consider-ai-enabled-security-solution.html) - CSO Online - Commentary
+  * :speech_balloon: [The dark side of the ChatGPT caricature craze where experts warn people to 'stop feeding all your data to strangers'](https://www.thesun.co.uk/fabulous/38177600/chatgpt-caricature-craze-experts-warn-stop-feeding-data/) - The Sun - Commentary
 * 2025
   * :speaking_head: Building Beyond Buzzwords: Real AI, Real Security - [Gartner Security & Risk Management Summit 2025](https://www.gartner.com/en/conferences/emea/security-risk-management-uk) - Speaker
   * :movie_camera: [AI scaling requires data governance framework integration](https://www.bankinfosecurity.com/ai-scaling-requires-data-governance-framework-integration-a-29526) - Bank Info Security (ISMG) @ Gartner SRM - Interview
