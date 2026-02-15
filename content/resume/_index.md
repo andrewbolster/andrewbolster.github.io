@@ -24,6 +24,8 @@ Specific interests in and around intelligent decision support systems, cybersecu
 
 ## Experience (2013 - Present)
 
+<div class="job-section">
+
 ### [Black Duck Software](https://blackduck.com/), Belfast ![](/img/bd.png)
 
 #### Senior R&D Manager [[Black Duck Software](https://blackduck.com/)] (2024 - Present)
@@ -52,6 +54,38 @@ Delivered comprehensive security analysis covering tens of millions of findings 
 
 Additionally, served as the UK Home Office Immigration Liaison ensuring compliance with immigration policies and procedures, UK R&D Tax Credit submission coordinator, sat on the UK Culture team, Fire Warden and First Aider.
 
+</div>
+
+<div class="job-section">
+
+### BSides Belfast CIC, Belfast, UK ![](/img/bsidesbelfast.png)
+
+#### Treasurer (Voluntary 2022 - Present)
+
+BSides Belfast is a volunteer-run community conference for cybersecurity professionals, practitioners, and enthusiasts across Northern Ireland, typically held annually in September. As part of the globally recognised Security BSides framework, it connects the local information security community with a network of over 750 BSides chapters worldwide across 60 countries.
+
+Led sponsorship relations and financial governance for the conference, managing annual budgeting, vendor relationships, and corporate partnership development. Coordinated multi-track conference logistics hosting 200+ attendees including security professionals, researchers, and students while maintaining the community-focused, non-commercial mission.
+
+Collaborated with organizing committee to establish BSides Belfast as Northern Ireland's premier community-driven information security event, attracting international speakers and fostering regional cybersecurity networking, upskilling, and education in an environment free from commercial incentives.
+
+</div>
+
+<div class="job-section">
+
+### Farset Labs, Belfast, UK ![](/img/farsetlabs.png)
+
+#### Founder/Director/Treasurer (Voluntary 2011 - 2024)
+
+Created the Farset Labs hackerspace in response to a demonstrated need for an independent, non-profit, charitable community of technology innovators, providing them a open space and shared resources to experiment, explore, and grow themselves, their projects, and relationships with local and global business.
+
+Built Farset Labs as a hub for the technology community in Belfast and Northern Ireland as a whole, ensuring that the organisation remains agile and true to its core values.
+
+Currently Farset Labs stands as a valued part of the technology, entrepreneurship, and STEM outreach communities, with collaborations with academia, government, and the private sector across Northern Ireland
+
+</div>
+
+<div class="job-section">
+
 ### Alert Logic, Belfast ![](/img/alert.png)
 #### Data Scientist (2018 - 2019)
 
@@ -63,6 +97,10 @@ Developed dynamic customer segmentation methodologies, and ML derived Content Si
 
 Generated internal software development, deployment, and scaling best practices in line with industry and academic state of art.
 
+</div>
+
+<div class="job-section">
+
 ### Sensum Co, Belfast ![](/img/sensum.png)
 #### Data Scientist (2016 - 2018)
 
@@ -72,21 +110,19 @@ Primary responsibilities in data analysis and investigation, as well as the desi
 
 Secondary responsibilities in the architecture of secure data services architecture, PII management, data visualisation, ingress, ETL, as well as on-site, cloud, and mobile data analysis and connectivity architecture.
 
+</div>
+
+<div class="job-section">
+
 ### TOM Ltd, Belfast / Liverpool, UK ![](/img/spriteguard.png)
 #### Associate / SpriteGuard Product Manager / Director of Research and Development (PT 2012 - 2016)
 
 Directed development and refinement of advanced wireless security systems for the public hotspot and payments services industries; product structure and marketing, including stakeholder discussion and trade show representation.
 
+</div>
 
-### Farset Labs, Belfast, UK ![](/img/farsetlabs.png)
 
-#### Founder/Director (Voluntary 2011 - 2024)
-
-Created the Farset Labs hackerspace in response to a demonstrated need for an independent, non-profit, charitable community of technology innovators, providing them a open space and shared resources to experiment, explore, and grow themselves, their projects, and relationships with local and global business.
-
-Built Farset Labs as a hub for the technology community in Belfast and Northern Ireland as a whole, ensuring that the organisation remains agile and true to its core values.
-
-Currently Farset Labs stands as a valued part of the technology, entrepreneurship, and STEM outreach communities, with collaborations with academia, government, and the private sector across Northern Ireland
+<div class="job-section">
 
 ### Defence Science and Technology Laboratory, Portsdown West, UK ![](/img/dstl.png)
 
@@ -95,6 +131,8 @@ Currently Farset Labs stands as a valued part of the technology, entrepreneurshi
 Coordinated research between Information Management and Naval Systems departments to synthesize a coordinated, data driven approach towards maritime autonomy and its potential applications.
 
 Culminated in significant contribution to a Five-Eyes Autonomy Exchange project.
+
+</div>
 
 ## Education
 

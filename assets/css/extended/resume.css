@@ -291,10 +291,11 @@
     }
 
 
-    /* Force Education section to new page */
+    /* Avoid breaking education section across pages - only start new page if needed */
     .resume-main h2#education {
-        page-break-before: always !important;
-        margin-top: 0 !important;
+        page-break-before: auto !important;
+        page-break-after: avoid !important;
+        margin-top: 16pt !important;
     }
 
     /* Main content headings */
@@ -312,12 +313,46 @@
         margin-top: 0 !important;
     }
 
+    /* Job sections - avoid splitting across pages */
     .resume-main h3 {
         font-size: 13pt !important;
         font-weight: bold !important;
         color: black !important;
         background: white !important;
         margin: 12pt 0 4pt 0 !important;
+        page-break-after: avoid !important;
+        page-break-inside: avoid !important;
+        orphans: 2 !important;
+    }
+
+    /* Nuclear option: job-section divs are COMPLETELY unbreakable */
+    .job-section {
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+        display: block !important;
+        overflow: visible !important;
+    }
+
+    /* Keep H3+H4 together with proper spacing */
+    .resume-main h3 + h4 {
+        margin-top: 2pt !important; /* Normal spacing, not negative! */
+        page-break-before: avoid !important;
+        break-before: avoid !important;
+    }
+
+    /* Keep job content together */
+    .resume-main h4 + p,
+    .resume-main h4 + p + p,
+    .resume-main h4 + p + p + p,
+    .resume-main h4 + ul {
+        page-break-before: avoid !important;
+        page-break-inside: avoid !important;
+    }
+
+    /* If Education has room, don't force new page */
+    .resume-main h2 {
+        orphans: 3 !important;
+        widows: 3 !important;
     }
 
     .resume-main h3 img {
@@ -333,6 +368,9 @@
         color: black !important;
         background: white !important;
         margin: 2pt 0 4pt 0 !important;
+        page-break-before: avoid !important;
+        break-before: avoid !important;
+        widows: 2 !important;
     }
 
     .resume-main p {
