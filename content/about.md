@@ -45,6 +45,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 ## Engagements and Publications
 * 2026
+  * :speech_balloon: [New research from Check Point has uncovered critical vulnerabilities in Claude Code](https://www.mbtmag.com/cybersecurity/article/22961480/new-research-from-check-point-has-uncovered-critical-vulnerabilities-in-claude-code) - Manufacturing Business Technology - Commentary
   * :speech_balloon: [Claude Code Critical Flaws Allowed RCE and API Token Theft](https://www.technadu.com/claude-code-critical-flaws-allowed-rce-and-api-token-theft-ai-development-security-risks-exposed/621031/) - Tech Nadu - Commentary
   * :speech_balloon: [73% of CISOs more likely to consider AI-enabled security solution](https://www.csoonline.com/article/4120218/73-of-cisos-more-likely-to-consider-ai-enabled-security-solution.html) - CSO Online - Commentary
   * :speech_balloon: [The dark side of the ChatGPT caricature craze where experts warn people to 'stop feeding all your data to strangers'](https://www.thesun.co.uk/fabulous/38177600/chatgpt-caricature-craze-experts-warn-stop-feeding-data/) - The Sun - Commentary
