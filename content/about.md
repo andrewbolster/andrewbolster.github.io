@@ -45,6 +45,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 ## Engagements and Publications
 * 2026
+  * :speaking_head: [Embrace AI Coding Assistants While Efficiently Managing Risk](https://www.techshowlondon.co.uk/tech-show-london-2026-programme/embrace-ai-coding-assistants-while-efficiently-managing-risk) - [Tech Show London / DevOps Live 2026](https://www.techshowlondon.co.uk/) - Speaker
   * :speech_balloon: [New research from Check Point has uncovered critical vulnerabilities in Claude Code](https://www.mbtmag.com/cybersecurity/article/22961480/new-research-from-check-point-has-uncovered-critical-vulnerabilities-in-claude-code) - Manufacturing Business Technology - Commentary
   * :speech_balloon: [Claude Code Critical Flaws Allowed RCE and API Token Theft](https://www.technadu.com/claude-code-critical-flaws-allowed-rce-and-api-token-theft-ai-development-security-risks-exposed/621031/) - Tech Nadu - Commentary
   * :speech_balloon: [73% of CISOs more likely to consider AI-enabled security solution](https://www.csoonline.com/article/4120218/73-of-cisos-more-likely-to-consider-ai-enabled-security-solution.html) - CSO Online - Commentary
