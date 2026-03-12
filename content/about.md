@@ -45,6 +45,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 
 ## Engagements and Publications
 * 2026
+  * :speaking_head: [Embrace AI Coding Assistants While Efficiently Managing Risk](https://www.techshowlondon.co.uk/tech-show-london-2026-programme/embrace-ai-coding-assistants-while-efficiently-managing-risk) - [Tech Show London 2026](https://www.techshowlondon.co.uk/) - Speaker
   * :speech_balloon: [New research from Check Point has uncovered critical vulnerabilities in Claude Code](https://www.mbtmag.com/cybersecurity/article/22961480/new-research-from-check-point-has-uncovered-critical-vulnerabilities-in-claude-code) - Manufacturing Business Technology - Commentary
   * :speech_balloon: [Claude Code Critical Flaws Allowed RCE and API Token Theft](https://www.technadu.com/claude-code-critical-flaws-allowed-rce-and-api-token-theft-ai-development-security-risks-exposed/621031/) - Tech Nadu - Commentary
   * :speech_balloon: [73% of CISOs more likely to consider AI-enabled security solution](https://www.csoonline.com/article/4120218/73-of-cisos-more-likely-to-consider-ai-enabled-security-solution.html) - CSO Online - Commentary
@@ -83,7 +84,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon: [DeepSeek rise leads to $1 trillion loss for US tech giants](https://www.techerati.com/news-hub/deepseek-rise-leads-to-1-trillion-loss-for-us-tech-giants/) - Techerati - Commentary
   * :speech_balloon: [What is DeepSeek — and what does it mean for your business?](https://www.techfinitive.com/features/what-is-deepseek-and-what-does-it-mean-for-your-business/) - TechFinitive - Commentary
   * :speech_balloon: [What is DeepSeek and what is all the fuss about?](https://www.securityinfowatch.com/cybersecurity/article/55263769/what-is-deepseek-and-what-is-all-the-fuss-about) - SecurityInfoWatch - Commentary
-  * :speech_balloon:[ChatGPT o1: AI That Thinks, Lies, And Deceives Like A Human](https://medium.datadriveninvestor.com/chatgpt-o1-ai-that-thinks-lies-and-deceives-like-a-human-1a9574474ed0) - DataDrivenInvestor - Commentary
+  * :speech_balloon: [ChatGPT o1: AI That Thinks, Lies, And Deceives Like A Human](https://medium.datadriveninvestor.com/chatgpt-o1-ai-that-thinks-lies-and-deceives-like-a-human-1a9574474ed0) - DataDrivenInvestor - Commentary
   * :speech_balloon: [CISA Launches AI Sharing Playbook](https://insight.scmagazineuk.com/cisa-launches-ai-sharing-playbook) - SCMagazine - Commentary
   * :speech_balloon: [Bad actors exploit X's Grok to run 'racy' malvertising campaign](https://www.scworld.com/news/bad-actors-exploit-xs-grok-to-run-racy-malvertising-campaign) - SC World - Commentary
 
