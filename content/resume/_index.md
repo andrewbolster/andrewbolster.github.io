@@ -9,7 +9,7 @@ hideMeta: true
 
 ![](/img/bolster.png)
 
-# Andrew Bolster Ph.D. MEng FRSS MBCS
+# Andrew Bolster Ph.D. MEng FRSS AdvDSP MBCS
 
 *Driving data to make AI work*
 
@@ -182,7 +182,7 @@ Data Architecture, Data Science, LLMOps, MLOps, Data Governance, Workforce Manag
 ## Professional Associations
 
 * ILM - [Level 5 Diploma in Leadership and Management](https://www.credly.com/badges/b28e2129-34d9-40b8-a725-5ab12c533ed0/linked_in_profile)
-* Royal Statistical Society - [Fellow](https://rss.org.uk/my-rss/fellows-directory/fellow/?id=6615)
+* Royal Statistical Society - [Fellow](https://rss.org.uk/my-rss/fellows-directory/fellow/?id=6615) & [Advanced Data Science Professional](https://rss.org.uk/membership/professional-development/advanced-data-science-professional/)
 * British Computer Society - Member
 * Northern Ireland Open Government Network  - Member
 * IEEE - Empathic Technology Working Group Member (7014)

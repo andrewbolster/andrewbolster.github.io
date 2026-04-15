@@ -202,7 +202,7 @@
     /* Page setup */
     @page {
         size: A4;
-        margin: 0.75in;
+        margin: 0.5in 0.75in;  /* Reduced top/bottom to 0.5in, keep sides at 0.75in */
     }
 
     /* Body reset */
@@ -231,23 +231,23 @@
     .resume-header {
         background: white !important;
         border-bottom: 2px solid black !important;
-        padding-bottom: 12pt !important;
-        margin-bottom: 16pt !important;
+        padding-bottom: 8pt !important;
+        margin-bottom: 12pt !important;
         page-break-after: avoid !important;
     }
 
     .resume-header h1 {
-        font-size: 20pt !important;
+        font-size: 18pt !important;
         font-weight: bold !important;
         color: black !important;
-        margin: 0 0 6pt 0 !important;
+        margin: 0 0 4pt 0 !important;
         background: white !important;
     }
 
     .resume-header p {
         background: white !important;
         color: black !important;
-        margin: 4pt 0 !important;
+        margin: 3pt 0 !important;
     }
 
     .resume-header > p:first-of-type {
@@ -306,11 +306,21 @@
         background: white !important;
         border-bottom: 1px solid black !important;
         padding-bottom: 4pt !important;
-        margin: 16pt 0 8pt 0 !important;
+        margin: 12pt 0 6pt 0 !important;
+        page-break-after: avoid !important;
+        break-after: avoid !important;
     }
 
     .resume-main h2:first-child {
         margin-top: 0 !important;
+        page-break-before: avoid !important;
+        break-before: avoid !important;
+    }
+
+    /* Force Experience heading and first job to stay together */
+    .resume-main h2:first-child + .job-section {
+        page-break-before: avoid !important;
+        break-before: avoid !important;
     }
 
     /* Job sections - avoid splitting across pages */
@@ -322,15 +332,42 @@
         margin: 12pt 0 4pt 0 !important;
         page-break-after: avoid !important;
         page-break-inside: avoid !important;
-        orphans: 2 !important;
+        break-after: avoid !important;
+        break-inside: avoid !important;
+        orphans: 3 !important;
     }
 
-    /* Nuclear option: job-section divs are COMPLETELY unbreakable */
+    /* Keep h3 with following content */
+    .resume-main h3 + h4 + p,
+    .resume-main h3 + p {
+        page-break-before: avoid !important;
+        break-before: avoid !important;
+    }
+
+    /* Allow job sections to break across pages if needed (prevents orphaning long sections) */
     .job-section {
-        page-break-inside: avoid !important;
-        break-inside: avoid !important;
+        page-break-inside: auto !important;
+        break-inside: auto !important;
         display: block !important;
         overflow: visible !important;
+    }
+
+    /* Keep h3, all h4s, and first p together in job sections */
+    .job-section h3 {
+        page-break-after: avoid !important;
+        break-after: avoid !important;
+    }
+
+    .job-section h4 {
+        page-break-before: avoid !important;
+        page-break-after: avoid !important;
+        break-before: avoid !important;
+        break-after: avoid !important;
+    }
+
+    .job-section p:first-of-type {
+        page-break-before: avoid !important;
+        break-before: avoid !important;
     }
 
     /* Keep H3+H4 together with proper spacing */
@@ -356,9 +393,7 @@
     }
 
     .resume-main h3 img {
-        float: right !important;
-        height: 16pt !important;
-        margin-left: 8pt !important;
+        display: none !important;
     }
 
     .resume-main h4 {
@@ -369,8 +404,16 @@
         background: white !important;
         margin: 2pt 0 4pt 0 !important;
         page-break-before: avoid !important;
+        page-break-after: avoid !important;
         break-before: avoid !important;
+        break-after: avoid !important;
         widows: 2 !important;
+    }
+
+    /* Keep h4 with following paragraph */
+    .resume-main h4 + p {
+        page-break-before: avoid !important;
+        break-before: avoid !important;
     }
 
     .resume-main p {
@@ -386,6 +429,8 @@
         margin: 6pt 0 !important;
         padding-left: 16pt !important;
         background: white !important;
+        orphans: 2 !important;
+        widows: 2 !important;
     }
 
     .resume-main li {
@@ -394,6 +439,8 @@
         color: black !important;
         background: white !important;
         margin-bottom: 3pt !important;
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
     }
 
     /* Sidebar - only visible on first page */
