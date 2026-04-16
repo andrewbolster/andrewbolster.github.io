@@ -47,6 +47,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 * 2026
   * :speaking_head: [Embrace AI Coding Assistants While Efficiently Managing Risk](https://www.techshowlondon.co.uk/tech-show-london-2026-programme/embrace-ai-coding-assistants-while-efficiently-managing-risk) - [Tech Show London / DevOps Live 2026](https://www.techshowlondon.co.uk/) - Speaker
   * :speaking_head: Dr. StrangeBot: How I Learned to Stop Worrying & Love Diverse Security Data - RSA Conference 2026 - Speaker
+  * :speech_balloon: [Researchers hijack popular AI agents from Anthropic, Google, and Microsoft: vendors choose to stay silent](https://cybernews.com/security/ai-agents-github-prompt-injection-pattern/) - Cybernews - Commentary
   * :speech_balloon: [Researchers Say Claude Flaws Could Be Chained to Silently Exfiltrate User Data](https://securitybuzz.com/cybersecurity-news/researchers-say-claude-flaws-could-be-chained-to-silently-exfiltrate-user-data/) - SecurityBuzz - Commentary
   * :speech_balloon: [New research from Check Point has uncovered critical vulnerabilities in Claude Code](https://www.mbtmag.com/cybersecurity/article/22961480/new-research-from-check-point-has-uncovered-critical-vulnerabilities-in-claude-code) - Manufacturing Business Technology - Commentary
   * :speech_balloon: [Claude Code Critical Flaws Allowed RCE and API Token Theft](https://www.technadu.com/claude-code-critical-flaws-allowed-rce-and-api-token-theft-ai-development-security-risks-exposed/621031/) - Tech Nadu - Commentary
