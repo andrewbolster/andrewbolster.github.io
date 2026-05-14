@@ -37,3 +37,4 @@ go.sum
 
 # Configuration files with API keys
 manage.ini
+.claude/
