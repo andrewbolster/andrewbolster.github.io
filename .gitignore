@@ -27,6 +27,9 @@ resume/*.out
 resume/*.xml
 resume/*.pdf
 
+# Scratch 
+scratch/
+
 # Ruby (legacy)
 Gemfile.lock
 .bundle/
@@ -37,3 +40,4 @@ go.sum
 
 # Configuration files with API keys
 manage.ini
+.claude/
