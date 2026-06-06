@@ -59,6 +59,12 @@ make precommit
 - **themes/PaperMod/**: PaperMod theme (git submodule)
 - **archetypes/**: Templates for new content
 - **public/**: Generated static site (excluded from git)
+- **scratch/**: Temporary research and working notes for Claude Code agents
+
+### Scratch Directory Usage
+Use `scratch/` for research notes, source documents, link lists, and working files when drafting posts. This keeps research traceable and avoids polluting the repo root.
+
+**Critical**: The `scratch/` directory **must be deleted before merging any branch to master**. The CI workflow enforces this — PRs will fail if `scratch/` is present. Clean it up as the final step before raising a PR.
 
 ### Theme
 - Uses PaperMod theme (https://github.com/adityatelange/hugo-PaperMod)

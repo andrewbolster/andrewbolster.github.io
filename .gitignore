@@ -27,6 +27,9 @@ resume/*.out
 resume/*.xml
 resume/*.pdf
 
+# Scratch 
+scratch/
+
 # Ruby (legacy)
 Gemfile.lock
 .bundle/

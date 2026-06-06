@@ -1,5 +1,7 @@
 .PHONY: install update draft publish serve build clean precommit all
 
+HUGO := uvx hugo
+
 # Install Hugo (assumes brew on macOS, or provides instructions)
 install:
 	@echo "Installing Hugo..."
@@ -27,7 +29,10 @@ update:
 # Create a new draft post
 draft:
 	@read -p "Enter the title of the draft: " title; \
-	hugo new content/posts/$$(date +%Y-%m-%d)-$$(echo "$$title" | tr '[:upper:]' '[:lower:]' | tr ' ' '-').md
+	slug=$$(echo "$$title" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | tr -cd '[:alnum:]-'); \
+	filepath="content/posts/$$(date +%Y-%m-%d)-$$slug.md"; \
+	$(HUGO) new "$$filepath"; \
+	sed -i '' "s/^title:.*/title: \"$$title\"/" "$$filepath"
 
 # Publish drafts (move from draft: true to draft: false)
 # In Hugo, drafts are controlled by front matter, not directory location
@@ -37,11 +42,11 @@ publish:
 
 # Serve the site locally with drafts
 serve:
-	hugo server --buildDrafts --buildFuture --navigateToChanged
+	$(HUGO) server --buildDrafts --buildFuture --navigateToChanged
 
 # Build the production site
 build:
-	hugo --gc --minify
+	$(HUGO) --gc --minify
 
 # Clean generated files
 clean:

@@ -37,6 +37,13 @@ jobs:
             --minify \
             --baseURL "https://andrewbolster.info/"
 
+      - name: Check no scratch directory
+        run: |
+          if [ -d "scratch" ]; then
+            echo "ERROR: scratch/ directory must be removed before merging to master"
+            exit 1
+          fi
+
       - name: Verify build output
         run: |
           echo "Build completed successfully"
