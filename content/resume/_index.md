@@ -29,30 +29,22 @@ Specific interests in and around intelligent decision support systems, cybersecu
 ### [Black Duck Software](https://blackduck.com/), Belfast ![](/img/bd.png)
 
 #### Senior R&D Manager [[Black Duck Software](https://blackduck.com/)] (2024 - Present)
+
+Leading enterprise AI platform operations for 500+ internal R&D users, with platforms scaling to 30+ billion tokens monthly and £600k resource responsibility. Driving increasingly productionised AI workloads across the organisation, including contributing to and authoring Polaris Assist, Black Duck Assist, and Signal proof-of-concept and infrastructure work, and enabling cross-functional AI adoption across product, sales, renewal, and executive teams. Responsible for evaluating and collating measures of ROI of AI investments across both R&D and business support functions, translating platform costs and usage into measurable business outcomes. Regular strategic collaboration with CEO/CIO/CISO on data governance policy development directly shaping product contract terms and AI adoption frameworks.
+
+- Proactively aligned organisation with NIST AI Framework, EU AI Act, and Cyber Resilience Act; worked directly with legal, strategic advisory, and customer-facing audit teams to ensure compliance and industry best practice.
+- Led autonomous platform performance and team continuity through organisational transitions including the Black Duck divestment from Synopsys.
+- Contributed to AI tools review board; oversaw data privacy, confidentiality, mobility, and cataloguing as organisational data governance lead.
+- Delivered cross-functional AI enablement through systematic training programmes and AI maturity frameworks for 500+ internal R&D users spanning product, sales, renewal, and executive functions.
+- Named Top R&D External Media Contributor; regular speaker at Gartner Security & Risk Management Summit and RSA Conference; multi-year guest lecturer at Ulster University; commentary in Forbes, InfoSecurity Magazine, and major security publications.
+
 #### Senior R&D Manager [Synopsys] (2022 - 2024)
-#### Data Science Engineering Manager [NTT Application Security] (2020 - 2022)
-#### Data Science Team Lead [WhiteHat Security] (2019 - 2020)
 
-Led enterprise AI governance frameworks that break through historical organizational silos, unlocking hidden value across operational, product, and sales data from multiple acquired entities, enabling 500+ internal R&D users to innovate at unprecedented scale. Through strategic collaboration with CEO/CIO/CISO on unified data governance policy development, established cross-organizational frameworks directly impacting product contract terms and creating holistic visibility across formerly standalone products and companies. Managed £600k resource responsibility with platforms scaling to 30+ billion tokens monthly.
+Expanded data science function across WhiteHat, Polaris, and Black Duck product lines within Synopsys's Software Integrity Group. Drove GenAI strategy through hardware and software infrastructure investment decisions, establishing a production LLM Gateway and shared Databricks ecosystem serving multiple product teams, with accountability for tracking and demonstrating ROI of AI investments across R&D and business support activities. Led internal Knowledge Engineering initiatives and deployed production-grade LLM-based features. Served as primary organisation-wide stakeholder and approver for all GenAI projects. Authored Data Mobility Standard and Data Governance policies as a shared governance regime across formerly independent products. Managed international collaborations with subject matter experts across engineering, security research, and product domains. Contributed to due diligence and M&A activities at both ends of the Synopsys tenure: the acquisition of WhiteHat from NTT and the subsequent Black Duck divestment from Synopsys.
 
-Managed team of Data Scientists driving cross-product initiatives across WhiteHat, Polaris, and Black Duck product lines. Focus areas included MLOps for automated vulnerability verification, dynamic payload generation, churn modeling, security metric evaluation, and NLP-based customer feedback analysis. Acted as the primary stakeholder for LLM approval and AI/GenAI projects across Black Duck, ensuring alignment with organizational goals and compliance standards. Authored new Data Mobility Standard and Data Governance policies, establishing a framework for data handling and usage across the organization.
+#### Data Science Team Lead / Engineering Manager [WhiteHat / NTT Application Security] (2019 - 2022)
 
-Key responsibilities included:
-- Setting strategic research priorities and upskilling the team to foster continuous innovation.
-- Establishing and scaling a Data Science capability within an established cybersecurity organization.
-- Led organizational adaptation through multiple restructuring cycles while maintaining team performance and platform stability.
-- Contributed to strategic due diligence for large-scale acquisitions and divestments, including WhiteHat integration into Synopsys and Black Duck divestment from Synopsys.
-- Building and mentoring team members in ML/AI methodologies and technology stacks.
-- Collaborating with cross-functional leaders to identify and solve business challenges using Data Science with a clear path to productionisation.
-- Partnering with cybersecurity experts to develop ML/AI driven SME Decision Support and Advisory systems that improve feedback, risk, onboarding, and training processes.
-- Partnering with compliance and legal to advance data product / AI development and ensure alignment with regulatory requirements and customer committements, including proactive alignment with evolving NIST AI Framework, EU AI Act, and Cyber Resilience Act.
-- Leading on AI/ML/Data related press and thought leadership activities as Top R&D External Media Contributor, including speaking at conferences, university guest lectures, and regular press contributions in outlets such as Forbes and InfoSecurity Magazine.
-
-Serve as "Data Tzar," overseeing data privacy, confidentiality, mobility, and cataloging. Chaired the AI tools review board and led the delivery of AI/LLM-driven tools and capabilities across the organization.
-
-Delivered comprehensive security analysis covering tens of millions of findings with over a million scan events monthly, through production-grade Machine Learning and LLM based solutions. Provided accessible documentation and explanations of advanced statistical and data science practices. Worked closely with the Chief Architect to define architectural standards for ML projects.
-
-Additionally, served as the UK Home Office Immigration Liaison ensuring compliance with immigration policies and procedures, UK R&D Tax Credit submission coordinator, sat on the UK Culture team, Fire Warden and First Aider.
+Established and grew the data science capability within a mature Dynamic Application Security Testing organisation through the WhiteHat-to-NTT acquisition, maintaining delivery continuity and team performance throughout. Built a common data ontology and taxonomies for abstract AppSec workflows across a multi-tool environment, providing a unified analytical layer across disparate product data. Delivered production-grade ML pipelines for automated vulnerability triage, dynamic payload generation, churn modelling, security metric evaluation, and NLP-based customer feedback analysis, scaling to tens of millions of findings across more than a million monthly scan events. Established internal ML engineering and developer enablement best practices. Additionally served as UK Home Office Immigration Liaison, UK R&D Tax Credit submission coordinator, and sat on the UK Culture committee.
 
 </div>
 
