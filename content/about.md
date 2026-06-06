@@ -81,6 +81,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon: [Why SLMs Could Be a Big Deal for Businesses Looking for an Edge (World of Software)](https://worldofsoftware.org/why-slms-could-be-a-big-deal-for-businesses-looking-for-an-edge-computer-weekly/) - World of Software - Commentary
   * :speech_balloon: [Dlaczego SLM Może Być Wielką Sprawą Dla Firm Szukających Przewagi](https://cyberfeed.pl/dlaczego-slm-moze-byc-wielka-sprawa-dla-firm-szukajacych-przewagi/) - CyberFeed - Commentary
   * :speech_balloon: [Chinese AI App DeepSeek Rattles Tech Markets](https://www.technewsworld.com/story/chinese-ai-app-deepseek-rattles-tech-markets-179551.html) - TechNewsWorld - Commentary
+  * :speech_balloon: [UK and US refuse to sign international AI declaration](https://informationsecuritybuzz.com/uk-us-refuse-to-sign-ai-declaration/) - Information Security Buzz - Commentary
   * :speech_balloon: [AI aggregator OmniGPT reportedly breached, leaking sensitive user data online](https://siliconangle.com/2025/02/12/ai-aggregator-omnigpt-reportedly-breached-sensitive-user-data-leaked-online/) - SiliconANGLE - Commentary
   * :speech_balloon: [OpenAI Codex CLI patch closes major supply chain vulnerability](https://www.developer-tech.com/news/openai-codex-cli-patch-closes-major-supply-chain-vulnerability/) - Developer-Tech - Commentary
   * :speech_balloon: [DeepSeek and Cybersecurity: What Tech Pros Should Know](https://www.dice.com/career-advice/deepseek-and-cybersecurity-what-tech-pros-should-know) - Dice - Commentary
@@ -90,6 +91,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
   * :speech_balloon: [What is DeepSeek and what is all the fuss about?](https://www.securityinfowatch.com/cybersecurity/article/55263769/what-is-deepseek-and-what-is-all-the-fuss-about) - SecurityInfoWatch - Commentary
   * :speech_balloon:[ChatGPT o1: AI That Thinks, Lies, And Deceives Like A Human](https://medium.datadriveninvestor.com/chatgpt-o1-ai-that-thinks-lies-and-deceives-like-a-human-1a9574474ed0) - DataDrivenInvestor - Commentary
   * :speech_balloon: [CISA Launches AI Sharing Playbook](https://insight.scmagazineuk.com/cisa-launches-ai-sharing-playbook) - SCMagazine - Commentary
+  * :speech_balloon: [Attackers Exploit Grok AI to Spread Malware via Promoted Ads](https://informationsecuritybuzz.com/attackers-exploit-grok-ai-to-spread-malware-via-promoted-ads/) - Information Security Buzz - Commentary
   * :speech_balloon: [Bad actors exploit X's Grok to run 'racy' malvertising campaign](https://www.scworld.com/news/bad-actors-exploit-xs-grok-to-run-racy-malvertising-campaign) - SC World - Commentary
 
 
