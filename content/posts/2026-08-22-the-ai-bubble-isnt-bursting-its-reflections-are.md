@@ -2,7 +2,7 @@
 title: "The AI Bubble Isn’t Bursting. Its Reflections Are."
 date: 2026-08-22T10:30:25+01:00
 categories: [AI, Security]
-tags: [AI, application security, AppSec, DevOps, LLM, tokens, bubble, code generation, context, vibe coding, SAST, vulnerability management, Black Duck]
+tags: [AI, LLM, Cybersecurity, Open Source, Supply Chain, SBOM, Governance, Sovereignty, Privacy, tokens, bubble, vulnerability management, Black Duck]
 description: "Originally published in The AI Journal — Why the next chapter of AI security will be defined by tokenomics, sovereign models, and normalizing models as first–class software components"
 ---
 
