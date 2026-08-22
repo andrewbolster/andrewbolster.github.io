@@ -1,7 +1,7 @@
 ---
 title: "The AI Bubble Isn’t Bursting. Its Reflections Are."
 date: 2026-08-22T10:30:25+01:00
-slug: the-ai-bubble-isnt-bursting-its-reflections-are
+url: /2026/08/the-ai-bubble-isnt-bursting-its-reflections-are/
 aliases:
   - /2026/08/the-ai-bubble-isnt-bursting.-its-reflections-are./
 categories: [AI, Security]
