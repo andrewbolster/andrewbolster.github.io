@@ -1,6 +1,9 @@
 ---
 title: "The AI Bubble Isn’t Bursting. Its Reflections Are."
 date: 2026-08-22T10:30:25+01:00
+slug: the-ai-bubble-isnt-bursting-its-reflections-are
+aliases:
+  - /2026/08/the-ai-bubble-isnt-bursting.-its-reflections-are./
 categories: [AI, Security]
 tags: [AI, LLM, Cybersecurity, Open Source, Supply Chain, SBOM, Governance, Sovereignty, Privacy, tokens, bubble, vulnerability management, Black Duck]
 description: "Originally published in The AI Journal — Why the next chapter of AI security will be defined by tokenomics, sovereign models, and normalizing models as first–class software components"
