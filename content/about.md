@@ -47,6 +47,7 @@ A sucker for Doctor Who, Scottish and Japanese Whiskey, Craft Beer, any movies i
 * 2026
   * :speaking_head: Dr. StrangeBot: How I Learned to Stop Worrying & Love Diverse Security Data - RSA Conference 2026 - Speaker
   * :speaking_head: [Embrace AI Coding Assistants While Efficiently Managing Risk](https://www.techshowlondon.co.uk/tech-show-london-2026-programme/embrace-ai-coding-assistants-while-efficiently-managing-risk) - [Tech Show London / DevOps Live 2026](https://www.techshowlondon.co.uk/) - Speaker
+  * :fountain_pen: [The AI Bubble Isn't Bursting. Its Reflections Are.](https://aijourn.com/the-ai-bubble-isnt-bursting-its-reflections-are/) - The AI Journal - Author
   * :fountain_pen: [The Code Doesn't Care Who Wrote It: Why Context, Not AI Fear, Will Define Modern Application Security](https://devops.com/the-code-doesnt-care-who-wrote-it-why-context-not-ai-fear-will-define-modern-application-security/) - DevOps.com - Author
   * :fountain_pen: ["AI didn't invent new classes of risk. It poured fuel onto existing ones."](https://www.machine.news/ai-classes-of-risk-it-poured-fuel-onto-existing-ones/) - Machine - Author
   * :speech_balloon: [Researchers hijack popular AI agents from Anthropic, Google, and Microsoft: vendors choose to stay silent](https://cybernews.com/security/ai-agents-github-prompt-injection-pattern/) - Cybernews - Commentary
