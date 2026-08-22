@@ -6,7 +6,7 @@ tags: [AI, application security, AppSec, DevOps, LLM, tokens, bubble, code gener
 description: "Originally published on The AI Journal — Why the next chapter of AI security will be defined by tokenomics, sovereign models, and normalizing models as first–class software components"
 ---
 
-*This post was originally published on [The AI Journal[(https://aijourn.com/the-ai-bubble-isnt-bursting-its-reflections-are/) on August 19, 2026.*
+*This post was originally published on [The AI Journal](https://aijourn.com/the-ai-bubble-isnt-bursting-its-reflections-are/) on August 19, 2026.*
 
 *Why the next chapter of AI security will be defined by tokenomics, sovereign models, and normalizing models as first–class software components.* 
 
