@@ -5,7 +5,7 @@ comments: true
 date: 2012-07-20 08:10:41+00:00
 slug: the-concept-of-quality-and-my-mission
 tags:
-- Personal development
+- Personal Development
 title: The concept of Quality and my 'mission'
 ---
 

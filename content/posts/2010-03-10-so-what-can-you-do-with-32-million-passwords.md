@@ -14,7 +14,6 @@ tags:
 - Linux
 - Networking
 - QUB
-- cybersecurity
 title: So what can you do with 32 Million Passwords...
 ---
 

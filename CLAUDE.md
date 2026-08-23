@@ -95,9 +95,22 @@ Posts follow Hugo naming convention: `YYYY-MM-DD-title.md`
 - Asset files organized by year in `static/img/`
 
 ### URL Structure
-Posts use permalink pattern: `/:year/:month/:title.html`
-- Example: `/2024/02/my-post-title.html`
+Posts use the permalink pattern configured in `hugo.toml`: `/:year/:month/:title`
+- Example: `/2024/02/my-post-title/`
 - Preserves legacy Jekyll URL structure for SEO
+
+**`:title` slugifies the post's TITLE, not its filename.** Where a filename is a
+shortened version of the title, the two differ and the filename-derived URL 404s.
+Always derive an internal link from the target's `title:` front matter, and verify
+it against a built site rather than assuming a file's existence means the URL works.
+
+Punctuation in a title survives into the slug. A title ending in a full stop
+produces a trailing dot in the URL (e.g. `.../its-reflections-are./`).
+
+`slug:` does **not** override this — with a `:title` pattern Hugo never consults it.
+(Posts that set `slug:` only appear to work because their slug matches their
+title's slugified form.) To pin a URL, set `url:` in front matter, and add an
+`aliases:` entry if the old URL was already published.
 
 ### Static Assets
 - `static/img/`: Images organized by year and topic

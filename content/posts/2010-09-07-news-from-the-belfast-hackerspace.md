@@ -8,7 +8,6 @@ tags:
 - Belfast
 - Community
 - Cryptography
-- CyberSecurity
 - Cybersecurity
 - Hackerspace
 - Hacking
@@ -17,8 +16,8 @@ tags:
 - Programming
 - Technology
 - WiFi
-- charity
-- event
+- Charity
+- Event
 title: News from the Belfast Hackerspace
 ---
 

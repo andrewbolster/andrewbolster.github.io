@@ -9,7 +9,7 @@ tags:
 - Networking
 - Personal
 - Social Media
-- business
+- Business
 title: Convergence
 ---
 

@@ -12,7 +12,7 @@ tags:
 - Privacy
 - Robotics
 - Technology
-- ethics
+- Ethics
 title: Unfeeling Fire
 ---
 

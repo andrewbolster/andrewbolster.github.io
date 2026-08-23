@@ -10,7 +10,7 @@ tags:
 - Hacking
 - Networking
 - Technology
-- event
+- Event
 title: What the Hack?
 ---
 

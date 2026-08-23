@@ -10,7 +10,7 @@ tags:
 - Northern Ireland
 - Technology
 - mobile
-- r&d
+- R&D
 title: 4G and 'The Northern Ireland Problem'
 ---
 

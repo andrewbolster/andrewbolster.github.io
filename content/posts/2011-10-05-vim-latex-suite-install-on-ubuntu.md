@@ -8,7 +8,7 @@ tags:
 - Linux
 - Ubuntu
 - latex
-- package management
+- Package Management
 title: Vim Latex Suite Install on Ubuntu
 ---
 

@@ -10,7 +10,7 @@ tags:
 - Tutorial
 - WordPress
 - jQuery
-- web-design
+- Web Design
 title: Shaded Headers in Thematic
 ---
 

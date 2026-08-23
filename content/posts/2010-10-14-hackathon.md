@@ -16,7 +16,7 @@ tags:
 - Privacy
 - Programming
 - Technology
-- event
+- Event
 title: Hackathon
 ---
 

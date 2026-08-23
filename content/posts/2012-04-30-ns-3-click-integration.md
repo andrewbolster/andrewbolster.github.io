@@ -7,7 +7,7 @@ slug: ns-3-click-integration
 tags:
 - Linux
 - Simulation
-- configuration
+- Configuration
 title: NS-3 Click integration
 ---
 

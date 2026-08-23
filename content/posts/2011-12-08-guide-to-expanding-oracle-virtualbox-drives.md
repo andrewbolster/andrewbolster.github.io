@@ -7,7 +7,7 @@ slug: guide-to-expanding-oracle-virtualbox-drives
 tags:
 - Linux
 - Windows
-- virtualbox
+- VirtualBox
 - virtualisation
 title: Guide to Expanding Oracle Virtualbox Drives
 ---

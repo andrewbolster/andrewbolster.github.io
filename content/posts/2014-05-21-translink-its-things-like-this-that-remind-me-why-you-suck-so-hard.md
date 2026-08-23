@@ -6,7 +6,7 @@ tags:
 - Belfast
 - Opinion
 - Rant
-- web post
+- Web Post
 title: Translink, it's things like this that remind me why you suck so hard
 ---
 

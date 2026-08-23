@@ -11,7 +11,7 @@ tags:
 - Storage
 - USB
 - Windows
-- lenovo
+- Lenovo
 title: 'Delayed Post: How I Installed Windows 7 From USB HDD'
 ---
 

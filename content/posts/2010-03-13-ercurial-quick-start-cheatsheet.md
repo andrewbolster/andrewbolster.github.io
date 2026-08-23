@@ -11,8 +11,7 @@ tags:
 - Tutorial
 - Ubuntu
 - Version Control
-- development
-- version control
+- Development
 title: Mercurial Quick Start Cheatsheet
 ---
 

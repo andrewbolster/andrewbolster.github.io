@@ -20,7 +20,7 @@ tags:
 - QUB
 - Rant
 - Travel
-- work-life balance
+- Work-Life Balance
 title: Ringing in the New Year by seeing out the old
 ---
 

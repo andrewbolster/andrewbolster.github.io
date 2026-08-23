@@ -8,7 +8,7 @@ tags:
 - GitHub
 - Programming
 - Scala
-- mathematics
+- Mathematics
 title: Scala-Euler Problem1
 ---
 

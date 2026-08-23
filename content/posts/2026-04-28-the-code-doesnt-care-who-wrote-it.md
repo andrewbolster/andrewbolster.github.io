@@ -2,7 +2,7 @@
 title: "The Code Doesn't Care Who Wrote It: Why Context, Not AI Fear, Will Define Modern Application Security"
 date: 2026-04-28T00:00:00+00:00
 categories: [AI, Security]
-tags: [AI, application security, AppSec, DevOps, LLM, code generation, context, vibe coding, SAST, vulnerability management, Black Duck]
+tags: [AI, Application Security, AppSec, DevOps, LLM, code generation, context, vibe coding, SAST, vulnerability management, Black Duck]
 description: "Originally published on DevOps.com — why the AI authorship debate misses the real challenge in modern application security."
 ---
 

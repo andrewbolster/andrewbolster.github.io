@@ -18,7 +18,7 @@ tags:
 - UK
 - University of Liverpool
 - funding
-- maritime
+- Maritime
 title: So long and thanks for all the fish
 ---
 
