@@ -9,7 +9,7 @@ tags:
 - Embedded Systems
 - Linux
 - Storage
-- file management
+- File Management
 title: Chmod on lots of files
 ---
 

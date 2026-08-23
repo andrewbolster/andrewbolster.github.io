@@ -5,7 +5,7 @@ date: 2020-06-23 14:32:00+01:00
 tags:
 - Bash
 - Git
-- version-control
+- Version Control
 title: Merging Git Repos for Archival Purposes
 ---
 

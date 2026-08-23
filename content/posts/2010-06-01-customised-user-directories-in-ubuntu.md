@@ -12,7 +12,7 @@ tags:
 - Ubuntu
 - Configuration
 - Dropbox
-- file management
+- File Management
 title: Customised User Directories in Ubuntu
 ---
 

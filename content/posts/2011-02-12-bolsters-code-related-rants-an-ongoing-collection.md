@@ -9,7 +9,7 @@ tags:
 - Programming
 - Rant
 - Development
-- file management
+- File Management
 - Version Control
 title: Bolsters Code-Related Rants (An ongoing collection)
 ---

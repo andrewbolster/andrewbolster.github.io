@@ -11,7 +11,7 @@ tags:
 - Ubuntu
 - Windows
 - Dropbox
-- dual-boot
+- Dual Boot
 title: Ubuntu / Windows Sharing a Dropbox folder on NTFS
 ---
 

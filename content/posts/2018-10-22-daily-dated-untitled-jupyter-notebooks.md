@@ -10,7 +10,7 @@ tags:
 - Open Data
 - Python
 - Coding
-- file-management
+- File Management
 - Notebook
 title: Daily Dated Untitled Jupyter Notebooks
 ---
