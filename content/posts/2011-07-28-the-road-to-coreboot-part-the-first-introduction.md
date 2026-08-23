@@ -10,7 +10,6 @@ tags:
 - Embedded Systems
 - IRC
 - Open Source
-- embedded systems
 title: 'The Road to Coreboot, Part the First: Introduction'
 ---
 

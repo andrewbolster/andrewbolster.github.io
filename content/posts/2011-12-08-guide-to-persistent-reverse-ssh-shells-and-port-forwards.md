@@ -10,7 +10,7 @@ tags:
 - Networking
 - Ubuntu
 - port forwarding
-- ssh
+- SSH
 title: Guide to Persistent Reverse SSH Shells and Port Forwards
 ---
 

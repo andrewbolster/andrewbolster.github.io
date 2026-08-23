@@ -11,8 +11,8 @@ tags:
 - Networking
 - Raspberry Pi
 - Shell
-- remote access
-- ssh
+- Remote Access
+- SSH
 title: 'SSH Persistence Redux: Multiple sites and Crontab Laziness'
 ---
 

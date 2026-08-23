@@ -14,7 +14,7 @@ tags:
 - Ubuntu
 - VirtualBox
 - Windows
-- development
+- Development
 title: Staggering Unproductivity
 ---
 

@@ -8,7 +8,7 @@ tags:
 - EeePC
 - Linux
 - Ubuntu
-- customer service
+- Customer Service
 title: Asus EEEpc
 ---
 

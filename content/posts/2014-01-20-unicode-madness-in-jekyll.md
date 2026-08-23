@@ -4,8 +4,8 @@ cover:
 date: 2014-01-20 00:00:00+00:00
 tags:
 - Jekyll
-- blogging
-- irc
+- Blogging
+- IRC
 title: Unicode Madness in Jekyll
 ---
 

@@ -4,7 +4,7 @@ date: 2009-11-09 17:34:56+00:00
 slug: lenovo-not-so-rocking-anymore
 tags:
 - Lenovo
-- customer service
+- Customer Service
 title: Lenovo, not so rocking anymore
 ---
 

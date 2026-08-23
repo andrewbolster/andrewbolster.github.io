@@ -9,9 +9,9 @@ tags:
 - Jupyter
 - Open Data
 - Python
-- coding
+- Coding
 - file-management
-- notebook
+- Notebook
 title: Daily Dated Untitled Jupyter Notebooks
 ---
 

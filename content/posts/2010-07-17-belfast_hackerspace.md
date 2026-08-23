@@ -16,7 +16,7 @@ tags:
 - Music
 - Open Source
 - Technology
-- creativity
+- Creativity
 - social
 title: Belfast Hackerspace Anyone?
 ---

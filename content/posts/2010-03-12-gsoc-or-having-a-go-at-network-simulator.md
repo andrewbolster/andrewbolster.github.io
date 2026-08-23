@@ -16,8 +16,8 @@ tags:
 - Programming
 - Simulation
 - Ubuntu
-- configuration
-- installation
+- Configuration
+- Installation
 - virtualisation
 title: GSOC or Having a go at Network Simulator
 ---

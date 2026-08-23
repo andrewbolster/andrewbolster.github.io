@@ -12,7 +12,7 @@ tags:
 - Speaking
 - Technology
 - social
-- tech
+- Tech
 title: Great HOPEs
 ---
 

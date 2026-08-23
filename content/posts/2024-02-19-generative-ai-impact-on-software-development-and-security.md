@@ -13,7 +13,6 @@ tags:
 - LLM
 - Machine Learning
 - Software Development
-- cybersecurity
 title: 'Generative AI: Impact on Software Development and Security'
 ---
 

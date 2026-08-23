@@ -6,7 +6,7 @@ date: 2011-02-23 09:00:53+00:00
 slug: stuff-ive-found-interesting-in-the-past-month-23022011
 tags:
 - Social Media
-- entertainment
+- Entertainment
 title: Stuff I've found interesting in the past month - 23/02/2011
 ---
 

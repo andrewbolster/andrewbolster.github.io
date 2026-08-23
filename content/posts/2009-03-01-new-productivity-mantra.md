@@ -9,7 +9,7 @@ tags:
 - Education
 - Networking
 - Productivity
-- work-life balance
+- Work-Life Balance
 title: New Productivity Mantra
 ---
 

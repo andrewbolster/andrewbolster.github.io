@@ -9,7 +9,7 @@ tags:
 - Networking
 - QUB
 - WiFi
-- vpn
+- VPN
 title: IT @ QUB are moving forward
 ---
 

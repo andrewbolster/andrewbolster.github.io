@@ -12,7 +12,6 @@ tags:
 - Programming
 - Python
 - Ubuntu
-- irc
 title: Python + irclib for IRC Status Updates
 ---
 

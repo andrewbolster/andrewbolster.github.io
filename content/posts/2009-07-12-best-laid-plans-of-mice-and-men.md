@@ -16,7 +16,7 @@ tags:
 - Storage
 - VPN
 - WiFi
-- webcam
+- Webcam
 title: Best Laid Plans of Mice and Men
 ---
 

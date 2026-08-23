@@ -10,8 +10,7 @@ tags:
 - Lenovo
 - Storage
 - Technology
-- customer service
-- lenovo
+- Customer Service
 title: 'Delayed Post: LENOVO ROCKS'
 ---
 

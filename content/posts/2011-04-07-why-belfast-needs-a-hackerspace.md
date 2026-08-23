@@ -13,7 +13,7 @@ tags:
 - Personal
 - Privacy
 - Technology
-- entrepreneurship
+- Entrepreneurship
 title: Why Belfast Needs a Hackerspace
 ---
 

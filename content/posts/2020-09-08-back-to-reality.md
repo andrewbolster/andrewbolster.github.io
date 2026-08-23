@@ -10,7 +10,7 @@ tags:
 - Podcasts
 - Technology
 - Travel
-- blogging
+- Blogging
 - events
 title: Back to reality
 ---

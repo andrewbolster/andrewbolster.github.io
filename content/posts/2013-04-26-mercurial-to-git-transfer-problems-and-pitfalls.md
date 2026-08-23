@@ -9,7 +9,6 @@ tags:
 - Git
 - GitHub
 - Version Control
-- version control
 title: Mercurial to Git transfer; problems, and pitfalls.
 ---
 

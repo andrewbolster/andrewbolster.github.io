@@ -13,7 +13,7 @@ tags:
 - Rant
 - Social Media
 - Technology
-- charity
+- Charity
 - funding
 title: Response to TOG's Third Eviction
 ---

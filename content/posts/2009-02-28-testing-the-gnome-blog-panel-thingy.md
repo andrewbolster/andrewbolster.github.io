@@ -7,7 +7,7 @@ slug: testing-the-gnome-blog-panel-thingy
 tags:
 - Desktop
 - Laptop
-- installation
+- Installation
 title: Testing The Gnome Blog Panel Thingy
 ---
 

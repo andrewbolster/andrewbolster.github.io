@@ -9,7 +9,7 @@ tags:
 - Marketing
 - Social Media
 - advertising
-- seo
+- SEO
 title: Online Media Marketing
 ---
 

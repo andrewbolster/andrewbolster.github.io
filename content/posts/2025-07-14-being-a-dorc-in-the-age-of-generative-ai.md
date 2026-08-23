@@ -12,8 +12,8 @@ tags:
 - AI
 - LLM
 - Machine Learning
-- ethics
-- software development
+- Ethics
+- Software Development
 title: Being a DORC in the age of Generative AI
 ---
 

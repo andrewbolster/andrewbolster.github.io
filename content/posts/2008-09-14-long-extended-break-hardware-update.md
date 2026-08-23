@@ -11,7 +11,7 @@ tags:
 - Perl
 - Router
 - Ubuntu
-- remote access
+- Remote Access
 title: 'Long Extended Break: Hardware Update'
 ---
 

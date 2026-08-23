@@ -7,8 +7,8 @@ tags:
 - Python
 - Statistics
 - UK
-- data visualization
-- notebook
+- Data Visualization
+- Notebook
 title: Data Wrangling for UK Internet Usage
 ---
 

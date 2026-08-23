@@ -7,7 +7,7 @@ slug: getting-skype-to-work-with-weird-webcams
 tags:
 - Linux
 - Ubuntu
-- webcam
+- Webcam
 title: Getting Skype to work with weird webcams.
 ---
 

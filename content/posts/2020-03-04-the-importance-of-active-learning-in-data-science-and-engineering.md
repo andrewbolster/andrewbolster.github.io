@@ -6,7 +6,7 @@ tags:
 - Data Science
 - Machine Learning
 - STEM
-- cybersecurity
+- Cybersecurity
 - professional development
 title: The Importance of Active Learning in Data Science and Engineering
 ---

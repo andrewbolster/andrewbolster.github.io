@@ -13,8 +13,8 @@ tags:
 - QUB
 - STEM
 - Technology
-- mathematics
-- science
+- Mathematics
+- Science
 title: Abracadabra - NI Assembly's Plans to have 60% more PhD Researchers
 ---
 

@@ -6,7 +6,7 @@ date: 2011-10-19 08:58:30+00:00
 slug: mendeley-repeated-citations-in-bibtex-library
 tags:
 - latex
-- mendeley
+- Mendeley
 title: Mendeley Repeated Citations in BibTeX Library
 ---
 

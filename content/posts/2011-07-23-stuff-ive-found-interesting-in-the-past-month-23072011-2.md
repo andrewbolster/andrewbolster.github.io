@@ -7,7 +7,7 @@ slug: stuff-ive-found-interesting-in-the-past-month-23072011-2
 tags:
 - Music
 - Star Wars
-- comedy
+- Comedy
 title: Stuff I've found interesting in the past month - 23/07/2011
 ---
 

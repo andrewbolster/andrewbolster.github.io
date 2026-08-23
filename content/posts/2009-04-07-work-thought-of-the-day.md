@@ -5,7 +5,7 @@ comments: false
 date: 2009-04-07 11:31:57+00:00
 slug: work-thought-of-the-day
 tags:
-- Web post
+- Web Post
 title: Work Thought Of The Day
 ---
 

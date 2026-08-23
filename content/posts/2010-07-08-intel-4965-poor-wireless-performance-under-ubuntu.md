@@ -9,7 +9,7 @@ tags:
 - Networking
 - Ubuntu
 - WiFi
-- lenovo
+- Lenovo
 title: 'Intel 4965: Poor wireless performance under Ubuntu'
 ---
 

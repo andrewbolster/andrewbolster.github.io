@@ -10,7 +10,7 @@ tags:
 - Social Media
 - USB
 - Ubuntu
-- irc
+- IRC
 title: 'K8055 USB + Python + Twitter + IRC: Space Indicator as a OS Service'
 ---
 

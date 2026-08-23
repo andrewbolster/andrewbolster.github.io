@@ -10,8 +10,8 @@ tags:
 - Linux
 - Shell
 - Ubuntu
-- configuration
-- dropbox
+- Configuration
+- Dropbox
 - file management
 title: Customised User Directories in Ubuntu
 ---

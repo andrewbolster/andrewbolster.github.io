@@ -7,7 +7,7 @@ slug: ubuntu-boosting-blog-hits
 tags:
 - Google
 - Ubuntu
-- seo
+- SEO
 title: Ubuntu Boosting Blog Hits
 ---
 

@@ -9,8 +9,8 @@ tags:
 - Open Source
 - Personal
 - Programming
-- blogging
-- freelancing
+- Blogging
+- Freelancing
 title: New Years Resolutions
 ---
 

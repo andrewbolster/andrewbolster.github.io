@@ -6,7 +6,7 @@ date: 2011-10-26 13:45:59+00:00
 slug: unicode-characters-in-mendeley-bibliography-breaking-latex
 tags:
 - latex
-- mendeley
+- Mendeley
 title: Unicode Characters in Mendeley Bibliography Breaking Latex?
 ---
 

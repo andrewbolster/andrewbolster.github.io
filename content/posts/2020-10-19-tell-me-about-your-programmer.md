@@ -9,7 +9,7 @@ tags:
 - Science Fiction
 - Software Engineering
 - Technology
-- cybersecurity
+- Cybersecurity
 title: Tell me about your Programmer - Robopsychologist and other careers that don't
   exist (yet)
 typora-root-url: C:\Users\me\Documents\GitHub\andrewbolster.github.io\
