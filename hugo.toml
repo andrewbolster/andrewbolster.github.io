@@ -1,5 +1,5 @@
 baseURL = "https://andrewbolster.info/"
-languageCode = "en-gb"
+locale = "en-gb"
 title = "Of Penguins and Coffee"
 theme = "PaperMod"
 
@@ -164,17 +164,31 @@ canonifyURLs = false
 
 # Output formats
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "llms"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML"]
   term = ["HTML"]
+  page = ["HTML", "markdown"]
 
-# RSS/Atom feed settings
+# RSS/Atom feed settings, plus a plain-Markdown sibling for every page
+# (served as e.g. /2024/02/my-post/index.md) and a site-wide /llms.txt index,
+# per https://acceptmarkdown.com/. The llms.txt template ships with PaperMod.
 [outputFormats]
   [outputFormats.RSS]
     mediaType = "application/rss+xml"
     baseName = "feed"
     suffixes = ["rss", "xml"]
+  [outputFormats.markdown]
+    name = "markdown"
+    baseName = "index"
+    mediaType = "text/markdown"
+    isPlainText = true
+  [outputFormats.llms]
+    name = "llms"
+    baseName = "llms"
+    mediaType = "text/plain"
+    isPlainText = true
+    notAlternative = true
 
 # Sitemap configuration
 [sitemap]
