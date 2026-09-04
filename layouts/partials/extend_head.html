@@ -11,3 +11,35 @@
 <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
 <link rel="icon" type="image/png" sizes="512x512" href="/android-chrome-512x512.png">
+
+{{/*
+  Theme-aware syntax highlighting. PaperMod bundles a single static
+  chroma-styles.css into its core.css (see head.html), so code blocks
+  don't follow the light/dark toggle. These two generated stylesheets
+  are emitted later in <head>, so plain CSS cascade (equal specificity,
+  later wins; the dark stylesheet's two-class selector always wins over
+  the bundled single-class one when active) overrides that bundled file
+  without needing to touch/override any theme partial.
+*/}}
+{{- $chromaLight := css.ChromaStyles (dict "targetPath" "css/chroma-light.css" "style" "github" "mode" "light") }}
+{{- $chromaDark := css.ChromaStyles (dict "targetPath" "css/chroma-dark.css" "style" "monokai" "mode" "dark" "modeSelector" true "classDark" "chroma-dark") }}
+<link rel="stylesheet" href="{{ $chromaLight.RelPermalink }}">
+<link rel="stylesheet" href="{{ $chromaDark.RelPermalink }}">
+<script>
+  (function () {
+    // PaperMod's own theme-toggle script (in head.html/footer.html) sets
+    // data-theme on <html> at load and on click; mirror it onto a class so
+    // the dark chroma stylesheet above (scoped via modeSelector) can react
+    // to it, since that only supports class-based scoping. A
+    // MutationObserver avoids any dependency on script/listener ordering.
+    var html = document.documentElement;
+    function syncChromaTheme() {
+      html.classList.toggle("chroma-dark", html.dataset.theme === "dark");
+    }
+    syncChromaTheme();
+    new MutationObserver(syncChromaTheme).observe(html, {
+      attributes: true,
+      attributeFilter: ["data-theme"],
+    });
+  })();
+</script>
