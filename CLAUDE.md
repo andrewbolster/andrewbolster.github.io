@@ -174,10 +174,17 @@ Modern Hugo versions (0.146.0+) require GLIBC 2.32+. For Netlify deployment:
 - Use `[images] build = "ubuntu-22.04"` in `netlify.toml` for GLIBC 2.35
 - Older Netlify images (Ubuntu 20.04/Focal) have GLIBC 2.31 which is insufficient
 
+**This repo is pinned to Hugo v0.165.0** — set in three separate places that must be kept in
+sync: `netlify.toml` (`HUGO_VERSION`), `.github/workflows/ci.yml`, and
+`.github/workflows/hugo.yml` (the GitHub Pages deploy, a second, independent deployment
+pipeline alongside Netlify). Bumping the version in only one of these caused a real CI
+failure once already — check `grep -rn HUGO_VERSION` across the repo before assuming a
+version bump is complete.
+
 ### Building Hugo from Source
-If pre-built binaries aren't available, build from source with Go:
+If pre-built binaries aren't available, build from source with Go (match the pinned version above):
 ```bash
-cd /tmp && git clone --depth 1 --branch v0.146.0 https://github.com/gohugoio/hugo.git
+cd /tmp && git clone --depth 1 --branch v0.165.0 https://github.com/gohugoio/hugo.git
 cd hugo && GOPROXY=direct CGO_ENABLED=1 go build -tags extended -o hugo .
 ```
 

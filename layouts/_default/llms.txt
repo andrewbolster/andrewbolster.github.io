@@ -1,0 +1,59 @@
+{{- /* Recursive printer for sections */ -}}
+{{- define "llms_print_section" -}}
+{{- $section := .section -}}
+{{- $depth := .depth -}}
+{{- if or (gt (len $section.RegularPages) 0) (gt (len $section.Sections) 0) -}}
+{{- $hashes := strings.Repeat (add $depth 1) "#" }}
+
+{{ printf "%s %s" $hashes $section.Title }}
+
+{{- /* Pages in this section */ -}}
+{{- range $p := $section.RegularPages }}
+  {{- if and (not $p.Params.searchHidden) (ne $p.Layout `archives`) (ne $p.Layout `search`) }}
+- [{{ $p.Title }}]({{ with $p.OutputFormats.Get "markdown" }}{{ .Permalink }}{{ else }}{{ $p.Permalink }}{{ end }})
+  {{- end -}}
+{{- end -}}
+
+{{- /* Recurse into subsections */ -}}
+{{- range $s := $section.Sections -}}
+{{- template "llms_print_section" (dict "section" $s "depth" (add $depth 1)) -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+{{- /*
+  Overrides the theme's llms.txt (themes/PaperMod/layouts/_default/llms.txt)
+  to link each page's plain-Markdown alternate (its "markdown" output format,
+  e.g. /2024/02/my-post/index.md) rather than the HTML page, since an
+  llms.txt index exists specifically to hand LLM readers structured content
+  cheaply. Falls back to the regular permalink for any page kind that
+  doesn't have a markdown output (page = ["HTML", "markdown"] in hugo.toml
+  covers ordinary pages/posts, so in practice this only matters if that
+  ever changes).
+
+  The URL is computed inline inside the "- [...]" line (not as a preceding
+  {{ $url := ... }} statement) deliberately: an earlier version put it on
+  its own trimmed line above, and its leading {{- trim marker ate the
+  newline that used to separate each list entry, collapsing the whole
+  output onto one line. Keeping it inline leaves the original template's
+  newline handling completely undisturbed.
+*/ -}}
+
+{{- /* Main template starts here */ -}}
+# {{ site.Title }}
+
+{{- /* Pages not in any section */ -}}
+{{- $orphans := where site.RegularPages "Section" "" -}}
+{{ if gt (len $orphans) 0 }}
+
+{{- range $p := $orphans -}}
+  {{ if and (not $p.Params.searchHidden) (ne $p.Layout `archives`) (ne $p.Layout `search`) (not $p.IsHome) }}
+- [{{ $p.Title }}]({{ with $p.OutputFormats.Get "markdown" }}{{ .Permalink }}{{ else }}{{ $p.Permalink }}{{ end }})
+  {{- end -}}
+{{- end -}}
+
+{{- end -}}
+
+{{- range site.Sections -}}
+{{- template "llms_print_section" (dict "section" . "depth" 1) -}}
+{{- end }}
