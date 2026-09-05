@@ -9,7 +9,9 @@ Senior R&D Manager @ [Black Duck Software](https://blackduck.com/), driving data
 
 ## Upcoming
 
-* Attending [Gartner Security & Risk Management Summit 2026](https://www.gartner.com/en/conferences/emea/security-risk-management-uk)
+* Organising [BSides Belfast 2026](https://bsidesbelfast.org/) - September 10, Belfast
+* Attending [Gartner Security & Risk Management Summit 2026](https://www.gartner.com/en/conferences/emea/security-risk-management-uk) - September 22-24, London
+* Presenting at Black Duck Sales Kickoff - November 16-20, Carlsbad, California
 
 ## Wants
 
