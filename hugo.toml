@@ -165,7 +165,7 @@ canonifyURLs = false
 # Output formats
 [outputs]
   home = ["HTML", "RSS", "JSON", "llms"]
-  section = ["HTML", "RSS"]
+  section = ["HTML", "RSS", "markdown"]
   taxonomy = ["HTML"]
   term = ["HTML"]
   page = ["HTML", "markdown"]
