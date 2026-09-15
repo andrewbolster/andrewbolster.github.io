@@ -290,8 +290,15 @@ When updating the "Engagements and Publications" section in about.md, follow thi
 **Additional Notes**:
 - Use multiple emojis when appropriate (e.g., `:speech_balloon: :movie_camera:` for video interviews)
 - Include venue context with `@` when relevant (e.g., "Publication @ Event")
-- By default, new entries are added to the top of the year, but can be moved around by the user based on impact and grouping preferences
 - Only include published/confirmed engagements with verifiable links
+
+**Ordering within a year**:
+Entries within each year are ordered, roughly:
+1. **By importance/impact first** — major conference talks and authored pieces before brief commentary quotes or smaller outlets.
+2. **Then grouped by publisher/venue** — entries from or about the same publication or event kept together rather than interleaved.
+3. **Then chronologically** within each group.
+
+A new entry should be placed where it fits this ordering, not simply prepended to the year. When impact or grouping is ambiguous, ask the user rather than defaulting to the top.
 
 ## Git Commit Attribution - CRITICAL OVERRIDE
 
